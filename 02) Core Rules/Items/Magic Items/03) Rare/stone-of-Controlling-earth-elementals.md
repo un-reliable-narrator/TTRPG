@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- src/5e/dmg
+- item/rarity/rare
+aliases:
+- "Stone of Controlling Earth Elementals"
+---
+# Stone of Controlling Earth Elementals
+*Wondrous item, rare*  
+![](items/XDMG/Stone of Controlling Earth Elementals.webp#right)
+
+
+While touching this 5-pound stone to the ground, you can take a [Magic](Magic.md) action to summon an [Earth Elemental](earth-Elemental.md). The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your [Initiative](Initiative.md) count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [Bonus Action](bonus-action.md). The stone can't be used this way again until the next dawn.
+
+*Source: Dungeon Master's Guide (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

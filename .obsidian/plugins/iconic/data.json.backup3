@@ -1,0 +1,71 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "maxBackups": 5,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Campaigns/Strahd v. Morgenstern/Art of Barovia (Gallery)": {
+      "icon": "🎨",
+      "unsynced": [
+        "37a5fa6aaf1c35b2"
+      ],
+      "color": "gray"
+    },
+    "Campaigns/Strahd v. Morgenstern/Eleazar Savvas.md": {
+      "icon": "👿",
+      "color": "red"
+    },
+    "Campaigns/Strahd v. Morgenstern/Kellan.md": {
+      "icon": "🪄",
+      "color": "purple"
+    },
+    "Campaigns/Strahd v. Morgenstern/Personen.md": {
+      "icon": "lucide-contact",
+      "color": "gray"
+    },
+    "Campaigns/Strahd v. Morgenstern/Rowan.md": {
+      "icon": "🐦‍⬛",
+      "color": "gray"
+    },
+    "Campaigns/Strahd v. Morgenstern/Strahd Von Zarovich/Strahd's Hoard.md": {
+      "icon": "💰",
+      "color": "gray"
+    },
+    "Plot Hooks.md": {
+      "icon": "🪝",
+      "color": "yellow"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

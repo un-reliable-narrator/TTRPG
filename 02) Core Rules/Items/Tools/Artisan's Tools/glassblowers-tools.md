@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- src/5e/xphb
+- item/gear/artisans-tools
+- item/rarity/none
+aliases:
+- "Glassblower's Tools"
+---
+# Glassblower's Tools
+*Artisan's tools*  
+
+
+- **Cost**: 30 gp
+- **Weight**: 5.0 lbs.
+
+- **Ability.** Intelligence  
+- **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
+- **Craft.** [Glass Bottle](glass-Bottle.md), [Magnifying Glass](magnifying-Glass.md), [spyglass](spyglass.md), [Vial](Vial.md)  
+
+*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

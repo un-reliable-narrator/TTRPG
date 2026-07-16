@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>D&D 5.5e Character Sheet</title>
+<style>
+  :root {
+    --parchment: #f5e6c8;
+    --parchment-dark: #e8d5a3;
+    --ink: #2c1810;
+    --ink-light: #5a3825;
+    --red: #8b1a1a;
+    --border: #8b6914;
+    --gold: #c9a227;
+    --shadow: rgba(0,0,0,0.15);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #3a2a1a;
+    font-family: 'Georgia', serif;
+    color: var(--ink);
+    padding: 20px;
+    min-height: 100vh;
+  }
+  .sheet {
+    background: var(--parchment);
+    max-width: 1100px;
+    margin: 0 auto;
+    border: 3px solid var(--border);
+    border-radius: 4px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    padding: 20px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='400' height='400' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+  }
+  h1.title {
+    text-align: center;
+    font-size: 1.6em;
+    color: var(--red);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    border-bottom: 2px solid var(--border);
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+  .section-title {
+    font-size: 0.65em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--red);
+    text-align: center;
+    background: var(--parchment-dark);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 2px 6px;
+    margin-bottom: 6px;
+  }
+  input[type="text"], input[type="number"], select, textarea {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--border);
+    font-family: 'Georgia', serif;
+    color: var(--ink);
+    font-size: 0.85em;
+    width: 100%;
+    padding: 2px 4px;
+    outline: none;
+  }
+  input[type="number"] { text-align: center; }
+  textarea { resize: vertical; border: 1px solid var(--border); border-radius: 2px; padding: 4px; font-size: 0.78em; }
+  select { cursor: pointer; }
+  label.field-label {
+    font-size: 0.58em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--ink-light);
+    display: block;
+    margin-top: 6px;
+  }
+  .box {
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 6px 8px;
+    background: rgba(255,255,255,0.2);
+    margin-bottom: 8px;
+  }
+  /* GRID */
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
+  .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+  .grid-6 { display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; }
+  .main-grid { display: grid; grid-template-columns: 180px 1fr; gap: 12px; }
+  .right-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+
+  /* HEADER */
+  .header-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  /* ABILITY SCORES */
+  .ability-score {
+    border: 2px solid var(--border);
+    border-radius: 4px;
+    text-align: center;
+    padding: 6px 4px;
+    background: rgba(255,255,255,0.25);
+  }
+  .ability-name {
+    font-size: 0.6em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--red);
+    font-weight: bold;
+  }
+  .ability-score input[type="number"] {
+    font-size: 1.5em;
+    font-weight: bold;
+    width: 100%;
+    border-bottom: 1px solid var(--border);
+    margin: 3px 0;
+  }
+  .mod-display {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: var(--red);
+    min-height: 22px;
+  }
+  .mod-label { font-size: 0.55em; color: var(--ink-light); text-transform: uppercase; }
+
+  /* SAVES & SKILLS */
+  .skill-row {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.75em;
+    margin-bottom: 3px;
+  }
+  .skill-row input[type="checkbox"] { cursor: pointer; accent-color: var(--red); flex-shrink: 0; }
+  .skill-val {
+    font-weight: bold;
+    min-width: 22px;
+    text-align: right;
+    color: var(--red);
+    font-size: 0.9em;
+  }
+  .skill-name { flex: 1; }
+  .skill-attr { color: var(--ink-light); font-size: 0.85em; }
+
+  /* COMBAT STATS */
+  .combat-stat {
+    text-align: center;
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 4px;
+    background: rgba(255,255,255,0.2);
+  }
+  .combat-stat input { font-size: 1.2em; font-weight: bold; }
+  .combat-label { font-size: 0.55em; text-transform: uppercase; letter-spacing: 1px; color: var(--ink-light); margin-top: 2px; }
+
+  /* HP */
+  .hp-box { border: 2px solid var(--red); border-radius: 4px; padding: 6px; text-align: center; background: rgba(139,26,26,0.05); }
+  .hp-box input { font-size: 1.3em; font-weight: bold; color: var(--red); }
+
+  /* DEATH SAVES */
+  .death-saves { display: flex; gap: 5px; align-items: center; flex-wrap: wrap; }
+  .death-saves input[type="checkbox"] { accent-color: var(--red); width: 14px; height: 14px; }
+
+  /* ATTACKS TABLE */
+  table { width: 100%; border-collapse: collapse; font-size: 0.78em; }
+  th { background: var(--parchment-dark); border: 1px solid var(--border); padding: 4px 6px; font-size: 0.7em; text-transform: uppercase; letter-spacing: 1px; color: var(--red); }
+  td { border: 1px solid var(--border); padding: 3px 5px; }
+  td input { font-size: 0.9em; }
+
+  /* CURRENCY */
+  .currency-box { text-align: center; border: 1px solid var(--gold); border-radius: 3px; padding: 4px; background: rgba(201,162,39,0.08); }
+  .currency-box input { font-size: 1.1em; font-weight: bold; color: var(--ink); }
+  .currency-label { font-size: 0.6em; text-transform: uppercase; color: var(--gold); font-weight: bold; }
+
+  /* SPELL SLOTS */
+  .spell-level-row { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; font-size: 0.75em; }
+  .spell-slots { display: flex; gap: 3px; }
+  .spell-slots input[type="checkbox"] { accent-color: var(--red); width: 13px; height: 13px; }
+  .spell-lvl-label { min-width: 55px; font-size: 0.85em; }
+
+  /* INSPIRATION */
+  .insp-box { display: flex; align-items: center; gap: 6px; font-size: 0.8em; }
+  .insp-box input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--gold); cursor: pointer; }
+
+  /* PRINT */
+  @media print {
+    body { background: white; padding: 0; }
+    .sheet { box-shadow: none; border: none; }
+    button { display: none; }
+  }
+
+  .print-btn {
+    display: block;
+    margin: 14px auto 0;
+    background: var(--red);
+    color: var(--parchment);
+    border: none;
+    border-radius: 3px;
+    padding: 8px 28px;
+    font-family: 'Georgia', serif;
+    font-size: 0.9em;
+    cursor: pointer;
+    letter-spacing: 1px;
+  }
+  .print-btn:hover { background: var(--ink-light); }
+  .divider { border: none; border-top: 1px solid var(--border); margin: 10px 0; }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <h1 class="title">⚔ D&D 5.5e Character Sheet ⚔</h1>
+
+  <!-- HEADER INFO -->
+  <div class="header-grid">
+    <div>
+      <label class="field-label">Character Name</label>
+      <input type="text" id="charName" placeholder="Aric Stonemantle">
+    </div>
+    <div>
+      <label class="field-label">Class</label>
+      <select id="charClass" onchange="updateProfBonus()">
+        <option value="">— Class —</option>
+        <option>Artificer</option><option>Barbarian</option><option>Bard</option>
+        <option>Cleric</option><option>Druid</option><option>Fighter</option>
+        <option>Monk</option><option>Paladin</option><option>Ranger</option>
+        <option>Rogue</option><option>Sorcerer</option><option>Warlock</option><option>Wizard</option>
+      </select>
+    </div>
+    <div>
+      <label class="field-label">Level</label>
+      <input type="number" id="charLevel" min="1" max="20" value="1" oninput="updateProfBonus(); updateAllSkills();">
+    </div>
+    <div>
+      <label class="field-label">Race</label>
+      <select>
+        <option value="">— Race —</option>
+        <option>Dragonborn</option><option>Dwarf</option><option>Elf</option>
+        <option>Gnome</option><option>Half-Elf</option><option>Half-Orc</option>
+        <option>Halfling</option><option>Human</option><option>Tiefling</option><option>Other</option>
+      </select>
+    </div>
+    <div>
+      <label class="field-label">Background</label>
+      <select>
+        <option value="">— Background —</option>
+        <option>Acolyte</option><option>Charlatan</option><option>Criminal</option>
+        <option>Entertainer</option><option>Folk Hero</option><option>Guild Artisan</option>
+        <option>Hermit</option><option>Noble</option><option>Outlander</option>
+        <option>Sage</option><option>Sailor</option><option>Soldier</option><option>Urchin</option>
+      </select>
+    </div>
+    <div>
+      <label class="field-label">Alignment</label>
+      <select>
+        <option value="">— Alignment —</option>
+        <option>Lawful Good</option><option>Neutral Good</option><option>Chaotic Good</option>
+        <option>Lawful Neutral</option><option>True Neutral</option><option>Chaotic Neutral</option>
+        <option>Lawful Evil</option><option>Neutral Evil</option><option>Chaotic Evil</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="main-grid">
+    <!-- LEFT: ABILITY SCORES -->
+    <div>
+      <div class="section-title">Ability Scores</div>
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:6px; margin-bottom:10px;">
+        <div class="ability-score">
+          <div class="ability-name">STR</div>
+          <input type="number" id="str" min="1" max="30" value="10" oninput="updateAll()">
+          <div class="mod-display" id="strMod">+0</div>
+          <div class="mod-label">Modifier</div>
+        </div>
+        <div class="ability-score">
+          <div class="ability-name">DEX</div>
+          <input type="number" id="dex" min="1" max="30" value="10" oninput="updateAll()">
+          <div class="mod-display" id="dexMod">+0</div>
+          <div class="mod-label">Modifier</div>
+        </div>
+        <div class="ability-score">
+          <div class="ability-name">CON</div>
+          <input type="number" id="con" min="1" max="30" value="10" oninput="updateAll()">
+          <div class="mod-display" id="conMod">+0</div>
+          <div class="mod-label">Modifier</div>
+        </div>
+        <div class="ability-score">
+          <div class="ability-name">INT</div>
+          <input type="number" id="int" min="1" max="30" value="10" oninput="updateAll()">
+          <div class="mod-display" id="intMod">+0</div>
+          <div class="mod-label">Modifier</div>
+        </div>
+        <div class="ability-score">
+          <div class="ability-name">WIS</div>
+          <input type="number" id="wis" min="1" max="30" value="10" oninput="updateAll()">
+          <div class="mod-display" id="wisMod">+0</div>
+          <div class="mod-label">Modifier</div>
+        </div>
+        <div class="ability-score">
+          <div class="ability-name">CHA</div>
+          <input type="number" id="cha" min="1" max="30" value="10" oninput="updateAll()">
+          <div class="mod-display" id="chaMod">+0</div>
+          <div class="mod-label">Modifier</div>
+        </div>
+      </div>
+
+      <!-- PROF BONUS & INSPIRATION -->
+      <div class="box" style="margin-bottom:8px;">
+        <div class="grid-2">
+          <div style="text-align:center;">
+            <div class="section-title">Prof. Bonus</div>
+            <div id="profBonusDisplay" style="font-size:1.4em;font-weight:bold;color:var(--red);">+2</div>
+          </div>
+          <div>
+            <div class="section-title">Inspiration</div>
+            <div class="insp-box" style="justify-content:center;margin-top:4px;">
+              <input type="checkbox" id="inspiration">
+              <label for="inspiration">Inspired</label>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- PASSIVE PERCEPTION -->
+      <div class="box" style="text-align:center; margin-bottom:8px;">
+        <div class="section-title">Passive Perception</div>
+        <div id="passivePerc" style="font-size:1.3em;font-weight:bold;color:var(--red);">10</div>
+      </div>
+
+      <!-- INITIATIVE & SPEED -->
+      <div class="grid-2" style="margin-bottom:8px;">
+        <div class="combat-stat">
+          <div id="initiative" style="font-size:1.2em;font-weight:bold;">+0</div>
+          <div class="combat-label">Initiative</div>
+        </div>
+        <div class="combat-stat">
+          <input type="number" value="30" style="font-size:1.2em;font-weight:bold;width:100%;">
+          <div class="combat-label">Speed (ft)</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- RIGHT SIDE -->
+    <div>
+      <!-- COMBAT ROW -->
+      <div class="section-title">Combat</div>
+      <div style="display:grid; grid-template-columns:repeat(5,1fr); gap:6px; margin-bottom:10px;">
+        <div class="combat-stat">
+          <input type="number" id="ac" value="10">
+          <div class="combat-label">Armor Class</div>
+        </div>
+        <div class="hp-box">
+          <input type="number" id="hpMax" placeholder="Max" oninput="syncHP()">
+          <div class="combat-label">HP Max</div>
+        </div>
+        <div class="hp-box">
+          <input type="number" id="hpCur" placeholder="Cur">
+          <div class="combat-label">HP Current</div>
+        </div>
+        <div class="hp-box">
+          <input type="number" id="hpTemp" placeholder="Temp">
+          <div class="combat-label">HP Temp</div>
+        </div>
+        <div class="combat-stat">
+          <input type="text" placeholder="1d8" style="font-size:1em;font-weight:bold;">
+          <div class="combat-label">Hit Dice</div>
+        </div>
+      </div>
+
+      <!-- DEATH SAVES -->
+      <div class="box" style="margin-bottom:8px;">
+        <div class="grid-2">
+          <div>
+            <div style="font-size:0.65em;text-transform:uppercase;color:var(--red);margin-bottom:4px;">Death Save Successes</div>
+            <div class="death-saves">
+              <input type="checkbox"><input type="checkbox"><input type="checkbox">
+            </div>
+          </div>
+          <div>
+            <div style="font-size:0.65em;text-transform:uppercase;color:var(--red);margin-bottom:4px;">Death Save Failures</div>
+            <div class="death-saves">
+              <input type="checkbox"><input type="checkbox"><input type="checkbox">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SAVES & SKILLS SIDE BY SIDE -->
+      <div class="grid-2" style="margin-bottom:10px;">
+        <!-- SAVING THROWS -->
+        <div class="box">
+          <div class="section-title">Saving Throws</div>
+          <div id="saves"></div>
+        </div>
+        <!-- SKILLS (first half) -->
+        <div class="box">
+          <div class="section-title">Skills (A–M)</div>
+          <div id="skills1"></div>
+        </div>
+      </div>
+      <div class="box" style="margin-bottom:10px;">
+        <div class="section-title">Skills (N–Z)</div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:0 12px;" id="skills2"></div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- ATTACKS -->
+  <div class="section-title">Attacks & Spellcasting</div>
+  <table style="margin-bottom:10px;">
+    <thead><tr><th>Name</th><th>Attack Bonus</th><th>Damage / Type</th><th>Range</th><th>Notes</th></tr></thead>
+    <tbody id="attacksBody"></tbody>
+  </table>
+  <button onclick="addAttack()" style="font-size:0.75em;background:var(--parchment-dark);border:1px solid var(--border);padding:3px 10px;cursor:pointer;border-radius:2px;margin-bottom:10px;">+ Add Attack</button>
+
+  <hr class="divider">
+
+  <!-- EQUIPMENT & CURRENCY -->
+  <div class="grid-2" style="margin-bottom:10px;">
+    <div>
+      <div class="section-title">Equipment</div>
+      <textarea rows="5" placeholder="List your equipment here..."></textarea>
+    </div>
+    <div>
+      <div class="section-title">Currency</div>
+      <div class="grid-5" style="display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin-top:4px;">
+        <div class="currency-box"><input type="number" value="0" min="0"><div class="currency-label">CP</div></div>
+        <div class="currency-box"><input type="number" value="0" min="0"><div class="currency-label">SP</div></div>
+        <div class="currency-box"><input type="number" value="0" min="0"><div class="currency-label">EP</div></div>
+        <div class="currency-box"><input type="number" value="0" min="0"><div class="currency-label">GP</div></div>
+        <div class="currency-box"><input type="number" value="0" min="0"><div class="currency-label">PP</div></div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- SPELLCASTING -->
+  <div class="section-title">Spellcasting</div>
+  <div class="grid-3" style="margin-bottom:8px;">
+    <div><label class="field-label">Spellcasting Class</label><input type="text" placeholder="e.g. Wizard"></div>
+    <div><label class="field-label">Spellcasting Ability</label>
+      <select><option>INT</option><option>WIS</option><option>CHA</option></select>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;">
+      <div class="combat-stat"><input type="number" value="0"><div class="combat-label">Spell Save DC</div></div>
+      <div class="combat-stat"><input type="number" value="0"><div class="combat-label">Spell Atk Bonus</div></div>
+    </div>
+  </div>
+  <div class="box" style="margin-bottom:10px;">
+    <div style="font-size:0.65em;text-transform:uppercase;color:var(--red);margin-bottom:6px;">Spell Slots</div>
+    <div id="spellSlots"></div>
+  </div>
+  <div><label class="field-label">Spell List / Prepared Spells</label>
+    <textarea rows="4" placeholder="List your spells here, e.g.: Cantrips: Fire Bolt, Mage Hand&#10;1st: Magic Missile, Shield&#10;2nd: Misty Step..."></textarea>
+  </div>
+
+  <hr class="divider">
+
+  <!-- FEATURES & TRAITS -->
+  <div class="grid-2" style="margin-bottom:10px;">
+    <div>
+      <div class="section-title">Features & Traits</div>
+      <textarea rows="5" placeholder="Class features, racial traits, feats..."></textarea>
+    </div>
+    <div>
+      <div class="section-title">Other Proficiencies & Languages</div>
+      <textarea rows="5" placeholder="Armor, weapons, tools, languages..."></textarea>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- CHARACTER INFO -->
+  <div class="section-title">Character Info</div>
+  <div class="grid-2" style="margin-bottom:10px;">
+    <div class="grid-2">
+      <div><label class="field-label">Personality Traits</label><textarea rows="3" placeholder="How do you act?"></textarea></div>
+      <div><label class="field-label">Ideals</label><textarea rows="3" placeholder="What do you believe?"></textarea></div>
+      <div><label class="field-label">Bonds</label><textarea rows="3" placeholder="What ties bind you?"></textarea></div>
+      <div><label class="field-label">Flaws</label><textarea rows="3" placeholder="Your weaknesses..."></textarea></div>
+    </div>
+    <div>
+      <label class="field-label">Backstory</label>
+      <textarea rows="8" placeholder="Your character's history..."></textarea>
+    </div>
+  </div>
+
+  <button class="print-btn" onclick="window.print()">🖨 Print / Save as PDF</button>
+</div>
+
+<script>
+const SAVES_DEF = [
+  {name:'Strength', attr:'str'}, {name:'Dexterity', attr:'dex'}, {name:'Constitution', attr:'con'},
+  {name:'Intelligence', attr:'int'}, {name:'Wisdom', attr:'wis'}, {name:'Charisma', attr:'cha'}
+];
+const SKILLS_DEF = [
+  {name:'Acrobatics', attr:'dex'},{name:'Animal Handling', attr:'wis'},{name:'Arcana', attr:'int'},
+  {name:'Athletics', attr:'str'},{name:'Deception', attr:'cha'},{name:'History', attr:'int'},
+  {name:'Insight', attr:'wis'},{name:'Intimidation', attr:'cha'},{name:'Investigation', attr:'int'},
+  {name:'Medicine', attr:'wis'},{name:'Nature', attr:'int'},{name:'Perception', attr:'wis'},
+  {name:'Performance', attr:'cha'},{name:'Persuasion', attr:'cha'},{name:'Religion', attr:'int'},
+  {name:'Sleight of Hand', attr:'dex'},{name:'Stealth', attr:'dex'},{name:'Survival', attr:'wis'}
+];
+
+function getMod(score) { return Math.floor((score - 10) / 2); }
+function fmtMod(m) { return (m >= 0 ? '+' : '') + m; }
+function getVal(id) { return parseInt(document.getElementById(id)?.value) || 0; }
+function getProfBonus() {
+  const lvl = getVal('charLevel');
+  return Math.ceil(lvl / 4) + 1;
+}
+
+function updateProfBonus() {
+  document.getElementById('profBonusDisplay').textContent = fmtMod(getProfBonus());
+  updateAllSkills();
+}
+
+function updateMods() {
+  ['str','dex','con','int','wis','cha'].forEach(a => {
+    const m = getMod(getVal(a));
+    document.getElementById(a+'Mod').textContent = fmtMod(m);
+  });
+  document.getElementById('initiative').textContent = fmtMod(getMod(getVal('dex')));
+}
+
+function updateAllSkills() {
+  const pb = getProfBonus();
+  // Saves
+  SAVES_DEF.forEach(s => {
+    const cb = document.getElementById('save_'+s.attr);
+    const val = document.getElementById('saveVal_'+s.attr);
+    if (!cb || !val) return;
+    const m = getMod(getVal(s.attr));
+    const bonus = m + (cb.checked ? pb : 0);
+    val.textContent = fmtMod(bonus);
+  });
+  // Skills
+  SKILLS_DEF.forEach(s => {
+    const id = 'skill_'+s.name.replace(/\s/g,'_');
+    const cb = document.getElementById(id);
+    const val = document.getElementById('skillVal_'+s.name.replace(/\s/g,'_'));
+    if (!cb || !val) return;
+    const m = getMod(getVal(s.attr));
+    const bonus = m + (cb.checked ? pb : 0);
+    val.textContent = fmtMod(bonus);
+  });
+  // Passive Perception
+  const percCb = document.getElementById('skill_Perception');
+  const percMod = getMod(getVal('wis'));
+  const pb2 = getProfBonus();
+  const passPerc = 10 + percMod + (percCb?.checked ? pb2 : 0);
+  document.getElementById('passivePerc').textContent = passPerc;
+}
+
+function updateAll() { updateMods(); updateAllSkills(); }
+
+function buildSaves() {
+  const div = document.getElementById('saves');
+  div.innerHTML = '';
+  SAVES_DEF.forEach(s => {
+    const row = document.createElement('div');
+    row.className = 'skill-row';
+    row.innerHTML = `
+      <input type="checkbox" id="save_${s.attr}" onchange="updateAllSkills()">
+      <span class="skill-val" id="saveVal_${s.attr}">+0</span>
+      <span class="skill-name">${s.name}</span>
+    `;
+    div.appendChild(row);
+  });
+}
+
+function buildSkills() {
+  const half = Math.ceil(SKILLS_DEF.length / 2);
+  const s1 = document.getElementById('skills1');
+  const s2 = document.getElementById('skills2');
+  s1.innerHTML = ''; s2.innerHTML = '';
+  SKILLS_DEF.forEach((s, i) => {
+    const id = 'skill_'+s.name.replace(/\s/g,'_');
+    const row = document.createElement('div');
+    row.className = 'skill-row';
+    row.innerHTML = `
+      <input type="checkbox" id="${id}" onchange="updateAllSkills()">
+      <span class="skill-val" id="skillVal_${s.name.replace(/\s/g,'_')}">+0</span>
+      <span class="skill-name">${s.name} <span class="skill-attr">(${s.attr.toUpperCase()})</span></span>
+    `;
+    (i < half ? s1 : s2).appendChild(row);
+  });
+}
+
+function buildSpellSlots() {
+  const div = document.getElementById('spellSlots');
+  div.innerHTML = '';
+  const slots = [4,3,3,3,3,2,2,1,1];
+  for (let lvl = 1; lvl <= 9; lvl++) {
+    const row = document.createElement('div');
+    row.className = 'spell-level-row';
+    let boxes = '';
+    for (let i = 0; i < slots[lvl-1]; i++) {
+      boxes += `<input type="checkbox">`;
+    }
+    row.innerHTML = `<span class="spell-lvl-label">Level ${lvl}</span><div class="spell-slots">${boxes}</div>`;
+    div.appendChild(row);
+  }
+}
+
+let attackCount = 0;
+function addAttack() {
+  const tbody = document.getElementById('attacksBody');
+  const tr = document.createElement('tr');
+  tr.innerHTML = `
+    <td><input type="text" placeholder="Longsword"></td>
+    <td><input type="text" placeholder="+5"></td>
+    <td><input type="text" placeholder="1d8+3 slashing"></td>
+    <td><input type="text" placeholder="5 ft"></td>
+    <td><input type="text" placeholder="Versatile"></td>
+  `;
+  tbody.appendChild(tr);
+  attackCount++;
+}
+
+function syncHP() {
+  const max = getVal('hpMax');
+  const cur = document.getElementById('hpCur');
+  if (!cur.value) cur.value = max;
+}
+
+// INIT
+buildSaves();
+buildSkills();
+buildSpellSlots();
+addAttack(); addAttack(); addAttack();
+updateAll();
+updateProfBonus();
+</script>
+</body>
+</html>

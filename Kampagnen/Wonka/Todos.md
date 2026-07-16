@@ -1,0 +1,1 @@
+- [ ] Tabelle: Wie viel ist ein Zauberplatz wert?

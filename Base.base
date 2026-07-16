@@ -1,0 +1,28 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+    order:
+      - file.folder
+      - file.name
+      - tags
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: tags
+        direction: DESC
+    indentProperties: false
+    columnSize:
+      file.folder: 204
+      file.name: 517
+      note.tags: 643
+  - type: cards
+    name: Cards
+  - type: list
+    name: View
+    markers: number
+    indentProperties: false

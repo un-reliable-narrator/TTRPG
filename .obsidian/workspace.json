@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "7e6313da37aeb502",
+    "type": "split",
+    "children": [
+      {
+        "id": "631d6ab81d323208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "977e62cc8f004a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kampagnen/CoS/CoS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CoS"
+            }
+          },
+          {
+            "id": "4ef7874223fe6854",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03) Resources/Publications/PHB_2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PHB_2024"
+            }
+          },
+          {
+            "id": "f8c4a2d32c375666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02) Core Rules/Statblocks/NPC/Izek-Strazni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Izek-Strazni"
+            }
+          },
+          {
+            "id": "3f33253655f9124a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kampagnen/CoS/Strahd Von Zarovich/Strahd Von Zarovich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strahd Von Zarovich"
+            }
+          },
+          {
+            "id": "2da07cd7b0e1f8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kampagnen/CoS/Statblocks (CoS)/Statblocks (CoS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Statblocks (CoS)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acbf5baa48dc3302",
+    "type": "split",
+    "children": [
+      {
+        "id": "93e334efa6843ac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5c2a62e24e81d91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "859aa14a6b6ad4ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "580991a1a4cebff1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mounted ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2301ddbfb235c36",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c7f5f0760f3e43a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad82524925a2510",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kampagnen/Involuntary Adventures/CRAWL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CRAWL"
+            }
+          },
+          {
+            "id": "880fc22e200ebd98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kampagnen/Involuntary Adventures/CRAWL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CRAWL"
+            }
+          },
+          {
+            "id": "7f49b60a8f862752",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aaeec260afa2184a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4125fb9b1d12a6f8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "648904dc027ec790",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "a1c185f2c238aab0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "7b6bbcf64b74b4e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4a74698c53b3cb7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_aa8ad9c9ba0b",
+                "creatureName": "Night Hag"
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "local-llm-helper:LLM Helper": false
+    }
+  },
+  "active": "3f33253655f9124a",
+  "lastOpenFiles": [
+    "TTRPG",
+    "New Textdokument.txt",
+    "Untitled.md",
+    "Kampagnen/CoS/Strahd Von Zarovich/Strahd Von Zarovich.md",
+    "Kampagnen/CoS/Statblocks (CoS)/Statblocks (CoS).md",
+    "Kampagnen/CoS/PCs (CoS)/Kellan.md",
+    "Kampagnen/CoS/PCs (CoS)/Eleazar Savvas.md",
+    "Kampagnen/CoS/PCs (CoS)/Backstory Eleazar Savvas.pdf",
+    "03) Resources/Images/Images.md",
+    "Kampagnen/CoS/Files (CoS)/Treasures of Barovia (HB).pdf",
+    "Kampagnen/CoS/Files (CoS)/Images (CoS)/Images (CoS).md",
+    "03) Resources/Adventures/Ravenloft/Blood o' the Vine.md",
+    "02) Core Rules/Classes/Classes.md",
+    "02) Core Rules/Spells/Spells.md",
+    "02) Core Rules/Statblocks/Statblocks.md",
+    "02) Core Rules/Statblocks/NPC/NPC.md",
+    "03) Resources/Publications/WotC/DnDBeyond Exports/Ravenloft - Horrors Within.pdf",
+    "02) Core Rules/Statblocks/Humanoids/Mage.md",
+    "02) Core Rules/Statblocks/NPC/Juiblex-mpmm.md",
+    "02) Core Rules/Statblocks/NPC/Izek-Strazni.md",
+    "02) Core Rules/Statblocks/NPC/Stanimir.md",
+    "03) Resources/Publications/WotC/Curse of Strahd.pdf",
+    "Kampagnen/CoS/CoS.md",
+    "02) Core Rules/Statblocks/Beasts/Riding-Horse.md",
+    "02) Core Rules/Spells/Level 3/Phantom-Steed.md",
+    "03) Resources/Publications/Deutsch/Fluch des Strahd.pdf",
+    "03) Resources/Images/Statsheets/CoS/Madam Eva.png",
+    "02) Core Rules/Statblocks/Undead/Ghast-Gravecaller.md",
+    "03) Resources/Images/Art/Character Art/People of Barovia/Vistani/Madam Eva.jpg",
+    "Kampagnen/CoS/Begegnungen (CoS)/Random Encounters - Barovia.md",
+    "03) Resources/Publications/PHB_2024.pdf",
+    "02) Core Rules/Statblocks/Fiends/Night-Hag.md",
+    "02) Core Rules/Spells/Level 3/Dispel-Magic.md",
+    "02) Core Rules/Spells/Level 1/Detect-Magic.md",
+    "02) Core Rules/Classes/Paladin/Paladin.md",
+    "03) Resources/Images/Art/Character Art/People of Barovia/StrahdComission/Izek png.png",
+    "03) Resources/Images/Statsheets/Van Richten's Guide to Ravenloft/Strigoi.png",
+    "03) Resources/Publications/3rd Party/DM's Guild/Additional Random Encounters for CoS.pdf",
+    "Kampagnen/CoS/Statblocks (CoS)/Loup Garou.png",
+    "Kampagnen/CoS/Statblocks (CoS)/giant_lost_child.jpg",
+    "Kampagnen/CoS/Statblocks (CoS)/Lost_Children.jpg",
+    "03) Resources/Publications/WotC/Mordenkainens Tome of Foes.pdf",
+    "Kampagnen/CoS/Statblocks (CoS)/Boneless.png",
+    "Kampagnen/CoS/Curse of Strahd/Chapter 5 - Town of Vallaki",
+    "Resources/Images/Rules/Statblocks/izek_strazni.png",
+    "03) Resources/Images/Rules/Statblocks/Goblin Boss.png"
+  ]
+}

@@ -1,0 +1,36 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-object
+tags:
+- src/5e/dmg
+- object/size/large
+- object/type/siege-weapon
+aliases:
+- "Keg Launcher"
+---
+# Keg Launcher
+%%-- Embedded content starts on the next line. --%%
+*Source: Dungeon Master's Guide (2024) p. 96*  
+
+A back-mounted, wooden catapult flings small kegs of toxic gas. Loading a Keg Launcher requires the [Utilize](03)%20Resources/Tables/RAW/Actions.md#Utilize) action, and aiming it requires another [Utilize](03)%20Resources/Tables/RAW/Actions.md#Utilize) action. Then a crew member can take the Toxic Keg action.
+
+```ad-statblock
+title: Keg Launcher
+![](objects/tokens/XDMG/Keg Launcher.webp#token)
+*Large Siege weapon*
+
+- **Armor Class** 15
+- **Hit Points** 30
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+
+## Actions
+
+***Toxic Keg (Requires Load and Aim).*** *Constitution Saving Throw:* DC 15, each creature in a 20-foot-radius [Sphere](sphere-area-of-effect.md) centered on a point 30 to 300 feet from the launcher. *Failure:* 14 (`4d6`) Poison damage. *Success:* Half damage.
+```
+^statblock

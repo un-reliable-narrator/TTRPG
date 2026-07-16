@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:700" rel="stylesheet" type="text/css"/>
+    <link href="http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css"/>
+    <meta charset="utf-8"/>
+    <title>Statblock</title>
+    <style>
+      body {
+      margin: 0;
+      }
+      stat-block {
+      /* A bit of margin for presentation purposes, to show off the drop
+      shadow. */
+      margin-left: 20px;
+      margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <template id="tapered-rule">
+      <style>
+        svg {
+        fill: #922610;
+        /* Stroke is necessary for good antialiasing in Chrome. */
+        stroke: #922610;
+        margin-top: 0.6em;
+        margin-bottom: 0.35em;
+        }
+      </style>
+      <svg height="5" width="400">
+        <polyline points="0,0 400,2.5 0,5"></polyline>
+      </svg>
+    </template>
+    <script>
+      (function(window, document) {
+        var elemName = 'tapered-rule';
+        var thatDoc = document;
+        var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+        var proto = Object.create(HTMLElement.prototype, {
+          createdCallback: {
+            value: function() {
+              var template = thisDoc.getElementById(elemName);
+              var clone = thatDoc.importNode(template.content, true);
+              this.createShadowRoot().appendChild(clone);
+            }
+          }
+        });
+        thatDoc.registerElement(elemName, {prototype: proto});
+      })(window, document);
+    </script>
+    <template id="top-stats">
+      <style>
+        ::content * {
+        color: #7A200D;
+        }
+      </style>
+      <tapered-rule></tapered-rule>
+      <content></content>
+      <tapered-rule></tapered-rule>
+    </template>
+    <script>
+      (function(window, document) {
+        var elemName = 'top-stats';
+        var thatDoc = document;
+        var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+        var proto = Object.create(HTMLElement.prototype, {
+          createdCallback: {
+            value: function() {
+              var template = thisDoc.getElementById(elemName);
+              var clone = thatDoc.importNode(template.content, true);
+              this.createShadowRoot().appendChild(clone);
+            }
+          }
+        });
+        thatDoc.registerElement(elemName, {prototype: proto});
+      })(window, document);
+    </script>
+    <template id="creature-heading">
+      <style>
+        ::content > h1 {
+        font-family: 'Libre Baskerville', 'Lora', 'Calisto MT',
+        'Bookman Old Style', Bookman, 'Goudy Old Style',
+        Garamond, 'Hoefler Text', 'Bitstream Charter',
+        Georgia, serif;
+        color: #7A200D;
+        font-weight: 700;
+        margin: 0px;
+        font-size: 23px;
+        letter-spacing: 1px;
+        font-variant: small-caps;
+        }
+        ::content > h2 {
+        font-weight: normal;
+        font-style: italic;
+        font-size: 12px;
+        margin: 0;
+        }
+      </style>
+      <content select="h1"></content>
+      <content select="h2"></content>
+    </template>
+    <script>
+      (function(window, document) {
+        var elemName = 'creature-heading';
+        var thatDoc = document;
+        var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+        var proto = Object.create(HTMLElement.prototype, {
+          createdCallback: {
+            value: function() {
+              var template = thisDoc.getElementById(elemName);
+              var clone = thatDoc.importNode(template.content, true);
+              this.createShadowRoot().appendChild(clone);
+            }
+          }
+        });
+        thatDoc.registerElement(elemName, {prototype: proto});
+      })(window, document);
+    </script>
+    <template id="abilities-block">
+      <style>
+        table {
+        width: 100%;
+        border: 0px;
+        border-collapse: collapse;
+        }
+        th, td {
+        width: 50px;
+        text-align: center;
+        }
+      </style>
+      <tapered-rule></tapered-rule>
+      <table>
+        <tbody>
+          <tr>
+            <th>STR</th>
+            <th>DEX</th>
+            <th>CON</th>
+            <th>INT</th>
+            <th>WIS</th>
+            <th>CHA</th>
+          </tr>
+          <tr>
+            <td id="str"></td>
+            <td id="dex"></td>
+            <td id="con"></td>
+            <td id="int"></td>
+            <td id="wis"></td>
+            <td id="cha"></td>
+          </tr>
+        </tbody>
+      </table>
+      <tapered-rule></tapered-rule>
+    </template>
+    <script>
+      (function(window, document) {
+        function abilityModifier(abilityScore) {
+          var score = parseInt(abilityScore, 10);
+          return Math.floor((score - 10) / 2);
+        }
+      
+        function formattedModifier(abilityModifier) {
+          if (abilityModifier >= 0) {
+            return '+' + abilityModifier;
+          }
+          // This is an en dash, NOT a "normal" dash. The minus sign needs to be more
+          // visible.
+          return '–' + Math.abs(abilityModifier);
+        }
+      
+        function abilityText(abilityScore) {
+          return [String(abilityScore),
+                  ' (',
+                  formattedModifier(abilityModifier(abilityScore)),
+                  ')'].join('');
+        }
+      
+        var elemName = 'abilities-block';
+        var thatDoc = document;
+        var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+        var proto = Object.create(HTMLElement.prototype, {
+          createdCallback: {
+            value: function() {
+              var template = thisDoc.getElementById(elemName);
+              var clone = thatDoc.importNode(template.content, true);
+              var root = this.createShadowRoot().appendChild(clone);
+            }
+          },
+          attachedCallback: {
+            value: function() {
+              var root = this.shadowRoot;
+              for (var i = 0; i < this.attributes.length; i++) {
+                var attribute = this.attributes[i];
+                var abilityShortName = attribute.name.split('-')[1];
+                root.getElementById(abilityShortName).textContent =
+                   abilityText(attribute.value);
+              }
+      
+            }
+          }
+        });
+        thatDoc.registerElement(elemName, {prototype: proto});
+      })(window, document);
+    </script>
+    <template id="property-block">
+      <style>
+        :host {
+        margin-top: 0.3em;
+        margin-bottom: 0.9em;
+        line-height: 1.5;
+        display: block;
+        }
+        ::content > h4 {
+        margin: 0;
+        display: inline;
+        font-weight: bold;
+        font-style: italic;
+        }
+        ::content > p:first-of-type {
+        display: inline;
+        text-indent: 0;
+        }
+        ::content > p {
+        text-indent: 1em;
+        margin: 0;
+        }
+      </style>
+      <content></content>
+    </template>
+    <script>
+      (function(window, document) {
+        var elemName = 'property-block';
+        var thatDoc = document;
+        var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+        var proto = Object.create(HTMLElement.prototype, {
+          createdCallback: {
+            value: function() {
+              var template = thisDoc.getElementById(elemName);
+              var clone = thatDoc.importNode(template.content, true);
+              this.createShadowRoot().appendChild(clone);
+            }
+          }
+        });
+        thatDoc.registerElement(elemName, {prototype: proto});
+      })(window, document);
+    </script>
+    <template id="property-line">
+      <style>
+        :host {
+        line-height: 1.4;
+        display: block;
+        text-indent: -1em;
+        padding-left: 1em;
+        }
+        ::content > h4 {
+        margin: 0;
+        display: inline;
+        font-weight: bold;
+        }
+        ::content > p:first-of-type {
+        display: inline;
+        text-indent: 0;
+        }
+        ::content > p {
+        text-indent: 1em;
+        margin: 0;
+        }
+      </style>
+      <content></content>
+    </template>
+    <script>
+      (function(window, document) {
+        var elemName = 'property-line';
+        var thatDoc = document;
+        var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+        var proto = Object.create(HTMLElement.prototype, {
+          createdCallback: {
+            value: function() {
+              var template = thisDoc.getElementById(elemName);
+              var clone = thatDoc.importNode(template.content, true);
+              this.createShadowRoot().appendChild(clone);
+            }
+          }
+        });
+        thatDoc.registerElement(elemName, {prototype: proto});
+      })(window, document);
+    </script>
+    <template id="stat-block">
+      <style>
+        .bar {
+        height: 5px;
+        background: #E69A28;
+        border: 1px solid #000;
+        position: relative;
+        z-index: 1;
+        }
+        :host {
+        display: inline-block;
+        }
+        #content-wrap {
+        font-family: 'Noto Sans', 'Myriad Pro', Calibri, Helvetica, Arial,
+        sans-serif;
+        font-size: 13.5px;
+        background: #FDF1DC;
+        padding: 0.6em;
+        padding-bottom: 0.5em;
+        border: 1px #DDD solid;
+        box-shadow: 0 0 1.5em #867453;
+        /* We don't want the box-shadow in front of the bar divs. */
+        position: relative;
+        z-index: 0;
+        /* Leaving room for the two bars to protrude outwards */
+        margin-left: 2px;
+        margin-right: 2px;
+        /* This is possibly overriden by next CSS rule. */
+        width: 400px;
+        -webkit-columns: 400px;
+        -moz-columns: 400px;
+        columns: 400px;
+        -webkit-column-gap: 40px;
+        -moz-column-gap: 40px;
+        column-gap: 40px;
+        }
+        :host([data-two-column]) #content-wrap {
+        /* One column is 400px and the gap between them is 40px. */
+        width: 840px;
+        }
+        ::content > h3 {
+        border-bottom: 1px solid #7A200D;
+        color: #7A200D;
+        font-size: 21px;
+        font-variant: small-caps;
+        font-weight: normal;
+        letter-spacing: 1px;
+        margin: 0;
+        margin-bottom: 0.3em;
+        }
+        /* For user-level p elems. */
+        ::content > p {
+        margin-top: 0.3em;
+        margin-bottom: 0.9em;
+        line-height: 1.5;
+        }
+        /* Last child shouldn't have bottom margin, too much white space. */
+        ::content > *:last-child {
+        margin-bottom: 0;
+        }
+      </style>
+      <div class="bar"></div>
+      <div id="content-wrap">
+        <content></content>
+      </div>
+      <div class="bar"></div>
+    </template>
+    <script>
+      (function(window, document) {
+        var elemName = 'stat-block';
+        var thatDoc = document;
+        var thisDoc = (thatDoc.currentScript || thatDoc._currentScript).ownerDocument;
+        var proto = Object.create(HTMLElement.prototype, {
+          createdCallback: {
+            value: function() {
+              var template = thisDoc.getElementById(elemName);
+              // If the attr() CSS3 function were properly implemented, we wouldn't
+              // need this hack...
+              if (this.hasAttribute('data-content-height')) {
+                var wrap = template.content.getElementById('content-wrap');
+                wrap.style.height = this.getAttribute('data-content-height') + 'px';
+              }
+              var clone = thatDoc.importNode(template.content, true);
+              this.createShadowRoot().appendChild(clone);
+            }
+          }
+        });
+        thatDoc.registerElement(elemName, {prototype: proto});
+      })(window, document);
+    </script>
+		<stat-block>
+			<creature-heading>
+				<h1>Leopold Hamperding</h1>
+				<h2>Medium humanoid, </h2>
+			</creature-heading>
+			<top-stats>
+				<property-line>
+					<h4>Armor Class</h4>
+					<p>15 (studded leather)</p>
+				</property-line>
+				<property-line>
+					<h4>Hit Points</h4>
+					<p>49 (9d8 + 9)</p>
+				</property-line>
+				<property-line>
+					<h4>Speed</h4>
+					<p>30 ft.</p>
+				</property-line>
+				<abilities-block data-cha="18" data-con="12" data-dex="16" data-int="16" data-str="10" data-wis="12">
+				</abilities-block>
+				<property-line>
+					<h4>Saving Throws</h4>
+					<p>Dex +7, Cha +8</p>
+				</property-line>
+				<property-line>
+					<h4>Skills</h4>
+					<p>Arcana +7, Deception +8, Perception +5, Sleight of Hand +7, Stealth +7</p>
+				</property-line>
+				<property-line>
+					<h4>Senses</h4>
+					<p>					passive Perception 15</p>
+				</property-line>
+				<property-line>
+					<h4>Languages</h4>
+					<p>Common</p>
+				</property-line>
+				<property-line>
+					<h4>Challenge</h4>
+					<p>5 (1800 XP)</p>
+				</property-line>
+			</top-stats>
+			<property-block style="">
+				<h4 style="">Spellcasting.</h4>
+				<p>Leo is a 9th-level spellcaster. The leopold hamperding's spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The leopold hamperding has the following sorcerer spells prepared:<br /><br />Cantrip (at will): <i>minor illusion</i>, <i>mage hand</i><br />1st level (4 slots): <i>charm person</i>, <i>detect magic</i>, <i>disguise self</i>, <i>expeditious retreat</i>, <i>fog cloud</i><br />2nd level (3 slots): <i>hold person</i>, <i>blindness/deafness</i>, <i>alter self</i>, <i>detect thoughts</i>, <i>spider climb</i><br />3rd level (3 slots): <i>dispel magic</i>, <i>counterspell</i>, <i>stinking cloud</i>, <i>haste</i><br />4th level (3 slots): <i>greater invisibility</i>, <i>confusion</i><br />5th level (1 slots): <i>dominate person</i>, <i>telekinesis</i>, <i>teleportation circle</i></p>
+			</property-block>
+			<h3>Actions</h3>
+			<property-block style="">
+				<h4 style="">Multiattack.</h4>
+				<p>Leo makes two dagger attacks.</p>
+			</property-block>
+			<property-block style="">
+				<h4 style="">Dagger.</h4>
+				<p><i>Melee or Ranged Weapon Attack:</i> +7 to hit, reach 5 ft. or range 20/60 ft., one target. <i>Hit:</i> 5 (1d4 + 3) piercing damage</p>
+			</property-block>
+			<h3>Reactions</h3>
+			<property-block style="">
+				<h4 style="">It's not what it looks like, I swear.</h4>
+				<p>If a humanoid enemy targets Leo with a melee attack, he may force the attacker to make an Int save (DC 16). On a failure, the attacker's turn ends immediately. On a success, the attacker becomes immune to this ability.</p>
+			</property-block>
+			<h3>Legendary Actions</h3>
+			<p>Leo can take legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Leo regains spent legendary actions at the start of his turn.</p>
+
+			<property-block style="padding-left: 11px; text-indent: -11px; margin-bottom: 0.3em; ">
+				<h4 style="font-style: normal; ">Flee.</h4>
+				<p>If Leo is adjacent to an enemy, he may move up to his movement speed without triggering opportunity attacks.</p>
+			</property-block>
+			<property-block style="padding-left: 11px; text-indent: -11px; margin-bottom: 0.3em; ">
+				<h4 style="font-style: normal; ">Panic.</h4>
+				<p>Leo casts a spell, targeting himself (if the spell targets a creature) or the space he is in (if the spell targets an area).</p>
+			</property-block>
+			<h3>Description</h3>
+			<p>Easy smiles and easy lies. An enigmatic spellcasting trickster with erratic tactics and unkown motives. Acted as Arthur's parttime tutor and 'sponsor'.</p>
+		</statblock>
+	</body>
+</html>

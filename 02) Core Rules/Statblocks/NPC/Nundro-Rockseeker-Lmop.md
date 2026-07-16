@@ -1,0 +1,53 @@
+---
+cssclasses:
+- json5e-monster
+tags:
+- src/5e/lmop
+- monster/cr/0
+- monster/size/medium
+- monster/type/Humanoids/any-race
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Nundro Rockseeker"
+---
+# [Nundro Rockseeker](Nundro-Rockseeker-Lmop.md)
+*Source: Lost Mine of Phandelver p. 50*  
+
+```statblock
+"name": "Nundro Rockseeker (LMoP)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "any race"
+"alignment": "Any alignment"
+"ac": !!int "10"
+"hp": !!int "4"
+"hit_dice": "1d8"
+"modifier": !!int "0"
+"stats":
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+"speed": "30 ft."
+"damage_resistances": "poison"
+"gear":
+  - "[club](club)"
+"senses": "[Darkvision](senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
+"languages": "any one language (usually Common), Dwarvish"
+"cr": "0"
+"traits":
+  - "desc": "Nundro"
+    "name": "Dwarven Resilience"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
+    "name": "Club"
+"source":
+  - "LMoP"
+"image": "bestiary/tokens/LMoP/Nundro Rockseeker.webp"
+```
+^statblock

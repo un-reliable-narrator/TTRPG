@@ -1,0 +1,1 @@
+Pokemon Mystery Dungeon DnD hack You play Pokemon convert attacks to actions (eq. to weapons/spells), implement gummy iq things as feats and the items MD style attacks, hexes, AP

@@ -1,0 +1,155 @@
+{
+  "debounceTimeout": 300,
+  "customFrontmatterKey": "current view",
+  "ignoreAlreadyOpen": false,
+  "ignoreForceViewAll": false,
+  "folderRules": [
+    {
+      "path": "D&D ",
+      "mode": ""
+    },
+    {
+      "path": "02) core rules/monsters",
+      "mode": "current view: reading"
+    },
+    {
+      "path": "02) core rules/statblocks/humanoids",
+      "mode": "current view: reading"
+    },
+    {
+      "path": "02) core rules/statblocks",
+      "mode": "current view: reading"
+    },
+    {
+      "path": "03) resources/tables/raw",
+      "mode": "current view: reading"
+    },
+    {
+      "path": "02) core rules/traps",
+      "mode": "current view: reading"
+    },
+    {
+      "path": "02) core rules/spells/level 9",
+      "mode": "current view: reading"
+    },
+    {
+      "path": "02) core rules/spells",
+      "mode": "current view: reading"
+    },
+    {
+      "path": "02) core rules/skills",
+      "mode": "current view: reading"
+    },
+    {
+      "path": "02) core rules/classes/wizard",
+      "mode": "current view: reading"
+    }
+  ],
+  "explicitFileRules": [],
+  "filePatterns": [
+    {
+      "pattern": "",
+      "mode": ""
+    },
+    {
+      "pattern": "resources/backlinks/items/equipment 1/adventuring gear/alchemist's fire.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "resources/backlinks/items/equipment 1/adventuring gear/acid.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/traps/collapsing roof.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/spells/cantrips/acid-splash.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/spells/cantrips/chill-touch.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/items/magic items/00) varies/potions of healing/potion of healing (greater).md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "resources/backlinks/items/equipment 1/adventuring gear/caltrops.md",
+      "mode": "current view: live"
+    },
+    {
+      "pattern": "resources/backlinks/items/equipment 1/adventuring gear/bullseye lantern.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "resources/backlinks/items/equipment 1/adventuring gear/bedroll.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/druid/druid.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/cleric/cleric.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/monk/monk.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/paladin/paladin.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/ranger/ranger.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/rogue/rogue.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/sorcerer/sorcerer.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/warlock/warlock.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/wizard/wizard.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/warlock/warlock-celestial-patron.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/barbarian/barbarian.md",
+      "mode": "current view: live"
+    },
+    {
+      "pattern": "02) core rules/classes/fighter/fighter.md",
+      "mode": "current view: reading"
+    },
+    {
+      "pattern": "02) core rules/classes/bard/bard.md",
+      "mode": "current view: reading"
+    }
+  ],
+  "tagRules": [
+    {
+      "tag": "",
+      "mode": ""
+    }
+  ],
+  "showExplorerIcons": true,
+  "showLockNotifications": true,
+  "iconReading": "book-open",
+  "iconLive": "pen-tool",
+  "iconSource": "code",
+  "frontmatterChangeReload": "notify"
+}

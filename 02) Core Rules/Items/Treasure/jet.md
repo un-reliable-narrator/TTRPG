@@ -1,0 +1,20 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- src/5e/dmg
+- item/gear/treasure-gemstone
+- item/rarity/none
+aliases:
+- "Jet"
+---
+# Jet
+*Treasure (gemstone)*  
+
+
+- **Cost**: 100 gp
+
+A deep black gemstone.
+
+*Source: Dungeon Master's Guide (2024) p. 214*

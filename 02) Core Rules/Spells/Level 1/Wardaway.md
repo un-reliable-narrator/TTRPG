@@ -1,0 +1,19 @@
+Wardaway
+
+[Home](http://dnd2024.wikidot.com/home:home) » [All Spells](all) » Wardaway
+
+Source: Forgotten Realms - Heroes of Faerun
+
+_Level 1 Abjuration (Bard, Cleric, Paladin, Wizard)_  
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a miniature clay hand)  
+**Duration:** Instantaneous
+
+You hurl a disorienting magical force toward one creature within range. The target makes a Constitution saving throw; Constructs and Undead automatically succeed on this save.
+
+On a failed save, the target takes 2d4 Force damage, its Speed is halved until the start of your next turn, and on its next turn, it can take only an action or a Bonus Action (but not both). On a successful save, the target takes half as much damage only.
+
+**Using a Higher-Level Spell Slot.** The damage increases by 2d4 for every spell slot level above 1.
+
+[abjuration](http://dnd2024.wikidot.com/system:page-tags/tag/abjuration#pages)[bard](http://dnd2024.wikidot.com/system:page-tags/tag/bard#pages)[cleric](http://dnd2024.wikidot.com/system:page-tags/tag/cleric#pages)[first](http://dnd2024.wikidot.com/system:page-tags/tag/first#pages)[frhof](http://dnd2024.wikidot.com/system:page-tags/tag/frhof#pages)[paladin](http://dnd2024.wikidot.com/system:page-tags/tag/paladin#pages)[wizard](http://dnd2024.wikidot.com/system:page-tags/tag/wizard#pages)
