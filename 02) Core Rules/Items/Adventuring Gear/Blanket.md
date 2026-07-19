@@ -16,6 +16,6 @@ aliases:
 - **Cost**: 5 sp
 - **Weight**: 3.0 lbs.
 
-While wrapped in a blanket, you have [[Advantage|Advantage]] on saving throws against [extreme cold](extreme-cold.md) (see the "Dungeon Master's Guide").
+While wrapped in a blanket, you have [[Advantage|Advantage]] on saving throws against [extreme cold](Extreme-Cold.md) (see the "Dungeon Master's Guide").
 
 *Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

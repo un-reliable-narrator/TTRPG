@@ -8,12 +8,12 @@ While you have the Petrified condition, you experience the following effects.
 
 ***Incapacitated.*** You have the [[Incapacitated]] condition.
 
-***Speed 0.*** Your [[02) Core Rules/Rules/Speed|Speed]] is 0 and can't increase.
+***Speed 0.*** Your [[Speed|Speed]] is 0 and can't increase.
 
 ***Attacks Affected.*** Attack rolls against you have [[Advantage|Advantage]]
 
 ***Saving Throws Affected.*** You automatically fail Strength and Dexterity saving throws
 
-***Resist Damage.*** You have [[02) Core Rules/Rules/Resistance|Resistance]] to all damage.
+***Resist Damage.*** You have [[Resistance|Resistance]] to all damage.
 
-***Poison Immunity.*** You have [[02) Core Rules/Rules/Immunity]] to the [[Poisoned]] condition.
+***Poison Immunity.*** You have [[Immunity]] to the [[Poisoned]] condition.

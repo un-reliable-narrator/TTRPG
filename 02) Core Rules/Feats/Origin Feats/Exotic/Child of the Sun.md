@@ -2,7 +2,7 @@
 tags:
   - origin-feat
 ---
-Child of the Sun
+# Child of the Sun
 
 [Home](http://dnd2024.wikidot.com/home:home) » [Feats](all) » Child of the Sun
 

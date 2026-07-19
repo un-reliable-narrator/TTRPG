@@ -32,7 +32,7 @@ banner:
 
 #### Plots
 ---
-[[Kampagnen/CoS/Strahd Von Zarovich/Strahd Von Zarovich]] beobachtet ihn schon lange. Mit [[Modify-Memory]] hat er dafür gesorgt, dass Rowan in einem Schlüsselteil seines Lebens eine Lüge glaubt, deren Wahrheit nur schwer zu ertragen wäre. [[Greater-Restoration]] oder Strahd's Entscheidung können die verlorenen Erinnerungen wiederherstellen.
+[[Kampagnen/CoS/Strahd von Zarovich/Strahd von Zarovich]] beobachtet ihn schon lange. Mit [[Modify-Memory]] hat er dafür gesorgt, dass Rowan in einem Schlüsselteil seines Lebens eine Lüge glaubt, deren Wahrheit nur schwer zu ertragen wäre. [[Greater-Restoration]] oder Strahd's Entscheidung können die verlorenen Erinnerungen wiederherstellen.
 Strahd weiß von seinen Gefühlen zu Mirabel. 
 Strahd weiß von seinem Vater, und ist in der Lage, dessen Geist mit Rowan ins Gespräch zu bringen. 
 Strahd ist interessiert an Rowan's Seele (und Barovia's Seelen allgemein). Stammt sie aus Barovia, oder aus der Welt draußen? Was passiert nach seinem Tod? Wird er als Barovianer wiedergeboren, oder Teil des Geistermarsches? Rowan gegenüber behauptet Strahd, er habe keine Seele.

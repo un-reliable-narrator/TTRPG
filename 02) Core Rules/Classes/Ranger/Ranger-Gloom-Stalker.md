@@ -107,4 +107,4 @@ The target and each creature within 10 feet of it must make a Wisdom saving thro
 
 ### Shadowy Dodge (Level 15)
 
-When a creature makes an attack roll against you, you can take a [Reaction](reaction.md) to impose [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.
+When a creature makes an attack roll against you, you can take a [Reaction](reaction.md) to impose [[Disadvantage|Disadvantage]] on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.

@@ -25,7 +25,7 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 
 ## Curse
 
-This weapon is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the weapon, keeping it within reach at all times. You also have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on attack rolls with weapons other than this one.
+This weapon is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the weapon, keeping it within reach at all times. You also have [[Disadvantage|Disadvantage]] on attack rolls with weapons other than this one.
 
 Whenever another creature damages you while the weapon is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. This berserk state ends when you start your turn and there are no creatures within 60 feet of you that you can see or hear.
 

@@ -19,8 +19,12 @@
 - [[Tyro of the Gauntlet]]
 - [[Zhentarim Ruffian]]
 ###### Exotic
+- [[Arcane Infiltrator]]
 - [[Child of the Sun]]
 - [[Shadowmoor Hexer]]
 - [[Tireless Reveler]]
 - [[Vampire Hunter]]
 - [[Vampire's Plaything]]
+###### Ravenloft
+[[Sharp Eye]]
+[[Survivor]]

@@ -2,7 +2,13 @@
 tags:
   - lore
 ---
-##### [[Die Allfaser]]
+# Die SIEBEN
+*Die Tyrannen dieses Multiversums.*
+
+Alle Mitglieder der SIEBEN teilen einige Attribute:
+- Resistenz gegen alle Schadenstypen.
+
+###### [[Die Allfaser]]
 *Inspiriert von Odin, Life Fibers*
 **Klassen**: Ranger (Beast Master), Wizard (Diviner), Druid (Circle of Stars)
 **Stärken**: Allwissend(?), Weitsicht, wandelt mühelos zwischen den Sphären, blickt durch viele Augen und bedient sich vieler Hüllen. Geheimnisse und Techniken aus sehr alter Zeit und von sehr weit her. Verteilt "Sterne", die ihren Trägern Macht verleihen, zum Preis, dass die ALLFASER durch ihre Augen blicken kann. Müheloser Wandel zwischen den Welten. 
@@ -12,7 +18,7 @@ tags:
 **Thron:** Weltenbaum
 Inspirationen: *Odin, Life Fibers,*
 
-#### ORO HEDO, die Schlange
+###### ORO HEDO, die Schlange
 *Eine Lügnerin, welche ihre Rivalen durch List vernichten zu sucht.*
 **Klassen**: Rogue (Assassin), Warlock, 
 **Macht**: Giftige Worte, Manipulation, etc. Formenwechsel. 
@@ -21,7 +27,7 @@ Inspirationen: *Odin, Life Fibers,*
 Inspirationen: *Incubus*
 -> *Jezal* 
 
-#### SANNAT, Herr der Wünsche
+###### SANNAT, Herr der Wünsche
 *Ein Lügner, der falsche Geschenke verteilt. Verantwortlich dafür, den Wunsch für die Siegerin des Großen Turniers zu wirken.*
 **Klassen**: Barde, Paladin (Oath of Genies), Cleric (Trickery Domain)
 **Stärken**: 
@@ -29,7 +35,7 @@ Inspirationen: *Incubus*
 **Exploit**: [[Wish]]
 Inspirationen: Annatar, Teacher
 
-#### [[PRINZ]]
+###### [[PRINZ]]
 
 **Klassen:** Sorcerer, Paladin (Oath of Glory)
 **Schwächen:** Dekadenz, Trägheit, Hedonismus

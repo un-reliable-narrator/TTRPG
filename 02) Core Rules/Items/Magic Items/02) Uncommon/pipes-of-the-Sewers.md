@@ -14,7 +14,7 @@ aliases:
 ![](items/XDMG/Pipes of the Sewers.webp#right)
 
 
-While these pipes are on your person, ordinary [rats](rat.md) and [giant rats](Giant-Rat.md) are [Indifferent](indifferent-attitude.md) toward you and won't attack you unless you threaten or harm them.
+While these pipes are on your person, ordinary [rats](Rat.md) and [giant rats](Giant-Rat.md) are [Indifferent](indifferent-attitude.md) toward you and won't attack you unless you threaten or harm them.
 
 The pipes have 3 charges and regain `dice: 1d3` expended charges daily at dawn. If you play the pipes as a [Magic](Magic.md) action, you can take a [Bonus Action](bonus-action.md) to expend 1 to 3 charges, calling forth one [Swarm of Rats](Swarm-of-Rats.md) with each expended charge if enough rats are within half a mile of you to be called in this fashion (as determined by the DM). If there aren't enough rats to form a swarm, the charge is wasted. Called swarms move toward the music by the shortest available route but aren't under your control otherwise.
 

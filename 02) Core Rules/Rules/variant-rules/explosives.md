@@ -12,7 +12,7 @@ aliases:
 
 The Explosives table has examples of explosives. If no cost is given for an explosive, it can't typically be bought. If you make these explosives available for purchase, treat them as Rare magic items. Rules for explosives are given below.
 
-![Explosives](03)%20Resources/Tables/RAW/explosives.md)
+![Explosives]/explosives.md)
 
 ## Bomb
 

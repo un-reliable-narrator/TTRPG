@@ -10,4 +10,4 @@ While you have the Incapacitated condition, you experience the following effects
 
 ***Speechless.*** You can't speak.
 
-***Surprised.*** If you're Incapacitated when you roll [[02) Core Rules/Rules/Initiative|Initiative]], you have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on the roll.
+***Surprised.*** If you're Incapacitated when you roll [[Initiative|Initiative]], you have [[Disadvantage|Disadvantage]] on the roll.

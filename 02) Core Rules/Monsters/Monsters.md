@@ -53,7 +53,7 @@ A monster's Armor Class (AC) includes its natural armor, Dexterity, gear, and ot
 ### Initiative
 The Initiative entry specifies the monster’s Initiative modifier followed by the monster’s Initiative score in parentheses. Use the modifier when you roll to determine a monster’s Initiative. A monster’s Initiative modifier is typically equal to its Dexterity modifier, but some monsters have additional modifiers, such as Proficiency Bonus, applied to that number.
 
-If you don’t want to roll a monster’s Initiative, use the Initiative score as the monster’s Initiative in combat. [[02) Core Rules/Rules/Initiative|Initiative]] is further detailed in the "[[10-rules-glossary|Rules Glossary]]".
+If you don’t want to roll a monster’s Initiative, use the Initiative score as the monster’s Initiative in combat. [[Initiative|Initiative]] is further detailed in the "[[10-rules-glossary|Rules Glossary]]".
 ### Hit Points
 A monster’s Hit Points are presented as a number followed by parentheses, where the monster’s Hit Point Dice are provided, along with any contribution from its Constitution. Either use the number for the monster’s Hit Points or roll the die expression in parentheses to determine the monster’s Hit Points randomly; don’t use both.
 
@@ -71,15 +71,15 @@ A monster’s Constitution modifier is multiplied by the number of Hit Dice it p
 
 For more on [[Hit Points]], see "[[01) Playing the Game|Playing the Game]]".
 ### Speed
-The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: [[Burrowing]], [[climb-speed|Climb]], [[Fly]], [[swim-speed|Swim]]. Rules for [[02) Core Rules/Rules/Speed|Speed]] and these special speeds appear in the "[[10-rules-glossary|Rules Glossary]]".
+The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: [[Burrowing]], [[climb-speed|Climb]], [[Fly]], [[swim-speed|Swim]]. Rules for [[Speed|Speed]] and these special speeds appear in the "[[10-rules-glossary|Rules Glossary]]".
 ### Ability Scores
 Every monster has six ability scores along with corresponding ability score modifiers and saving throw modifiers. For more information on ability scores and saving throws, see "[[01) Playing the Game|Playing the Game]]".
 ### Skills
 The Skills entry specifies a monster’s skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([[Perception]]) and Dexterity ([[Stealth]]) checks. A skill bonus is the sum of a monster’s relevant ability modifier and its Proficiency Bonus. Other modifiers might apply.
 ### Resistances and Vulnerabilities
-These entries list a monster's [[02) Core Rules/Rules/Resistance|Resistances]] and [[02) Core Rules/Rules/Vulnerability|Vulnerabilities]], if any. See "[[01) Playing the Game|Playing the Game]]" for more information.
+These entries list a monster's [[Resistance|Resistances]] and [[Vulnerability|Vulnerabilities]], if any. See "[[01) Playing the Game|Playing the Game]]" for more information.
 ### Immunities
-This entry lists the monster's [[02) Core Rules/Rules/Immunity|Immunities]], if any. If the monster has damage and condition Immunities, the damage types are listed before the conditions See: "[[01) Playing the Game|Playing the Game]]" for details.
+This entry lists the monster's [[Immunity|Immunities]], if any. If the monster has damage and condition Immunities, the damage types are listed before the conditions See: "[[01) Playing the Game|Playing the Game]]" for details.
 ### Gear
 Monsters have proficiency with their equipment. If a monster has equipment that can be given away or retrieved, the items are listed in the Gear entry. The monster’s stat block might include special flourishes that happen when the monster uses an item, and the stat block might ignore the rules in “[[06) Equipment|Equipment]]” for that item. When used by someone else, a retrievable item uses its “[[06) Equipment|Equipment]]” rules, ignoring any special flourishes in the stat block.
 

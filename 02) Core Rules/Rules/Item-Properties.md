@@ -71,7 +71,7 @@ When making an attack with a Finesse weapon, use your choice of your Strength or
 
 ### Heavy
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
-You have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
+You have [[variant-rules/disadvantage|Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 ### Light
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_

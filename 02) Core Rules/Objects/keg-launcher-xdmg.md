@@ -13,7 +13,7 @@ aliases:
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 96*  
 
-A back-mounted, wooden catapult flings small kegs of toxic gas. Loading a Keg Launcher requires the [Utilize](03)%20Resources/Tables/RAW/Actions.md#Utilize) action, and aiming it requires another [Utilize](03)%20Resources/Tables/RAW/Actions.md#Utilize) action. Then a crew member can take the Toxic Keg action.
+A back-mounted, wooden catapult flings small kegs of toxic gas. Loading a Keg Launcher requires the [Utilize](Actions.md#Utilize) action, and aiming it requires another [Utilize](Actions.md#Utilize) action. Then a crew member can take the Toxic Keg action.
 
 ```ad-statblock
 title: Keg Launcher

@@ -45,7 +45,7 @@ Daraus können wir folgende Schlüsse ziehen:
 Strahd könnte "Zugang" zu früheren Editionen haben. Monster mit level drain Fähigkeiten, oder 4E stats.
 
 ###### Diener und Schergen
-- Strahd's Armor functions as/is upgraded to a [[Shield Guardian]]
+- Strahd's Armor functions as/is upgraded to a [[Shield-Guardian]]
 - A "Menagerie" of caged beasts, imported by Vistani or taken from adventurers
 	- *And a trophy room of slain beasts (Why would Strahd limit the "game" to Adventurers? If he can lure in monsters to challenge himself, he would. If he can play himself up as the people's savior in the process, why not? Part of him fools himself to believe he just enjoys tormenting and manipulating them, but somewhere he probably does crave affection and respect. He just cannot bear it because he knows he is undeserving, and he is too arrogant to accept it from those he deems unworthy, which is everyone)*
 
@@ -60,7 +60,7 @@ Strahd könnte "Zugang" zu früheren Editionen haben. Monster mit level drain F�
 
 *In Addition to the minions outlined in the book's table, I would like to keep up tension in the Strahd Fight through a persistent stream of enemies. By consistently having one instance of a certain creature spawn per round, players should feel time work against them, as the castle itself rises to fight, animated by Strahd's evil presence.*
 **1/round, "summon":**
-- Animated Object ([[Animated Armor]], [[Animated Flying Sword]], [[Animated Rug of Smothering]])
+- Animated Object ([[Animated-Armor]], [[Animated-Flying-Sword]], [[Animated-Rug-of-Smothering]])
 - Portrait
 - Statue ([[Gargoyle]], CR2)
 - Darkness Itself ([[Shadow]])
@@ -70,13 +70,12 @@ Players may disrupt this mechanic, if they take time and care to destroy the cas
 **Waves:**
 - Swarms ([[Swarm-of-Bats|Swarm of Bats]], [[Swarm-of-Rats|Swarm of Rats]], [[Swarm-of-Insects|Swarm of Insects]], [[Swarm-of-Stirges|Swarm of Stirges]])
 - Barovian Witches
-- Vistani ([[Bandit]], [[Bandit Captain]])
-- Servants ([[Vampire Familiar]])
-- Vampires ([[Vampire Spawn]])
+- Vistani ([[Bandit]], [[Bandit-Captain]])
+- Servants ([[Vampire-Familiar]])
+- Vampires ([[Vampire-Spawn]])
 - Zombies (raised from bodies, if present)
 
 ## Strahd's Treasury
----
 *Things Strahd may have, imported by Vistani or looted from Adventurers*
 ##### Equipment
 Kept in his armory and only brought out for serious battle

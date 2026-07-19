@@ -35,7 +35,7 @@ While wearing this armor, you gain a +1 bonus to [Armor Class](Armor%20Class.md)
 
 ## Curse
 
-Once you don this cursed armor, you can't doff it unless you are targeted by a [Remove Curse](Remove-Curse.md) spell or similar magic. While wearing the armor, you have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on attack rolls against demons and on saving throws against their spells and special abilities.
+Once you don this cursed armor, you can't doff it unless you are targeted by a [Remove Curse](Remove-Curse.md) spell or similar magic. While wearing the armor, you have [[Disadvantage|Disadvantage]] on attack rolls against demons and on saving throws against their spells and special abilities.
 
 **Variants**:
 - [Demon Breastplate](#Demon%20Breastplate)

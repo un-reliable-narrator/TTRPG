@@ -22,7 +22,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 | Medium (barrel, chandelier) | 4 (1d8)  | 18 (4d8)  |
 | Large (cart, dining table)  | 5 (1d10) | 27 (5d10) |
 
-***Damage Types and Objects.*** Objects have [[02) Core Rules/Rules/Immunity]] to Poison and Psychic damage. The DM might decide that some damage types are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [[02) Core Rules/Rules/Vulnerability]] to Fire damage.
+***Damage Types and Objects.*** Objects have [[Immunity]] to Poison and Psychic damage. The DM might decide that some damage types are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [[Vulnerability]] to Fire damage.
 
 ***Damage Threshold.*** Big objects, such as castle walls, often have extra resilience represented by a [[Damage Threshold]].
 

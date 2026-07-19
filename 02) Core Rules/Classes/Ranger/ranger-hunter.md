@@ -74,11 +74,11 @@ You gain one of the following feature options of your choice. Whenever you finis
 
 #### Escape the Horde
 
-[Opportunity Attacks](Opportunity%20Attacks.md) have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] against you.
+[Opportunity Attacks](Opportunity%20Attacks.md) have [[Disadvantage|Disadvantage]] against you.
 
 #### Multiattack Defense
 
-When a creature hits you with an attack roll, that creature has [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on all other attack rolls against you this turn.
+When a creature hits you with an attack roll, that creature has [[Disadvantage|Disadvantage]] on all other attack rolls against you this turn.
 
 ### Superior Hunter's Prey (Level 11)
 

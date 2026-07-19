@@ -23,7 +23,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 | dice: 1d8 | Creature |
 |-----------|----------|
-| 1 | [rat](rat.md) |
+| 1 | [Rat](Rat.md) |
 | 2 | [Owl](Owl.md) |
 | 3 | [Mastiff](Items/Mounts/mastiff.md) |
 | 4 | [Goat](Items/Trade%20Goods/Goat.md) |

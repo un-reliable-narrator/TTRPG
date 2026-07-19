@@ -22,7 +22,7 @@ You can reference the Demonomicon whenever you make an Intelligence check to dis
 
 ## Containment
 
-The first ten pages of the Demonomicon are blank. As a [Magic](Magic.md) action while holding the book, you can target a Fiend that you can see that is trapped within the area of a [Magic Circle](Magic-Circle.md) spell. The Fiend must succeed on a DC 20 Charisma saving throw with [[02) Core Rules/Rules/Disadvantage|Disadvantage]] or become trapped within one of the Demonomicon's blank pages, which fills with writing detailing the trapped creature's widely known name and depravities. Once used, this action can't be used again until the next dawn.
+The first ten pages of the Demonomicon are blank. As a [Magic](Magic.md) action while holding the book, you can target a Fiend that you can see that is trapped within the area of a [Magic Circle](Magic-Circle.md) spell. The Fiend must succeed on a DC 20 Charisma saving throw with [[Disadvantage|Disadvantage]] or become trapped within one of the Demonomicon's blank pages, which fills with writing detailing the trapped creature's widely known name and depravities. Once used, this action can't be used again until the next dawn.
 
 When you finish a [Long Rest](long-rest.md), if you and the Demonomicon are on the same plane of existence, one trapped creature within the book can attempt to possess you. You make a DC 20 Charisma saving throw. On a failed save, you are possessed by the creature, which controls you like a puppet. As a [Magic](Magic.md) action, the possessing creature can release you and appear in the closest unoccupied space to you. On a successful save, the Fiend can't try to possess you again for 7 days (but another Fiend trapped in the book can certainly try).
 
@@ -30,7 +30,7 @@ When the tome is discovered, it has `dice: 1d4` Fiends occupying its pages—typ
 
 ## Ensnarement
 
-While carrying the book, whenever you cast [Magic Circle](Magic-Circle.md) naming only Fiends or cast [Planar Binding](Planar-Binding.md) targeting a Fiend, the spell is cast at level 9, regardless of what level spell slot you used, if any. Additionally, the Fiend has [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on its saving throw against the spell.
+While carrying the book, whenever you cast [Magic Circle](Magic-Circle.md) naming only Fiends or cast [Planar Binding](Planar-Binding.md) targeting a Fiend, the spell is cast at level 9, regardless of what level spell slot you used, if any. Additionally, the Fiend has [[Disadvantage|Disadvantage]] on its saving throw against the spell.
 
 ## Fiendish Scourging
 

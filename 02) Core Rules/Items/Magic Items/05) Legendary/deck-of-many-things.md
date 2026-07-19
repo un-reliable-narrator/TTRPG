@@ -82,7 +82,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and torments you,
 
 ## Fool
 
-You have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on [D20 Tests](d20-test.md) for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
+You have [[Disadvantage|Disadvantage]] on [D20 Tests](d20-test.md) for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
 
 ## Gem
 

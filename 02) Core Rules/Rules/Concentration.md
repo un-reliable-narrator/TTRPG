@@ -8,4 +8,4 @@ Some spells and other effects require Concentration to remain active, as specifi
 
 ***Damage.*** If you take damage, you must succeed on a Constitution saving throw to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
 
-***Incapacitated or Dead.*** Your Concentration ends if you have the [[Incapacitated]] condition or you [[02) Core Rules/Rules/Dead|die]].
+***Incapacitated or Dead.*** Your Concentration ends if you have the [[Incapacitated]] condition or you [[Dead|die]].

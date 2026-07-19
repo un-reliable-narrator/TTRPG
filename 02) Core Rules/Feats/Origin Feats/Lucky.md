@@ -17,4 +17,4 @@ You gain the following benefits.
 
 **Advantage.** When you roll a `dice: d20` for a [D20 Test](d20-test.md), you can spend 1 Luck Point to give yourself [[Advantage|Advantage]] on the roll.
 
-**Disadvantage.** When a creature rolls a `dice: d20` for an attack roll against you, you can spend 1 Luck Point to impose [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on that roll.
+**Disadvantage.** When a creature rolls a `dice: d20` for an attack roll against you, you can spend 1 Luck Point to impose [[Disadvantage|Disadvantage]] on that roll.

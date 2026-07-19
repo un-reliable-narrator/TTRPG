@@ -43,7 +43,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 > - [[octopus]]
 > - [[Owl]]
 > - [[Piranha]]
-> - [[rat]]
+> - [[Rat]]
 > - [[raven]]
 > - [[scorpion]]
 > - [[seahorse]]

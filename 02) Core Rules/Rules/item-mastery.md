@@ -32,7 +32,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 ## Sap
 _Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-If you hit a creature with this weapon, that creature has [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has [[variant-rules/disadvantage|Disadvantage]] on its next attack roll before the start of your next turn.
 
 ## Slow
 _Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

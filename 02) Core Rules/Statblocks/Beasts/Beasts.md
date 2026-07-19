@@ -94,7 +94,7 @@ cssclasses:
 - [Pony](Pony.md)
 - [Pteranodon](Pteranodon.md)
 - [Quetzalcoatlus](quetzalcoatlus-mpmm.md)
-- [Rat](rat.md)
+- [Rat](Rat.md)
 - [Raven](raven.md)
 - [Reef Shark](reef-Shark.md)
 - [Rhinoceros](rhinoceros.md)

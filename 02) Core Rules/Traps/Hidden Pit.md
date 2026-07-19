@@ -13,7 +13,7 @@ pit. The lid remains open thereafter. A creature that falls into the pit takes 3
 
 ***Detect and Disarm.*** As a [[Study]] action, a creature can examine the section of floor that forms the pit’s lid and make a DC 15 Intelligence ([[Investigation]]) check, detecting the pit on a successful check. Once the pit is detected, an [[Iron Spikes|Iron Spike]] or a similar object can be wedged between the pit’s lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using *[[Arcane-Lock]]* or similar magic.
 
-***Escape.*** A creature needs a [[02) Core Rules/Rules/Climbing|Climb Speed]], climbing gear, or magic such as *[[Spider-Climb]]* to scale the pit’s smooth walls. You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.
+***Escape.*** A creature needs a [[Climbing|Climb Speed]], climbing gear, or magic such as *[[Spider-Climb]]* to scale the pit’s smooth walls. You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.
 
 ***At Higher Levels.*** You can scale the trap for higher levels by increasing the pit’s depth and damage, as shown in the following table.
 

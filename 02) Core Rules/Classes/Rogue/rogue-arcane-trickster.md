@@ -92,7 +92,7 @@ When you cast [Mage-Hand](Mage-Hand.md), you can cast it as a [Bonus Action](bon
 
 ### Magical Ambush (Level 9)
 
-If you have the [Invisible](Conditions.md#Invisible) condition when you cast a spell on a creature, it has [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on any saving throw it makes against the spell on the same turn.
+If you have the [Invisible](Conditions.md#Invisible) condition when you cast a spell on a creature, it has [[Disadvantage|Disadvantage]] on any saving throw it makes against the spell on the same turn.
 
 ### Versatile Trickster (Level 13)
 

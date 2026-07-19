@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - src/5e/xphb
 - feat
-aliases:
-- "Healer"
 ---
 # Healer
 *Source: Player's Handbook (2024) p. 201*  

@@ -102,7 +102,7 @@ While your Rage is active, you have a [Fly Speed](fly-speed.md) equal to your [S
 
 #### Lion
 
-While your Rage is active, any of your enemies within 5 feet of you have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on attack rolls against targets other than you or another Barbarian who has this option active.
+While your Rage is active, any of your enemies within 5 feet of you have [[Disadvantage|Disadvantage]] on attack rolls against targets other than you or another Barbarian who has this option active.
 
 #### Ram
 

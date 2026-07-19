@@ -47,7 +47,7 @@ _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] if you can see the attacker, and you make Dexterity [saving throws](saving-throw.md) with [[Advantage|Advantage]].
+lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has [[variant-rules/disadvantage|Disadvantage]] if you can see the attacker, and you make Dexterity [saving throws](saving-throw.md) with [[Advantage|Advantage]].
 
 You lose these benefits if you have the [Incapacitated](Conditions.md#Incapacitated) condition or if your [speed](variant-rules/speed.md) is 0.
 

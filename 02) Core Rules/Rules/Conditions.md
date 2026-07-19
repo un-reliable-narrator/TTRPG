@@ -16,7 +16,7 @@ While you have the Blinded condition, you experience the following effects.
 
 **Can't See.** You can't see and automatically fail any ability check that requires sight.
 
-**Attacks Affected.** [Attack] rolls against you have [[Advantage|Advantage]], and your attack rolls have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]].
+**Attacks Affected.** [Attack] rolls against you have [[Advantage|Advantage]], and your attack rolls have [[variant-rules/disadvantage|Disadvantage]].
 
 ## Bloodied
 _Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -68,7 +68,7 @@ _Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems 
 
 While you have the Frightened condition, you experience the following effects.
 
-**Ability Checks and Attacks Affected.** You have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+**Ability Checks and Attacks Affected.** You have [[variant-rules/disadvantage|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
 
 **Can't Approach.** You can't willingly move closer to the source of fear.
 
@@ -79,7 +79,7 @@ While you have the Grappled condition, you experience the following effects.
 
 **Speed 0.** Your [speed](variant-rules/speed.md) is 0 and can't increase.
 
-**Attacks Affected.** You have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] on attack rolls against any target other than the grappler.
+**Attacks Affected.** You have [[variant-rules/disadvantage|Disadvantage]] on attack rolls against any target other than the grappler.
 
 **Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
 
@@ -94,7 +94,7 @@ While you have the Incapacitated condition, you experience the following effects
 
 **Speechless.** You can't speak.
 
-**Surprised.** If you're Incapacitated when you roll [initiative](variant-rules/initiative.md), you have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] on the roll.
+**Surprised.** If you're Incapacitated when you roll [initiative](variant-rules/initiative.md), you have [[variant-rules/disadvantage|Disadvantage]] on the roll.
 
 ## Invisible
 _Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -105,7 +105,7 @@ While you have the Invisible condition, you experience the following effects.
 
 **Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
-**Attacks Affected.** [Attack] rolls against you have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]], and your attack rolls have [[Advantage|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+**Attacks Affected.** [Attack] rolls against you have [[variant-rules/disadvantage|Disadvantage]], and your attack rolls have [[Advantage|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ## Paralyzed
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -146,7 +146,7 @@ _Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems 
 
 While you have the Poisoned condition, you experience the following effect.
 
-**Ability Checks and Attacks Affected.** You have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] on attack rolls and ability checks.
+**Ability Checks and Attacks Affected.** You have [[variant-rules/disadvantage|Disadvantage]] on attack rolls and ability checks.
 
 ## Prone
 _Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -155,7 +155,7 @@ While you have the Prone condition, you experience the following effects.
 
 **Restricted Movement.** Your only movement options are to [crawl](variant-rules/crawling.md) or to spend an amount of movement equal to half your [speed](variant-rules/speed.md) (round down) to right yourself and thereby end the condition. If your [speed](variant-rules/speed.md) is 0, you can't right yourself.
 
-**Attacks Affected.** You have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] on attack rolls. An attack roll against you has [[Advantage|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]].
+**Attacks Affected.** You have [[variant-rules/disadvantage|Disadvantage]] on attack rolls. An attack roll against you has [[Advantage|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[variant-rules/disadvantage|Disadvantage]].
 
 ## Restrained
 _Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -164,9 +164,9 @@ While you have the Restrained condition, you experience the following effects.
 
 **Speed 0.** Your [speed](variant-rules/speed.md) is 0 and can't increase.
 
-**Attacks Affected.** [Attack] rolls against you have [[Advantage|Advantage]], and your attack rolls have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]].
+**Attacks Affected.** [Attack] rolls against you have [[Advantage|Advantage]], and your attack rolls have [[variant-rules/disadvantage|Disadvantage]].
 
-**Saving Throws Affected.** You have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] on Dexterity [saving throws](saving-throw.md).
+**Saving Throws Affected.** You have [[variant-rules/disadvantage|Disadvantage]] on Dexterity [saving throws](saving-throw.md).
 
 ## Stunned
 _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -182,7 +182,7 @@ While you have the Stunned condition, you experience the following effects.
 ## Surprised
 _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] on its [initiative](variant-rules/initiative.md) roll.
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[variant-rules/disadvantage|Disadvantage]] on its [initiative](variant-rules/initiative.md) roll.
 
 ## Unconscious
 _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

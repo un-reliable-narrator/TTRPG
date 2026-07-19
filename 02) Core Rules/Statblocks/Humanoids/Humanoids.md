@@ -124,7 +124,7 @@ cssclasses:
 - [Tough Boss](Tough-Boss.md)
 - [Tough](Statblocks/Humanoids/Tough.md)
 - [Transmuter Wizard](transmuter-Wizard-mpmm.md)
-- [Vampire Familiar](vampire-familiar.md)
+- [Vampire Familiar](Vampire-Familiar.md)
 - [War Priest](War-Priest-mpmm.md)
 - [[Warlock-of the-Archfey-mpmm|Warlock of the Archfey]]
 - [[Warlock of the Fiend - mpmm|Warlock of the Fiend]]

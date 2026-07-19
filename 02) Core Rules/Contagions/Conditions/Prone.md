@@ -4,6 +4,6 @@ tags:
 ---
 While you have the Prone condition, you experience the following effects.
 
-***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your [[02) Core Rules/Rules/Speed|Speed]] (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.
+***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your [[Speed|Speed]] (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.
 
-***Attacks Affected.*** You have [[02) Core Rules/Rules/variant-rules/disadvantage|Disadvantage]] on attack rolls. An attack roll against you has [[Advantage|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
+***Attacks Affected.*** You have [[variant-rules/disadvantage|Disadvantage]] on attack rolls. An attack roll against you has [[Advantage|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.

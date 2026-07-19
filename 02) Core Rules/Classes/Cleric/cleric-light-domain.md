@@ -75,7 +75,7 @@ As a [Magic](Magic.md) action, you present your [Holy Symbol](holy-Symbol.md) an
 
 ### Warding Flare (Level 3)
 
-When a creature that you can see within 30 feet of yourself makes an attack roll, you can take a [Reaction](reaction.md) to impose [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on the attack roll, causing light to flare before it hits or misses.
+When a creature that you can see within 30 feet of yourself makes an attack roll, you can take a [Reaction](reaction.md) to impose [[Disadvantage|Disadvantage]] on the attack roll, causing light to flare before it hits or misses.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [Long Rest](long-rest.md).
 
@@ -87,6 +87,6 @@ In addition, whenever you use Warding Flare, you can give the target of the trig
 
 ### Corona of Light (Level 17)
 
-As a [Magic](Magic.md) action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [Bright Light](bright-light.md) in a 60-foot radius and [Dim Light](dim-light.md) for an additional 30 feet. Your enemies in the [Bright Light](bright-light.md) have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
+As a [Magic](Magic.md) action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [Bright Light](bright-light.md) in a 60-foot radius and [Dim Light](dim-light.md) for an additional 30 feet. Your enemies in the [Bright Light](bright-light.md) have [[Disadvantage|Disadvantage]] on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](long-rest.md).

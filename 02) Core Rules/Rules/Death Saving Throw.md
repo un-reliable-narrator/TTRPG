@@ -4,7 +4,7 @@ tags:
 ---
 Whenever you start your turn with 0 [[Hit Points]], you must make a Death Saving Throw to determine whether you creep closer to death or hang on to life. Unlike other saving throws, this one isn’t tied to an ability score. You’re in the hands of fate now.
 
-***Three Successes/Failures.*** Roll 1d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become [[02) Core Rules/Rules/Stable]]. On your third failure, you [[02) Core Rules/Rules/Dead|die]]. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any Hit Points or become Stable.
+***Three Successes/Failures.*** Roll 1d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become [[Stable]]. On your third failure, you [[Dead|die]]. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any Hit Points or become Stable.
 
 ***Rolling a 1 or 20.*** When you roll a 1 on the d20 for a Death Saving Throw, you suffer two failures. If you roll a 20 on the d20, you regain 1 Hit Point.
 

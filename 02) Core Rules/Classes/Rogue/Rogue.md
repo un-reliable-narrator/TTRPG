@@ -84,7 +84,7 @@ At Rogue level 6, you gain [Expertise](Expertise.md) in two more of your skill p
 
 You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice: 1d6` damage to one creature you hit with an attack roll if you have [[Advantage|Advantage]] on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
 
-You don't need [[Advantage|Advantage]] on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the [Incapacitated](Conditions.md#Incapacitated) condition, and you don't have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on the attack roll.
+You don't need [[Advantage|Advantage]] on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the [Incapacitated](Conditions.md#Incapacitated) condition, and you don't have [[Disadvantage|Disadvantage]] on the attack roll.
 
 The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 

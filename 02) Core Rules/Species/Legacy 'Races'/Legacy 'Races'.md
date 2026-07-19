@@ -7,12 +7,12 @@ cssclasses:
 # Index of Races
 
 - [Aarakocra](Aarakocra-mpmm.md)
-- [Aasimar](Species/Legacy%20'Races'/Aasimar.md)
+- [Aasimar](02)%20Core%20Rules/Species%20Traits/Species/Legacy%20'Races'/Aasimar.md)
 - [Bugbear](Bugbear-mpmm.md)
 - [Centaur](centaur-mpmm.md)
 - [Changeling](changeling-mpmm.md)
 - [Deep Gnome](deep-gnome-mpmm.md)
-- [Dragonborn](Species/Legacy%20'Races'/Dragonborn.md)
+- [Dragonborn](02)%20Core%20Rules/Species%20Traits/Species/Legacy%20'Races'/Dragonborn.md)
 - [Duergar](duergar-mpmm.md)
 - [Dwarf](Dwarf.md)
 - [Eladrin](eladrin-mpmm.md)
@@ -44,6 +44,6 @@ cssclasses:
 - [Shifter](shifter-mpmm.md)
 - [Tabaxi](tabaxi-mpmm.md)
 - [Tiefling](Tiefling.md)
-- [Tortle](Species/Legacy%20'Races'/Tortle-mpmm.md)
+- [Tortle](02)%20Core%20Rules/Species%20Traits/Species/Legacy%20'Races'/Tortle-mpmm.md)
 - [Triton](Triton-mpmm.md)
 - [Yuan-Ti](Yuan-Ti-mpmm.md)

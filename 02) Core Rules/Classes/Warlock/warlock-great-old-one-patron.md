@@ -78,13 +78,13 @@ When you cast a Warlock spell that deals damage, you can change its damage type 
 
 ### Clairvoyant Combatant (Level 6)
 
-When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on attack rolls against you, and you have [[Advantage|Advantage]] on attack rolls against that creature for the duration of the bond.
+When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has [[Disadvantage|Disadvantage]] on attack rolls against you, and you have [[Advantage|Advantage]] on attack rolls against that creature for the duration of the bond.
 
 Once you use this feature, you can't use it again until you finish a [Short](short-rest.md) or [Long Rest](long-rest.md) unless you expend a Pact [Magic](Magic.md) spell slot (no action required) to restore your use of it.
 
 ### Eldritch Hex (Level 10)
 
-Your alien patron grants you a powerful curse. You always have the [Hex](Hex.md) spell prepared. When you cast [Hex](Hex.md) and choose an ability, the target also has [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on saving throws of the chosen ability for the duration of the spell.
+Your alien patron grants you a powerful curse. You always have the [Hex](Hex.md) spell prepared. When you cast [Hex](Hex.md) and choose an ability, the target also has [[Disadvantage|Disadvantage]] on saving throws of the chosen ability for the duration of the spell.
 
 ### Thought Shield (Level 10)
 

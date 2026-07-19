@@ -164,7 +164,7 @@ You gain the [Ability Score Improvement](Ability-Score-Improvement.md) feat or a
 
 ### Brutal Strike (Level 9)
 
-If you use Reckless Attack, you can forgo any [[Advantage|Advantage]] on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have [[02) Core Rules/Rules/Disadvantage|Disadvantage]]. If the chosen attack roll hits, the target takes an extra `dice: 1d10` damage of the same type dealt by the weapon or [Unarmed Strike](Unarmed%20Strike.md), and you can cause one Brutal Strike effect of your choice. You have the following effect options.
+If you use Reckless Attack, you can forgo any [[Advantage|Advantage]] on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have [[Disadvantage|Disadvantage]]. If the chosen attack roll hits, the target takes an extra `dice: 1d10` damage of the same type dealt by the weapon or [Unarmed Strike](Unarmed%20Strike.md), and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
 #### Forceful Blow
 
@@ -194,7 +194,7 @@ You have honed new ways to attack furiously. The following effects are now among
 
 #### Staggering Blow
 
-The target has [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on the next saving throw it makes, and it can't make [Opportunity Attacks](Opportunity%20Attacks.md) until the start of your next turn.
+The target has [[Disadvantage|Disadvantage]] on the next saving throw it makes, and it can't make [Opportunity Attacks](Opportunity%20Attacks.md) until the start of your next turn.
 
 #### Sundering Blow
 

@@ -144,7 +144,7 @@ You gain additional uses when you reach certain Druid levels, as shown in the Wi
 
 #### Known Forms
 
-You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum [Challenge Rating](challenge-rating.md) of 1/4 and that lack a [Fly Speed](fly-speed.md) (see appendix B for stat block options). The [rat](rat.md), [Riding Horse](02)%20Core%20Rules/Items/Mounts/riding-horse.md), [spider](spider.md), and [wolf](wolf.md) are recommended. Whenever you finish a [Long Rest](long-rest.md), you can replace one of your known forms with another eligible form.
+You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum [Challenge Rating](challenge-rating.md) of 1/4 and that lack a [Fly Speed](fly-speed.md) (see appendix B for stat block options). The [Rat](Rat.md), [Riding Horse](02)%20Core%20Rules/Items/Mounts/riding-horse.md), [spider](spider.md), and [wolf](wolf.md) are recommended. Whenever you finish a [Long Rest](long-rest.md), you can replace one of your known forms with another eligible form.
 
 When you reach certain Druid levels, your number of known forms and the maximum [Challenge Rating](challenge-rating.md) for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a [Fly Speed](fly-speed.md).
 

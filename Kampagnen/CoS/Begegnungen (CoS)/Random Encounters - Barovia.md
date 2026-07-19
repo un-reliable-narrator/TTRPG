@@ -98,7 +98,7 @@ Random Encounters from [[Curse of Strahd.pdf#page=49|Castle Ravenloft]] are exch
 | 5            | Broom of Animated Attack | Corpse               | Zombie Plague Spreader                                                                                                        |
 | 6            | 1d4+1 Flying Swords      | 1 Mimic              | Combine: 1 Sword is actually (carrying) a Mimic (disguised as hilt).                                                          |
 | 7            | Blinsky Toy              | Blinsky Toy          | Carrionette                                                                                                                   |
-| 8            | Unseen Servant           | 1d4 Animated Armors  | a) [[vampire-familiar\|Vampire Familiar]]<br>OR<br>b) Waxwork (resembling the above)                                          |
+| 8            | Unseen Servant           | 1d4 Animated Armors  | a) [[Vampire-Familiar\|Vampire Familiar]]<br>OR<br>b) Waxwork (resembling the above)                                          |
 | 9            | 1d4 Barovian Commoners   | Book                 | Ottokar's Sonnenbrille                                                                                                        |
 | 10           | 2d6 Crawling Claws       | 1d6 Strahd Zombies   | 1 Swarm of Zombie Limbs, 1d6 Strahd Zombies. Zombies are nibbling on the hands, missing some themselves.<br>OR<br>Zombie Clot |
 | 11           | 1d6 Shadows              | 1d6 Skeletons        | 1d6 Strahd Skeletons                                                                                                          |

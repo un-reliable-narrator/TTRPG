@@ -12,7 +12,7 @@ cssclasses:
 - [Dead Magic Zone](./dead-magic-zone.md)
 - [Deep Water](./deep-water.md)
 - [Dehydration](Traps/dehydration.md)
-- [Extreme Cold](./extreme-cold.md)
+- [Extreme Cold](Extreme-Cold.md)
 - [Extreme Heat](./extreme-heat.md)
 - [Falling Net](./falling-net.md)
 - [Falling](Traps/Falling.md)

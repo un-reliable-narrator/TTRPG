@@ -6,4 +6,4 @@ While you have the Blinded condition, you experience the following effects.
 
 ***Can't See.*** You can't see and automatically fail any ability check that requires sight.
 
-***Attacks Affected.*** Attack rolls against you have [[Advantage|Advantage]], and your attack rolls have [[02) Core Rules/Rules/Disadvantage|Disadvantage]].
+***Attacks Affected.*** Attack rolls against you have [[Advantage|Advantage]], and your attack rolls have [[Disadvantage|Disadvantage]].

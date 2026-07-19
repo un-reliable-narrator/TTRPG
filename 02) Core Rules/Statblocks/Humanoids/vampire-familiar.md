@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Vampire Familiar"
 ---
-# [Vampire Familiar](vampire-familiar.md)
+# [Vampire Familiar](Vampire-Familiar.md)
 *Source: Monster Manual (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Vampire familiars are living people who serve vampires, either willingly or due to coercion by their deathless masters. They channel deathly energy through their weapons, incapacitating unsuspecting targets and leaving their victims as helpless prey for their vampire masters.

@@ -4,7 +4,7 @@ tags:
 ---
 If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
 
-**Darkness.** You can see in normal and magical [[02) Core Rules/Rules/Darkness|Darkness]].
+**Darkness.** You can see in normal and magical [[Darkness|Darkness]].
 
 **Invisibility.** You see creatures and objects that have the [[Invisible]] condition.
 

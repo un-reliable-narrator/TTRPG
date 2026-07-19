@@ -10,13 +10,13 @@ Newest on the council.
 
 Members share the following trait:
 ###### Not Quite Real
-Twice per day, as an action, you may turn into an [[02) Core Rules/Rules/Illusions|illusion]], along with any objects you are wearing or carrying. You can partially dismiss this effect at any time, and return an object you were holding to it's normal state *(at which point it phases through you)*. If a creature attempts to willingly hand you an object, you can extend the illusion to that object as it is handed over.
+Twice per day, as an action, you may turn into an [[Illusions|illusion]], along with any objects you are wearing or carrying. You can partially dismiss this effect at any time, and return an object you were holding to it's normal state *(at which point it phases through you)*. If a creature attempts to willingly hand you an object, you can extend the illusion to that object as it is handed over.
 While illusory, you cannot physically affect or be affected by anything real. You are immune to all damage types except psychic and all conditions except [[Charmed]], and you automatically succeed on all Strength, Dexterity and Constitution saves, provided that the source is an entity that is real. 
 
 As you cannot hold or interact with objects that are not illusory, your melee attacks do not affect real creatures *(your fists or weapons phase through harmlessly)*, but your spells and ranged attacks affect most creatures as normal.
 *(As you may partially dismiss your illusory state, you can have any projectiles you fire become real as soon as they leave your reach.)*
 
-In turn, certain [[02) Core Rules/Rules/Illusions]] may affect you as if they were real. 
+In turn, certain [[Illusions]] may affect you as if they were real. 
 The spells [[Minor-Illusion]], [[Major-Image]] or [[Programmed-Illusion]] may, if the caster has minimal knowledge of your condition, be used to create an illusion that replicates the effects of another spell chosen by the caster. The chosen spell must be known by the caster, have a casting time of an action, and have the same or a lower level as the illusion spell used to replicate it. 
 The resulting spell effect is an illusion, but it's effects are treated as real by other illusions and illusory creatures. *(If [[Major-Image]] is cast to produce e.g. an illusory [[Fireball]] spell, any illusory creatures in the area will take damage as from a regular [[Fireball]] spell, bypassing any effects granted by their illusory state.*)
 

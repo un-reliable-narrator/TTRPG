@@ -93,7 +93,7 @@ As a [Bonus Action](bonus-action.md), you can imbue your Aura of Protection with
 
 #### Diminish Defiance
 
-Enemies in the aura have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on saving throws against your spells and Channel Divinity options.
+Enemies in the aura have [[Disadvantage|Disadvantage]] on saving throws against your spells and Channel Divinity options.
 
 #### Regeneration
 

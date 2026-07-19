@@ -6,7 +6,7 @@ While you have the Unconscious condition, you experience the following effects.
 
 ***Inert.*** You have the [[Incapacitated]] and [[Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
 
-***Speed 0.*** Your [[02) Core Rules/Rules/Speed|Speed]] is 0 and can't increase.
+***Speed 0.*** Your [[Speed|Speed]] is 0 and can't increase.
 
 ***Attacks Affected.*** Attack rolls against you have [[Advantage|Advantage]].
 

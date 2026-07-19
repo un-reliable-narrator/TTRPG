@@ -39,7 +39,7 @@ After you spend the requisite amount of time reading and studying the book, any 
 
 ## Halo
 
-After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [Bright Light](bright-light.md) in a 10-foot radius and [Dim Light](dim-light.md) for an additional 10 feet. You can dismiss or manifest the halo as a [Bonus Action](bonus-action.md). While present, the halo gives you [[Advantage|Advantage]] on Charisma ([Persuasion]) checks. In addition, Fiends and Undead within the halo's [Bright Light](bright-light.md) make attack rolls against you with [[02) Core Rules/Rules/Disadvantage|Disadvantage]].
+After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [Bright Light](bright-light.md) in a 10-foot radius and [Dim Light](dim-light.md) for an additional 10 feet. You can dismiss or manifest the halo as a [Bonus Action](bonus-action.md). While present, the halo gives you [[Advantage|Advantage]] on Charisma ([Persuasion]) checks. In addition, Fiends and Undead within the halo's [Bright Light](bright-light.md) make attack rolls against you with [[Disadvantage|Disadvantage]].
 
 ## Random Properties
 

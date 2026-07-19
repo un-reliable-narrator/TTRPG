@@ -78,7 +78,7 @@ Immediately after you teleport, you or one creature you can see within 10 feet o
 
 #### Taunting Step
 
-Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on attack rolls against creatures other than you until the start of your next turn.
+Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have [[Disadvantage|Disadvantage]] on attack rolls against creatures other than you until the start of your next turn.
 
 ### Misty Escape (Level 6)
 

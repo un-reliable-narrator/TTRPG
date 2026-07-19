@@ -13,7 +13,7 @@ aliases:
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 96*  
 
-A Lightning Cannon is a small, bronze cannon inlaid with arcane runes and mounted on a heavy tripod device. It launches balls of crackling electricity. Aiming a Lightning Cannon requires the [Utilize](03)%20Resources/Tables/RAW/Actions.md#Utilize) action, then a crew member can take the Lightning Ball action.
+A Lightning Cannon is a small, bronze cannon inlaid with arcane runes and mounted on a heavy tripod device. It launches balls of crackling electricity. Aiming a Lightning Cannon requires the [Utilize](Actions.md#Utilize) action, then a crew member can take the Lightning Ball action.
 
 ```ad-statblock
 title: Lightning Cannon

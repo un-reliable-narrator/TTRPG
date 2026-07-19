@@ -8,4 +8,4 @@ Initiative determines the order of turns during combat. When combat starts, ever
 
 ***Ties.*** If a tie occurs, the GM decides the order among tied monsters, and the players decide the order among tied characters. The GM decides the order if the tie is between a monster and a player character
 
-***Initiative Scores.*** Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have [[Advantage|Advantage]] on Initiative rolls, increase your Initiative score by 5. If you have [[02) Core Rules/Rules/Disadvantage|Disadvantage]] on those rolls, decrease that score by 5.
+***Initiative Scores.*** Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have [[Advantage|Advantage]] on Initiative rolls, increase your Initiative score by 5. If you have [[Disadvantage|Disadvantage]] on those rolls, decrease that score by 5.

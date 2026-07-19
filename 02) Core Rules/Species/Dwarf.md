@@ -11,7 +11,7 @@ As a Dwarf, you have these special traits.
 
 ***Darkvision.*** You have [[02) Core Rules/Senses/Darkvision]] with a range of 120 feet.
 
-***Dwarven Resilience.*** You have [[02) Core Rules/Rules/Resistance]] to Poison damage. You also have [[Advantage|Advantage]] on saving throws you make to avoid or end the [[Poisoned]] condition.
+***Dwarven Resilience.*** You have [[Resistance]] to Poison damage. You also have [[Advantage|Advantage]] on saving throws you make to avoid or end the [[Poisoned]] condition.
 
 ***Dwarven Toughness.*** Your [[Hit Points|Hit Point]] maximum increases by 1, and it increases by 1 again whenever you gain a level.
 
