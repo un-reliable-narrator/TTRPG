@@ -54,7 +54,7 @@ Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra 
 
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, follow the rules for that class.
 
-![Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level](spellcasting-multiclass-spellcaster-spell-slots-per-spell-level.md)
+![Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level](spell-slots-per-spell-level.md)
 
 #### Spells Prepared
 

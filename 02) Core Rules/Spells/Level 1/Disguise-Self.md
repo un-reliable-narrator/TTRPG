@@ -3,6 +3,8 @@ tags:
   - spell
 school: Illusion
 spell_level: "1"
+aliases:
+- "Disguise Self"
 ---
 #### Disguise Self
 

@@ -75,7 +75,7 @@ You have [[variant-rules/disadvantage|Disadvantage]] on attack rolls with a Heav
 
 ### Light
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
-When you take the [[Attack]] action on your turn and attack with a Light weapon, you can make one extra attack as a [Bonus Action](bonus-action.md) later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [shortsword](shortsword.md) in one hand and a [dagger](dagger.md) in the other using the [[Attack]] action and a [Bonus Action](bonus-action.md), but you don't add your Strength or Dexterity modifier to the damage roll of the [Bonus Action](bonus-action.md) unless that modifier is negative.
+When you take the [[Attack]] action on your turn and attack with a Light weapon, you can make one extra attack as a [Bonus Action](bonus-action.md) later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [Shortsword](Shortsword.md) in one hand and a [dagger](dagger.md) in the other using the [[Attack]] action and a [Bonus Action](bonus-action.md), but you don't add your Strength or Dexterity modifier to the damage roll of the [Bonus Action](bonus-action.md) unless that modifier is negative.
 
 ### Loading
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_

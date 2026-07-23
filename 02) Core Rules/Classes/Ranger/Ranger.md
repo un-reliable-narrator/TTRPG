@@ -55,7 +55,7 @@ aliases:
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](item-types.md#Light%20Armor), [Medium armor](item-types.md#Medium%20Armor), and [Shields](Shield)
 
-**Starting Equipment:** *Choose A or B:* (A) [Studded Leather Armor](Studded-Leather-Armor.md), [scimitar](scimitar.md), [shortsword](shortsword.md), [Longbow](Longbow.md), [20 Arrows](Arrows-20.md), [quiver](quiver.md), [Druidic Focus](Druidic-Focus.md) ([sprig of mistletoe](sprig-of-mistletoe.md)), [Explorer's Pack](explorers-Pack.md), and 7 GP; or (B) 150 GP
+**Starting Equipment:** *Choose A or B:* (A) [Studded Leather Armor](Studded-Leather-Armor.md), [scimitar](scimitar.md), [Shortsword](Shortsword.md), [Longbow](Longbow.md), [20 Arrows](Arrows-20.md), [quiver](quiver.md), [Druidic Focus](Druidic-Focus.md) ([sprig of mistletoe](sprig-of-mistletoe.md)), [Explorer's Pack](explorers-Pack.md), and 7 GP; or (B) 150 GP
 
 ## Multiclassing Ranger
 
@@ -107,7 +107,7 @@ The number of times you can cast the spell without a spell slot increases when y
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [mastery properties](Weapon-Mastery-Properties.md) of two kinds of weapons of your choice with which you have proficiency, such as [Longbows](Longbow.md) and [Shortswords](shortsword.md).
+Your training with weapons allows you to use the [mastery properties](Weapon-Mastery-Properties.md) of two kinds of weapons of your choice with which you have proficiency, such as [Longbows](Longbow.md) and [Shortswords](Shortsword.md).
 
 Whenever you finish a [Long Rest](long-rest.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](Weapon-Mastery-Properties.md) of [Scimitars](scimitar.md) and [Longswords](Longsword.md).
 

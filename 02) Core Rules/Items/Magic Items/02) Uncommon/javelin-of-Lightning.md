@@ -11,7 +11,7 @@ aliases:
 - "Javelin of Lightning"
 ---
 # Javelin of Lightning
-*Weapon ([javelin](javelin.md)), uncommon*  
+*Weapon ([Javelin](Javelin.md)), uncommon*  
 ![](items/XDMG/Javelin of Lightning.webp#right)
 
 - **Damage**: 1d6 piercing

@@ -44,7 +44,7 @@ The orb has 7 charges and regains `1d4 + 3` expended charges daily at dawn. If y
 | [Cure Wounds](Cure-Wounds.md) (level 9 version) | 4 |
 | [Daylight](Daylight.md) | 1 |
 | [Death Ward](Death-Ward.md) | 2 |
-| [Detect Dagic](Detect-Magic.md) | 0 |
+| [Detect Magic](Detect-Magic.md) | 0 |
 | [Scrying](Scrying.md) (save DC 18) | 3 |
 ^spell-charge-cost
 

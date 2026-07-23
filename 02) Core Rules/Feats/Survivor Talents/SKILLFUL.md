@@ -1,0 +1,4 @@
+# SKILLFUL 
+*Survivor Talent*
+
+You gain proficiency in two skills of your choice.

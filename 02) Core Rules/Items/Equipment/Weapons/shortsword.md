@@ -7,8 +7,6 @@ tags:
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/melee
-aliases:
-- "Shortsword"
 ---
 # Shortsword
 *Weapon*  
@@ -16,6 +14,7 @@ aliases:
 
 - **Damage**: 1d6 piercing
 - **Properties**: [Finesse](Item-Properties.md#Finesse), [Light](Item-Properties.md#Light)
+- **Mastery:** [[Vex]]
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 

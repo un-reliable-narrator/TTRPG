@@ -27,8 +27,8 @@ In Castle Ravenloft, while not in combat, Strahd can cast [[Animate-Objects]] wi
 - Duration becomes permanent.
 - Concentration (or giving commands) is not required. 
 - Brooms and Swords become [[Animated-Broom|Animated Broom]]s and [[Animated Flying Sword]]s
-- Armors become [[Animated Armor]]s
-- Rugs become [[Animated Rug of Smothering]]
+- Armors become [[Animated-Armor|Animated Armor]]s
+- Rugs become [[Animated-Rug-of-Smothering|Animated Rug of Smothering]]
 *Effectively, he can add 5 Swords/Brooms/Armors or half that in Rugs to the Castle's defenses every day.*
 
 ##### Actions

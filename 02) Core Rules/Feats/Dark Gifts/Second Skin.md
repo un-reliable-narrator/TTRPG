@@ -1,10 +1,9 @@
-Second Skin
+# Second Skin
+_Dark Gift Feat (Prerequisite: Ravenloft Campaign)_
 
 [Home](http://dnd2024.wikidot.com/home:home) » [Feats](all) » Second Skin
 
 Source: Ravenloft - The Horrors Within
-
-_Dark Gift Feat (Prerequisite: Ravenloft Campaign)_
 
 There is another side of you that most people never see: a beast, a terrifying avenger, or a walking nightmare. You gain the following features.
 

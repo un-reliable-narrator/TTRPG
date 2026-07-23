@@ -55,7 +55,7 @@ Die Gruppe weiß jetzt von:
 ## Session 6 (Fr, 20.02.26)
 *Was werde ich brauchen? Was werden wir machen?*
 ### 1. *[[Fluch des Strahd.pdf#page=238|Rahadin]]'s Besuch*
-[[Fluch des Strahd.pdf#page=238|Rahadin]] erscheint in berittener Prozession, begleitet von 4 ausdruckslosen Rittern ([[Animated Armor]]) und 1 Höfling ([[Vampire Familiar]]). Er bringt Geschenke für das Dorf und eine Einladung zum Dinner.
+[[Fluch des Strahd.pdf#page=238|Rahadin]] erscheint in berittener Prozession, begleitet von 4 ausdruckslosen Rittern ([[Animated-Armor|Animated Armor]]) und 1 Höfling ([[Vampire Familiar]]). Er bringt Geschenke für das Dorf und eine Einladung zum Dinner.
 - [x] 
 ### 2. *Morgantha*
 Sollte die Gruppe [[Fluch des Strahd.pdf#page=49|Morgantha]] ([[Night Hag]]) noch ein mal wiedersehen, wie sie ein Kind entführt? Wahrscheinlich schon. Vielleicht ist es ein Erlebnis, das Kell vorbehalten bleibt...

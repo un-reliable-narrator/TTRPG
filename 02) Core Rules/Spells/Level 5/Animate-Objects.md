@@ -3,6 +3,8 @@ tags:
   - spell
 school: Transmutation
 spell_level: "5"
+aliases:
+- "Animate Objects"
 ---
 #### Animate Objects
 

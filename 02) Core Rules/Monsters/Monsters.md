@@ -240,7 +240,7 @@ Every monster in the 2014 *Monster Manual* either appears in this book or has a 
 | Quadrone                                          | [[Modron-quadrone\|Modron Quadrone]]             |
 | Quaggoth Spore Servant                            | [[Myconid-Spore-Servant\|Myconid Spore Servant]] |
 | Quipper                                           | [[Piranha]]                             |
-| Rug of Smothering                                 | [[Animated Rug of Smothering]]                   |
+| Rug of Smothering                                 | [[Animated-Rug-of-Smothering|Animated Rug of Smothering]]                   |
 | Sahuagin                                          | [[Sahuagin Warrior]]                             |
 | Sahuagin Priestess                                | [[sahuagin-Priest\|Sahuagin Priest]]             |
 | Shrieker                                          | [[Shrieker Fungus]]                              |

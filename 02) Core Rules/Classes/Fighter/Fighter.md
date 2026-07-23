@@ -55,7 +55,7 @@ aliases:
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](item-types.md#Light%20Armor), [Medium armor](item-types.md#Medium%20Armor), [Heavy armor](item-types.md#Heavy%20Armor), and [Shields](Shield)
 
-**Starting Equipment:** *Choose A, B, or C:* (A) [Chain Mail](chain-mail.md), [Greatsword](Greatsword.md), [flail](flail.md), 8 [Javelins](javelin.md), [Dungeoneer's Pack](dungeoneers-Pack.md), and 4 GP; (B) [Studded Leather Armor](Studded-Leather-Armor.md), [scimitar](scimitar.md), [shortsword](shortsword.md), [Longbow](Longbow.md), [20 Arrows](Arrows-20.md), [quiver](quiver.md), [Dungeoneer's Pack](dungeoneers-Pack.md), and 11 GP; or (C) 155 GP
+**Starting Equipment:** *Choose A, B, or C:* (A) [Chain Mail](chain-mail.md), [Greatsword](Greatsword.md), [flail](flail.md), 8 [Javelins](Javelin.md), [Dungeoneer's Pack](dungeoneers-Pack.md), and 4 GP; (B) [Studded Leather Armor](Studded-Leather-Armor.md), [scimitar](scimitar.md), [Shortsword](Shortsword.md), [Longbow](Longbow.md), [20 Arrows](Arrows-20.md), [quiver](quiver.md), [Dungeoneer's Pack](dungeoneers-Pack.md), and 11 GP; or (C) 155 GP
 
 ## Multiclassing Fighter
 

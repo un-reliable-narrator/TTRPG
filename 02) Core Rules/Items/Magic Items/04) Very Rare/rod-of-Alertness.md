@@ -23,7 +23,7 @@ This rod has the following properties.
 While holding the rod, you have [[Advantage|Advantage]] on Wisdom ([Perception](Perception.md)) checks and on [Initiative](Initiative.md) rolls. Spells. While holding the rod, you can cast the following spells from it:
 
 - [Detect Evil and Good](Detect-Evil-and-Good.md)  
-- [Detect Dagic](Detect-Magic.md)  
+- [Detect Magic](Detect-Magic.md)  
 - [Detect Poison and Disease](Detect-Poison-and-Disease.md)  
 - [See Invisibility](See-Invisibility.md)  
 

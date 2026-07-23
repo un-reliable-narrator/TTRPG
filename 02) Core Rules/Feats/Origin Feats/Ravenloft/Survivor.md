@@ -1,4 +1,4 @@
-# Survivor 
+# Survivor
 *Origin Feat* 
 
 You gain the following benefits. 

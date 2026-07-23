@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - class/rogue
 - src/5e/xphb
-aliases:
-- "Rogue"
 ---
 # Rogue
 *Source: Player's Handbook (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -56,7 +54,7 @@ aliases:
 - **Tool Proficiencies**: [Thieves' Tools](thieves-tools.md)
 - **Armor Training**: [Light armor](item-types.md#Light%20Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Leather-Armor.md), 2 [Daggers](dagger.md), [shortsword](shortsword.md), [shortbow](shortbow.md), [20 Arrows](Arrows-20.md), [quiver](quiver.md), [Thieves' Tools](thieves-tools.md), [Burglar's Pack](burglars-Pack.md), and 8 GP; or (B) 100 GP
+**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Leather-Armor.md), 2 [Daggers](dagger.md), [Shortsword](Shortsword.md), [shortbow](shortbow.md), [20 Arrows](Arrows-20.md), [quiver](quiver.md), [Thieves' Tools](thieves-tools.md), [Burglar's Pack](burglars-Pack.md), and 8 GP; or (B) 100 GP
 
 ## Multiclassing Rogue
 
@@ -96,7 +94,7 @@ You picked up various languages in the communities where you plied your roguish 
 
 Your training with weapons allows you to use the [mastery properties](Weapon-Mastery-Properties.md) of two kinds of weapons of your choice with which you have proficiency, such as [Daggers](dagger.md) and [Shortbows](shortbow.md).
 
-Whenever you finish a [Long Rest](long-rest.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](Weapon-Mastery-Properties.md) of [Scimitars](scimitar.md) and [Shortswords](shortsword.md).
+Whenever you finish a [Long Rest](long-rest.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](Weapon-Mastery-Properties.md) of [Scimitars](scimitar.md) and [Shortswords](Shortsword.md).
 
 ### Cunning Action (Level 2)
 

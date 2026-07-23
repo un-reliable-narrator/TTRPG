@@ -9,8 +9,6 @@ tags:
 - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-- "Bandit"
 ---
 # [Bandit](Bandit.md)
 *Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

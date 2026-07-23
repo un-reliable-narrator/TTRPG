@@ -55,7 +55,7 @@ aliases:
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](item-types.md#Light%20Armor), [Medium armor](item-types.md#Medium%20Armor), [Heavy armor](item-types.md#Heavy%20Armor), and [Shields](Shield)
 
-**Starting Equipment:** *Choose A or B:* (A) [Chain Mail](chain-mail.md), [Shield](Shield), [Longsword](Longsword.md), 6 [Javelins](javelin.md), [Holy Symbol](holy-Symbol.md), [Priest's Pack](priests-Pack.md), and 9 GP; or (B) 150 GP
+**Starting Equipment:** *Choose A or B:* (A) [Chain Mail](chain-mail.md), [Shield](Shield), [Longsword](Longsword.md), 6 [Javelins](Javelin.md), [Holy Symbol](holy-Symbol.md), [Priest's Pack](priests-Pack.md), and 9 GP; or (B) 150 GP
 
 ## Multiclassing Paladin
 
@@ -110,7 +110,7 @@ You can use a [Holy Symbol](holy-Symbol.md) as a [Spellcasting Focus](spellcasti
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [mastery properties](Weapon-Mastery-Properties.md) of two kinds of weapons of your choice with which you have proficiency, such as [Longswords](Longsword.md) and [Javelins](javelin.md).
+Your training with weapons allows you to use the [mastery properties](Weapon-Mastery-Properties.md) of two kinds of weapons of your choice with which you have proficiency, such as [Longswords](Longsword.md) and [Javelins](Javelin.md).
 
 Whenever you finish a [Long Rest](long-rest.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](Weapon-Mastery-Properties.md) of [Halberds](halberd.md) and [Flails](flail.md).
 

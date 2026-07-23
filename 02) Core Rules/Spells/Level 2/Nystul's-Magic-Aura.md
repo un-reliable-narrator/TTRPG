@@ -1,6 +1,8 @@
 ---
 tags:
   - spell
+aliases:
+- "Nystul's Magic Aura"
 ---
 # Nystul's Magic Aura
 

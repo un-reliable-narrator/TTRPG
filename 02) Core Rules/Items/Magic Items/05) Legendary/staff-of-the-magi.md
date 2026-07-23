@@ -35,7 +35,7 @@ While holding the staff, you can cast one of the spells on the following table f
 |-------|-------------|
 | [Arcane Lock](Arcane-Lock.md) | 0 |
 | [Conjure Elemental](Conjure-Elemental.md) | 7 |
-| [Detect Dagic](Detect-Magic.md) | 0 |
+| [Detect Magic](Detect-Magic.md) | 0 |
 | [Dispel Magic](Dispel-Magic.md) | 3 |
 | [Enlarge/Reduce](Enlarge-Reduce.md) | 0 |
 | [Fireball](Fireball.md) (level 7 version) | 7 |

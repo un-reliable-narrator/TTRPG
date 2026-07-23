@@ -7,16 +7,14 @@ tags:
 - item/rarity/none
 - item/weapon/melee
 - item/weapon/simple
-aliases:
-- "Javelin"
 ---
 # Javelin
 *Weapon*  
-![](items/XPHB/Javelin.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
 - **Properties**: [Thrown](Item-Properties.md#Thrown)
+- **Mastery:** [[02) Core Rules/Weapon Properties/Masteries/Slow|Slow]]
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 

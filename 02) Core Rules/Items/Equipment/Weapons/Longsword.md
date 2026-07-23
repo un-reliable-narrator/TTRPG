@@ -18,6 +18,7 @@ aliases:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Item-Properties.md#Versatile)
+- **Mastery:** [[Sap]]
 - **Cost**: 15 gp
 - **Weight**: 3.0 lbs.
 

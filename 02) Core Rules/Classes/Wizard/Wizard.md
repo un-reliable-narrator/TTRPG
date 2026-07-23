@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - class/wizard
 - src/5e/xphb
-aliases:
-- "Wizard"
 ---
 # Wizard
 *Source: Player's Handbook (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -83,7 +81,7 @@ When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your 
 
 Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting [Identify](Identify.md). You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
-The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [Detect Dagic](Detect-Magic.md), [Feather Fall](Feather-Fall.md), [Mage Armor](Mage-Armor.md), [Magic Missile](Magic-Missile.md), [Sleep](Sleep.md), and [Thunderwave](Thunderwave.md) are recommended.
+The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [Detect Magic](Detect-Magic.md), [Feather Fall](Feather-Fall.md), [Mage Armor](Mage-Armor.md), [Magic Missile](Magic-Missile.md), [Sleep](Sleep.md), and [Thunderwave](Thunderwave.md) are recommended.
 
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 

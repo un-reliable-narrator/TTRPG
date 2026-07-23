@@ -45,7 +45,7 @@ tags: barovia
 | ---------- | -------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 2          | 3d6 Barovian Commoners                                                           | Lost Child                                         | [[Begegnungen (CoS)#*Rahadin.*\|Rahadin]]                                                                      |
 | 3          | 1d6 Barovian Scouts                                                              | Limping Mastiff                                    | [[Begegnungen (CoS)#*Framed.*\|Framed]]                                                                        |
-| 4          | Hunting Trap                                                                     | Bones                                              | 1d4+1 Adventurers from afar                                                                                    |
+| 4          | Hunting Trap                                                                     | Bones                                              | 1d4+1 Adventurers from afar[^1]                                                                                |
 | 5          | Grave                                                                            | 1d6 Phantom Warriors                               | Swarm of Infesting Insects                                                                                     |
 | 6          | False Trail                                                                      | Lone Raven                                         |                                                                                                                |
 | 7          | 1d4 + 1 Vistani [[Bandit\|Bandit]]s                                              | Vistani Wagon                                      |                                                                                                                |
@@ -111,3 +111,5 @@ Random Encounters from [[Curse of Strahd.pdf#page=49|Castle Ravenloft]] are exch
 | 18           | Barovian Witch           | Wraith               | 2d4 Gremishka (and a dead witch)                                                                                              |
 | 19           | 1d4 + 1 Vampire Spawn    | 1 [[Shadow-Demon]]   | 1d4+1 [[Strigoi.png]] + 1d6 [[Swarm-of-Stirges\|Swarm of Stirges]]                                                            |
 | 20           | Strahd                   | Lone Bat             | Ottokar                                                                                                                       |
+
+[^1]: Vermissen den +1 Speer, den Savas gefunden hat.
