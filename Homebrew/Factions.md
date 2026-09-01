@@ -17,7 +17,7 @@ Respektable Ideale, aber keine perfekte Bewegung. Gründet sich auf einen
 ###### *Die Purpurne Inquisition*.
 *Abenteuergilde*.
 Fokus auf Feuer und den Exorzismus geographischer, großflächiger Anomalien. Professionell und moralisch pragmatisch. 
-Die Aufgaben der **PPI** bringen einen großen Verschleiß an [[hirelings|Mietlingen]] mit sich.
+Die Aufgaben der **PPI** bringen einen großen Verschleiß an [[Hirelings|Mietlingen]] mit sich.
 ***Blaster.*** Das "Profil" und die Einsatzstrategien der Gilde setzten einen Fokus auf starke, offensive Magie. Gildenmitglieder besitzen meist Ränge als [[Wizard|Wizard]], [[Sorcerer|Sorcerer]], [[Paladin|Paladin]] oder [[Cleric|Cleric]], und legen Wert auf Schwere Rüstung.
 ***Statistiken.*** [[Evokers.pdf|Evoker]].
 
@@ -42,7 +42,7 @@ Opportunistisch. Achten einen Ehrenkodex.
 | [[Bandit Captain]]                              |  2  | Corak     |
 | [[Bandit-Deceiver\|Bandit Deceiver]]            |  7  |           |
 | [[Bandit-Crime-Lord\|Bandit Crime Lord]]        | 11  | Rorschach |
-| [[02) Core Rules/Statblocks/Humanoids/Tough]]                                       | 1/2 |           |
+| [[01-Rules/Statblocks/Humanoids/Tough]]                                       | 1/2 |           |
 | [[Tough Boss]]                                  |  4  |           |
 ##### Kulte
 

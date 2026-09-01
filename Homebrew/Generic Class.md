@@ -14,7 +14,7 @@ Außerdem kann sie als Grundgerüst für Spielercharaktere in einem klassenlosen
 | Grad | Eigenschaften                                                                                                                                                 |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.   | Background (incl. Origin Feat), Species<br>AND<br>A) [[Fighting Style]] Feat OR B) Origin Feat                                                                |
-|      | [Survivor Talent](Survivor%20Talents)                                                                                                                         |
+|      | [Survivor Talent](Survivor%20Talents.md)                                                                                                                         |
 |      | A) [[Skill Expert]] OR B) [[Weapon Master]] OR C) [[Ritual-Caster\|Ritual Caster]]                                                                            |
 |      | Feat                                                                                                                                                          |
 |      | A) [[Extra Attack]]<br>OR <br>B) learn 2 level 3 spells of your choice, which you can each cast 1/long rest                                                   |

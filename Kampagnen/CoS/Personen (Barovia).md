@@ -41,5 +41,5 @@ Vistana, erste Begegnung von Savas und Ottokar.
 ##### Andere
 ---
 ###### Kern
-*Gulthias [[02) Core Rules/Statblocks/Humanoids/Druid|Druid]]*
+*Gulthias [[01-Rules/Statblocks/Humanoids/Druid|Druid]]*
 Von der Gruppe besiegt, verhört und gehen gelassen in der Nähe der Tser-Fälle.

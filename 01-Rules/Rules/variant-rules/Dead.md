@@ -1,0 +1,13 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- src/5e/xphb
+---
+# Dead
+*Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+A dead creature has no [Hit Points](hit-points.md) and can't regain them unless it is first revived by magic such as the [Raise Dead](Raise-Dead.md) or [Revivify](Revivify.md) spell. When such a spell is cast, the spirit knows who is casting it and can refuse. The spirit of a dead creature has left the body and departed for the Outer Planes, and reviving the creature requires calling the spirit back.
+
+If the creature returns to life, the revival effect determines the creature's current [Hit Points](hit-points.md). Unless otherwise stated, the creature returns to life with any [conditions](variant-rules/Condition.md), magical contagions, or curses that were affecting it at death if the durations of those effects are still ongoing. If the creature died with any [Exhaustion](Conditions.md#Exhaustion) levels, it returns with 1 fewer level. If the creature had [Attunement](01-Rules/Rules/variant-rules/Attunement.md) to one or more magic items, it is no longer attuned to them.

@@ -9,39 +9,39 @@
       "mode": ""
     },
     {
-      "path": "02) core rules/monsters",
+      "path": "01-rules/monsters",
       "mode": "current view: reading"
     },
     {
-      "path": "02) core rules/statblocks/humanoids",
+      "path": "01-rules/statblocks/humanoids",
       "mode": "current view: reading"
     },
     {
-      "path": "02) core rules/statblocks",
+      "path": "01-rules/statblocks",
       "mode": "current view: reading"
     },
     {
-      "path": "03) resources/tables/raw",
+      "path": "01-rules/tables/raw",
       "mode": "current view: reading"
     },
     {
-      "path": "02) core rules/traps",
+      "path": "01-rules/traps",
       "mode": "current view: reading"
     },
     {
-      "path": "02) core rules/spells/level 9",
+      "path": "01-rules/spells/core/level 9",
       "mode": "current view: reading"
     },
     {
-      "path": "02) core rules/spells",
+      "path": "01-rules/spells",
       "mode": "current view: reading"
     },
     {
-      "path": "02) core rules/skills",
+      "path": "01-rules/skills",
       "mode": "current view: reading"
     },
     {
-      "path": "02) core rules/classes/wizard",
+      "path": "01-rules/classes/wizard",
       "mode": "current view: reading"
     }
   ],
@@ -60,19 +60,19 @@
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/traps/collapsing roof.md",
+      "pattern": "01-rules/traps/collapsing roof.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/spells/cantrips/acid-splash.md",
+      "pattern": "01-rules/spells/core/cantrips/acid-splash.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/spells/cantrips/chill-touch.md",
+      "pattern": "01-rules/spells/core/cantrips/chill-touch.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/items/magic items/00) varies/potions of healing/potion of healing (greater).md",
+      "pattern": "01-rules/items/magic items/00) varies/potions of healing/potion of healing (greater).md",
       "mode": "current view: reading"
     },
     {
@@ -88,55 +88,55 @@
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/druid/druid.md",
+      "pattern": "01-rules/classes/druid/druid.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/cleric/cleric.md",
+      "pattern": "01-rules/classes/cleric/cleric.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/monk/monk.md",
+      "pattern": "01-rules/classes/monk/monk.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/paladin/paladin.md",
+      "pattern": "01-rules/classes/paladin/paladin.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/ranger/ranger.md",
+      "pattern": "01-rules/classes/ranger/ranger.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/rogue/rogue.md",
+      "pattern": "01-rules/classes/rogue/rogue.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/sorcerer/sorcerer.md",
+      "pattern": "01-rules/classes/sorcerer/sorcerer.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/warlock/warlock.md",
+      "pattern": "01-rules/classes/warlock/warlock.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/wizard/wizard.md",
+      "pattern": "01-rules/classes/wizard/wizard.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/warlock/warlock-celestial-patron.md",
+      "pattern": "01-rules/classes/warlock/warlock-celestial-patron.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/barbarian/barbarian.md",
+      "pattern": "01-rules/classes/barbarian/barbarian.md",
       "mode": "current view: live"
     },
     {
-      "pattern": "02) core rules/classes/fighter/fighter.md",
+      "pattern": "01-rules/classes/fighter/fighter.md",
       "mode": "current view: reading"
     },
     {
-      "pattern": "02) core rules/classes/bard/bard.md",
+      "pattern": "01-rules/classes/bard/bard.md",
       "mode": "current view: reading"
     }
   ],

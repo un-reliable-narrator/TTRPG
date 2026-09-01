@@ -37,6 +37,8 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 var ObsidianNS = __toESM(require("obsidian"));
 var import_obsidian = require("obsidian");
+var CONTROLS_PROVIDER_API_VERSION = 1;
+var CONTROLS_PROVIDER_ID = "simple-timeline";
 var DEFAULT_SETTINGS = {
   dateFormat: "D MMMM YYYY",
   cardWidth: 200,
@@ -59,6 +61,15 @@ function isRecord(v) {
 }
 function isFunction(v) {
   return typeof v === "function";
+}
+function setDestructiveButtonStyle(button) {
+  const compat = button;
+  if (typeof compat.setDestructive === "function") {
+    compat.setDestructive();
+  } else if (typeof compat.setWarning === "function") {
+    compat.setWarning();
+  }
+  return button;
 }
 function primitiveToString(v) {
   if (typeof v === "string") return v;
@@ -121,7 +132,7 @@ function getDocumentFor(el) {
   return el?.ownerDocument ?? document;
 }
 function appendEl(parent, tag, opts) {
-  const el = getDocumentFor(parent).createElement(tag);
+  const el = parent.createEl(tag);
   if (opts?.cls) {
     const classes = Array.isArray(opts.cls) ? opts.cls : opts.cls.split(/\s+/).filter(Boolean);
     addClasses(el, ...classes);
@@ -130,7 +141,6 @@ function appendEl(parent, tag, opts) {
   if (opts?.attr) {
     for (const [k, v] of Object.entries(opts.attr)) el.setAttribute(k, v);
   }
-  parent.appendChild(el);
   return el;
 }
 function appendDiv(parent, cls) {
@@ -160,11 +170,40 @@ function parseMonths(text) {
 var SimpleTimeline = class extends import_obsidian.Plugin {
   constructor() {
     super(...arguments);
-    __publicField(this, "settings");
+    __publicField(this, "controlsActionListeners", /* @__PURE__ */ new Set());
+    __publicField(this, "lastActiveMarkdownFile", null);
+    /**
+     * Public API for TTRPG Tools – Controls.
+     *
+     * Controls accesses Timeline functions exclusively through this API
+     * and does not need to know any internal views, modals, or settings.
+     */
+    __publicField(this, "controlsApi", {
+      apiVersion: CONTROLS_PROVIDER_API_VERSION,
+      providerId: CONTROLS_PROVIDER_ID,
+      providerName: "TTRPG Tools - Timeline",
+      getActions: () => this.getControlsActions(),
+      executeAction: async (actionId) => {
+        await this.executeControlsAction(actionId);
+      },
+      onActionsChanged: (callback) => {
+        this.controlsActionListeners.add(callback);
+        return () => {
+          this.controlsActionListeners.delete(callback);
+        };
+      }
+    });
   }
   async onload() {
     await this.loadSettings();
     await this.migrateLegacyToTimelineConfigs();
+    this.rememberActiveMarkdownFile();
+    this.registerEvent(
+      this.app.workspace.on("active-leaf-change", () => {
+        this.rememberActiveMarkdownFile();
+        this.notifyControlsActionsChanged();
+      })
+    );
     this.tryRegisterBasesViews();
     this.registerMarkdownCodeBlockProcessor(
       "timeline-cal",
@@ -180,51 +219,51 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
     );
     this.addCommand({
       id: "set-cal-date",
-      name: "Timeline set date",
+      name: "Set date",
       checkCallback: (checking) => {
         const file = this.getActiveMarkdownFile();
         if (!file) return false;
-        if (!checking) void this.promptSetDate(file, false);
+        if (!checking) void this.openSetDateDialog();
         return true;
       }
     });
     this.addCommand({
       id: "set-cal-range",
-      name: "Timeline set date range",
+      name: "Set date range",
       checkCallback: (checking) => {
         const file = this.getActiveMarkdownFile();
         if (!file) return false;
-        if (!checking) void this.promptSetDate(file, true);
+        if (!checking) void this.openSetDateRangeDialog();
         return true;
       }
     });
     this.addCommand({
       id: "edit-timelines",
-      name: "Timeline edit timelines",
+      name: "Edit timelines",
       checkCallback: (checking) => {
         const file = this.getActiveMarkdownFile();
         if (!file) return false;
-        if (!checking) void this.promptEditTimelines(file);
+        if (!checking) void this.openEditTimelinesDialog();
         return true;
       }
     });
     this.addCommand({
       id: "set-summary",
-      name: "Timeline set summary",
+      name: "Set summary",
       checkCallback: (checking) => {
         const file = this.getActiveMarkdownFile();
         if (!file) return false;
-        if (!checking) void this.promptSetSummary(file);
+        if (!checking) void this.openSetSummaryDialog();
         return true;
       }
     });
     this.addCommand({
       id: "adopt-first-image",
-      name: "Timeline use first image as tl image",
+      name: "Use first image as tl image",
       checkCallback: (checking) => {
         const file = this.getActiveMarkdownFile();
         if (!file) return false;
-        if (!checking) void this.adoptFirstImage(file);
+        if (!checking) void this.adoptFirstImageForActiveNote();
         return true;
       }
     });
@@ -236,6 +275,187 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
     const file = this.app.workspace.getActiveFile();
     if (!file) return null;
     return file.extension === "md" ? file : null;
+  }
+  rememberActiveMarkdownFile() {
+    const file = this.getActiveMarkdownFile();
+    if (file) {
+      this.lastActiveMarkdownFile = file;
+    }
+  }
+  getControlsTargetMarkdownFile() {
+    const activeFile = this.getActiveMarkdownFile();
+    if (activeFile) {
+      return activeFile;
+    }
+    const previousFile = this.lastActiveMarkdownFile;
+    return previousFile ? this.app.vault.getFileByPath(previousFile.path) : null;
+  }
+  async openSetDateDialog() {
+    await this.withActiveMarkdownFile(
+      (file) => this.promptSetDate(file, false)
+    );
+  }
+  async openSetDateRangeDialog() {
+    await this.withActiveMarkdownFile(
+      (file) => this.promptSetDate(file, true)
+    );
+  }
+  async openEditTimelinesDialog() {
+    await this.withActiveMarkdownFile(
+      (file) => this.promptEditTimelines(file)
+    );
+  }
+  async openSetSummaryDialog() {
+    await this.withActiveMarkdownFile(
+      (file) => this.promptSetSummary(file)
+    );
+  }
+  async adoptFirstImageForActiveNote() {
+    await this.withActiveMarkdownFile(
+      (file) => this.adoptFirstImage(file)
+    );
+  }
+  async openCreateTimelineConfiguration() {
+    const result = await openTimelineWizard(this.app, this);
+    if (result) {
+      new import_obsidian.Notice(`Timeline \u201C${result.key}\u201D saved.`);
+    }
+  }
+  openTimelineSettings() {
+    const appWithSettings = this.app;
+    appWithSettings.setting?.open();
+    appWithSettings.setting?.openTabById(this.manifest.id);
+  }
+  async withActiveMarkdownFile(callback) {
+    const file = this.getActiveMarkdownFile();
+    if (!file) {
+      throw new Error("No active Markdown note.");
+    }
+    await callback(file);
+  }
+  getControlsActions() {
+    const hasTargetMarkdownFile = this.getControlsTargetMarkdownFile() !== null;
+    return [
+      {
+        id: "date.set",
+        name: "Set date",
+        icon: "calendar-plus",
+        group: "Timeline: note",
+        description: "Set the fc-date property for the active note.",
+        available: hasTargetMarkdownFile
+      },
+      {
+        id: "date-range.set",
+        name: "Set date range",
+        icon: "calendar-range",
+        group: "Timeline: note",
+        description: "Set the fc-date and fc-end properties for the active note.",
+        available: hasTargetMarkdownFile
+      },
+      {
+        id: "timelines.edit",
+        name: "Edit timelines",
+        icon: "tags",
+        group: "Timeline: note",
+        description: "Edit the timelines property for the active note.",
+        available: hasTargetMarkdownFile
+      },
+      {
+        id: "summary.set",
+        name: "Set summary",
+        icon: "align-left",
+        group: "Timeline: note",
+        description: "Edit the tl-summary property for the active note.",
+        available: hasTargetMarkdownFile
+      },
+      {
+        id: "image.adopt-first",
+        name: "Use first image as timeline image",
+        icon: "image-plus",
+        group: "Timeline: note",
+        description: "Use the first image found in the active note as tl-image.",
+        available: hasTargetMarkdownFile
+      },
+      {
+        id: "timeline-config.create",
+        name: "Create timeline configuration",
+        icon: "plus-circle",
+        group: "Timeline: management",
+        description: "Create a new Timeline configuration.",
+        available: true
+      },
+      {
+        id: "settings.open",
+        name: "Open Timeline settings",
+        icon: "settings",
+        group: "Timeline: management",
+        description: "Open the settings for TTRPG Tools - Timeline.",
+        available: true
+      }
+    ];
+  }
+  async executeControlsAction(actionId) {
+    const targetFile = this.getControlsTargetMarkdownFile();
+    switch (actionId) {
+      case "date.set":
+        await this.withControlsTargetFile(
+          targetFile,
+          (file) => this.promptSetDate(file, false)
+        );
+        return;
+      case "date-range.set":
+        await this.withControlsTargetFile(
+          targetFile,
+          (file) => this.promptSetDate(file, true)
+        );
+        return;
+      case "timelines.edit":
+        await this.withControlsTargetFile(
+          targetFile,
+          (file) => this.promptEditTimelines(file)
+        );
+        return;
+      case "summary.set":
+        await this.withControlsTargetFile(
+          targetFile,
+          (file) => this.promptSetSummary(file)
+        );
+        return;
+      case "image.adopt-first":
+        await this.withControlsTargetFile(
+          targetFile,
+          (file) => this.adoptFirstImage(file)
+        );
+        return;
+      case "timeline-config.create":
+        await this.openCreateTimelineConfiguration();
+        return;
+      case "settings.open":
+        this.openTimelineSettings();
+        return;
+      default:
+        throw new Error(`Unknown Timeline Controls action: ${actionId}`);
+    }
+  }
+  async withControlsTargetFile(file, callback) {
+    if (!file) {
+      throw new Error(
+        "No Markdown note is available. Open a Markdown note before using this control."
+      );
+    }
+    await callback(file);
+  }
+  notifyControlsActionsChanged() {
+    for (const listener of this.controlsActionListeners) {
+      try {
+        listener();
+      } catch (error) {
+        console.debug(
+          "simple-timeline: Controls action listener failed.",
+          error
+        );
+      }
+    }
   }
   getFileCacheSafe(file) {
     const raw = this.app.metadataCache.getFileCache(file);
@@ -800,7 +1020,7 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
         new import_obsidian.Notice("Calendarium is not installed.");
         return;
       }
-      const ok = this.jumpContainerToYmd(wrapper);
+      const ok = this.jumpContainerToYmd(wrapper, today);
       if (!ok) new import_obsidian.Notice("No timeline entry for today found.");
     });
     for (const c of cards) {
@@ -845,9 +1065,12 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
         rendered.push({ el: rowEl, ...this.getHorizontalEdges(c, cfg) });
       }
       for (let i = 0; i < rendered.length - 1; i++) {
+        const current = rendered[i];
+        const next = rendered[i + 1];
+        if (!current || !next) continue;
         this.applyHorizontalJoin(
-          { el: rendered[i].el, right: rendered[i].right },
-          { el: rendered[i + 1].el, left: rendered[i + 1].left }
+          { el: current.el, right: current.right },
+          { el: next.el, left: next.left }
         );
       }
       if (jumpToToday) {
@@ -858,7 +1081,9 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
     }
     const axisKeys = Array.from(new Set(cards.map((c) => ymdSortKey(c.start)))).sort((a, b) => a - b);
     const colByKey = /* @__PURE__ */ new Map();
-    for (let i = 0; i < axisKeys.length; i++) colByKey.set(axisKeys[i], i + 1);
+    for (const [index, axisKey] of axisKeys.entries()) {
+      colByKey.set(axisKey, index + 1);
+    }
     setCssProps(wrapper, { "--tl-h-cols": String(axisKeys.length) });
     const byTl = /* @__PURE__ */ new Map();
     for (const c of cards) {
@@ -906,6 +1131,7 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
       for (let i = 0; i < renderedSlots.length - 1; i++) {
         const a = renderedSlots[i];
         const b = renderedSlots[i + 1];
+        if (!a || !b) continue;
         if (b.col === a.col + 1) {
           this.applyHorizontalJoin({ el: a.el, right: a.right }, { el: b.el, left: b.left });
         }
@@ -951,10 +1177,10 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
       getGroupKeyText(v) {
         const prim = primitiveToString(v);
         if (prim != null) return prim;
-        if (isRecord(v) && isFunction(v["toString"])) {
+        if (isRecord(v) && typeof v["toString"] === "function") {
           try {
-            const out = v["toString"]();
-            if (typeof out === "string" && out !== "[object Object]") return out;
+            const out = v.toString();
+            if (out && out !== "[object Object]") return out;
           } catch {
           }
         }
@@ -1010,13 +1236,17 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
         if (!v || v.isEmpty?.()) return void 0;
         try {
           if (typeof v.renderTo === "function") {
-            const tmp = getDocumentFor(this.hostEl).createElement("div");
-            const renderContext = this.app.renderContext;
-            if (renderContext !== void 0) v.renderTo(tmp, renderContext);
-            else v.renderTo(tmp);
-            const img = tmp.querySelector("img");
-            const src = img?.getAttribute("src") ?? void 0;
-            if (src) return src;
+            const tmp = this.hostEl.createDiv();
+            try {
+              const renderContext = this.app.renderContext;
+              if (renderContext !== void 0) v.renderTo(tmp, renderContext);
+              else v.renderTo(tmp);
+              const img = tmp.querySelector("img");
+              const src = img?.getAttribute("src") ?? void 0;
+              if (src) return src;
+            } finally {
+              tmp.remove();
+            }
           }
         } catch {
         }
@@ -1128,6 +1358,7 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
               const keyText = this.getGroupKeyText(group.key);
               if (keyText && keyText !== "null") {
                 const h = appendEl(wrapper, "h3", { cls: "tl-bases-group-title", text: keyText });
+                void h;
               }
               const groupItems = [];
               for (const entry of group.entries ?? []) {
@@ -1233,9 +1464,12 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
               rendered.push({ el: rowEl, ...this.plugin.getHorizontalEdges(card, cfg) });
             }
             for (let i = 0; i < rendered.length - 1; i++) {
+              const current = rendered[i];
+              const next = rendered[i + 1];
+              if (!current || !next) continue;
               this.plugin.applyHorizontalJoin(
-                { el: rendered[i].el, right: rendered[i].right },
-                { el: rendered[i + 1].el, left: rendered[i + 1].left }
+                { el: current.el, right: current.right },
+                { el: next.el, left: next.left }
               );
             }
             return;
@@ -1252,7 +1486,9 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
           if (orderMode === "start-asc") axisKeys.sort((a, b) => a - b);
           if (orderMode === "start-desc") axisKeys.sort((a, b) => b - a);
           const colByKey = /* @__PURE__ */ new Map();
-          for (let i = 0; i < axisKeys.length; i++) colByKey.set(axisKeys[i], i + 1);
+          for (const [index, axisKey] of axisKeys.entries()) {
+            colByKey.set(axisKey, index + 1);
+          }
           setCssProps(wrapper, { "--tl-h-cols": String(axisKeys.length) });
           const byTl = /* @__PURE__ */ new Map();
           for (const it of list) {
@@ -1306,6 +1542,7 @@ var SimpleTimeline = class extends import_obsidian.Plugin {
             for (let i = 0; i < renderedSlots.length - 1; i++) {
               const a = renderedSlots[i];
               const b = renderedSlots[i + 1];
+              if (!a || !b) continue;
               if (b.col === a.col + 1) {
                 this.plugin.applyHorizontalJoin(
                   { el: a.el, right: a.right },
@@ -1813,7 +2050,104 @@ var SimpleTimelineSettingsTab = class extends import_obsidian.PluginSettingTab {
     __publicField(this, "plugin");
     this.plugin = plugin;
   }
+  refreshSettings() {
+    const tab = this;
+    if (typeof tab.update === "function") {
+      tab.update();
+      return;
+    }
+    this.renderLegacySettings();
+  }
+  getSettingDefinitions() {
+    const definitions = [
+      {
+        name: "Bases integration (optional)",
+        desc: "Registers custom Bases view types (cross + horizontal). Requires Obsidian with Bases support. Reload the plugin or restart Obsidian after changing this option.",
+        aliases: ["Bases", "Bases integration", "timeline views"],
+        render: (setting) => {
+          setting.addToggle(
+            (toggle) => toggle.setValue(this.plugin.settings.enableBasesIntegration).onChange(async (value) => {
+              this.plugin.settings.enableBasesIntegration = value;
+              await this.plugin.saveSettings();
+              new import_obsidian.Notice(
+                "Saved. Please reload the plugin (or restart Obsidian) for bases view registration changes to apply."
+              );
+            })
+          );
+        }
+      },
+      {
+        name: "Global defaults",
+        desc: "Default image sizes, card dimensions, summary line limit, and colors for timelines without their own overrides.",
+        aliases: ["defaults", "colors", "image width", "summary lines"],
+        render: (setting) => {
+          setting.addButton(
+            (button) => button.setButtonText("Edit").onClick(async () => {
+              const saved = await openDefaultsWizard(this.app, this.plugin);
+              if (!saved) return;
+              this.refreshSettings();
+              new import_obsidian.Notice("Defaults saved.");
+            })
+          );
+        }
+      },
+      {
+        name: "Timeline configurations",
+        desc: "Create and manage per-timeline sizes, colors, alignment, and month names.",
+        aliases: ["timeline configuration", "month names", "timeline colors"],
+        render: (setting) => {
+          setting.addButton(
+            (button) => button.setButtonText("New timeline").onClick(async () => {
+              const result = await openTimelineWizard(this.app, this.plugin);
+              if (!result) return;
+              this.refreshSettings();
+              new import_obsidian.Notice(`Timeline \u201C${result.key}\u201D saved.`);
+            })
+          );
+        }
+      }
+    ];
+    const keys = Object.keys(this.plugin.settings.timelineConfigs).sort(
+      (a, b) => a.localeCompare(b)
+    );
+    for (const key of keys) {
+      definitions.push({
+        name: `Timeline: ${key}`,
+        desc: "Edit or delete this timeline configuration.",
+        aliases: [key, "timeline configuration"],
+        render: (setting) => {
+          setting.addButton(
+            (button) => button.setButtonText("Edit").onClick(async () => {
+              const result = await openTimelineWizard(this.app, this.plugin, key);
+              if (!result) return;
+              this.refreshSettings();
+              new import_obsidian.Notice(`Timeline \u201C${result.key}\u201D saved.`);
+            })
+          );
+          setting.addButton(
+            (button) => setDestructiveButtonStyle(button).setButtonText("Delete").onClick(async () => {
+              delete this.plugin.settings.timelineConfigs[key];
+              await this.plugin.saveSettings();
+              this.refreshSettings();
+              new import_obsidian.Notice(`Timeline \u201C${key}\u201D deleted.`);
+            })
+          );
+        }
+      });
+    }
+    definitions.push({
+      name: "Legacy settings migration",
+      desc: "Older \u201Cstyles per timeline\u201D and \u201Cmonth overrides\u201D settings were migrated once and are not imported again.",
+      aliases: ["migration", "legacy settings"],
+      render: () => {
+      }
+    });
+    return definitions;
+  }
   display() {
+    this.renderLegacySettings();
+  }
+  renderLegacySettings() {
     const { containerEl } = this;
     clearEl(containerEl);
     new import_obsidian.Setting(containerEl).setName("Bases integration (optional)").setDesc(
@@ -1831,7 +2165,7 @@ var SimpleTimelineSettingsTab = class extends import_obsidian.PluginSettingTab {
       (b) => b.setButtonText("Edit").onClick(async () => {
         const saved = await openDefaultsWizard(this.app, this.plugin);
         if (saved) {
-          this.display();
+          this.refreshSettings();
           new import_obsidian.Notice("Defaults saved.");
         }
       })
@@ -1840,7 +2174,7 @@ var SimpleTimelineSettingsTab = class extends import_obsidian.PluginSettingTab {
       (b) => b.setButtonText("New timeline").onClick(async () => {
         const result = await openTimelineWizard(this.app, this.plugin);
         if (result) {
-          this.display();
+          this.refreshSettings();
           new import_obsidian.Notice(`Timeline \u201C${result.key}\u201D saved.`);
         }
       })
@@ -1852,16 +2186,16 @@ var SimpleTimelineSettingsTab = class extends import_obsidian.PluginSettingTab {
         (b) => b.setButtonText("Edit").onClick(async () => {
           const result = await openTimelineWizard(this.app, this.plugin, key);
           if (result) {
-            this.display();
+            this.refreshSettings();
             new import_obsidian.Notice(`Timeline \u201C${result.key}\u201D saved.`);
           }
         })
       );
       row.addButton(
-        (b) => b.setWarning().setButtonText("Delete").onClick(async () => {
+        (b) => setDestructiveButtonStyle(b).setButtonText("Delete").onClick(async () => {
           delete this.plugin.settings.timelineConfigs[key];
           await this.plugin.saveSettings();
-          this.display();
+          this.refreshSettings();
           new import_obsidian.Notice(`Timeline \u201C${key}\u201D deleted.`);
         })
       );

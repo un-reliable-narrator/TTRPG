@@ -1,0 +1,63 @@
+---
+cssclasses:
+- json5e-monster
+tags:
+- src/5e/xmm
+- monster/cr/0
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/urban
+- monster/size/medium
+- monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+---
+# [Goat](01-Rules/Statblocks/Beasts/Goat.md)
+*Source: Monster Manual (2024) p. 362, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+## Animals
+
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Panther.md) stat block can also represent a mountain lion, while the [Giant Goat](Giant-Goat.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
+```statblock
+"name": "Goat (XMM)"
+"size": "Medium"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "10"
+"hp": !!int "4"
+"hit_dice": "1d8"
+"modifier": !!int "0"
+"stats":
+  - !!int "11"
+  - !!int "10"
+  - !!int "11"
+  - !!int "2"
+  - !!int "10"
+  - !!int "5"
+"speed": "40 ft., climb 30 ft."
+"saves":
+  - "strength": !!int "2"
+"skillsaves":
+  - "name": "[Perception](Perception)"
+    "desc": "+2"
+"senses": "[Darkvision](senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
+"languages": ""
+"cr": "0"
+"actions":
+  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Bludgeoning damage, or\
+      \ 2 (1d4) Bludgeoning damage if the goat moved 20+ feet straight toward the\
+      \ target immediately before the hit."
+    "name": "Ram"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "bestiary/tokens/XMM/Goat.webp"
+```
+^statblock
+
+## Environment
+
+grassland, hill, mountain, urban

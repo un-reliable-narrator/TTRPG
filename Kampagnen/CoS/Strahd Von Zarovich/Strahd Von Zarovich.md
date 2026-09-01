@@ -45,7 +45,7 @@ Daraus können wir folgende Schlüsse ziehen:
 Strahd könnte "Zugang" zu früheren Editionen haben. Monster mit level drain Fähigkeiten, oder 4E stats.
 
 ###### Diener und Schergen
-- Strahd's Armor functions as/is upgraded to a [[Shield-Guardian]]
+- Strahd's Armor functions as/is upgraded to a [[shield-Guardian]]
 - A "Menagerie" of caged beasts, imported by Vistani or taken from adventurers
 	- *And a trophy room of slain beasts (Why would Strahd limit the "game" to Adventurers? If he can lure in monsters to challenge himself, he would. If he can play himself up as the people's savior in the process, why not? Part of him fools himself to believe he just enjoys tormenting and manipulating them, but somewhere he probably does crave affection and respect. He just cannot bear it because he knows he is undeserving, and he is too arrogant to accept it from those he deems unworthy, which is everyone)*
 

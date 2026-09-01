@@ -57,14 +57,14 @@ Each foretelling roll can be used only once. When you finish a [Long Rest](app:
 
 | Level | Spell Slots | Prepared Spells                                                                                                                                       |
 | ----- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | 4           | [[02) Core Rules/Spells/Level 1/Shield\|Shield]], [[False-Life]], [[Magic-Missile]], [[Chromatic-Orb]], [[Absorb Elements]]                      |
-| 2     | 3           | [[Crown-of-Madness]], [[Invisibility]], [[Mirror-Image]], [[Arcane-Vigor]], [[02) Core Rules/Spells/Level 2/Darkness\|Darkness]], [[Rope-Trick]] |
-| 3     | 3           | [[Counterspell]], [[Remove-Curse]], [[Fireball]], [[02) Core Rules/Spells/Level 3/Slow\|Slow]]                                                   |
+| 1     | 4           | [[01-Rules/Spells/Core/Level 1/Shield\|Shield]], [[False-Life]], [[Magic-Missile]], [[Chromatic-Orb]], [[Absorb Elements]]                      |
+| 2     | 3           | [[Crown-of-Madness]], [[Invisibility]], [[Mirror-Image]], [[Arcane-Vigor]], [[01-Rules/Spells/Core/Level 2/Darkness\|Darkness]], [[Rope-Trick]] |
+| 3     | 3           | [[Counterspell]], [[Remove-Curse]], [[Fireball]], [[01-Rules/Spells/Core/Level 3/Slow\|Slow]]                                                   |
 | 4     | 3           | [[Banishment]], [[Polymorph]], [[Divination]], [[Vitriolic-Sphere]]                                                                                   |
 | 5     | 1           | [[Cone-of-Cold]], [[Wall-of-Force]]                                                                                                                   |
 3, 3, 1, 4, 1
 
- [[List-spells-classes-wizard|Wizard Spells]]
+ [[List-Spells-Classes-Wizard|Wizard Spells]]
 
 ### Equipment
 

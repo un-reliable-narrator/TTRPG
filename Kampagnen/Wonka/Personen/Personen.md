@@ -12,7 +12,7 @@ Considers [[Carlot Dan Eider]] a friend, and talented (if dangerously ambitious)
 
 ###### *Draketh Craken*.
 *[[Tiefling]] (Infernal), Warlock (Fiend Patron) 6. Abenteurer.*
-Führt einen klauenbesetzten [[warhammer]] +2, (der attuned Fiend Warlocks +1 Eldritch Blast verleiht?). Spöttisch und provokant, desillusioniert. Maskiert wahre Gefühle hinter Drohungen und Humor. 
+Führt einen klauenbesetzten [[Warhammer]] +2, (der attuned Fiend Warlocks +1 Eldritch Blast verleiht?). Spöttisch und provokant, desillusioniert. Maskiert wahre Gefühle hinter Drohungen und Humor. 
 ***Ideologie:*** [[Adventurer Supremacy]]
 
 ###### *Kapi.*

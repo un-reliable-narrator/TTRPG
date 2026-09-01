@@ -2,5 +2,8 @@
   "cssTheme": "ITS Theme",
   "textFontFamily": "Cambria",
   "theme": "moonstone",
-  "accentColor": ""
+  "accentColor": "#ece9e4",
+  "monospaceFontFamily": "Cambria Math",
+  "interfaceFontFamily": "Segoe UI Variable Small",
+  "nativeMenus": false
 }

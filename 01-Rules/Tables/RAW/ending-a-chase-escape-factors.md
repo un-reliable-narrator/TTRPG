@@ -1,0 +1,22 @@
+---
+obsidianUIMode: preview
+cssclasses:
+  - json5e-note
+tags:
+  - src/5e/dmg
+  - Table
+aliases:
+  - Ending a Chase; Escape Factors
+---
+# Ending a Chase; Escape Factors
+*Source: Dungeon Master's Guide (2024) p. 53* 
+
+**Escape Factors**
+
+| Factor | Check Has... |
+|--------|--------------|
+| Many things to hide behind | Advantage |
+| A very crowded area | Advantage |
+| Few things to hide behind | Disadvantage |
+| An uncrowded area | Disadvantage |
+^escape-factors

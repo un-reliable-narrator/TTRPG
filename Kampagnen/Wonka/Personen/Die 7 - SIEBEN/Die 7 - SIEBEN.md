@@ -7,6 +7,7 @@ tags:
 
 Alle Mitglieder der SIEBEN teilen einige Attribute:
 - Resistenz gegen alle Schadenstypen.
+- Nahe 30 in allen Ability Scores dank [[Bag-of-Beans|Bag of Beans]], Manuals, etc.
 
 ###### [[Die Allfaser]]
 *Inspiriert von Odin, Life Fibers*
@@ -35,7 +36,7 @@ Inspirationen: *Incubus*
 **Exploit**: [[Wish]]
 Inspirationen: Annatar, Teacher
 
-###### [[PRINZ]]
+###### [[Kampagnen/Wonka/Personen/Die 7 - SIEBEN/PRINZ]]
 
 **Klassen:** Sorcerer, Paladin (Oath of Glory)
 **Schwächen:** Dekadenz, Trägheit, Hedonismus

@@ -10,7 +10,7 @@
 ##### Examples
 It turns out there are a lot of these, so I list them by source:
 ###### MM24
-Ancient Dragon (Any), [[Kraken|Kraken]], [[lich]], [[Arch-Hag|Arch-hag]], [[Animal-Lord|Animal Lord]], [[Beholder]], [[Archmage|Archmage]], [[Archpriest|Archpriest]], [[Rakshasa]], [[Oni|Oni]]
+Ancient Dragon (Any), [[Kraken|Kraken]], [[Lich]], [[Arch-Hag|Arch-hag]], [[Animal-Lord|Animal Lord]], [[Beholder]], [[Archmage|Archmage]], [[Archpriest|Archpriest]], [[Rakshasa]], [[Oni|Oni]]
 
 #wonka #BBEG #bossfight #AdventureHooks
 
@@ -56,7 +56,7 @@ In other words: The actual threat is negligible and mostly confined to ruling mo
 | 22  | [[Elemental-Cataclysm]] (MM24)                 |                                             |
 | 23  | [[Blob-of-Annihilation\|Blob of Annihilation]] |                                             |
 | 25  | [[Colossus]] (MM24)                            | [[Colossus.pdf\|Graven Colossus]] (Conflux) |
-| 30  | [[tarrasque]] (MM24)                           |                                             |
+| 30  | [[Tarrasque]] (MM24)                           |                                             |
 #wonka #encounters #apocalypse #bossfight #endbringer #godzilla
 
 ---

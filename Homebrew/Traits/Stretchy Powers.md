@@ -5,8 +5,8 @@ You have learned how to use this ability to emulate a number of objects and effe
 - [[Blanket]].
 - [[Club]].
 - **Parachute**. You can create a large tarp to slow your fall, halving fall damage to you and any creature/object you are holding. If an effect causes you to fall involuntarily, you can use this ability as a reaction if you succeed on a Dexterity save (DC 10).
-- **[[Rope]].** 
-- [[thieves-tools|Thieves' Tools]]. 
+- **[[rope]].** 
+- [[Thieves-Tools|Thieves' Tools]]. 
 Alternatively, you can attempt to recreate any object or item of your choice. The GM has some latitude in how feasible/easy it is to recreate the functionality of any specific object. In order to create a complex mechanism, for example, you may have to succeed on an Intelligence (crafting) check, while particularly intricate shapes may require Dexterity (sleight of hand).
 The GM may also determine that a particular shape does not require a roll, e.g. because you have frequently used it to the point of routine, in which case you may add it to the above list of options.
 

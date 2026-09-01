@@ -1,0 +1,20 @@
+# Fount of Moonlight
+
+[Home](http://dnd2024.wikidot.com/home:home) » [All Spells](http://dnd2024.wikidot.com/spell:all) » Fount of Moonlight
+
+Source: Player's Handbook
+
+_Level 4 Evocation (Bard, Druid)_
+
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S  
+**Duration:** Concentration, up to 10 minutes
+
+A cool light wreathes your body for the duration, emitting Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
+
+Until the spell ends, you have Resistance to Radiant damage, and your melee attacks deal an extra 2d6 Radiant damage on a hit.
+
+In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a Reaction to force the creature to make a Constitution saving throw. On a failed save, the creature has the Blinded condition until the end of your next turn.
+
+[bard](http://dnd2024.wikidot.com/system:page-tags/tag/bard#pages)[druid](http://dnd2024.wikidot.com/system:page-tags/tag/druid#pages)[evocation](http://dnd2024.wikidot.com/system:page-tags/tag/evocation#pages)[fourth](http://dnd2024.wikidot.com/system:page-tags/tag/fourth#pages)

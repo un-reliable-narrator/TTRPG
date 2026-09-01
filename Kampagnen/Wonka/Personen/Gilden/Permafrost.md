@@ -31,4 +31,4 @@ tags:
 No other permanent members. Accepting freelancers (with meagre success).
 
 ###### Associates
-- **Fynn.** humanoid/grung-mpmm|Grung]] Guide (Unskilled [[hirelings|Hireling]]). 
+- **Fynn.** humanoid/grung-mpmm|Grung]] Guide (Unskilled [[Hirelings|Hireling]]). 

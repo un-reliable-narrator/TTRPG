@@ -32,4 +32,4 @@ Serves [[Espe]], an unbelievably powerful chronurgy wizard
 ###### Allies
 - Simulacrum, in order to pull off certain spell combos
 ###### Equipment
-- [[staff-of-the-magi|Staff of the Magi]], given by an Academy Archmage as a recognition of achievements
+- [[Staff-of-the-Magi|Staff of the Magi]], given by an Academy Archmage as a recognition of achievements

@@ -1,0 +1,120 @@
+---
+cssclasses:
+- json5e-monster
+tags:
+- src/5e/mpmm
+- monster/cr/4
+- monster/environment/hill
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/aberrations/warlock
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Neogi Master"
+---
+# [Neogi Master](Neogi-master-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 192*  
+
+Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.
+
+## Neogi
+
+> [!quote] A quote from Mordenkainen  
+> 
+> Only the malevolent or the desperate do business with neogi. I generally advise against working with beings who view you as property or prey.
+
+A neogi looks like an outsize spider with an eel's neck and head. It can poison the body and the mind of its targets and can subjugate even beings that are physically superior.
+
+Neogi usually dwell in far-flung locations on the Material Plane, as well as in the Astral Plane and the Ethereal Plane. They left their home world long ago to conquer and devour creatures in other realms. During this era, they dominated umber hulks and used them to build sleek, spidery ships capable of traversing the multiverse.
+
+```statblock
+"name": "Neogi Master (MPMM)"
+"size": "Medium"
+"type": "aberration"
+"subtype": "warlock"
+"alignment": "Typically  Lawful Evil"
+"ac": !!int "15"
+"ac_class": "natural armor"
+"hp": !!int "71"
+"hit_dice": "11d8 + 22"
+"modifier": !!int "3"
+"stats":
+  - !!int "6"
+  - !!int "16"
+  - !!int "14"
+  - !!int "16"
+  - !!int "12"
+  - !!int "18"
+"speed": "30 ft., climb 30 ft."
+"saves":
+  - "wisdom": !!int "3"
+"skillsaves":
+  - "name": "[Arcana](Arcana)"
+    "desc": "+5"
+  - "name": "[Deception](skills.md#Deception)"
+    "desc": "+6"
+  - "name": "[Intimidation](Intimidation)"
+    "desc": "+6"
+  - "name": "[Perception](Perception)"
+    "desc": "+3"
+  - "name": "[Persuasion](Persuasion)"
+    "desc": "+6"
+"senses": "[Darkvision](senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
+"languages": "Common, Deep Speech, Undercommon, telepathy 30 ft."
+"cr": "4"
+"traits":
+  - "desc": "Magical darkness doesn't impede the neogi's [Darkvision](senses.md#Darkvision)."
+    "name": "Devil's Sight"
+  - "desc": "The neogi has advantage on saving throws against being [charmed](conditions.md#Charmed)\
+      \ or [frightened](conditions.md#Frightened), and magic\
+      \ can't put the neogi to sleep."
+    "name": "Mental Fortitude"
+  - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
+      \ without needing to make an ability check."
+    "name": "Spider Climb"
+"actions":
+  - "desc": "The neogi makes one Bite attack and one Claw attack, or it makes two\
+      \ Tentacle of Hadar attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage plus 14 (4d6) poison damage, and the target\
+      \ must succeed on a DC 12 Constitution saving throw or become [poisoned](conditions.md#Poisoned)\
+      \ for 1 minute. A target can repeat the saving throw at the end of each of its\
+      \ turns, ending the effect on itself on a success."
+    "name": "Bite"
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d4 + 3) piercing damage."
+    "name": "Claw"
+  - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:*\
+      \ 14 (3d6 + 4) necrotic damage, and the target can't take reactions until\
+      \ the end of the neogi's next turn, as a spectral tentacle clings to the target."
+    "name": "Tentacle of Hadar"
+  - "desc": "The neogi casts one of the following spells, using Charisma as the spellcasting\
+      \ ability (spell save DC 14):\n\n**At will:** [guidance](guidance),\
+      \ [Mage Hand](Mage-Hand), [minor illusion](minor-illusion),\
+      \ [prestidigitation](prestidigitation)\n\n**1/day\
+      \ each:** [dimension door](dimension-door), [hold\
+      \ person](hold-person), [hunger of Hadar](hunger-of-hadar)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
+      \ must succeed on a DC 14 Wisdom saving throw or be magically [charmed](conditions.md#Charmed)\
+      \ by the neogi for 1 day, or until the neogi dies or is more than 1 mile from\
+      \ the target. The [charmed](conditions.md#Charmed) target\
+      \ obeys the neogi's commands and can't take reactions, and the neogi and the\
+      \ target can communicate telepathically with each other at a distance of up\
+      \ to 1 mile. Whenever the [charmed](conditions.md#Charmed)\
+      \ target takes damage, it can repeat the saving throw, ending the effect on\
+      \ itself on a success."
+    "name": "Enslave (Recharges after a Short or Long Rest)"
+"source":
+  - "MPMM"
+"image": "bestiary/tokens/MPMM/Neogi Master.webp"
+```
+^statblock
+
+## Environment
+
+hill, underdark

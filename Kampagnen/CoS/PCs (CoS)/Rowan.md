@@ -11,7 +11,7 @@ banner:
 
 | Rowan       | played by: [[J.]]                                                                                                                                  |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Class**   | [Circle of the Stars](http://dnd2024.wikidot.com/druid:circle-of-the-stars) [[02) Core Rules/Classes/Druid/Druid\|Druid]] |
+| **Class**   | [Circle of the Stars](http://dnd2024.wikidot.com/druid:circle-of-the-stars) [[01-Rules/Classes/Druid/Druid\|Druid]] |
 | **Species** | [[Elf]] (Wood) (Half-Elf)                                                                                                                          |
 | **Level**   | 5 *(21.02.26)*                                                                                                                                     |
 
@@ -22,7 +22,7 @@ banner:
 |   0   | [[Thorn-Whip]]   |           |         |
 |   1   | [[Guiding-Bolt]] | Evocation |         |
 |   2   | [[Moonbeam]]     | Evocation | C       |
-[[02) Core Rules/Spells/Spells#Druid Spell List|Druid Spell List]]
+[[Spells#Druid Spell List|Druid Spell List]]
 
 #### Beziehungen
 ***[[Ismark The Lesser.png|Ismark]]*.** Kindheitsfreund und romantischer Rivale.

@@ -1,0 +1,31 @@
+### Origin Feats
+#### General
+- [[Alert]]
+- [[Crafter]]
+- [[Healer]]
+- [[Lucky]]
+- [[Magic Initiate]]
+- [[Musician]]
+- [[Savage Attacker]]
+- [[Skilled]]
+- [[Tavern Brawler]]
+- [[01-Rules/Feats/Origin Feats/Tough|Tough]]
+#### Faerun
+- [[Cult of the Dragon Initiate]]
+- [[Emerald Enclave Fledgling]]
+- [[Harper Agent]]
+- [[Lords' Alliance Agent]]
+- [[Purple Dragon Rook]]
+- [[Spellfire Spark]]
+- [[Tyro of the Gauntlet]]
+- [[Zhentarim Ruffian]]
+#### Exotic
+- [[Arcane Infiltrator]]
+- [[Child of the Sun]]
+- [[Shadowmoor Hexer]]
+- [[Tireless Reveler]]
+- [[Vampire Hunter]]
+- [[Vampire's Plaything]]
+#### Ravenloft
+- [[Sharp-Eye]]
+- [[Survivor]]

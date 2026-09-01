@@ -1,0 +1,11 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- src/5e/xphb
+---
+# Resistance
+*Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+If you have Resistance to a [damage type](damage-types.md), damage of that type is halved against you (round down). Resistance is applied only once to an instance of damage.

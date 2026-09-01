@@ -15,11 +15,11 @@
 6. [[Madam Eva.png]]
 7. [[Mongrelfolk.png]]
 8. [[Phantom Warrior.png]]
-9. [[03) Resources/Images/Statsheets/CoS/Rahadin.png|Rahadin]]
+9. [[02-Resources/Images/Statsheets/CoS/Rahadin.png|Rahadin]]
 10. [[Rictavio.png]]
 11. [[Swarm of Zombie Limbs.png]]
 12. [[Vladimir Horngaard.png]]
-13. [[03) Resources/Images/Statsheets/CoS/Wereraven.png|Wereraven]]
+13. [[02-Resources/Images/Statsheets/CoS/Wereraven.png|Wereraven]]
 14. [[Zombie Clot.png]]
 15. [[Zombie Plaguespreader.png]]
 

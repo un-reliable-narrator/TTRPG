@@ -21,13 +21,13 @@ Camp followers generally refers to individuals who are not formally employed by 
 
 ###### Core Troops
 Heavy infantry, heavy cavalry. Veterans or previous campaigns or well-trained members of the warrior caste, who looted or had the money for proper armor.
-`dice: 100d100`[[02) Core Rules/Statblocks/Humanoids/Soldier|Soldier]]s. Line infantry. Mostly nobles on their first campaign, well equipped and trained, but hardly prepared for the reality of battle. Easily scared, exhausted or discouraged, and largely unsure what to do without clear orders or their designated commander. Many enter the service as captains and lieutenants on virtue of their birth, expected to take responsibility for and command of stronger, older and wiser combatants.
+`dice: 100d100`[[01-Rules/Statblocks/Humanoids/Soldier|Soldier]]s. Line infantry. Mostly nobles on their first campaign, well equipped and trained, but hardly prepared for the reality of battle. Easily scared, exhausted or discouraged, and largely unsure what to do without clear orders or their designated commander. Many enter the service as captains and lieutenants on virtue of their birth, expected to take responsibility for and command of stronger, older and wiser combatants.
 `dice: 5d100`[[Warrior-Veteran|Warrior Veteran]]s. Grizzled fighters of no notable house or wealth, but plenty of scars and experience. May have earned a title as levy in a previous campaign. Defiantly proud. Rarely acknowledged by "proper" knights. Decent generals recognize their value.
-`dice: 25d100`[[Knight|Knight]]s. Mounted on [[02) Core Rules/Statblocks/Beasts/Warhorse|Warhorse]]s, unless commanded to fight on foot. Eager for glory (but mostly high ransoms, i.e. enemy nobles.)
+`dice: 25d100`[[Knight|Knight]]s. Mounted on [[01-Rules/Statblocks/Beasts/Warhorse|Warhorse]]s, unless commanded to fight on foot. Eager for glory (but mostly high ransoms, i.e. enemy nobles.)
 (Equipment may deviate from statblock. Usually no ranged weapons in a field battle.)
 Commanders are included in these numbers and have no notable distinguishing statistics. They do fetch a hefty ransom, though.
 
-`dice: 50d100`[[02) Core Rules/Statblocks/Humanoids/Guard]]s represent armed valets and teenage squires. May form a rear guard or mount spare horses, but aren't meant for deployment to the battle. 
+`dice: 50d100`[[01-Rules/Statblocks/Humanoids/Guard]]s represent armed valets and teenage squires. May form a rear guard or mount spare horses, but aren't meant for deployment to the battle. 
 `dice: 50d100`[[Commoner]]s represent unarmed servants. An average *Man-at-Arms* has a retinue of both an armed and unarmed servant.
 
 ###### Support Troops
@@ -47,8 +47,8 @@ In theory, Old Law permits only graduated, royally sanctioned battlemages and th
 
 ###### Specialists
 ***Hounds.*** Originating from a monarch who brought her hunting dogs on campaign, Noth incorporates dogs into their warfare tradition. Battlefield deployment is increasingly rare, as it's seen both as cruel as well as largely ineffective against heaver units. But the dogs are universally beloved by the soldiers, and many generals find them more beneficial for morale than any single other factor.
-`dice: 2d100`Houndmasters ([[02) Core Rules/Statblocks/Humanoids/Tough|Tough]] with [[Animal Handling]] proficiency) serve as battlefield handlers.
-`dice: 10d100`[[02) Core Rules/Statblocks/Beasts/Mastiff|Mastiff]]
+`dice: 2d100`Houndmasters ([[01-Rules/Statblocks/Humanoids/Tough|Tough]] with [[Animal Handling]] proficiency) serve as battlefield handlers.
+`dice: 10d100`[[01-Rules/Statblocks/Beasts/Mastiff|Mastiff]]
 
 `dice: 4d100`[[Commoner]]s care for the dogs.
 

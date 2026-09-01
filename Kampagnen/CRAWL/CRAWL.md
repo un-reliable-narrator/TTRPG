@@ -28,7 +28,7 @@
 - Hat sich eine Domäne eingerichtet, in der sie versucht Auswege zu erfinden.
 - Handelsbeziehung mit *Dirth.*
 - Wütend über die Zerstörung der rätselhaften Maschine. Sie hat sie verwendet, um Zauberschriftrollen zu transkribieren.
-Treasure: [[Robe-of-Useful-Items|Robe of Useful Items]] (inkl. silver coffer, 30 gems, wooden ladder, open pit, rowboat, spell scroll, window, portable ram), [[Bag-of-holding|Bag of Holding]], [[dagger-of-Venom|Dagger of Venom]] (3), Spell Scrolls (Cloud of Daggers, Blindness + Deafness, Homunculus Servant)
+Treasure: [[Robe-of-Useful-Items|Robe of Useful Items]] (inkl. silver coffer, 30 gems, wooden ladder, open pit, rowboat, spell scroll, window, portable ram), [[Bag-of-Holding|Bag of Holding]], [[dagger-of-Venom|Dagger of Venom]] (3), Spell Scrolls (Cloud of Daggers, Blindness + Deafness, Homunculus Servant)
 Möchte eine Potion of Reduce um Ob zu retten.
 
 ###### Azrael
@@ -73,7 +73,7 @@ If reconciliation is not achieved, subsequent shops essentially become increasin
 Druckt "Wenn nichts versteckt wird, wo wird es bewahrt?"
 
 ###### Der Nekromant
-Segen? Unklar. Ein Level 9+ [[Reanimator]] steckt hinter den animierten Leichen der Oger und Vic, und ist offensichtlich mit der Organisation verbunden.
+Segen? Unklar. Ein Level 9+ [[Reanimator-Artificer]] steckt hinter den animierten Leichen der Oger und Vic, und ist offensichtlich mit der Organisation verbunden.
 
 ###### Die Namenlose
 [[Death-Cultist|Death Cultist]]

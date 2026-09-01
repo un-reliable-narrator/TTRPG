@@ -1,0 +1,26 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- src/5e/dmg
+- item/attunement/required
+- item/rarity/legendary
+- item/weapon/martial
+- item/weapon/melee
+aliases:
+- "Sword of Answering"
+---
+# Sword of Answering
+*Weapon ([Longsword](Longsword.md)), legendary (requires attunement)*  
+
+
+- **Damage**:
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
+- **Properties**: [Versatile](Item-Properties.md#Versatile)
+- **Weight**: 3.0 lbs.
+
+You gain a +3 bonus to attack rolls and damage rolls made with this sword. In addition, while you hold the sword, you can take a [Reaction](Reaction.md) to make one melee attack with it against any creature in your reach that deals damage to you. You have [[Advantage|Advantage]] on the attack roll, and any damage dealt with this special attack ignores any [Immunity](01-Rules/Rules/Immunity.md) or [Resistance](01-Rules/Rules/Resistance.md) the target has to that damage.
+
+*Source: Dungeon Master's Guide (2024) p. 313*

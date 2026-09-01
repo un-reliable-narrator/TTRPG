@@ -32,7 +32,7 @@ On Initiative Co
 
 
 - 2d6+1 Barovian [[Scout]]s (Player 1)
-- 1d4 tamed [[02) Core Rules/Statblocks/Beasts/Mastiff]]s (Player 1)
+- 1d4 tamed [[01-Rules/Statblocks/Beasts/Mastiff]]s (Player 1)
 are leading
 - 1 [[Warrior Veteran]] (Player 2)
 - 1d6 [[Warrior Infantry]] (Player 2)

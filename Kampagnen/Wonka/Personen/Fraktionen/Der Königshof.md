@@ -9,7 +9,7 @@ Das Königreich heißt Hyrune
 Er ist, trotz hohen Alters, ein exzellenter Schwertkämpfer und Reiter. 
 Als [[Tutor]] könnte er innerhalb eines Tages das [Parry](https://www.5esrd.com/gamemastering/monsters-foes/npc/npc-noble/) Feat lehren, sowie [Inspiring Leader](https://dnd5e.wikidot.com/feat:inspiring-leader), [Mounted Combatant](https://dnd5e.wikidot.com/feat:mounted-combatant) und passende Weapon Masteries und Proficiencies.
 
-Er verwendet den [[02) Core Rules/Statblocks/Humanoids/Noble]] statblock, bis er die königliche Rüstung anlegt. In diesem Fall wird er zum [[Paragon Knight]].
+Er verwendet den [[01-Rules/Statblocks/Humanoids/Noble]] statblock, bis er die königliche Rüstung anlegt. In diesem Fall wird er zum [[Paragon Knight]].
 
 **[[Wurmlippe]]**
 Sein voller Name ist Unhold R. Böse. Liebt den König von Herzen. Möchte, dass sich die Verhältnisse des Volkes verbessern. Im Grunde als einziger.
@@ -31,4 +31,4 @@ Die Leibgarde
 
 Das Heer
 
-Streife: 2w4 [[02) Core Rules/Statblocks/Humanoids/Guard]]. Ausreichend, um Gruppen von [[Commoners]] zu besiegen. In 
+Streife: 2w4 [[01-Rules/Statblocks/Humanoids/Guard]]. Ausreichend, um Gruppen von [[Commoners]] zu besiegen. In 

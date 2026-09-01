@@ -22,7 +22,7 @@ Ein [[Plasmoid]] hat sich an Bord geschlichen?
 ###### 5. Die Goldene Stadt
 
 ###### 6. Notsignal aus dem Wald? Dinosaurierjagd?
-*Weide*, eine Hasenvolk-Druidin ([[02) Core Rules/Statblocks/Humanoids/Druid|Druid]]), versteckt sich hinter ihrem Gefährten, dem [[Ankylosaurus]] *Killa*. Er hat Zaumzeug und einen Sattel. 
+*Weide*, eine Hasenvolk-Druidin ([[01-Rules/Statblocks/Humanoids/Druid|Druid]]), versteckt sich hinter ihrem Gefährten, dem [[Ankylosaurus]] *Killa*. Er hat Zaumzeug und einen Sattel. 
 Wenn Weide aus ihrer Deckung auftaucht, dann um Zauber auf die anrückenden Gnoll-Jäger ([[Gnoll Warrior]]) abzufeuern. Killa greift Feinde an, die zu nahe kommen und verwendet sonst die Dodge Action. 
 - 1w6 Gnolle sind [[Restrained]], weil Weide [[Entangle]] gewirkt hat. 
 - 1w6 Gnolle nähern sich aus größerer Distanz. 

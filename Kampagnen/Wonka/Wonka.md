@@ -1,6 +1,9 @@
 *Kampagne 1.*
 
 Offenes:
+- Stradivarius hat eine Kriegsmaschine mit den Statistiken vom [[Mighty Servant of Leuk-o]] gebaut.
+	- ​Schallbert weiß darum, und dass das Stradi-Mobil einen der Teile enthielt
+
 30.05.
 - [ ] Was finden [[Arthur]] und Fizz in der Bibliothek?
 	- [x] Ein Zauberbuch von *Tarak Rotschweiß*, Kriegs-Arkanist im Dienste von Nadja Ohm (Heute ein [[Flameskull]] in Xikima's Ritualkammer)
@@ -73,7 +76,6 @@ Offenes:
 ## Ein Goldenes Ticket — Kampagne
 
 ###### Konzept
----
 ein dnd 5e 2024 Abenteuer
 die gruppe besteht aus verarmten nobodies, die ein goldenes ticket erhalten (fälschlich), um am großen Turnier (name wip) teilzunehmen. Dabei treten sie in Gruppen in verschiedenen Feuerproben an und sammeln Punkte (und Exp, Gold, Magische Items), für eine Chance, in die besten Abenteuer-Gilden aufgenommen zu werden.
 

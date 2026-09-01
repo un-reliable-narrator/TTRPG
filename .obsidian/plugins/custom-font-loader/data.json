@@ -1,7 +1,15 @@
 {
   "font_folder": ".obsidian/fonts/",
-  "font": "Calibri.zip",
-  "force_mode": false,
-  "custom_css_mode": true,
-  "custom_css": ".custom-font * {\nfont-family: Courier !important;\n}"
+  "interface_font": [
+    ".obsidian/fonts/Calibri.zip"
+  ],
+  "text_font": [
+    ".obsidian/fonts/Calibri.zip"
+  ],
+  "monospace_font": [
+    ".obsidian/fonts/Calibri.zip"
+  ],
+  "extra_fonts": [],
+  "emoji_support": true,
+  "force_mode": false
 }

@@ -17,5 +17,10 @@
   "calc-craft",
   "numerals",
   "obsidian-html-plugin",
-  "terminal"
+  "terminal",
+  "heading-level-indent",
+  "simple-tab-indent",
+  "html-checkboxes",
+  "homepage",
+  "templater-obsidian"
 ]

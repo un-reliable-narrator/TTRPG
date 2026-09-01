@@ -1,0 +1,33 @@
+---
+cssclasses:
+- json5e-note
+- json5e-index
+---
+# Index of Plant
+
+- [Aartuk Elder](Aartuk-Elder-bam.md)
+- [Aartuk Starhorror](Aartuk-Starhorror-bam.md)
+- [Aartuk Weedling](Aartuk-Weedling-bam.md)
+- [Astral Blight](Astral-Blight-Lox.md)
+- [Awakened-Shrub](Awakened-Shrub.md)
+- [Awakened Tree](Awakened%20Tree.md)
+- [Corpse Flower](Corpse-flower-mpmm.md)
+- [Gas Spore Fungus](Gas%20Spore%20Fungus.md)
+- [Gulthias Blight](Gulthias%20Blight.md)
+- [Myconid Adult](Myconid-Adult.md)
+- [Myconid Sovereign](Myconid-Sovereign.md)
+- [Myconid Spore Servant](Myconid-Spore-Servant.md)
+- [Myconid Sprout](Myconid-Sprout.md)
+- [Needle Blight](Needle%20Blight.md)
+- [Shambling Mound](Shambling%20Mound.md)
+- [Shrieker Fungus](shrieker-fungus.md)
+- [Thorny Vegepygmy](thorny-vegepygmy-mpmm.md)
+- [Treant](Treant.md)
+- [Tree Blight](Tree%20Blight.md)
+- [Twig Blight](Twig%20Blight.md)
+- [Vegepygmy Chief](vegepygmy-Chief-mpmm.md)
+- [Vegepygmy](vegepygmy-mpmm.md)
+- [Vine Blight](vine-Blight.md)
+- [Violet Fungus Necrohulk](violet-fungus-necrohulk.md)
+- [Violet Fungus](violet-fungus.md)
+- [Wood Woad](wood-Woad-mpmm.md)

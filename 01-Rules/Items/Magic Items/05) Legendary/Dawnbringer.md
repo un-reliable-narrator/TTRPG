@@ -1,0 +1,19 @@
+# Dawnbringer
+
+Source: Out of the Abyss
+
+_Weapon (longsword), legendary (requires attunement by a creature of non-evil alignment)_
+
+Lost for ages in the Underdark, _Dawnbringer_ appears to be a gilded longsword hilt. While grasping the hilt, you can use a bonus action to make a blade of pure radiance spring from the hilt, or cause the blade to disappear. _Dawnbringer_ has all the properties of a [Sun Blade](http://dnd5e.wikidot.com/wondrous-items:sun-blade).
+
+While holding the weapon, you can use an action to touch a creature with the blade and cast [Lesser Restoration](http://dnd5e.wikidot.com/spell:lesser-restoration) on that creature. Once used, this ability can't be used again until the next dawn.
+
+**_Sentience._** _Dawnbringer_ is a sentient neutral good weapon with an Intelligence of 12, a wisdom of 15, and a Charisma of 14. It has hearing and darkvision out to a range of 120 feet.
+
+The sword can speak, read, and understand Common, and it can communicate with its wielder telepathically. Its voice is kind and feminine. It knows every language you know while you're attuned to it.
+
+**_Personality._** Forged by ancient sun worshippers, _Dawnbringer_ is meant to bring light into darkness and to fight creatures of darkness. It is kind and compassionate to those in need, but fierce and destructive to its enemies.
+
+Long years lost in darkness have made _Dawnbringer_ frightened of both the dark and abandonment. It prefers that its blade always be present and shedding light in areas of darkness, and it strongly resists being parted from its wielder for any length of time.
+
+[attuned](https://dnd5e.wikidot.com/system:page-tags/tag/attuned#pages)[legendary](https://dnd5e.wikidot.com/system:page-tags/tag/legendary#pages)[ooa](https://dnd5e.wikidot.com/system:page-tags/tag/ooa#pages)[weapon](https://dnd5e.wikidot.com/system:page-tags/tag/weapon#pages)

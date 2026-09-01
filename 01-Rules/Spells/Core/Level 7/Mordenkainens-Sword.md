@@ -1,0 +1,24 @@
+---
+tags:
+  - "#spell"
+---
+# Mordenkainen's Sword
+
+[Home](http://dnd2024.wikidot.com/home:home) » [All Spells](all) » Mordenkainen's Sword
+
+Source: Player's Handbook
+
+_Level 7 Evocation (Bard, Wizard)_
+
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a miniature sword worth 250+ GP)  
+**Duration:** Concentration, up to 1 minute
+
+You create a spectral sword that hovers within range. It lasts for the duration.
+
+When the sword appears, you make a melee spell attack against a target within 5 feet of the sword. On a hit, the target takes Force damage equal to 4d12 plus your spellcasting ability modifier.
+
+On your later turns, you can take a Bonus Action to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
+
+[bard](http://dnd2024.wikidot.com/system:page-tags/tag/bard#pages)[evocation](http://dnd2024.wikidot.com/system:page-tags/tag/evocation#pages)[seventh](http://dnd2024.wikidot.com/system:page-tags/tag/seventh#pages)[wizard](http://dnd2024.wikidot.com/system:page-tags/tag/wizard#pages)

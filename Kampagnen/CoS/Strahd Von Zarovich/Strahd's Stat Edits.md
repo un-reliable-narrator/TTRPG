@@ -1,5 +1,5 @@
 # Edits to Strahd's Statblock
-*[[02) Core Rules/Statblocks/Undead/Strahd von Zarovich|Strahd von Zarovich]]*
+*[[01-Rules/Statblocks/Undead/Strahd von Zarovich|Strahd von Zarovich]]*
 
 ### Actions
 *+Added Spells*

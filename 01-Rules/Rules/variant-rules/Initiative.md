@@ -1,0 +1,13 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- src/5e/xphb
+---
+# Initiative
+*Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+Initiative determines the order of turns during combat. The combat rules in "chapter 1" explain how to roll Initiative.
+
+Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have [[Advantage|Advantage]] on Initiative rolls, increase your Initiative score by 5. If you have [[01-Rules/Rules/variant-rules/Disadvantage|Disadvantage]] on those rolls, decrease that score by 5.

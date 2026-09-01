@@ -15,18 +15,18 @@ Außerdem will er Rowan erzählen, dass er dessen Vater zu Tode gefoltert hat.
 ###### *Framed.*
 *Replaces the Barovian Scouts encounter, if it's been encountered at least once before.*
 There is a strange rhythm to the birds' cries around you. Echoing low in the mists. Shuffling leaves, a distant dog and a short bark. Passive Wisdom (Nature or Perception, DC 17 or the Scout Captain's stealth check) will betray the "birds" as whistled signals, or reveal the silhouettes stalking you just off the path.
-A [[Scout-Captain|Scout Captain]] leading 1d4+1 Barovian [[Scout|Scout]]s and 1d6 [[02) Core Rules/Statblocks/Beasts/Mastiff|Mastiff]]s, originating from the closes active settlement.
+A [[Scout-Captain|Scout Captain]] leading 1d4+1 Barovian [[Scout|Scout]]s and 1d6 [[01-Rules/Statblocks/Beasts/Mastiff|Mastiff]]s, originating from the closes active settlement.
 They carry drawings of the party, which accuse them of some heinous, unforgivable crime. The crime is real, but the party did not perpetrate it. Strahd tricked some brave Barovians  into "enacting justice." It's part of his game. Can he corrupt the party into slaughtering some ordinary people? Undermine the relationship between his subjects and their want-to-be "saviors"? 
 (Either way, the plot has not spread far. The search party assembled hastily and in the early hours, and took the "wanted" posters with them. Their home settlement isn't fully aware why the hunters left, and they don't consider the player characters wanted fugitives.)
 The search party is prepared for a fight, but will reveal themselves and offer a chance to surrender. With their crossbows at the ready, the party still suffers disadvantage on initiative unless they spotted the search party. 
 The search party prefers to capture the party alive and bring them to justice. They're wary of the foreigners and their power, especially if the party already has a reputation for using magic. If obviously outmatched, they won't hesitate to retreat from combat. Each scout gets one death save.
-*To make them slightly more powerful*, feel free to grant the Scouts the mastery properties of their weapons ([[02) Core Rules/Weapon Properties/Masteries/Slow|Slow]] for [[Light-Crossbow]]s and [[Vex]] for Shortswords and Handaxes.)
-***Treasure.*** [[Light-Crossbow]]s, [[Shortsword]]s, or [[Handaxe]]s. 1d10ep on each scout. [[Scout-Captain|Scout Captain]] carries a [[Herbalism-Kit]] and 1d4 [[Potions of Healing]] (will use them to save her companions). 
+*To make them slightly more powerful*, feel free to grant the Scouts the mastery properties of their weapons ([[01-Rules/Weapon Properties/Masteries/Slow|Slow]] for [[Light-Crossbow]]s and [[Vex]] for Shortswords and Handaxes.)
+***Treasure.*** [[Light-Crossbow]]s, [[Shortsword]]s, or [[Handaxe]]s. 1d10ep on each scout. [[Scout-Captain|Scout Captain]] carries a [[herbalism-kit]] and 1d4 [[Potions of Healing]] (will use them to save her companions). 
 The Mastiffs are loyal to their masters and stubbornly fight to the death. If they can still be pacified or restrained, it takes at least 2h and Animal Handling (DC20) to "adopt" them. [[Speak-with-Animals]] grants advantage on the check.
 
 - *If the scouts get the drop on the party* and the party decides to fight back, they are surrounded, and half of the scouts are hidden 20 ft. up in tree canopies.
 
-- *If the party flees the scouts,* determine a random PC to roll a DC 16 (Scout Captain's passive survival) Perception check. *Failure:* They fail to spot and are caught by a [[Hunting-Trap]].
+- *If the party flees the scouts,* determine a random PC to roll a DC 16 (Scout Captain's passive survival) Perception check. *Failure:* They fail to spot and are caught by a [[hunting-trap]].
 
 - *If the party surrenders to the scouts*, their weapons, armor and obvious arcane/religious implements are taken and they are bound with [[rope]]. Strahd, suspecting that the PCs would prove their innocence in trial and sensing an opportunity to eliminate some of Barovia's best hunters, sends his wolves. If the party has not killed any scouts and they are still bound after the first round of combat, the scouts will try to to cut them loose, or toss them a knife to free themselves. 
 
