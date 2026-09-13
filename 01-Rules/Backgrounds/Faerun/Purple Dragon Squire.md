@@ -2,7 +2,7 @@
 tags:
   - background
 ---
-Purple Dragon Squire
+# Purple Dragon Squire
 
 [Home](http://dnd2024.wikidot.com/home:home) » [Backgrounds](http://dnd2024.wikidot.com/background:all) » Purple Dragon Squire
 

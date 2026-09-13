@@ -31,7 +31,7 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 | 16-18       | [Berserker](Berserker.md)                                      |
 | 19-21       | [Bugbear Warrior](Bugbear-Warrior.md)                          |
 | 22-24       | [Cloud Giant](Cloud-Giant.md)                                  |
-| 25-27       | [Druid](01-Rules/Statblocks/Humanoids/Druid.md)                  |
+| 25-27       | [Druid-xmm](Druid-xmm.md)                  |
 | 28-30       | [erinyes](erinyes.md)                                          |
 | 31-33       | [ettin](ettin.md)                                              |
 | 34-36       | [Fire Giant](fire-Giant.md)                                    |

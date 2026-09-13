@@ -710,13 +710,13 @@ The Encounter Distance column in the "Travel Terrain" table gives the range at w
 
 #### Foraging
 
-Characters without water and [Rations](rations.md) can stave off [Dehydration](01-Rules/Hazards/Dehydration.md) and [Malnutrition](01-Rules/Hazards/Malnutrition.md) by gathering food and water as they travel. A foraging character makes a Wisdom ([Survival](Survival.md)) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the "Travel Terrain" table. If multiple characters forage, each character makes a separate check.
+Characters without water and [Rations](Rations.md) can stave off [Dehydration](01-Rules/Hazards/Dehydration.md) and [Malnutrition](01-Rules/Hazards/Malnutrition.md) by gathering food and water as they travel. A foraging character makes a Wisdom ([Survival](Survival.md)) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the "Travel Terrain" table. If multiple characters forage, each character makes a separate check.
 
 A foraging character finds nothing on a failed check. On a successful check, roll `dice: 1d6` and add the character's Wisdom modifier to determine how much food (in pounds) the character finds per day of the journey stage, then repeat the roll for water (in gallons).
 
 > [!note] Do Players Need to Track Rations?
 > 
-> You might decide that tracking [Rations](rations.md) is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](Survival.md) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [Create Food and Water](Create-Food-and-Water.md) spell) to sustain them.
+> You might decide that tracking [Rations](Rations.md) is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](Survival.md) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [Create Food and Water](Create-Food-and-Water.md) spell) to sustain them.
 > 
 > On the other hand, having players track Rations seems appropriate for a more realistic campaign. Characters in such a campaign should approach a long wilderness journey as a challenge in logistics: how many pack animals do they need to carry the food for the journey, and how do they feed the animals?
 > 

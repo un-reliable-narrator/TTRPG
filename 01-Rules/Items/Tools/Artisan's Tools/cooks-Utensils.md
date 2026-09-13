@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Wisdom  
 - **Utilize.** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)  
-- **Craft.** [Rations](rations.md)  
+- **Craft.** [Rations](Rations.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

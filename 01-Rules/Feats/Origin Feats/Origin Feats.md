@@ -20,7 +20,7 @@
 - [[Tyro of the Gauntlet]]
 - [[Zhentarim Ruffian]]
 #### Exotic
-- [[Arcane Infiltrator]]
+- [[01-Rules/Feats/Origin Feats/Exotic/Arcane Infiltrator]]
 - [[Child of the Sun]]
 - [[Shadowmoor Hexer]]
 - [[Tireless Reveler]]

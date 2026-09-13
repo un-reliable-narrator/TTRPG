@@ -2,7 +2,7 @@
 tags:
   - background
 ---
-Knight Of The Gauntlet
+# Knight Of The Gauntlet
 
 [Home](http://dnd2024.wikidot.com/home:home) » [Backgrounds](http://dnd2024.wikidot.com/background:all) » Knight Of The Gauntlet
 

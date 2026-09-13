@@ -22,5 +22,6 @@
   "simple-tab-indent",
   "html-checkboxes",
   "homepage",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-linter"
 ]

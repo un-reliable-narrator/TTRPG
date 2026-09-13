@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tortle"
 ---
-# [Tortle](01-Rules/Statblocks/Humanoids/tortle-mpmm.md)
+# [Tortle](01-Rules/Statblocks/Humanoids/Tortle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244*  
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.

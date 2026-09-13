@@ -9,8 +9,6 @@ tags:
 - monster/type/Humanoids/cleric
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-- "Priest"
 ---
 # [Priest](Priest.md)
 *Source: Monster Manual (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

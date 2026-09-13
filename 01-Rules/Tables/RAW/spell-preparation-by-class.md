@@ -17,7 +17,7 @@ aliases:
 | ------------------------------------------------------ | ------------------ | ---------------- |
 | [[Bard]]                                               | Gain a level       | One              |
 | [[Cleric]]                                             | Finish a Long Rest | Any              |
-| [[01-Rules/Statblocks/Humanoids/Druid]]                                              | Finish a Long Rest | Any              |
+| [[Druid-xmm]]                                              | Finish a Long Rest | Any              |
 | [[Paladin]]                                            | Finish a Long Rest | One              |
 | [[Ranger]]                                             | Finish a Long Rest | One              |
 | [[Sorcerer]]                                           | Gain a level       | One              |

@@ -1,6 +1,7 @@
 ---
 tags:
   - Bastion
+  - "#src/5e/rhw"
 ---
 ### Spirit Vault
 

@@ -16,7 +16,7 @@
   "defaultRoll": 1,
   "defaultFace": 100,
   "renderer": false,
-  "renderAllDice": true,
+  "renderAllDice": false,
   "addToView": false,
   "renderTime": 2000,
   "colorfulDice": false,
@@ -29,7 +29,7 @@
   "displayAsSymbols": false,
   "displayAsEmbed": true,
   "round": "Up",
-  "initialDisplay": "Roll",
+  "initialDisplay": "None",
   "icons": [
     {
       "text": "4",
@@ -211,6 +211,34 @@
       "resultText": "1d20\n[12]",
       "timestamp": 1779555288828,
       "id": "odtmctjxxKXE"
+    },
+    {
+      "result": "10",
+      "original": "1d100",
+      "resultText": "1d100\n[10]",
+      "timestamp": 1788430963596,
+      "id": "fhNv28uR-VpF"
+    },
+    {
+      "result": "88",
+      "original": "1d100",
+      "resultText": "1d100\n[88]",
+      "timestamp": 1788430980932,
+      "id": "MCV0YrDIwOEl"
+    },
+    {
+      "result": "96",
+      "original": "1d100",
+      "resultText": "1d100\n[96]",
+      "timestamp": 1788431001723,
+      "id": "QYdPzgLAXUmz"
+    },
+    {
+      "result": "82",
+      "original": "1d100",
+      "resultText": "1d100\n[82]",
+      "timestamp": 1788804669434,
+      "id": "CBa8P4g6WKIQ"
     }
   ]
 }

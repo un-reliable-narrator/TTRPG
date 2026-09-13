@@ -419,7 +419,7 @@ If a magic item description capitalizes a creature's name and presents it in **b
 - [Armor of Resistance](Armor-of-Resistance.md)  
 - [Armor of Vulnerability](Armor-of-Vulnerability.md)  
 - [Arrow-Catching Shield](Arrow-Catching-Shield.md)  
-- [Axe of the Dwarvish Lords](Axe-of-the-dwarvish-Lords.md)  
+- [Axe of the Dwarvish Lords](Axe-of-the-Dwarvish-Lords.md)  
 - [Baba Yaga's Dancing Broom](baba-yagas-dancing-Broom.md)  
 - [Bag of Beans](Bag-of-Beans.md)  
 - [Bag of Devouring](Bag-of-Devouring.md)  

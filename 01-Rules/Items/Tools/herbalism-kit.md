@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Identify a plant (DC 10)  
-- **Craft.** [Antitoxin](Antitoxin.md), [Candle](candle.md), [Healer's Kit](healers-kit.md), [Potion of Healing](potion-of-healing.md)  
+- **Craft.** [Antitoxin](Antitoxin.md), [Candle](candle.md), [Healer's Kit](Healers-Kit.md), [Potion of Healing](potion-of-healing.md)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

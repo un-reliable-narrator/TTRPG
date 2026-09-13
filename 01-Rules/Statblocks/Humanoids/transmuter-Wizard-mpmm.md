@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Transmuter Wizard"
 ---
-# [Transmuter Wizard](transmuter-Wizard-mpmm.md)
+# [Transmuter Wizard](Transmuter-Wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 265*  
 
 Transmuters are masters at transforming physical forms. They typically view magical transmutation as a path to riches, enlightenment, or apotheosis.

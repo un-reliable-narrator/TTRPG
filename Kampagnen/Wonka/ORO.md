@@ -6,10 +6,13 @@ ORO could have re-married, killed and revivified the same person to the same out
 These days, the suitors are almost exclusively Legacy Warforged (with the humanoid typing) and [[Reborn]]. This is because ORO prefers to keep them within 30 ft. by placing them in a bag of holding, which they then place inside of their own body.
 All of it is done for +2 AC.
 
+## Hoard
+
+
 ## ORO
 *Creature Size, Type, Alignment*
 
-**AC** 24 (Robe of the Archmagi) (Wedding [[Ceremony]])
+**AC** 25 (Robe of the Archmagi) (Wedding [[Ceremony]])
 **Initiative** +13 (23) ([[Alert]])
 **HP** 234 (20d8 + 140)
 **Temp HP** 12 (Fiendish Vigor)
@@ -18,7 +21,7 @@ All of it is done for +2 AC.
 | Ability | Score | Modifier | Save | Ability | Score | Modifier | Save |
 | ------- | ----- | -------- | ---- | ------- | ----- | -------- | ---- |
 | **Str** | 22    | +6       |      | **Int** | 20    | +5       |      |
-| **Dex** | 24    | +7       | + 13 | **Wis** | 24    | +7       | +13  |
+| **Dex** | 26    | +8       | + 13 | **Wis** | 24    | +7       | +13  |
 | **Con** | 24    | +7       |      | **Cha** | 30    | +10      | +16  |
 **Gear** [[Robe-of-the-Archmagi|Robe of the Archmagi]], [[Staff-of-the-Magi|Staff of the Magi]], [[carpet-of-flying|Carpet of Flying]], [[Potion of Giant Size]], [[Potion of Dragon's Majesty]]
 **Resistances** Poison, Psychic

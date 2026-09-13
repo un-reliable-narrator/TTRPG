@@ -8,9 +8,12 @@ tags:
 Alle Mitglieder der SIEBEN teilen einige Attribute:
 - Resistenz gegen alle Schadenstypen.
 - Nahe 30 in allen Ability Scores dank [[Bag-of-Beans|Bag of Beans]], Manuals, etc.
+- GESTALT Regeln (2 Charakterklassen gleichzeitig leveln)
+- 1 *Artifact*, quasi unbegrenzte Rare Items, etc.
 
 ###### [[Die Allfaser]]
 *Inspiriert von Odin, Life Fibers*
+**Artefakte:** [[Adze of Annam]]
 **Klassen**: Ranger (Beast Master), Wizard (Diviner), Druid (Circle of Stars)
 **Stärken**: Allwissend(?), Weitsicht, wandelt mühelos zwischen den Sphären, blickt durch viele Augen und bedient sich vieler Hüllen. Geheimnisse und Techniken aus sehr alter Zeit und von sehr weit her. Verteilt "Sterne", die ihren Trägern Macht verleihen, zum Preis, dass die ALLFASER durch ihre Augen blicken kann. Müheloser Wandel zwischen den Welten. 
 **Schwächen**: Gierig nach Wissen, Eindrücken. Gluttony/Greed
@@ -19,8 +22,9 @@ Alle Mitglieder der SIEBEN teilen einige Attribute:
 **Thron:** Weltenbaum
 Inspirationen: *Odin, Life Fibers,*
 
-###### ORO HEDO, die Schlange
+###### [[ORO]] HEDO, die Schlange
 *Eine Lügnerin, welche ihre Rivalen durch List vernichten zu sucht.*
+**Artefakte:** [[Lash of Shadows]]
 **Klassen**: Rogue (Assassin), Warlock, 
 **Macht**: Giftige Worte, Manipulation, etc. Formenwechsel. 
 **Schwächen**: Neid, Zynismus, unfähig zu Authentizität oder wahrer Empathie
@@ -30,6 +34,8 @@ Inspirationen: *Incubus*
 
 ###### SANNAT, Herr der Wünsche
 *Ein Lügner, der falsche Geschenke verteilt. Verantwortlich dafür, den Wunsch für die Siegerin des Großen Turniers zu wirken.*
+**Artefakte:** [[Crown of Lies]], [[Teeth of Dahlver-Nar]]
+
 **Klassen**: Barde, Paladin (Oath of Genies), Cleric (Trickery Domain)
 **Stärken**: 
 **Schwächen**: Hochmut, Überschätzung der eigenen Popularität.

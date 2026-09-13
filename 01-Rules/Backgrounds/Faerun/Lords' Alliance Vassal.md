@@ -2,7 +2,7 @@
 tags:
   - background
 ---
-Lords' Alliance Vassal
+# Lords' Alliance Vassal
 
 [Home](http://dnd2024.wikidot.com/home:home) » [Backgrounds](http://dnd2024.wikidot.com/background:all) » Lords' Alliance Vassal
 

@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - src/5e/xphb
-aliases:
-- "Conditions"
 ---
 # Conditions
 
@@ -16,7 +14,7 @@ While you have the Blinded condition, you experience the following effects.
 
 **Can't See.** You can't see and automatically fail any ability check that requires sight.
 
-**Attacks Affected.** [Attack] rolls against you have [[Advantage|Advantage]], and your attack rolls have [[01-Rules/Rules/variant-rules/Disadvantage|Disadvantage]].
+**Attacks Affected.** [Attack](Attack) rolls against you have [[Advantage|Advantage]], and your attack rolls have [[01-Rules/Rules/variant-rules/Disadvantage|Disadvantage]].
 
 ## Bloodied
 _Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -105,7 +103,7 @@ While you have the Invisible condition, you experience the following effects.
 
 **Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
-**Attacks Affected.** [Attack] rolls against you have [[01-Rules/Rules/variant-rules/Disadvantage|Disadvantage]], and your attack rolls have [[Advantage|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+**Attacks Affected.** [Attack](Attack) rolls against you have [[01-Rules/Rules/variant-rules/Disadvantage|Disadvantage]], and your attack rolls have [[Advantage|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ## Paralyzed
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -118,7 +116,7 @@ While you have the Paralyzed condition, you experience the following effects.
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](saving-throw.md).
 
-**Attacks Affected.** [Attack] rolls against you have [[Advantage|Advantage]].
+**Attacks Affected.** [Attack](Attack) rolls against you have [[Advantage|Advantage]].
 
 **Automatic Critical Hits.** Any attack roll that hits you is a [Critical Hit](critical-hit.md) if the attacker is within 5 feet of you.
 
@@ -133,7 +131,7 @@ While you have the Petrified condition, you experience the following effects.
 
 **Speed 0.** Your [Speed](01-Rules/Rules/variant-rules/Speed.md) is 0 and can't increase.
 
-**Attacks Affected.** [Attack] rolls against you have [[Advantage|Advantage]].
+**Attacks Affected.** [Attack](Attack) rolls against you have [[Advantage|Advantage]].
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](saving-throw.md).
 
@@ -164,7 +162,7 @@ While you have the Restrained condition, you experience the following effects.
 
 **Speed 0.** Your [Speed](01-Rules/Rules/variant-rules/Speed.md) is 0 and can't increase.
 
-**Attacks Affected.** [Attack] rolls against you have [[Advantage|Advantage]], and your attack rolls have [[01-Rules/Rules/variant-rules/Disadvantage|Disadvantage]].
+**Attacks Affected.** [Attack](Attack) rolls against you have [[Advantage|Advantage]], and your attack rolls have [[01-Rules/Rules/variant-rules/Disadvantage|Disadvantage]].
 
 **Saving Throws Affected.** You have [[01-Rules/Rules/variant-rules/Disadvantage|Disadvantage]] on Dexterity [saving throws](saving-throw.md).
 
@@ -177,7 +175,7 @@ While you have the Stunned condition, you experience the following effects.
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](saving-throw.md).
 
-**Attacks Affected.** [Attack] rolls against you have [[Advantage|Advantage]].
+**Attacks Affected.** [Attack](Attack) rolls against you have [[Advantage|Advantage]].
 
 ## Surprised
 _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -193,7 +191,7 @@ While you have the Unconscious condition, you experience the following effects.
 
 **Speed 0.** Your [Speed](01-Rules/Rules/variant-rules/Speed.md) is 0 and can't increase.
 
-**Attacks Affected.** [Attack] rolls against you have [[Advantage|Advantage]].
+**Attacks Affected.** [Attack](Attack) rolls against you have [[Advantage|Advantage]].
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](saving-throw.md).
 

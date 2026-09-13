@@ -9,8 +9,6 @@ tags:
 - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-- "Berserker"
 ---
 # [Berserker](Berserker.md)
 *Source: Monster Manual (2024) p. 37. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

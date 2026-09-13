@@ -51,7 +51,7 @@ aliases:
 | [Explorer's Pack](explorers-Pack.md)         | 55 lb.       | 10 GP    |
 | [Flask](Flask.md)                            | 1 lb.        | 2 CP     |
 | [Grappling Hook](grappling-hook.md)          | 4 lb.        | 2 GP     |
-| [Healer's Kit](healers-kit.md)               | 3 lb.        | 5 GP     |
+| [Healer's Kit](Healers-Kit.md)               | 3 lb.        | 5 GP     |
 | [Holy Symbol](holy-Symbol.md)                | Varies       | Varies   |
 | [Holy Water](holy-Water.md)                  | 1 lb.        | 25 GP    |
 | [Hunting Trap](hunting-trap.md)              | 25 lb.       | 5 GP     |
@@ -80,7 +80,7 @@ aliases:
 | [Priest's Pack](priests-Pack.md)             | 29 lb.       | 33 GP    |
 | [Quiver](Quiver.md)                          | 1 lb.        | 1 GP     |
 | [Ram, Portable](portable-Ram.md)             | 35 lb.       | 4 GP     |
-| [Rations](rations.md)                        | 2 lb.        | 5 SP     |
+| [Rations](Rations.md)                        | 2 lb.        | 5 SP     |
 | [Robe](robe.md)                              | 4 lb.        | 1 GP     |
 | [Rope](rope.md)                              | 5 lb.        | 1 GP     |
 | [Sack](sack.md)                              | 1/2 lb.      | 1 CP     |

@@ -17,6 +17,6 @@ aliases:
 |-------|-------------------|
 | [[Barbarian]]|Barbarian]] | 12 + Con. modifier |
 | [Fighter](Fighter.md), [[Paladin]]|Paladin]], or [[Ranger]]|Ranger]] | 10 + Con. modifier |
-| [[Bard]]|Bard]], [[Cleric]]|Cleric]], [[01-Rules/Statblocks/Humanoids/Druid]]|Druid]], [[Monk]]|Monk]], [[Rogue]]|Rogue]], or [[Warlock]]|Warlock]] | 8 + Con. modifier |
+| [[Bard]]|Bard]], [[Cleric]]|Cleric]], [[Druid-xmm]]|Druid]], [[Monk]]|Monk]], [[Rogue]]|Rogue]], or [[Warlock]]|Warlock]] | 8 + Con. modifier |
 | [[Sorcerer]]|Sorcerer]] or [Wizard](Wizard.md) | 6 + Con. modifier |
 ^level-1-hit-points-by-class

@@ -2,7 +2,12 @@
 *Description*
 
 **Habitat**
-**Treasure**
+
+## Treasure
+### Crown of Lies
+**Major Beneficial Property** +2 Ability Score (Dex)
+**Minor Beneficial Property** Cast a Level 3 spell
+**Minor Detrimental Property** Beasts with CR6 or lower within 30 ft. are hostile
 
 ## Creature Name
 *Creature Size, Type, Alignment*

@@ -41,7 +41,7 @@ Gathering together fantastical races from throughout the D&D multiverse, this ch
 - [Shadar-kai](shadar-kai-mpmm.md)  
 - [Shifter](shifter-mpmm.md)  
 - [Tabaxi](tabaxi-mpmm.md)  
-- [Tortle](01-Rules/Statblocks/Humanoids/tortle-mpmm.md)  
+- [Tortle](01-Rules/Statblocks/Humanoids/Tortle-mpmm.md)  
 - [Triton](Triton-mpmm.md)  
 - [Yuan-ti](Yuan-Ti.md)  
 

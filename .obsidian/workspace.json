@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fa9faa7c3cf566e4",
+        "id": "31cde93822b77443",
         "type": "tabs",
         "children": [
           {
-            "id": "7a88e7639c04cbbe",
+            "id": "e2dedc312533ad4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01-Rules/Items/Magic Items/00) Varies/Mind Crystal.md",
-                "mode": "source",
-                "source": false
+                "file": "02-Resources/Publications/System Neutral/Mother of All Encounter Tables.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Mind Crystal"
-            }
-          },
-          {
-            "id": "b391574d17cf8f92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Rules/Class Features/Artificer/Replicate Magic Item.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Replicate Magic Item"
-            }
-          },
-          {
-            "id": "ae7095f65f7ea0f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Rules/Spells/Core/Level 1/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "Mother of All Encounter Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: #monster/cr/0 tag:#monster/size/medium  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,11 +171,12 @@
             }
           },
           {
-            "id": "a1c185f2c238aab0",
+            "id": "753c83e4283978cc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "02-Resources/Player Characters/Prahkt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,21 +184,9 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "5d08b7b55079f367",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "03) Resources/Publications/Monster Manual 2024.pdf"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Monster Manual 2024"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -241,7 +199,6 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "bases:Create new base": false,
@@ -252,44 +209,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae7095f65f7ea0f7",
+  "active": "c5c2a62e24e81d91",
   "lastOpenFiles": [
-    "01-Rules/Spells/Core/Level 1/Untitled.md",
-    "01-Rules/Objects/Objects.md",
-    "02-Resources/Templates/l1-spell-import-template.md",
-    "01-Rules/Spells/Core/Level 1/Shield.md",
-    "02-Resources/Templates/Spell-Template.md",
-    "01-Rules/Statblocks/Humanoids/Akroan Hoplite.md",
-    "01-Rules/Statblocks/Beasts/Allosaurus.md",
+    "02-Resources/Publications/System Neutral/Big_Random_d100_Table_of_Interesting_NPC_s.pdf",
+    "02-Resources/Publications/WotC/Spelljammer/Light of Xaryxis - 2022.pdf",
+    "02-Resources/Publications/WotC/Tashas_Cauldron_of_Everything.pdf",
+    "02-Resources/Publications/WotC/Tyranny of Dragons/Tyranny-of-Dragons.pdf",
+    "02-Resources/Publications/WotC/Tyranny of Dragons",
+    "02-Resources/Publications/WotC/Tyranny of Dragons/Rise of Tiamat - 2014 - WotC; Kobold Press.pdf",
+    "02-Resources/Publications/WotC/Out of the Abyss - Rage of Demons, 5th Edition AD&D, 2015.pdf",
+    "02-Resources/Publications/WotC/Ravenloft",
+    "02-Resources/Publications/WotC/Spelljammer",
+    "01-Rules/Species/Ravenloft/Reborn.md",
+    "02-Resources/Publications/WotC/Bestiaries/Mordenkainen Presents - Monsters of the Multiverse.pdf",
+    "02-Resources/Publications/WotC/Bestiaries/Mordenkainens Tome of Foes.pdf",
+    "01-Rules/Rules/Conditions.md",
+    "01-Rules/Items/Adventuring Gear/Healers-Kit.md",
+    "02-Resources/Player Characters/Prahkt.md",
+    "01-Rules/Statblocks/Fiends/Rakshasa.md",
+    "01-Rules/Statblocks/Beasts/Parrot.md",
+    "01-Rules/Statblocks/Beasts/Peacock.md",
+    "01-Rules/Statblocks/Beasts/Giant-Wasp.md",
+    "01-Rules/Statblocks/Beasts/Flying Monkey.md",
+    "01-Rules/Statblocks/Beasts/Awakened Rat.md",
     "01-Rules/Statblocks/Beasts/Beasts.md",
-    "01-Rules/Tables/RAW/spell-slots-per-spell-level.md",
-    "01-Rules/Statblocks/Humanoids/Humanoids.md",
-    "01-Rules/Spells/Core/Level 4/Polymorph.md",
-    "01-Rules/Statblocks/Humanoids/Commoner.md",
-    "01-Rules/Statblocks/Beasts/Ankylosaurus.md",
-    "01-Rules/Statblocks/Beasts/Deep Spider.md",
-    "01-Rules/Statblocks/Beasts/Sperm Whale.md",
-    "01-Rules/Statblocks/Beasts/Gishath, Sun's Avatar.md",
-    "01-Rules/Statblocks/Beasts/Tyrant.md",
-    "01-Rules/Statblocks/Beasts/Tyrannosaurus-Rex.md",
-    "01-Rules/Statblocks/Beasts/Sky Leviathan.md",
-    "01-Rules/Statblocks/Beasts/Wild Dog.md",
-    "01-Rules/Statblocks/Beasts/Dolphin-mpmm.md",
-    "01-Rules/Statblocks/Beasts/Trilobite.md",
-    "01-Rules/Statblocks/Beasts/Sheep.md",
-    "01-Rules/Statblocks/Beasts/Seal.md",
-    "01-Rules/Statblocks/Beasts/Piranha-(psx).md",
-    "01-Rules/Statblocks/Beasts/Piranha.md",
-    "01-Rules/Class Features/Artificer",
-    "02-Resources/Publications/PHB_2024.pdf",
-    "Screenshot 2026-08-22 221657.png",
-    "02-Resources/Publications/OSR/Creatures/The Monster Overhaul.pdf",
-    "Homebrew/Spells",
-    "02-Resources/Publications/WotC/Unearthed_Arcana/Unearthed Arcana (1-75 Collected).pdf",
-    "02-Resources/Publications/WotC/Unearthed_Arcana/UA2025-Psion+Update.pdf",
-    "02-Resources/Publications/WotC/Unearthed_Arcana/UA2025-ArcaneSubclasses.pdf",
-    "01-Rules/Classes/Psion (UA9)",
-    "Base.base",
+    "01-Rules/Spells/Core/Level 1/Find-Familiar.md",
+    "01-Rules/Classes/Artificer/Artificer.md",
+    "Modding/Rest Activities.md",
+    "01-Rules/Spells/Core/Level 1/Goodberry.md",
+    "01-Rules/Statblocks/Plants/Myconid-Sprout.md",
+    "01-Rules/Statblocks/Constructs/Homunculus.md",
+    "01-Rules/Spells/Core/Level 1/Detect-Magic.md",
+    "01-Rules/Spells/Core/Level 2/Detect-Thoughts.md",
+    "01-Rules/Spells/Core/Level 1/Detect-Evil-and-Good.md",
+    "Modding/'Doom Style' Combat.md",
+    "Modding/'Swingy' Combat.md",
+    "01-Rules/Statblocks/Humanoids/Guard.md",
+    "Modding/On Converting OSR Statblocks.md",
+    "01-Rules/Statblocks/Undead/Lich.md",
+    "02-Resources/Screenshot 2026-08-22 221657.png",
     "03-Resources/Images/Battle-Maps/by-DnDavid/Forest Commune (DnDavid).jpg",
     "03-Resources/Images/Battle-Maps/by-DnDavid/Bloodborne/Aqueduct (DnDavid).jpg",
     "03-Resources/Images/Battle-Maps/by-DnDavid/Bloodborne/Beast Plaza (DnDavid).jpg",
@@ -298,7 +256,6 @@
     "02-Resources/Images/Battle-Maps/by-DnDavid/Northern Undead Asylum HD [40x40].jpg",
     "03-Resources/Images/Battle-Maps/by-DnDavid/EldenRing/Rykards Arena [30x40] (DnDavid).jpg",
     "02-Resources/Images/Battle-Maps/by-DnDavid/EldenRing/Rennala Boss Room [30x32].jpg",
-    "02-Resources/Images/Battle-Maps/by-DnDavid/EldenRing/Margit Boss Arena HD [30x40].jpg",
-    "02-Resources/Publications/DMG_2024.pdf"
+    "02-Resources/Images/Battle-Maps/by-DnDavid/EldenRing/Margit Boss Arena HD [30x40].jpg"
   ]
 }

@@ -13,7 +13,7 @@ aliases:
 ---
 # Axe of the Dwarvish Lords
 *Weapon ([Battleaxe](Battleaxe.md)), artifact (requires attunement)*  
-![](items/XDMG/Axe of the Dwarvish Lords.webp#right)
+
 
 - **Damage**:
   - One-handed: 1d8 slashing

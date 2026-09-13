@@ -97,4 +97,4 @@ You sprout spectral wings on your back, have a [Fly Speed](fly-speed.md) of 60 f
 
 #### Frightful Aura
 
-Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [Frightened](Conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack] rolls against the [Frightened](Conditions.md#Frightened) creature have [[Advantage|Advantage]].
+Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [Frightened](Conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack](Attack) rolls against the [Frightened](Conditions.md#Frightened) creature have [[Advantage|Advantage]].

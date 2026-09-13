@@ -232,7 +232,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 - **Ability.** Wisdom  
 - **Weight.** 8 lb.  
 - **Utilize.** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)  
-- **Craft.** [[rations|Rations]]
+- **Craft.** [[Rations|Rations]]
 
 #### Glassblower's Tools (30 GP)
 
@@ -333,7 +333,7 @@ These tools support adventure and other pursuits.
 - **Ability.** Intelligence  
 - **Weight.** 3 lb.  
 - **Utilize.** Identify a plant (DC 10)  
-- **Craft.** [Antitoxin](Antitoxin.md), [Candle](candle.md), [Healer's Kit](healers-kit.md), [Potion of Healing](potion-of-healing.md)  
+- **Craft.** [Antitoxin](Antitoxin.md), [Candle](candle.md), [Healer's Kit](Healers-Kit.md), [Potion of Healing](potion-of-healing.md)  
 
 #### Musical Instrument (Varies)
 
@@ -439,7 +439,7 @@ A Bucket holds up to half a cubic foot of contents.
 
 ### Burglar's Pack (16 GP)
 
-A Burglar's Pack contains the following items: [Backpack](Backpack.md), [Ball Bearings](Ball-Bearings.md), [Bell](Bell.md), 10 [Candle](candle.md), [Crowbar](Crowbar.md), [Hooded Lantern](Hooded-Lantern.md), 7 flasks of [Oil](Oil.md), 5 days of [Rations](rations.md), [Rope](rope.md), [Tinderbox](Tinderbox.md), and [Waterskin](Waterskin.md).
+A Burglar's Pack contains the following items: [Backpack](Backpack.md), [Ball Bearings](Ball-Bearings.md), [Bell](Bell.md), 10 [Candle](candle.md), [Crowbar](Crowbar.md), [Hooded Lantern](Hooded-Lantern.md), 7 flasks of [Oil](Oil.md), 5 days of [Rations](Rations.md), [Rope](rope.md), [Tinderbox](Tinderbox.md), and [Waterskin](Waterskin.md).
 
 ### Caltrops (1 GP)
 
@@ -501,15 +501,15 @@ A Druidic Focus takes one of the forms in the Druidic Focuses table and is carve
 
 ### Dungeoneer's Pack (12 GP)
 
-A Dungeoneer's Pack contains the following items: [Backpack](Backpack.md), [Caltrops](Caltrops.md), [Crowbar](Crowbar.md), 2 flasks of [Oil](Oil.md), 10 days of [Rations](rations.md), [Rope](rope.md), [Tinderbox](Tinderbox.md), 10 [Torch](Torch.md), and [Waterskin](Waterskin.md).
+A Dungeoneer's Pack contains the following items: [Backpack](Backpack.md), [Caltrops](Caltrops.md), [Crowbar](Crowbar.md), 2 flasks of [Oil](Oil.md), 10 days of [Rations](Rations.md), [Rope](rope.md), [Tinderbox](Tinderbox.md), 10 [Torch](Torch.md), and [Waterskin](Waterskin.md).
 
 ### Entertainer's Pack (40 GP)
 
-An Entertainer's Pack contains the following items: [Backpack](Backpack.md), [Bedroll](bedroll.md), [Bell](Bell.md), [Bullseye Lantern](bullseye-Lantern.md), 3 [Costume](Costume.md), [Mirror](Mirror.md), 8 flasks of [Oil](Oil.md), 9 days of [Rations](rations.md), [Tinderbox](Tinderbox.md), and [Waterskin](Waterskin.md).
+An Entertainer's Pack contains the following items: [Backpack](Backpack.md), [Bedroll](bedroll.md), [Bell](Bell.md), [Bullseye Lantern](bullseye-Lantern.md), 3 [Costume](Costume.md), [Mirror](Mirror.md), 8 flasks of [Oil](Oil.md), 9 days of [Rations](Rations.md), [Tinderbox](Tinderbox.md), and [Waterskin](Waterskin.md).
 
 ### Explorer's Pack (10 GP)
 
-An Explorer's Pack contains the following items: [Backpack](Backpack.md), [Bedroll](bedroll.md), 2 flasks of [Oil](Oil.md), 10 days of [Rations](rations.md), [Rope](rope.md), [Tinderbox](Tinderbox.md), 10 [Torch](Torch.md), and [Waterskin](Waterskin.md).
+An Explorer's Pack contains the following items: [Backpack](Backpack.md), [Bedroll](bedroll.md), 2 flasks of [Oil](Oil.md), 10 days of [Rations](Rations.md), [Rope](rope.md), [Tinderbox](Tinderbox.md), 10 [Torch](Torch.md), and [Waterskin](Waterskin.md).
 
 ### Flask (2 CP)
 
@@ -647,7 +647,7 @@ A Pouch holds up to 6 pounds within one-fifth of a cubic foot.
 
 ### Priest's Pack (33 GP)
 
-A Priest's Pack contains the following items: [Backpack](Backpack.md), [Blanket](Blanket.md), [Holy Water](holy-Water.md), [Lamp](Lamp.md), 7 days of [Rations](rations.md), [Robe](robe.md), and [Tinderbox](Tinderbox.md).
+A Priest's Pack contains the following items: [Backpack](Backpack.md), [Blanket](Blanket.md), [Holy Water](holy-Water.md), [Lamp](Lamp.md), 7 days of [Rations](Rations.md), [Robe](robe.md), and [Tinderbox](Tinderbox.md).
 
 ### Quiver (1 GP)
 

@@ -18,7 +18,7 @@ aliases:
 | [Barbarian](Barbarian.md)                                                               | Battle         | Strength              | Average    |
 | [Bard](Bard.md)                                                                         | Performing     | Charisma              | High       |
 | [Cleric](Cleric.md)                                                                     | Gods           | Wisdom                | Average    |
-| [Druid](01-Rules/Statblocks/Humanoids/Druid.md)                                                                       | Nature         | Wisdom                | High       |
+| [Druid-xmm](Druid-xmm.md)                                                                       | Nature         | Wisdom                | High       |
 | [Fighter](Fighter.md)                                                                   | Weapons        | Strength or Dexterity | Low        |
 | [Monk](Monk.md)         | Unarmed combat | Dexterity and Wisdom  | High       |
 | [Paladin](Paladin.md)   | Defense        | Strength and Charisma | Average    |

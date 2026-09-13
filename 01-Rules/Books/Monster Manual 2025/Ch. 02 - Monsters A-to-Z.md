@@ -121,7 +121,7 @@ aliases:
 - [Dretch](Dretch.md)  
 - [Swarm of Dretches](Swarm-of-Dretches.md)  
 - [Drider](Drider.md)  
-- [Druid](01-Rules/Statblocks/Humanoids/Druid.md)  
+- [Druid-xmm](Druid-xmm.md)  
 - [Dryad](Dryad.md)  
 - [Earth Elemental](earth-Elemental.md)  
 - [Efreeti](Efreeti.md)  
@@ -2237,7 +2237,7 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 
 
 > [!embed-monster]- Druid
-> ![Druid](01-Rules/Statblocks/Humanoids/Druid.md#^statblock)
+> ![Druid-xmm](Druid-xmm.md#^statblock)
 
 ### Dryad
 

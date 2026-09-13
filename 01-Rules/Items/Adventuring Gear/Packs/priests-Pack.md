@@ -16,6 +16,6 @@ aliases:
 - **Cost**: 33 gp
 - **Weight**: 29.0 lbs.
 
-A Priest's Pack contains the following items: [Backpack](Backpack.md), [Blanket](Blanket.md), [Holy Water](holy-Water.md), [Lamp](Lamp.md), 7 days of [Rations](rations.md), [Robe](robe.md), and [Tinderbox](Tinderbox.md).
+A Priest's Pack contains the following items: [Backpack](Backpack.md), [Blanket](Blanket.md), [Holy Water](holy-Water.md), [Lamp](Lamp.md), 7 days of [Rations](Rations.md), [Robe](robe.md), and [Tinderbox](Tinderbox.md).
 
 *Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

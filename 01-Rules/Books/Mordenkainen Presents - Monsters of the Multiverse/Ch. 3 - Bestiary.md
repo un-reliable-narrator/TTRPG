@@ -462,7 +462,7 @@ Finally, if a stat block contains the name of a class in the monster's name or i
 
 [Tlincalli](Tlincalli-mpmm.md)
 
-[[01-Rules/Statblocks/Humanoids/tortle-mpmm|Tortle]]
+[[01-Rules/Statblocks/Humanoids/Tortle-mpmm|Tortle]]
 
 [Tortle Druid](tortle-Druid-mpmm.md)
 
@@ -516,7 +516,7 @@ Finally, if a stat block contains the name of a class in the monster's name or i
 
 [Necromancer Wizard](Necromancer-Wizard-mpmm.md)
 
-[Transmuter Wizard](transmuter-Wizard-mpmm.md)
+[Transmuter Wizard](Transmuter-Wizard-mpmm.md)
 
 [Wood Woad](wood-Woad-mpmm.md)
 

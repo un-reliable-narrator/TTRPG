@@ -1,3 +1,7 @@
+---
+tags:
+  - class/artificer
+---
 # Artificer
 
 [Home](http://dnd2024.wikidot.com/home:home) » [Classes](all) » Artificer

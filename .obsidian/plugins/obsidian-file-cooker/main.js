@@ -8237,13 +8237,11 @@ var CopyToClipboardConfirmModal = class extends import_obsidian25.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.createEl("h1", { text: "Confirm copy to clipboard?" });
-    let htmlStr = this.prepareHTMLStr();
-    let el = contentEl.createEl("div");
-    el.innerHTML = htmlStr;
+    this.previewEl = contentEl.createEl("div");
+    this.renderPreview();
     addLabeledToggleField(contentEl, "Copy file names only", "Copy wiki links using names only", Boolean(this.nameOnlyFlag), (val) => {
       this.nameOnlyFlag = val;
-      htmlStr = this.prepareHTMLStr();
-      el.innerHTML = htmlStr;
+      this.renderPreview();
     });
     new import_obsidian25.Setting(contentEl).addButton((btn) => btn.setButtonText("Copy links").setCta().onClick(() => __async(this, null, function* () {
       this.close();
@@ -8276,26 +8274,16 @@ var CopyToClipboardConfirmModal = class extends import_obsidian25.Modal {
     }
     return str;
   }
-  prepareHTMLStr() {
-    let str = "";
-    if (this.nameOnlyFlag) {
-      this.resultArr.forEach((ff) => {
-        let name = ff.name;
-        if (hasMarkdownSuffix(name)) {
-          name = name.substring(0, name.lastIndexOf("."));
-        }
-        str += "[[" + name + "]]<br>";
-      });
-    } else {
-      this.resultArr.forEach((ff) => {
-        let name = ff.name;
-        if (hasMarkdownSuffix(name)) {
-          name = name.substring(0, name.lastIndexOf("."));
-        }
-        str += "[[" + ff.path + "|" + name + "]]<br>";
-      });
-    }
-    return str;
+  renderPreview() {
+    this.previewEl.empty();
+    this.resultArr.forEach((ff) => {
+      let name = ff.name;
+      if (hasMarkdownSuffix(name)) {
+        name = name.substring(0, name.lastIndexOf("."));
+      }
+      let line = this.nameOnlyFlag ? "[[" + name + "]]" : "[[" + ff.path + "|" + name + "]]";
+      this.previewEl.createDiv({ text: line });
+    });
   }
 };
 

@@ -145,7 +145,7 @@ Here are definitions of various rules.
 > ![Cube ](cube-area-of-effect.md)
 
 > [!embed-variantrule]- Curses
-> ![Curses](Homebrew/Feats/Curses/Curses.md)
+> ![Curses](Modding/Feats/Curses/Curses.md)
 
 > [!embed-variantrule]- Cylinder [Area of Effect]
 > ![Cylinder ](cylinder-area-of-effect.md)
