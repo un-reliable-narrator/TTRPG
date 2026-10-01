@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Myconid Adult"
+  - Myconid Adult
 ---
 # [Myconid Adult](Myconid-Adult.md)
 *Source: Monster Manual (2024) p. 223*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/104/1000/1000/638741964447209640.jpeg)
 
 Myconid adults defend their territories and other myconids from invaders.
 

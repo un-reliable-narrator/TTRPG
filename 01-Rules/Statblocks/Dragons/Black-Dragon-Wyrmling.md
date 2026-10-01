@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Black Dragon Wyrmling"
+  - Black Dragon Wyrmling
 ---
 # [Black Dragon Wyrmling](Black-Dragon-Wyrmling.md)
 *Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47159/498/1000/1000/638742862602242420.jpeg)
 
 Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and weaker creatures to overpower. While older wyrmlings eventually seek their own territories, recently hatched ones might hunt one another, seeking dominance over their clutch and slaying rivals they can't subjugate.
 

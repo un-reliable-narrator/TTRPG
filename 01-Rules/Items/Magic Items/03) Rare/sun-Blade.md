@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/weapon/martial
-- item/weapon/melee
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/weapon/martial
+  - item/weapon/melee
 aliases:
-- "Sun Blade"
+  - Sun Blade
 ---
 # Sun Blade
 *Weapon ([Longsword](Longsword.md)), rare (requires attunement)*  

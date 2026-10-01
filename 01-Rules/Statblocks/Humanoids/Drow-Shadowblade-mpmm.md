@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/11
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Humanoids/elf
+  - src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Humanoids/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Drow Shadowblade"
+  - Drow Shadowblade
 ---
 # [Drow Shadowblade](Drow-Shadowblade-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 105*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/317/1000/1000/637880557438272297.jpeg)
 
 Drow shadowblades steal down the dim passages of the Underdark, bound on errands of mayhem. They protect enclaves and Underdark cities from enemies and track down thieves who make off with prized treasures. In the city of Menzoberranzan in the Forgotten Realms, noble houses often employ shadowblades to eliminate rivals from other houses. In communities free of Lolth's sway, they serve as spies tasked with foiling the plots of that demon lord's cult. In any role they take on, they move undetected until the moment they attack—and then they are the last thing their victims see.
 

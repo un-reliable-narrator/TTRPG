@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Yuan-ti Infiltrator"
+  - Yuan-ti Infiltrator
 ---
 # [Yuan-ti Infiltrator](yuan-Ti-Infiltrator.md)
 *Source: Monster Manual (2024) p. 342*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/416/1000/1000/638741964886288504.jpeg)
 
 Infiltrators can pass as human, their serpentine features limited to scaly skin, forked tongues, and other minor or internal transformations. These spies insinuate themselves among their rivals, manipulating others and making foes vulnerable to the plots of more powerful yuan-ti.
 

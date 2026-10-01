@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/11
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
+  - src/5e/xmm
+  - monster/cr/11
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bandit Crime Lord"
+  - Bandit Crime Lord
 ---
 # [Bandit Crime Lord](Bandit-Crime-Lord.md)
 *Source: Monster Manual (2024) p. 28*  
+
+![114](https://www.dndbeyond.com/avatars/thumbnails/47138/644/1000/1000/638741963816201173.png)
 
 Bandit crime lords manipulate shadowy organizations and prioritize their own survival over any single lackey or plot.
 

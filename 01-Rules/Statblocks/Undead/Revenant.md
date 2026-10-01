@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Revenant"
+  - Revenant
 ---
 # [Revenant](Revenant.md)
 *Source: Monster Manual (2024) p. 259*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/198/1000/1000/638741964577147105.jpeg)
 
 Revenants possess the bodies they had in life, using them to hunt down their killers. If their bodies are destroyed, they take control of new bodies that gradually change to resemble the revenants' original forms.
 

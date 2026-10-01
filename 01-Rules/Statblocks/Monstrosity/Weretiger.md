@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/small-or-medium
-- monster/type/monstrosity/lycanthrope
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/small-or-medium
+  - monster/type/monstrosity/lycanthrope
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Weretiger](Weretiger.md)
 *Source: Monster Manual (2024) p. 326. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/370/1000/1000/638741964817718778.jpeg)
 
 ## Weretiger
 *Changed by the Power of the Tiger*

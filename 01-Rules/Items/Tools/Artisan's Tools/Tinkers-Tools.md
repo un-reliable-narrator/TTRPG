@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/gear/artisans-tools
-- item/rarity/none
+  - src/5e/xphb
+  - item/gear/artisans-tools
+  - item/rarity/none
 aliases:
-- "Tinker's Tools"
+  - Tinker's Tools
 ---
 # Tinker's Tools
 *Artisan's tools*  

@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/12
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/mountain
-- monster/size/large
-- monster/type/celestial
+  - src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ki-rin"
+  - Ki-rin
 ---
 # [Ki-rin](Ki-Rin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/474/1000/1000/637880557735299153.jpeg)
 
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
 

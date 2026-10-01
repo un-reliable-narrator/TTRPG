@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/xphb
+  - src/5e/xphb
 aliases:
-- "Chapter 7: Spells"
+  - "Chapter 7: Spells"
 ---
 # Chapter 7: Spells
 *Source: Player's Handbook (2024), p. 235* 

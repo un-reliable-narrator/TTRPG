@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- class/rogue
-- src/5e/xphb
+  - class/rogue
+  - src/5e/xphb
 ---
 # Rogue
 *Source: Player's Handbook (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

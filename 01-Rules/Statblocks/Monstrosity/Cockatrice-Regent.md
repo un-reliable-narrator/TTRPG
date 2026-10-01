@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/grassland
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cockatrice Regent"
+  - Cockatrice Regent
 ---
 # [Cockatrice Regent](Cockatrice-Regent.md)
 *Source: Monster Manual (2024) p. 75*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/718/1000/1000/638741963917132572.png)
 
 Bolder than their smaller cousins, cockatrice regents brim with unstable magical energy they use to restrain distant foes.
 

@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/planar
-- monster/size/medium
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Satyr"
+  - Satyr
 ---
 # [Satyr](Satyr.md)
 *Source: Monster Manual (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![423](https://www.dndbeyond.com/avatars/thumbnails/47139/224/1000/1000/638741964612990614.jpeg)
 
 Satyrs enjoy demonstrating their physicality through contests, evicting party poopers, and defending Fey realms.
 

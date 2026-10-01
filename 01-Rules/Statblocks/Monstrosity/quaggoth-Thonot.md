@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Quaggoth Thonot"
+  - Quaggoth Thonot
 ---
 # [Quaggoth Thonot](quaggoth-Thonot.md)
 *Source: Monster Manual (2024) p. 251*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/184/1000/1000/638741964556929369.png)
 
 Quaggoth thonots possess psionic abilities, which they use to give themselves an edge in combat and to coerce the service of other quaggoths.
 

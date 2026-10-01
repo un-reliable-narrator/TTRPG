@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/5
-- monster/size/medium
-- monster/type/undead
+  - src/5e/bam
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vampirate Mage"
+  - Vampirate Mage
 ---
 # [Vampirate Mage](vampirate-mage-bam.md)
 *Source: Boo's Astral Menagerie p. 63, Light of Xaryxis*  

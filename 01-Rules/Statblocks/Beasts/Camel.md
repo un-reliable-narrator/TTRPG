@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/desert
-- monster/size/large
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Camel"
+  - Camel
 ---
 # [Camel](01-Rules/Statblocks/Beasts/Camel.md)
 *Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/43939/74/1000/1000/638607413887821584.png)
 
 ## Animals
 

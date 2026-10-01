@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/legendary
+  - src/5e/dmg
+  - item/rarity/legendary
 aliases:
-- "Sphere of Annihilation"
+  - Sphere of Annihilation
 ---
 # Sphere of Annihilation
 *Wondrous item, legendary*  

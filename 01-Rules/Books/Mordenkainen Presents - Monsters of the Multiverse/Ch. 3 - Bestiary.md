@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/mpmm
+  - src/5e/mpmm
 aliases:
-- "Bestiary"
+  - Bestiary
 ---
 # Bestiary
 *Source: Mordenkainen Presents: Monsters of the Multiverse, p. 37* 
@@ -386,7 +386,7 @@ Finally, if a stat block contains the name of a class in the monster's name or i
 
 [Quickling](quickling-mpmm.md)
 
-[Redcap](redcap-mpmm.md)
+[Redcap](Redcap-mpmm.md)
 
 [Retriever](retriever-mpmm.md)
 

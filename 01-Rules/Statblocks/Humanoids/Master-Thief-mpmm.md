@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Master Thief"
+  - Master Thief
 ---
 # [Master Thief](Master-Thief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/511/1000/1000/637880557796665465.jpeg)
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
 

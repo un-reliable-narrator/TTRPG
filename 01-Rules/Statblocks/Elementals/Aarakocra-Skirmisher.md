@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/air
-- monster/environment/mountain
-- monster/environment/planar
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/air
+  - monster/environment/mountain
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Aarakocra Skirmisher"
+  - Aarakocra Skirmisher
 ---
 # [Aarakocra Skirmisher](Aarakocra-Skirmisher.md)
 *Source: Monster Manual (2024) p. 10*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/545/1000/1000/638741963675985604.png)
 
 Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They often attack land-bound threats with diving strikes from above.
 

@@ -1,17 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Scout](Scout.md)
 *Source: Monster Manual (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/46992/19/1000/1000/638736097252250502.jpeg)
 
 Scouts are keen archers and acutely aware of their surroundings. They often know several regions particularly well and are familiar with local creatures, landmarks, and perils.
 

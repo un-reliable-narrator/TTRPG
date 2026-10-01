@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/uncommon
+  - src/5e/dmg
+  - item/rarity/uncommon
 aliases:
-- "Bag of Holding"
+  - Bag of Holding
 ---
 # Bag of Holding
 *Wondrous item, uncommon*  

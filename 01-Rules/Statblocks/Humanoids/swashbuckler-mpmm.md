@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/coastal
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/coastal
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Swashbuckler"
+  - Swashbuckler
 ---
 # [Swashbuckler](swashbuckler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 238*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/705/1000/1000/637880558084499919.jpeg)
 
 Swashbucklers are charming ne'er-do-wells who live by their own codes of honor. They crave notoriety, often indulge in romantic trysts, and eke out livings as pirates and corsairs, rarely staying in one place for too long.
 

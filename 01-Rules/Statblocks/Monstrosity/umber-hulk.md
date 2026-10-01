@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Umber Hulk"
+  - Umber Hulk
 ---
 # [Umber Hulk](umber-hulk.md)
 *Source: Monster Manual (2024) p. 312*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/325/1000/1000/638741964757320683.png)
 
 ## Umber Hulk
 

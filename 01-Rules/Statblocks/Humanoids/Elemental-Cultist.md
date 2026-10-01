@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Elemental Cultist"
+  - Elemental Cultist
 ---
 # [Elemental Cultist](Elemental-Cultist.md)
 *Source: Monster Manual (2024) p. 87*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/790/1000/1000/638741964016629602.jpeg)
 
 Elemental cultists harness destructive natural forces to cleanse the world of civilization or prove the dominance of one element over all others. Such cultists are aligned with Elemental monsters or wicked immortals such as the Princes of Elemental Evil or the Elder Elemental Eye.
 

@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lmop
-- monster/cr/1-4
-- monster/size/medium
-- monster/type/undead
+  - src/5e/lmop
+  - monster/cr/1-4
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ash Zombie"
+  - Ash Zombie
 ---
 # [Ash Zombie](Ash-zombie-Lmop.md)
 *Source: Lost Mine of Phandelver p. 31*  

@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/xphb
+  - src/5e/xphb
 aliases:
-- "Chapter 6: Equipment"
+  - "Chapter 6: Equipment"
 ---
 # Chapter 6: Equipment
 *Source: Player's Handbook (2024), p. 213* 

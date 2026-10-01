@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Vulture"
+  - Giant Vulture
 ---
 # [Giant Vulture](Giant-vulture.md)
 *Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/888/1000/1000/638741964152962268.png)
 
 ## Animals
 

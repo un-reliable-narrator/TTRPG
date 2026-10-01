@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/arctic
-- monster/environment/forest
-- monster/size/medium
-- monster/type/fey/elf
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/fey/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Winter Eladrin"
+  - Winter Eladrin
 ---
 # [Winter Eladrin](winter-Eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/757/1000/1000/637880558163737194.jpeg)
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
 

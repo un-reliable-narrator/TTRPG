@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/11
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Humanoids/elf
+  - src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Humanoids/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Shadar-kai Soul Monger"
+  - Shadar-kai Soul Monger
 ---
 # [Shadar-kai Soul Monger](shadar-Kai-Soul-monger-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/632/1000/1000/637880557976122618.jpeg)
 
 Wracked with despair over the loss of memories of a brighter time, soul mongers crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in their presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound they make—the moan of a tortured soul, lost in a bottomless well of tragedy.
 

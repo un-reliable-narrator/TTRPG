@@ -1,17 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Cultist](Cultist.md)
 *Source: Monster Manual (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/389/1000/1000/638742812288052018.jpeg)
 
 Cultists devote themselves to their faith's leaders and otherworldly masters. While this zeal grants cultists no magical powers, it gives them remarkable resolve in the face of threats. Cultists perform much of a cult's mundane work, which might include evangelism, criminal acts, or serving as sacrifices.
 

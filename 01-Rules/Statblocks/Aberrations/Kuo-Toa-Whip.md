@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/coastal
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/coastal
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kuo-toa Whip"
+  - Kuo-toa Whip
 ---
 # [Kuo-toa Whip](Kuo-Toa-Whip.md)
 *Source: Monster Manual (2024) p. 190*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47396/210/1000/1000/638752489592862067.jpeg)
 
 The servants of kuo-toa archpriests, kuo-toa whips—so named for their role in enforcing order among other kuo-toa—lead war bands in carrying out the commands of their superiors. In return for their zeal, these kuo-toa are granted minor magical abilities and pincer-like weapons for subduing foes. In battle, whips drive on other kuo-toa with threats of violence and burbling chants.
 

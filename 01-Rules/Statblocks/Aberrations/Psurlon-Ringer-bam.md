@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/1
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/bam
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Psurlon Ringer"
+  - Psurlon Ringer
 ---
 # [Psurlon Ringer](Psurlon-Ringer-bam.md)
 *Source: Boo's Astral Menagerie p. 45, Light of Xaryxis*  

@@ -1,24 +1,26 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/swamp
-- monster/size/tiny
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Venomous Snake"
+  - Venomous Snake
 ---
 # [Venomous Snake](venomous-Snake.md)
 *Source: Monster Manual (2024) p. 372, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58416/782/1000/1000/639226703391554093.jpeg)
 
 ## Animals
 

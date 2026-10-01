@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/planar
-- monster/size/medium
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Blink Dog"
+  - Blink Dog
 ---
 # [Blink Dog](Blink-Dog.md)
 *Source: Monster Manual (2024) p. 46. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/255/1000/1000/638742806360308936.jpeg)
 
 ## Blink Dog
 

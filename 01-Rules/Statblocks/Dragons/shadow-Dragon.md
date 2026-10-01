@@ -1,18 +1,18 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/13
-- monster/environment/planar
-- monster/environment/shadowfell
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/dragon
+  - src/5e/xmm
+  - monster/cr/13
+  - monster/environment/planar
+  - monster/environment/shadowfell
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Shadow Dragon"
+  - Shadow Dragon
 ---
 # [Shadow Dragon](shadow-Dragon.md)
 *Source: Monster Manual (2024) p. 275*  

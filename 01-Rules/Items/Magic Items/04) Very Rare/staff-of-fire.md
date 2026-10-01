@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Staff of Fire"
+  - Staff of Fire
 ---
 # Staff of Fire
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

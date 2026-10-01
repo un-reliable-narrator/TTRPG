@@ -1,16 +1,16 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Male Steeder"
+  - Male Steeder
 ---
 # [Male Steeder](Male-Steeder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231*  

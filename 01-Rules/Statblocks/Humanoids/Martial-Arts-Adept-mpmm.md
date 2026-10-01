@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Martial Arts Adept"
+  - Martial Arts Adept
 ---
 # [Martial Arts Adept](Martial-Arts-Adept-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 172*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/504/1000/1000/637880557787904515.jpeg)
 
 Martial arts adepts are disciplined monks with extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging.
 

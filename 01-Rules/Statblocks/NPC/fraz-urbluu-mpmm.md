@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/23
-- monster/size/large
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/23
+  - monster/size/large
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Fraz-Urb'luu"
+  - Fraz-Urb'luu
 ---
 # [Fraz-Urb'luu](fraz-urbluu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 129*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/375/1000/1000/637880557537171374.jpeg)
 
 Fraz-Urb'luu is the Prince of [Deception](Deception.md) and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
 

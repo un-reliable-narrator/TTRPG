@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Spy Master"
+  - Spy Master
 ---
 # [Spy Master](Spy-Master.md)
 *Source: Monster Manual (2024) p. 295*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/267/1000/1000/638741964674541240.jpeg)
 
 Spy masters have extensive experience in gathering secrets while leaving no evidence of their presence.
 

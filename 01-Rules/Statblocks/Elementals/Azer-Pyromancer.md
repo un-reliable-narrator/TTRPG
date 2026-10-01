@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/fire
-- monster/environment/mountain
-- monster/environment/planar
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/fire
+  - monster/environment/mountain
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Azer Pyromancer"
+  - Azer Pyromancer
 ---
 # [Azer Pyromancer](Azer-Pyromancer.md)
 *Source: Monster Manual (2024) p. 25*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/634/1000/1000/638741963802729122.jpeg)
 
 Azer pyromancers conjure flames from the Elemental Plane of Fire to defend themselves and stoke magical forges.
 

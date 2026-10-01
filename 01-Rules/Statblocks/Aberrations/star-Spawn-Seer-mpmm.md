@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/13
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Star Spawn Seer"
+  - Star Spawn Seer
 ---
 # [Star Spawn Seer](star-Spawn-Seer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/676/1000/1000/637880558044445697.jpeg)
 
 A star spawn seer is most often encountered as the leader of a cult dedicated to one or more Elder Evils. Usually, the seer is the only cult member that grasps the full extent of the horror the cult is venerating. The seer's goal is to tap into vast energy sources and perform the dire rites that will extend a bridge between the Material Plane and the squirming chaos of an Elder Evil's realm.
 

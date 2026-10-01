@@ -4,7 +4,7 @@ tags:
 school: Abjuration
 spell_level: "3"
 aliases:
-- "Dispel Magic"
+  - Dispel Magic
 ---
 #### Dispel Magic
 

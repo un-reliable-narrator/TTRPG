@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/15
-- monster/environment/desert
-- monster/environment/underdark
-- monster/size/gargantuan
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/15
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/size/gargantuan
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Purple Worm"
+  - Purple Worm
 ---
 # [Purple Worm](Purple-Worm.md)
 *Source: Monster Manual (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/182/1000/1000/638741964554588188.png)
 
 ## Purple Worm
 

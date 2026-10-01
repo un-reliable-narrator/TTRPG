@@ -1,74 +1,74 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/age/futuristic
-- item/age/modern
-- item/attunement/required
-- item/gear/spellcasting-focus
-- item/rarity/uncommon
-- item/weapon/martial
-- item/weapon/melee
-- item/weapon/ranged
-- item/weapon/simple
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/age/futuristic
+  - item/age/modern
+  - item/attunement/required
+  - item/gear/spellcasting-focus
+  - item/rarity/uncommon
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/weapon/ranged
+  - item/weapon/simple
+  - item/wondrous/generic-variant
 aliases:
-- "Enspelled Weapon (Cantrip)"
-- "Enspelled (Cantrip) Antimatter Rifle"
-- "Enspelled (Cantrip) Automatic Rifle"
-- "Enspelled (Cantrip) Battleaxe"
-- "Enspelled (Cantrip) Blowgun"
-- "Enspelled (Cantrip) Club"
-- "Enspelled (Cantrip) Dagger"
-- "Enspelled (Cantrip) Dart"
-- "Enspelled (Cantrip) Double-Bladed Scimitar"
-- "Enspelled (Cantrip) Flail"
-- "Enspelled (Cantrip) Glaive"
-- "Enspelled (Cantrip) Greataxe"
-- "Enspelled (Cantrip) Greatclub"
-- "Enspelled (Cantrip) Greatsword"
-- "Enspelled (Cantrip) Halberd"
-- "Enspelled (Cantrip) Hand Crossbow"
-- "Enspelled (Cantrip) Handaxe"
-- "Enspelled (Cantrip) Heavy Crossbow"
-- "Enspelled (Cantrip) Hooked Shortspear"
-- "Enspelled (Cantrip) Hoopak"
-- "Enspelled (Cantrip) Hunting Rifle"
-- "Enspelled (Cantrip) Javelin"
-- "Enspelled (Cantrip) Lance"
-- "Enspelled (Cantrip) Laser Pistol"
-- "Enspelled (Cantrip) Laser Rifle"
-- "Enspelled (Cantrip) Light Crossbow"
-- "Enspelled (Cantrip) Light Hammer"
-- "Enspelled (Cantrip) Light Repeating Crossbow"
-- "Enspelled (Cantrip) Longbow"
-- "Enspelled (Cantrip) Longsword"
-- "Enspelled (Cantrip) Mace"
-- "Enspelled (Cantrip) Maul"
-- "Enspelled (Cantrip) Morningstar"
-- "Enspelled (Cantrip) Musket"
-- "Enspelled (Cantrip) Pike"
-- "Enspelled (Cantrip) Pistol"
-- "Enspelled (Cantrip) Quarterstaff"
-- "Enspelled (Cantrip) Rapier"
-- "Enspelled (Cantrip) Revolver"
-- "Enspelled (Cantrip) Scimitar"
-- "Enspelled (Cantrip) Semiautomatic Pistol"
-- "Enspelled (Cantrip) Shortbow"
-- "Enspelled (Cantrip) Shortsword"
-- "Enspelled (Cantrip) Shotgun"
-- "Enspelled (Cantrip) Sickle"
-- "Enspelled (Cantrip) Sling"
-- "Enspelled (Cantrip) Spear"
-- "Enspelled (Cantrip) Staff"
-- "Enspelled (Cantrip) Trident"
-- "Enspelled (Cantrip) War Pick"
-- "Enspelled (Cantrip) Warhammer"
-- "Enspelled (Cantrip) Whip"
-- "Enspelled (Cantrip) Wooden Staff"
-- "Enspelled (Cantrip) Yklwa"
+  - Enspelled Weapon (Cantrip)
+  - Enspelled (Cantrip) Antimatter Rifle
+  - Enspelled (Cantrip) Automatic Rifle
+  - Enspelled (Cantrip) Battleaxe
+  - Enspelled (Cantrip) Blowgun
+  - Enspelled (Cantrip) Club
+  - Enspelled (Cantrip) Dagger
+  - Enspelled (Cantrip) Dart
+  - Enspelled (Cantrip) Double-Bladed Scimitar
+  - Enspelled (Cantrip) Flail
+  - Enspelled (Cantrip) Glaive
+  - Enspelled (Cantrip) Greataxe
+  - Enspelled (Cantrip) Greatclub
+  - Enspelled (Cantrip) Greatsword
+  - Enspelled (Cantrip) Halberd
+  - Enspelled (Cantrip) Hand Crossbow
+  - Enspelled (Cantrip) Handaxe
+  - Enspelled (Cantrip) Heavy Crossbow
+  - Enspelled (Cantrip) Hooked Shortspear
+  - Enspelled (Cantrip) Hoopak
+  - Enspelled (Cantrip) Hunting Rifle
+  - Enspelled (Cantrip) Javelin
+  - Enspelled (Cantrip) Lance
+  - Enspelled (Cantrip) Laser Pistol
+  - Enspelled (Cantrip) Laser Rifle
+  - Enspelled (Cantrip) Light Crossbow
+  - Enspelled (Cantrip) Light Hammer
+  - Enspelled (Cantrip) Light Repeating Crossbow
+  - Enspelled (Cantrip) Longbow
+  - Enspelled (Cantrip) Longsword
+  - Enspelled (Cantrip) Mace
+  - Enspelled (Cantrip) Maul
+  - Enspelled (Cantrip) Morningstar
+  - Enspelled (Cantrip) Musket
+  - Enspelled (Cantrip) Pike
+  - Enspelled (Cantrip) Pistol
+  - Enspelled (Cantrip) Quarterstaff
+  - Enspelled (Cantrip) Rapier
+  - Enspelled (Cantrip) Revolver
+  - Enspelled (Cantrip) Scimitar
+  - Enspelled (Cantrip) Semiautomatic Pistol
+  - Enspelled (Cantrip) Shortbow
+  - Enspelled (Cantrip) Shortsword
+  - Enspelled (Cantrip) Shotgun
+  - Enspelled (Cantrip) Sickle
+  - Enspelled (Cantrip) Sling
+  - Enspelled (Cantrip) Spear
+  - Enspelled (Cantrip) Staff
+  - Enspelled (Cantrip) Trident
+  - Enspelled (Cantrip) War Pick
+  - Enspelled (Cantrip) Warhammer
+  - Enspelled (Cantrip) Whip
+  - Enspelled (Cantrip) Wooden Staff
+  - Enspelled (Cantrip) Yklwa
 ---
 # Enspelled Weapon (Cantrip)
 *Uncommon (requires attunement)*  

@@ -1,21 +1,23 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-8
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/1-8
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Neogi Hatchling"
+  - Neogi Hatchling
 ---
 # [Neogi Hatchling](Neogi-Hatchling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 191*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/564/1000/1000/637880557875322467.jpeg)
 
 A neogi lives about a century. When an individual is rendered weak by advanced age, the other neogi in the group overpower it and inject it with a special poison. The toxin transforms the old neogi into a bloated mass of flesh. Younger neogi lay their eggs atop it, and when the hatchlings emerge, they devour the old neogi and one another until only a few of the strongest newborns are left. The surviving neogi hatchlings begin their lives under the control of adult neogi. They must learn about their society and earn a place in it, and each one starts its training by gaining mastery over an umber hulk.
 

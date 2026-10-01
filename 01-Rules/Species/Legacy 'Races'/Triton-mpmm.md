@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/triton
+  - src/5e/mpmm
+  - race/triton
 aliases:
-- "Triton"
+  - Triton
 ---
 # Triton
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 35*  

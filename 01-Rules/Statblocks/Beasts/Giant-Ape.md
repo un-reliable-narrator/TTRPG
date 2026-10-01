@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/forest
-- monster/size/huge
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Ape"
+  - Giant Ape
 ---
 # [Giant Ape](Giant-Ape.md)
 *Source: Monster Manual (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/844/1000/1000/638741964090976472.jpeg)
 
 ## Animals
 

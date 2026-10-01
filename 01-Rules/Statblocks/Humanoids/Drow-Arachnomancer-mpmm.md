@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/13
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Humanoids/elf
+  - src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Humanoids/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Drow Arachnomancer"
+  - Drow Arachnomancer
 ---
 # [Drow Arachnomancer](Drow-Arachnomancer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 99*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/293/1000/1000/637880557398438677.jpeg)
 
 Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Queen, sometimes walk the sinister path of the arachnomancer. By offering up body and soul to Lolth, they gain tremendous power and a supernatural connection to the ancient spiders of the Demonweb Pits, channeling magic from that dread place.
 

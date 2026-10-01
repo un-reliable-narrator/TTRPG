@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/13
-- monster/size/huge
-- monster/type/dragon
+  - src/5e/bam
+  - monster/cr/13
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult Lunar Dragon"
+  - Adult Lunar Dragon
 ---
 # [Adult Lunar Dragon](Adult-Lunar-Dragon-bam.md)
 *Source: Boo's Astral Menagerie p. 34, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/41643/747/1000/1000/638506870332761103.png)
 
 Lunar dragons (also known as moon dragons or phase dragons) are capricious, xenophobic creatures that make their lairs inside desolate moons by burrowing through the rock.
 

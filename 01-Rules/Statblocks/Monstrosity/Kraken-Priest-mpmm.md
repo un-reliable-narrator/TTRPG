@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kraken Priest"
+  - Kraken Priest
 ---
 # [Kraken Priest](Kraken-Priest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/486/1000/1000/637880557759901920.jpeg)
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
 

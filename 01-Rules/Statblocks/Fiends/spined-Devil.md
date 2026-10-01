@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/nine-hells
-- monster/environment/planar
-- monster/size/small
-- monster/type/Fiends/devil
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/nine-hells
+  - monster/environment/planar
+  - monster/size/small
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Spined Devil"
+  - Spined Devil
 ---
 # [Spined Devil](spined-Devil.md)
 *Source: Monster Manual (2024) p. 296*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/263/1000/1000/638741964669214141.png)
 
 ## Spined Devil
 

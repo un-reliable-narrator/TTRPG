@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/forest
-- monster/size/huge
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Awakened Tree"
+  - Awakened Tree
 ---
 # Awakened Tree
 *Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/630/1000/1000/638741963796308076.jpeg)
 
 Some awakened trees stand in still, meditative states for long periods, making them easy to mistake for normal plants, while others patrol regions of natural power. Awakened trees are sometimes brought to life by influences from the Feywild, which make them colorful and endlessly blooming, or by Shadowfell energy, which covers them with grotesque burls or makes them look lifeless.
 

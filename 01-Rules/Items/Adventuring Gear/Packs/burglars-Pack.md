@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/gear/
-- item/rarity/none
+  - src/5e/xphb
+  - item/gear/
+  - item/rarity/none
 aliases:
-- "Burglar's Pack"
+  - Burglar's Pack
 ---
 # Burglar's Pack
 *Adventuring gear*  

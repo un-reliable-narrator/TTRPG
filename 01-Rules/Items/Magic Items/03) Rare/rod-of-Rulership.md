@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/rod
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/rod
 aliases:
-- "Rod of Rulership"
+  - Rod of Rulership
 ---
 # Rod of Rulership
 *Rod, rare (requires attunement)*  

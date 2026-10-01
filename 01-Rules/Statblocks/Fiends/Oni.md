@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/forest
-- monster/environment/urban
-- monster/size/large
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Oni"
+  - Oni
 ---
 # [Oni](Oni.md)
 *Source: Monster Manual (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/134/1000/1000/638741964491071618.png)
 
 ## Oni
 

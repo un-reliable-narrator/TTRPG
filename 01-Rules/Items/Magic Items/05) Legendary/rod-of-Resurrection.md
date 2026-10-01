@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/wondrous/rod
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/wondrous/rod
 aliases:
-- "Rod of Resurrection"
+  - Rod of Resurrection
 ---
 # Rod of Resurrection
 *Rod, legendary (requires attunement by a cleric, druid, or paladin)*  

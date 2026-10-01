@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/6
-- monster/size/medium
-- monster/type/Humanoids/any-race
+  - src/5e/lox
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/Humanoids/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Topolah"
+  - Topolah
 ---
 # [Topolah](topolah-Lox.md)
 *Source: Light of Xaryxis p. 27*  

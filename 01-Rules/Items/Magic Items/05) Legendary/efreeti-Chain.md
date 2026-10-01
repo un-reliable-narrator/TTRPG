@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/medium
-- item/attunement/required
-- item/rarity/legendary
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/medium
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/wondrous/generic-variant
 aliases:
-- "Efreeti Chain"
-- "Efreeti Chain Mail"
-- "Efreeti Chain Shirt"
+  - Efreeti Chain
+  - Efreeti Chain Mail
+  - Efreeti Chain Shirt
 ---
 # Efreeti Chain
 *Legendary (requires attunement)*  

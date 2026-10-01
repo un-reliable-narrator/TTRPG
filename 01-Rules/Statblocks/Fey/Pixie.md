@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/planar
-- monster/size/tiny
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/planar
+  - monster/size/tiny
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Pixie"
+  - Pixie
 ---
 # [Pixie](Pixie.md)
 *Source: Monster Manual (2024) p. 244*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/162/1000/1000/638741964528476093.png)
 
 Pixies spend their days frolicking and exploring and avoid direct conflict when they can.
 

@@ -1,26 +1,28 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Swarm of Stirges"
+  - Swarm of Stirges
 ---
 # [Swarm of Stirges](Swarm-of-Stirges.md)
 *Source: Monster Manual (2024) p. 299*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/295/1000/1000/638741964716776869.png)
 
 Swarms of stirges sometimes form in swamps and Underdark caverns, draining livestock and any other creatures that can't escape them.
 

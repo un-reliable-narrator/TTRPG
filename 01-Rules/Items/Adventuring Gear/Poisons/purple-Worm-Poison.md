@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/
+  - item/rarity/none
 aliases:
-- "Purple Worm Poison"
+  - Purple Worm Poison
 ---
 # Purple Worm Poison
 *Adventuring gear, poison (injury)*  

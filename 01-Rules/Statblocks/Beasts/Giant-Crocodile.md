@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/coastal
-- monster/environment/swamp
-- monster/size/huge
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/coastal
+  - monster/environment/swamp
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Crocodile"
+  - Giant Crocodile
 ---
 # [Giant Crocodile](Giant-Crocodile.md)
 *Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/858/1000/1000/638741964106958659.png)
 
 ## Animals
 

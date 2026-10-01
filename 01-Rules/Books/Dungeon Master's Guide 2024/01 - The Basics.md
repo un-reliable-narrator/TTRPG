@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Chapter 1: The Basics"
+  - "Chapter 1: The Basics"
 ---
 # Chapter 1: The Basics
 *Source: Dungeon Master's Guide (2024), p. 5* 

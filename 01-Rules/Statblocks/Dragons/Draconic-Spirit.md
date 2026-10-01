@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xphb
-- monster/cr/
-- monster/size/large
-- monster/type/dragon
+  - src/5e/xphb
+  - monster/cr/
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Draconic Spirit"
+  - Draconic Spirit
 ---
 # [Draconic Spirit](Draconic-Spirit.md)
 *Source: Player's Handbook (2024) p. 325*  

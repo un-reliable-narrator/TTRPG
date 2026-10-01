@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/size/large
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Star Spawn Hulk"
+  - Star Spawn Hulk
 ---
 # [Star Spawn Hulk](star-Spawn-hulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/666/1000/1000/637880558029463011.jpeg)
 
 The hulk is one of the largest of the known star spawn, with glistening, translucent skin. Pale and seemingly lidless eyes glare balefully from a face distorted by too many teeth and too little nose. Hulks are seldom encountered without a commanding star spawn seer (also in this book) nearby. A hulk appears to have little will of its own and is driven to protect its master.
 

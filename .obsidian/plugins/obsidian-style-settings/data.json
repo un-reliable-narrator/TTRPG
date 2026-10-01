@@ -1,6 +1,6 @@
 {
   "ITS@@accent2-lite@@dark": "#A0D4FF",
-  "ITS@@paper": true,
+  "ITS@@paper": false,
   "ITS@@slrvb-b": false,
   "ITS@@slrvb-g": false,
   "ITS@@s-d": false,
@@ -25,7 +25,7 @@
   "ITS@@hide-tab-outline": false,
   "ITS@@hide-note-title": false,
   "ITS@@justified": false,
-  "ITS@@lp-img-float": false,
+  "ITS@@lp-img-float": true,
   "ITS@@ITS-folder-arrows": "folder-arrow-display",
   "ITS@@file-explorer-flat": false,
   "ITS@@minimalist-workspace": false,
@@ -37,7 +37,6 @@
   "ITS@@navbar-bottom": "navbar-bottom",
   "ITS@@scrollbar-width": 11,
   "ITS@@radius-s": 4,
-  "ITS@@file-line-width": 1000,
   "ITS@@tab-outline-width": 2,
   "ITS@@ribbon-icon-gap": 1,
   "ITS@@ITS-Sidebar-Styling": "sidebar-tabs-overline",
@@ -50,7 +49,7 @@
   "ITS@@background-image-blur": 11,
   "ITS@@background-image-opacity": 90,
   "ITS@@background-image-sidebar-opacity": 90,
-  "ITS@@background-image": true,
+  "ITS@@background-image": false,
   "ITS@@nav-item-size": 12,
   "ITS@@ribbon-icon-size": 16,
   "ITS@@modal-height": 85,
@@ -73,5 +72,6 @@
   "ITS@@metadata-label-font-size": 0.7,
   "ITS@@metadata-input-font-size": 0.7,
   "ITS@@hcl": false,
-  "ITS@@illusion": true
+  "ITS@@illusion": true,
+  "ITS@@file-line-width": 1000
 }

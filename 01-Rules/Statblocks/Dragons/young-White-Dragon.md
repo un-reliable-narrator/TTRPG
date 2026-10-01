@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/arctic
-- monster/size/large
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/arctic
+  - monster/size/large
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Young White Dragon"
+  - Young White Dragon
 ---
 # [Young White Dragon](young-White-Dragon.md)
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/412/1000/1000/638741964880649815.png)
 
 Young white dragons defend their hunting grounds from rivals. In some cases, kobolds and groups of humanoids might offer food and treasure to young white dragons, attempting to keep the dragons satiated and less likely to prey on their communities.
 

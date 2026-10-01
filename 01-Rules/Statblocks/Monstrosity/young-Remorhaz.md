@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/arctic
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/arctic
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Young Remorhaz"
+  - Young Remorhaz
 ---
 # [Young Remorhaz](young-Remorhaz.md)
 *Source: Monster Manual (2024) p. 258*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58416/864/1000/1000/639226705744266381.jpeg)
 
 Young remorhazes scorch and consume any creatures they can chase down and overwhelm.
 

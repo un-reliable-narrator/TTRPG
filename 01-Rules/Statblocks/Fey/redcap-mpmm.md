@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/swamp
-- monster/size/small
-- monster/type/fey
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Redcap"
+  - Redcap
 ---
-# [Redcap](redcap-mpmm.md)
+# [Redcap](Redcap-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/9/788/1000/1000/636332006160598385.jpeg)
 
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
 

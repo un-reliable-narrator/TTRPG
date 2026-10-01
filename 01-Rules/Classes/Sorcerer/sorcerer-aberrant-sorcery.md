@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/sorcerer/aberrant
+  - src/5e/xphb
+  - subclass/sorcerer/aberrant
 aliases:
-- "Aberrant Sorcery"
+  - Aberrant Sorcery
 ---
 # Aberrant Sorcery
 *[[Sorcerer|Sorcerer]]: Sorcerer Subclass*  

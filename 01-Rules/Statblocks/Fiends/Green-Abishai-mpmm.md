@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/15
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/15
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Green Abishai"
+  - Green Abishai
 ---
 # [Green Abishai](Green-Abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/41008/342/1000/1000/638479352289315944.png)
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
 

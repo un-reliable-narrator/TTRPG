@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mammoth"
+  - Mammoth
 ---
 # [Mammoth](Mammoth.md)
 *Source: Monster Manual (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/53/1000/1000/638741964377705370.png)
 
 ## Animals
 

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/barbarian/wild-heart
+  - src/5e/xphb
+  - subclass/barbarian/wild-heart
 aliases:
-- "Path of the Wild Heart"
+  - Path of the Wild Heart
 ---
 # Path of the Wild Heart
 *[[Barbarian|Barbarian]]: Barbarian Subclass*  

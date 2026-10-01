@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/16
-- monster/environment/abyss
-- monster/environment/planar
-- monster/size/large
-- monster/type/Fiends/demon
+  - src/5e/xmm
+  - monster/cr/16
+  - monster/environment/abyss
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Marilith"
+  - Marilith
 ---
 # [Marilith](Marilith.md)
 *Source: Monster Manual (2024) p. 204. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/63/1000/1000/638741964393355423.png)
 
 ## Marilith
 

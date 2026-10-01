@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/xmm
+  - src/5e/xmm
 aliases:
-- "Monsters A to Z"
+  - Monsters A to Z
 ---
 # Monsters A to Z
 *Source: Monster Manual (2025), p. 10* 
@@ -58,7 +58,7 @@ aliases:
 - [Young Blue Dragon](young-Blue-Dragon.md)  
 - [Adult Blue Dragon](Adult-Blue-Dragon.md)  
 - [Ancient Blue Dragon](Ancient-Blue-Dragon.md)  
-- [Bone Devil](bone-Devil.md)  
+- [Bone Devil](Bone-Devil.md)  
 - [Bone Naga](bone-naga.md)  
 - [Brass Dragon Wyrmling](brass-Dragon-Wyrmling.md)  
 - [Young Brass Dragon](young-brass-Dragon.md)  
@@ -73,7 +73,7 @@ aliases:
 - [Bulette](Bulette.md)  
 - [Bulette Pup](bulette-Pup.md)  
 - [Bullywug Bog Sage](bullywug-bog-Sage.md)  
-- [Bullywug Warrior](bullywug-Warrior.md)  
+- [Bullywug Warrior](Bullywug-Warrior.md)  
 - [Cambion](Cambion.md)  
 - [Carrion Crawler](Carrion-Crawler.md)  
 - [Centaur Trooper](Centaur-Trooper.md)  
@@ -272,7 +272,7 @@ aliases:
 - [Noble Prodigy](Noble-Prodigy.md)  
 - [Nothic](Nothic.md)  
 - [Nycaloth](Nycaloth.md)  
-- [Ochre Jelly](ochre-jelly.md)  
+- [Ochre Jelly](Ochre-Jelly.md)  
 - [Ogre](Ogre.md)  
 - [Ogrillon Ogre](ogrillon-Ogre.md)  
 - [Oni](Oni.md)  
@@ -358,10 +358,10 @@ aliases:
 - [Spy Master](Spy-Master.md)  
 - [Spined Devil](spined-Devil.md)  
 - [Spirit Naga](Spirit-Naga.md)  
-- [Sprite](sprite.md)  
+- [Sprite](Sprite.md)  
 - [Stirge](Stirge.md)  
 - [Swarm of Stirges](Swarm-of-Stirges.md)  
-- [Stone Giant](stone-Giant.md)  
+- [Stone Giant](Stone-Giant.md)  
 - [Stone Golem](stone-Golem.md)  
 - [Storm Giant](storm-Giant.md)  
 - [Succubus](succubus.md)  
@@ -401,7 +401,7 @@ aliases:
 - [Will-o'-Wisp](Will-O-Wisp.md)  
 - [Winter Wolf](winter-Wolf.md)  
 - [Dire Worg](Dire-Worg.md)  
-- [Worg](worg.md)  
+- [Worg](Worg.md)  
 - [wraith](wraith.md)  
 - [wyvern](wyvern.md)  
 - [xorn](xorn.md)  
@@ -1252,7 +1252,7 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 
 
 > [!embed-monster]- Bone Devil
-> ![Bone Devil](bone-Devil.md#^statblock)
+> ![Bone Devil](Bone-Devil.md#^statblock)
 
 ### Bone Naga
 
@@ -1383,7 +1383,7 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
 > ![Bullywug Bog Sage](bullywug-bog-Sage.md#^statblock)
 
 > [!embed-monster]- Bullywug Warrior
-> ![Bullywug Warrior](bullywug-Warrior.md#^statblock)
+> ![Bullywug Warrior](Bullywug-Warrior.md#^statblock)
 
 
 
@@ -4849,7 +4849,7 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 
 
 > [!embed-monster]- Ochre Jelly
-> ![Ochre Jelly](ochre-jelly.md#^statblock)
+> ![Ochre Jelly](Ochre-Jelly.md#^statblock)
 
 ### Ogres
 
@@ -6162,7 +6162,7 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 
 
 > [!embed-monster]- Sprite
-> ![Sprite](sprite.md#^statblock)
+> ![Sprite](Sprite.md#^statblock)
 
 ### Stirges
 
@@ -6207,7 +6207,7 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
 
 
 > [!embed-monster]- Stone Giant
-> ![Stone Giant](stone-Giant.md#^statblock)
+> ![Stone Giant](Stone-Giant.md#^statblock)
 
 ### Stone Golem
 
@@ -6855,7 +6855,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
 ![Worg](book/XMM/309-23-013.worg.webp#center)
 
 > [!embed-monster]- Worg
-> ![Worg](worg.md#^statblock)
+> ![Worg](Worg.md#^statblock)
 
 > [!embed-monster]- Dire Worg
 > ![Dire Worg](Dire-Worg.md#^statblock)

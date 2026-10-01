@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/6
-- monster/size/huge
-- monster/type/giant
+  - src/5e/bam
+  - monster/cr/6
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "B'rohg"
+  - B'rohg
 ---
 # [B'rohg](brohg-bam.md)
 *Source: Boo's Astral Menagerie p. 16, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/811/1000/1000/637961800726053616.jpeg)
 
 B'rohgs are broad-shouldered, four-armed Giants, 15 feet tall, with burnt-orange skin. They have flat noses, pointed ears, and long hair that grows down the backs and sides of their otherwise bald heads. They wear simple garb and like to hurl heavy rocks. A b'rohg can wield a weapon with each of its four arms, but it prefers to pound enemies with its fists and rip smaller creatures apart with its bare hands.
 

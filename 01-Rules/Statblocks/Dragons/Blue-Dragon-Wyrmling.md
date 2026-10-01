@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/coastal
-- monster/environment/desert
-- monster/size/medium
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Blue Dragon Wyrmling"
+  - Blue Dragon Wyrmling
 ---
 # [Blue Dragon Wyrmling](Blue-Dragon-Wyrmling.md)
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/675/1000/1000/638741963859468186.jpeg)
 
 Blue dragon wyrmlings often serve other powerful creatures, learning the ways of control and establishing fearful reputations among weaker creatures. Many wyrmlings initially serve loyally, but as their powers grow to match their ambitions, they eventually betray or abandon their associates. These wyrmlings tempt small groups of creatures into their service, rewarding them with modest treasures and promises of future power.
 

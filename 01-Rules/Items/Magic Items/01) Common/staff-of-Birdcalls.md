@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/common
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/dmg
+  - item/rarity/common
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Staff of Birdcalls"
+  - Staff of Birdcalls
 ---
 # Staff of Birdcalls
 *Staff, weapon, common*  

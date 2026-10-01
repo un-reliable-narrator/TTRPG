@@ -1,7 +1,7 @@
 ---
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
 ---
 # Index of Fey
 
@@ -14,7 +14,7 @@ cssclasses:
 - [Bugbear Stalker](bugbear-Stalker.md)
 - [Bugbear Warrior](Bugbear-Warrior.md)
 - [Bullywug Bog Sage](bullywug-bog-Sage.md)
-- [Bullywug Warrior](bullywug-Warrior.md)
+- [Bullywug Warrior](Bullywug-Warrior.md)
 - [Centaur Trooper](Centaur-Trooper.md)
 - [Centaur Warden](Centaur-Warden.md)
 - [Darkling Elder](Darkling-Elder-mpmm.md)
@@ -26,7 +26,7 @@ cssclasses:
 - [Fey Spirit (Fuming)](fey-Spirit-fuming.md)
 - [Fey Spirit (Mirthful)](fey-Spirit-mirthful.md)
 - [Fey Spirit (Tricksy)](fey-Spirit-Tricksy.md)
-- [Fey Spirit](fey-Spirit.md)
+- [Fey Spirit](Fey-Spirit.md)
 - [Goblin Boss](Goblin-boss.md)
 - [Goblin Hexer](Goblin-Hexer.md)
 - [Goblin Minion](Goblin-minion.md)
@@ -44,13 +44,13 @@ cssclasses:
 - [Pixie Wonderbringer](Pixie-Wonderbringer.md)
 - [Pixie](Pixie.md)
 - [Quickling](quickling-mpmm.md)
-- [Redcap](redcap-mpmm.md)
+- [Redcap](Redcap-mpmm.md)
 - [Satyr Revelmaster](Satyr-Revelmaster.md)
 - [Satyr](Satyr.md)
 - [Sea Hag](Sea-Hag.md)
 - [Spring Eladrin](spring-Eladrin-mpmm.md)
-- [Sprite](sprite.md)
+- [Sprite](Sprite.md)
 - [Summer Eladrin](summer-Eladrin-mpmm.md)
 - [Winter Eladrin](winter-Eladrin-mpmm.md)
-- [Worg](worg.md)
+- [Worg](Worg.md)
 - [Yeth Hound](yeth-hound-mpmm.md)

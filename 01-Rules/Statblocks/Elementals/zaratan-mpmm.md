@@ -1,24 +1,26 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/22
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/gargantuan
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/22
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/gargantuan
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Zaratan"
+  - Zaratan
 ---
 # [Zaratan](zaratan-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 278*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/797/1000/1000/637880558224502904.jpeg)
 
 When a zaratan is summoned from the Elemental Plane of Earth, the ground rises up to take the shape of a hulking, armored reptile. A zaratan's steps trigger shock waves severe enough to level structures. It expresses its rage through trumpeting calls and the occasional boulder or blast of debris it spews from its cavernous maw. If seriously injured, a zaratan retracts its appendages to gain shelter beneath its impervious shell, biding its time until it recovers and can resume its march.
 

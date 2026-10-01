@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/1-2
-- monster/size/medium
-- monster/type/monstrosity/lizardfolk
+  - src/5e/bam
+  - monster/cr/1-2
+  - monster/size/medium
+  - monster/type/monstrosity/lizardfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ssurran Poisoner"
+  - Ssurran Poisoner
 ---
 # [Ssurran Poisoner](ssurran-Poisoner-bam.md)
 *Source: Boo's Astral Menagerie p. 58, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/946/1000/1000/637961800979237838.jpeg)
 
 Ssurran poisoners coat their weapons with toxin and hurl bombs that release poisonous gas.
 

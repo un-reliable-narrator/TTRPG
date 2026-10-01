@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/22
-- monster/environment/elemental-chaos
-- monster/environment/planar
-- monster/size/gargantuan
-- monster/type/Elementals/titan
+  - src/5e/xmm
+  - monster/cr/22
+  - monster/environment/elemental-chaos
+  - monster/environment/planar
+  - monster/size/gargantuan
+  - monster/type/Elementals/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Elemental Cataclysm"
+  - Elemental Cataclysm
 ---
 # [Elemental Cataclysm](Elemental-Cataclysm.md)
 *Source: Monster Manual (2024) p. 111*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/788/1000/1000/638741964013821908.png)
 
 ## Elemental Cataclysm
 

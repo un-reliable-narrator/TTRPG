@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/xphb
+  - src/5e/xphb
 aliases:
-- "Item Mastery"
+  - Item Mastery
 ---
 # Item Mastery
 

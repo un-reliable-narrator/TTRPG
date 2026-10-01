@@ -1,23 +1,23 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/medium
-- item/rarity/uncommon
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/medium
+  - item/rarity/uncommon
+  - item/wondrous/generic-variant
 aliases:
-- "Adamantine Armor"
-- "Adamantine Breastplate"
-- "Adamantine Chain Mail"
-- "Adamantine Chain Shirt"
-- "Adamantine Half Plate Armor"
-- "Adamantine Plate Armor"
-- "Adamantine Ring Mail"
-- "Adamantine Scale Mail"
-- "Adamantine Splint Armor"
+  - Adamantine Armor
+  - Adamantine Breastplate
+  - Adamantine Chain Mail
+  - Adamantine Chain Shirt
+  - Adamantine Half Plate Armor
+  - Adamantine Plate Armor
+  - Adamantine Ring Mail
+  - Adamantine Scale Mail
+  - Adamantine Splint Armor
 ---
 # Adamantine Armor
 *Uncommon*  

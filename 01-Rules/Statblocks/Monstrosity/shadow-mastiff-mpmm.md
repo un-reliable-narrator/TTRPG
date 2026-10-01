@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Shadow Mastiff"
+  - Shadow Mastiff
 ---
 # [Shadow Mastiff](shadow-mastiff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/635/1000/1000/637880557981173432.jpeg)
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
 

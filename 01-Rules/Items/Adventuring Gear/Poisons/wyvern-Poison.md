@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/
+  - item/rarity/none
 aliases:
-- "Wyvern Poison"
+  - Wyvern Poison
 ---
 # Wyvern Poison
 *Adventuring gear, poison (injury)*  

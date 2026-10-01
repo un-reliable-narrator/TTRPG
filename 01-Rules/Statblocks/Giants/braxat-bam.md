@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/9
-- monster/size/huge
-- monster/type/giant
+  - src/5e/bam
+  - monster/cr/9
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Braxat"
+  - Braxat
 ---
 # [Braxat](braxat-bam.md)
 *Source: Boo's Astral Menagerie p. 15, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/808/1000/1000/637961800718877632.jpeg)
 
 A braxat is a towering, warm-blooded carnivore with a thick, articulated shell covering its back, a squarish head topped with horny protrusions, and thick arms ending in large hands with opposable thumbs. The creature walks upright on two legs and speaks in a voice similar to that of a human.
 

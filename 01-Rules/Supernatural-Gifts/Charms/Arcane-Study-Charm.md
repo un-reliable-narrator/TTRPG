@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- src/5e/dmg
-- reward/charm
+  - src/5e/dmg
+  - reward/charm
 aliases:
-- "Arcane Study Charm"
+  - Arcane Study Charm
 ---
 # Arcane Study Charm
 *Charm*  

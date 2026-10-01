@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/environment/underdark
-- monster/size/large
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Draegloth"
+  - Draegloth
 ---
 # [Draegloth](Draegloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/290/1000/1000/637880557391318048.jpeg)
 
 A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [Glabrezu](Glabrezu.md). This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 

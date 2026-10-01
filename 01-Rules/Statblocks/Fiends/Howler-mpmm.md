@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/8
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/large
-- monster/type/fiend
+  - src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Howler"
+  - Howler
 ---
 # [Howler](Howler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 155*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/455/1000/1000/637880557701146601.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

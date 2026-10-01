@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/17
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/17
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult Red Dragon"
+  - Adult Red Dragon
 ---
 # [Adult Red Dragon](Adult-Red-Dragon.md)
 *Source: Monster Manual (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/568/1000/1000/638741963706659115.png)
 
 Adult red dragons are tyrants that claim vast domains and might command armies of followers or significant magical resources. Red dragons rarely pay attention to the nations and claims of smaller creatures, and they might consider entire cities part of their realm. Most red dragons are inattentive rulers, though, spending decades focused on their own comforts, hoards, or magical concerns within their lairs. But when their attention returns to their territories, if they find matters not to their liking, whole lands might burn.
 

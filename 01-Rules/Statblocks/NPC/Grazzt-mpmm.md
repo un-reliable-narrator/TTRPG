@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/24
-- monster/size/large
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/24
+  - monster/size/large
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Graz'zt"
+  - Graz'zt
 ---
 # [Graz'zt](Grazzt-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 148*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/437/1000/1000/637880557666403296.jpeg)
 
 The appearance of this demon lord is a warning that not all that is beautiful is good. Every plane and curve of his nine-foot-tall body, every glance of his burning eyes, promises a mixture of pleasure and pain. Graz'zt can transform himself at will, appearing in any humanlike form that pleases him or his onlookers, all equally tempting in their own ways. In every form, though, a subtle wrongness pervades his beauty, from the cruel cast of his features to the six fingers on each hand and six toes on each foot.
 

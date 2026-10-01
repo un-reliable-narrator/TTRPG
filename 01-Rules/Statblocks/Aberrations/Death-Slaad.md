@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/limbo
-- monster/environment/planar
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/limbo
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Death Slaad"
+  - Death Slaad
 ---
 # [Death Slaad](Death-Slaad.md)
 *Source: Monster Manual (2024) p. 287*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/751/1000/1000/638741963962471432.png)
 
 Slaad lords create death slaadi by infusing gray slaadi with a portion of their chaotic energy. When groups of slaadi act deliberately, death slaadi are often behind their designs.
 

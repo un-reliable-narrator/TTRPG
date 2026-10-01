@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/lizardfolk
+  - src/5e/mpmm
+  - race/lizardfolk
 aliases:
-- "Lizardfolk"
+  - Lizardfolk
 ---
 # Lizardfolk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 26*  

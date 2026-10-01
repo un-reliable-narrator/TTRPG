@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/15
-- monster/environment/forest
-- monster/size/huge
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/15
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult Green Dragon"
+  - Adult Green Dragon
 ---
 # [Adult Green Dragon](Adult-Green-Dragon.md)
 *Source: Monster Manual (2024) p. 153. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/566/1000/1000/638741963704165864.png)
 
 The words of adult green dragons are as deadly as their poisonous breath. They are brilliant schemers that pride themselves on influencing communities near their lairs. They obsess over information and create vast spy networks. Many of these dragons seek magical methods of surveillance or domination, and they manipulate adventurers into hunting down lost magic to aid in such control.
 

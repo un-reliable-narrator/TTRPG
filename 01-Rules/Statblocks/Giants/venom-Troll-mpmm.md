@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Venom Troll"
+  - Venom Troll
 ---
 # [Venom Troll](venom-Troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 248*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/739/1000/1000/637880558133914455.jpeg)
 
 A troll that survives massive doses of poison might transform into a venom troll. Lingering poison infuses the troll's blood and tissue, and poison leaks from the pores to coat the troll's fangs and claws. These creatures are especially dangerous in close combat because poison drips off their flesh and sprays out from every wound they receive.
 

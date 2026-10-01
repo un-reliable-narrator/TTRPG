@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Lizardfolk Sovereign"
+  - Lizardfolk Sovereign
 ---
 # [Lizardfolk Sovereign](lizardfolk-Sovereign.md)
 *Source: Monster Manual (2024) p. 197*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/45/1000/1000/638741964366736694.jpeg)
 
 Lizardfolk sovereigns undergo magical rites that imbue them with fantastic strength and magic from the Elemental Plane of Earth. In some, though, it also unlocks a primal viciousness.
 

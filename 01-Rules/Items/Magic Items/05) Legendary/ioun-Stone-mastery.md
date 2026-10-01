@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
 aliases:
-- "Ioun Stone, Mastery"
+  - Ioun Stone, Mastery
 ---
 # Ioun Stone, Mastery
 *Wondrous item, legendary (requires attunement)*  

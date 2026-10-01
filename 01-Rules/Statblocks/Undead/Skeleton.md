@@ -1,22 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/planar
-- monster/environment/shadowfell
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/planar
+  - monster/environment/shadowfell
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-- "Skeleton"
 ---
 # [Skeleton](Skeleton.md)
 *Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47005/421/1000/1000/638736713557577929.jpeg)
 
 Skeletons are reanimated Humanoid bones bearing the equipment they had in life. They have rudimentary faculties and greater agility than zombies and similar shambling corpses. While they aren't capable of creating plans of their own, they avoid obvious barriers and self-destructive situations.
 

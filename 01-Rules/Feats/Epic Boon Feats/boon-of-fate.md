@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- src/5e/xphb
-- feat
+  - src/5e/xphb
+  - feat
 aliases:
-- "Boon of Fate"
+  - Boon of Fate
 ---
 # Boon of Fate
 *Epic Boon Feat*

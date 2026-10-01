@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/24
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/gargantuan
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/24
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/gargantuan
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ancient Gold Dragon"
+  - Ancient Gold Dragon
 ---
 # [Ancient Gold Dragon](Ancient-Gold-Dragon.md)
 *Source: Monster Manual (2024) p. 146. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/588/1000/1000/638741963739015148.jpeg)
 
 Ancient gold dragons are wise and mysterious. Many aid virtuous groups, guiding them in secret or patronizing them from afar. Only when stakes are at their highest do ancient gold dragons reveal themselves in all their majesty.
 

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Green Slime"
+  - Green Slime
 ---
 # Green Slime
 *Generic Hazard*  

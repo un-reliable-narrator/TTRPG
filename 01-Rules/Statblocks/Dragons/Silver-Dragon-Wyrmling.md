@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Silver Dragon Wyrmling"
+  - Silver Dragon Wyrmling
 ---
 # [Silver Dragon Wyrmling](Silver-Dragon-Wyrmling.md)
 *Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/247/1000/1000/638741964642771807.png)
 
 Silver dragon wyrmlings typically live with one or more parents or mentors, learning much about the world and its past before living on their own.
 

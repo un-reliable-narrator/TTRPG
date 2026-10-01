@@ -1,19 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gnoll Hunter"
+  - Gnoll Hunter
 ---
 # [Gnoll Hunter](Gnoll-hunter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144*  

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/2
-- monster/size/medium
-- monster/type/plant
+  - src/5e/bam
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Aartuk Starhorror"
+  - Aartuk Starhorror
 ---
 # [Aartuk Starhorror](Aartuk-Starhorror-bam.md)
 *Source: Boo's Astral Menagerie p. 9, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/774/1000/1000/637961800649770847.jpeg)
 
 Aartuks are intelligent plant creatures that live to wage war. Beholders destroyed their original home world and scattered the survivors across the Material Plane. These survivors formed small nomadic cells.
 

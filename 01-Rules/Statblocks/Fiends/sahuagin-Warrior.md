@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sahuagin Warrior"
+  - Sahuagin Warrior
 ---
 # [Sahuagin Warrior](sahuagin-Warrior.md)
 *Source: Monster Manual (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/214/1000/1000/638741964600959333.png)
 
 Sahuagin warriors are vicious combatants that savage their foes with webbed claws. Once sahuagin draw blood, they usually attack until either they or their foe is slain.
 

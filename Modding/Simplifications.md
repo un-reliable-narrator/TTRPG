@@ -1,0 +1,3 @@
+- Remove Attunement Slots
+- Uncap Reactions (but maybe introduce a condition that disables them)
+- Spellpoints

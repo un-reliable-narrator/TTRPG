@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/common
+  - src/5e/dmg
+  - item/rarity/common
 aliases:
-- "Cloak of Many Fashions"
+  - Cloak of Many Fashions
 ---
 # Cloak of Many Fashions
 *Wondrous item, common*  

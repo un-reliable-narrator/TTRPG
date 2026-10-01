@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/7
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/bam
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Thri-kreen Gladiator"
+  - Thri-kreen Gladiator
 ---
 # [Thri-kreen Gladiator](thri-Kreen-Gladiator-bam.md)
 *Source: Boo's Astral Menagerie p. 60, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/952/1000/1000/637961800992029712.jpeg)
 
 Thri-kreen gladiators relish opportunities to test their mettle in combat and often paint their carapaces with the blood of their enemies.
 

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Humanoids/dwarf
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Humanoids/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Duergar Xarrorn"
+  - Duergar Xarrorn
 ---
 # [Duergar Xarrorn](Duergar-xarrorn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/336/1000/1000/637880557470365345.jpeg)
 
 Xarrorn are specialists who construct weapons using a mixture of alchemy and psionics.
 

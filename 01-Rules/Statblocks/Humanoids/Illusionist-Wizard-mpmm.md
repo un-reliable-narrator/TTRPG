@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Illusionist Wizard"
+  - Illusionist Wizard
 ---
 # [Illusionist Wizard](Illusionist-Wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 263*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/468/1000/1000/637880557725488726.jpeg)
 
 Illusionists twist light, sound, and even thought to create illusory effects. Some illusionists are delightful entertainers, while others are devilish tricksters.
 

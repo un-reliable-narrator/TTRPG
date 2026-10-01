@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bullywug Warrior"
+  - Bullywug Warrior
 ---
-# [Bullywug Warrior](bullywug-Warrior.md)
+# [Bullywug Warrior](Bullywug-Warrior.md)
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
+
+![164](https://www.dndbeyond.com/avatars/thumbnails/47158/363/1000/1000/638742811171574748.png)
 
 Bullywug warriors are adept at moving through swamps and ambushing trespassers. They often work alongside packs of trained giant frogs.
 

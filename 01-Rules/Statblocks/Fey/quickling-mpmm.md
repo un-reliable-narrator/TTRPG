@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/fey
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Quickling"
+  - Quickling
 ---
 # [Quickling](quickling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/26045/517/1000/1000/637891713228849186.jpeg)
 
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
 

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/15
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small-or-medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/15
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small-or-medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vampire Umbral Lord"
+  - Vampire Umbral Lord
 ---
 # [Vampire Umbral Lord](Vampire-Umbral-Lord.md)
 *Source: Monster Manual (2024) p. 318*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/338/1000/1000/638741964771868665.png)
 
 Vampire umbral lords embrace their ties to the darkness, devoting themselves to sinister powers in exchange for access to forbidden magic.
 

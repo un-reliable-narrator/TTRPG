@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- src/5e/xphb
-- feat
+  - src/5e/xphb
+  - feat
 aliases:
-- "Fey-Touched"
+  - Fey-Touched
 ---
 # Fey-Touched
 *Source: Player's Handbook (2024) p. 204*  

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/any
-- monster/size/medium
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/any
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Helmed Horror"
+  - Helmed Horror
 ---
 # [Helmed Horror](Helmed-Horror.md)
 *Source: Monster Manual (2024) p. 166*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/970/1000/1000/638741964266365034.png)
 
 ## Helmed Horror
 

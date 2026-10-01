@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giff"
+  - Giff
 ---
 # [Giff](Giff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 138*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/411/1000/1000/637880557613068698.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

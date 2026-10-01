@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/2
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/bam
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Thri-kreen Hunter"
+  - Thri-kreen Hunter
 ---
 # [Thri-kreen Hunter](thri-Kreen-hunter-bam.md)
 *Source: Boo's Astral Menagerie p. 61, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/955/1000/1000/637961800998581540.jpeg)
 
 Thri-kreen hunters are skilled foragers and stalkers. A thri-kreen hunter encountered in Wildspace might be on the trail of a fugitive or leading a gang of pirates.
 

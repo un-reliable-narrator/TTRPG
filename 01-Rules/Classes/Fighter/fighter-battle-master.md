@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/fighter/battle-master
+  - src/5e/xphb
+  - subclass/fighter/battle-master
 aliases:
-- "Battle Master"
+  - Battle Master
 ---
 # Battle Master
 *[Fighter](Fighter.md): Fighter Subclass*  

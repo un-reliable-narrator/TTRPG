@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/19
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/19
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Red Abishai"
+  - Red Abishai
 ---
 # [Red Abishai](red-Abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/41008/346/1000/1000/638479352424025903.png)
 
 Red abishais have no equals among the abishais when it comes to leadership ability and raw power. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.
 

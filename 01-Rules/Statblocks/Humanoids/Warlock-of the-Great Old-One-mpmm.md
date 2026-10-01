@@ -1,20 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/6
-- monster/environment/arctic
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/arctic
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Warlock of the Great Old One"
+  - Warlock of the Great Old One
 ---
 # [[Warlock-of the-Great Old-One-mpmm|Warlock of the Great Old One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 256*  

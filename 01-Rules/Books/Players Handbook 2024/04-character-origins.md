@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/xphb
+  - src/5e/xphb
 aliases:
-- "Chapter 4: Character Origins"
+  - "Chapter 4: Character Origins"
 ---
 # Chapter 4: Character Origins
 *Source: Player's Handbook (2024), p. 176* 

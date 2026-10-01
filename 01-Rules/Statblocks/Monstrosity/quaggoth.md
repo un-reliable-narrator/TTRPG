@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Quaggoth"
+  - Quaggoth
 ---
 # [Quaggoth](quaggoth.md)
 *Source: Monster Manual (2024) p. 251*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/186/1000/1000/638741964560049006.png)
 
 For quaggoths, every fight means life or death. They battle with wild fury and do anything to survive.
 

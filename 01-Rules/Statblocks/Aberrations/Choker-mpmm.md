@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/small
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Choker"
+  - Choker
 ---
 # [Choker](Choker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/217/1000/1000/637880557270796988.jpeg)
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/16
-- monster/size/medium
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/16
+  - monster/size/medium
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Titivilus"
+  - Titivilus
 ---
 # [Titivilus](titivilus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/713/1000/1000/637880558096621087.jpeg)
 
 Dispater, the gloomy Lord of Dis, rules from his iron palace, seeming to hide behind its labyrinthine corridors, iron walls, diabolical traps, and monstrous servants. Knowing he has enemies on all sides and fearing he'll be displaced like Moloch, Geryon, and so many others, he almost never travels farther than the sprawling city that lies outside his palace.
 

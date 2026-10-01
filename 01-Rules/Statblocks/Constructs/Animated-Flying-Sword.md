@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/urban
-- monster/size/small
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Animated Flying Sword"
+  - Animated Flying Sword
 ---
 # [Animated Flying Sword](Animated-Flying-Sword.md)
 *Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47144/493/1000/1000/638742151345914326.png)
 
 Animated flying swords move as if wielded by unseen warriors. Whether an animated blade is newly forged or a constellation of broken fragments, the object behaves the same. Other weapons from the "Player's Handbook" can also be animated and use game statistics similar to those here.
 

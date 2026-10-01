@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/uncommon
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/dmg
+  - item/rarity/uncommon
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Javelin of Lightning"
+  - Javelin of Lightning
 ---
 # Javelin of Lightning
 *Weapon ([Javelin](Javelin.md)), uncommon*  

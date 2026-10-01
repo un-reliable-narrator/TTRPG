@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/nine-hells
-- monster/environment/planar
-- monster/size/large
-- monster/type/Fiends/devil
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/nine-hells
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Swarm of Lemures"
+  - Swarm of Lemures
 ---
 # [Swarm of Lemures](Swarm-of-Lemures.md)
 *Source: Monster Manual (2024) p. 194*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/287/1000/1000/638741964703008480.png)
 
 When devils drive hosts of lemures into close proximity or when lemures compress into a single mass, a swarm forms and adopts a unified mind.
 

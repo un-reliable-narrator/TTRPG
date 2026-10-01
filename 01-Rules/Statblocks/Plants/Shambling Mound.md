@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/large
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/large
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Shambling Mound"
+  - Shambling Mound
 ---
 # Shambling Mound
 *Source: Monster Manual (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/241/1000/1000/638741964634596247.png)
 
 ## Shambling Mound
 

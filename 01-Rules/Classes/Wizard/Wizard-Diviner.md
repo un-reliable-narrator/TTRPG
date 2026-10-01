@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/wizard/diviner
+  - src/5e/xphb
+  - subclass/wizard/diviner
 aliases:
-- "Diviner"
+  - Diviner
 ---
 # Diviner
 *[Wizard](Wizard.md): Wizard Subclass*  

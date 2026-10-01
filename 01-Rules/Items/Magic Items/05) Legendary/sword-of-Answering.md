@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/weapon/martial
-- item/weapon/melee
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/weapon/martial
+  - item/weapon/melee
 aliases:
-- "Sword of Answering"
+  - Sword of Answering
 ---
 # Sword of Answering
 *Weapon ([Longsword](Longsword.md)), legendary (requires attunement)*  

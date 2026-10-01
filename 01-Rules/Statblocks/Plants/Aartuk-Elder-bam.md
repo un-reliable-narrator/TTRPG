@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/3
-- monster/size/large
-- monster/type/plant
+  - src/5e/bam
+  - monster/cr/3
+  - monster/size/large
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Aartuk Elder"
+  - Aartuk Elder
 ---
 # [Aartuk Elder](Aartuk-Elder-bam.md)
 *Source: Boo's Astral Menagerie p. 8, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/771/1000/1000/637961800642907022.jpeg)
 
 Aartuks are intelligent plant creatures that live to wage war. Beholders destroyed their original home world and scattered the survivors across the Material Plane. These survivors formed small nomadic cells.
 

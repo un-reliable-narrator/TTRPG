@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/planar
-- monster/environment/shadowfell
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/planar
+  - monster/environment/shadowfell
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kenku"
+  - Kenku
 ---
 # [Kenku](Kenku.md)
 *Source: Monster Manual (2024) p. 183*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/16/1000/1000/638741964328556996.png)
 
 ## Kenku
 

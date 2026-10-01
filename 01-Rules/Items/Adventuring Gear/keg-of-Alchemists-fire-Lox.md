@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/lox
-- item/gear/
-- item/rarity/none
+  - src/5e/lox
+  - item/gear/
+  - item/rarity/none
 aliases:
-- "Keg of Alchemist's Fire"
+  - Keg of Alchemist's Fire
 ---
 # Keg of Alchemist's Fire
 *Adventuring gear*  

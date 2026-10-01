@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/forest
-- monster/size/huge
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Primeval Owlbear"
+  - Primeval Owlbear
 ---
 # [Primeval Owlbear](Primeval-Owlbear.md)
 *Source: Monster Manual (2024) p. 234*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/176/1000/1000/638741964547703455.jpeg)
 
 Ancient forests and Feywild demesnes steeped in magic can give rise to particularly large and vicious owlbears. These primeval specimens can fly—albeit poorly—and emit thunderous screeches that can rattle foes and even tear them asunder.
 

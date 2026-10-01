@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/gear/
-- item/rarity/none
+  - src/5e/xphb
+  - item/gear/
+  - item/rarity/none
 aliases:
-- "Healer's Kit"
+  - Healer's Kit
 ---
 # Healer's Kit
 *Adventuring gear*  

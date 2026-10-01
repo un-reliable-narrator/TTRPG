@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/coastal
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/coastal
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Tortle"
+  - Tortle
 ---
 # [Tortle](01-Rules/Statblocks/Humanoids/Tortle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/719/1000/1000/637880558106021934.jpeg)
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
 

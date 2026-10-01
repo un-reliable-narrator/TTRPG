@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Lizardfolk Geomancer"
+  - Lizardfolk Geomancer
 ---
 # [Lizardfolk Geomancer](lizardfolk-Geomancer.md)
 *Source: Monster Manual (2024) p. 197*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/43/1000/1000/638741964363772135.jpeg)
 
 Lizardfolk geomancers draw magic from the natural world, using it to protect their people and territories.
 

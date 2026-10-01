@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Humanoids/dwarf
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Humanoids/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Duergar Mind Master"
+  - Duergar Mind Master
 ---
 # [Duergar Mind Master](Duergar-mind-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 108*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/323/1000/1000/637880557447913227.jpeg)
 
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.
 

@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/planar
-- monster/environment/shadowfell
-- monster/environment/underdark
-- monster/size/small-or-medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/planar
+  - monster/environment/shadowfell
+  - monster/environment/underdark
+  - monster/size/small-or-medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Wraith"
+  - Wraith
 ---
 # [Wraith](wraith.md)
 *Source: Monster Manual (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/46992/25/1000/1000/638736097268865352.jpeg)
 
 ## Wraith
 

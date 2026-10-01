@@ -1,29 +1,29 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/light
-- item/armor/medium
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/light
+  - item/armor/medium
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/generic-variant
 aliases:
-- "Demon Armor"
-- "Demon Breastplate"
-- "Demon Chain Mail"
-- "Demon Chain Shirt"
-- "Demon Half Plate Armor"
-- "Demon Hide Armor"
-- "Demon Leather Armor"
-- "Demon Padded Armor"
-- "Demon Plate Armor"
-- "Demon Ring Mail"
-- "Demon Scale Mail"
-- "Demon Splint Armor"
-- "Demon Studded Leather Armor"
+  - Demon Armor
+  - Demon Breastplate
+  - Demon Chain Mail
+  - Demon Chain Shirt
+  - Demon Half Plate Armor
+  - Demon Hide Armor
+  - Demon Leather Armor
+  - Demon Padded Armor
+  - Demon Plate Armor
+  - Demon Ring Mail
+  - Demon Scale Mail
+  - Demon Splint Armor
+  - Demon Studded Leather Armor
 ---
 # Demon Armor
 *Cursed item, very rare (requires attunement)*  

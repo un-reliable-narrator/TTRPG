@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/16
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/huge
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/16
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/huge
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult Silver Dragon"
+  - Adult Silver Dragon
 ---
 # [Adult Silver Dragon](adult Silver-dragon.md)
 *Source: Monster Manual (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/570/1000/1000/638741963709626395.png)
 
 Adult silver dragons love to spend time among various peoples. Rather than manipulating politics directly, they support individuals who have ambitious goals or who popularize the return of great universities, inspiring athletics events or festivals, and other salutary civic institutions of the past. Silver dragons often surround themselves with like-minded allies and are watchful for hidden threats.
 

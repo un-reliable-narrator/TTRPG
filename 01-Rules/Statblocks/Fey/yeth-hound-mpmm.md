@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/fey
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Yeth Hound"
+  - Yeth Hound
 ---
 # [Yeth Hound](yeth-hound-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/775/1000/1000/637880558192520104.jpeg)
 
 Granted by mighty Fey to individuals who please them, yeth hounds serve their masters like hunting dogs. They race in pursuit of their prey, running it down until it's too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
 

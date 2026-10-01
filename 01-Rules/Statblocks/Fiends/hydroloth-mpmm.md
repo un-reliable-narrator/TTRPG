@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/size/medium
-- monster/type/Fiends/yugoloth
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/size/medium
+  - monster/type/Fiends/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Hydroloth"
+  - Hydroloth
 ---
 # [Hydroloth](hydroloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/465/1000/1000/637880557720148315.jpeg)
 
 Like the thought Stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
 

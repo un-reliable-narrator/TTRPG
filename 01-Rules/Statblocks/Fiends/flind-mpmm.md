@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/Fiends/gnoll
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/Fiends/gnoll
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Flind"
+  - Flind
 ---
 # [Flind](flind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/372/1000/1000/637880557532121020.jpeg)
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
 

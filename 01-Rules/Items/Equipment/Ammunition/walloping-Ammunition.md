@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/age/futuristic
-- item/gear/ammunition
-- item/gear/ammunition-firearm
-- item/rarity/common
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/age/futuristic
+  - item/gear/ammunition
+  - item/gear/ammunition-firearm
+  - item/rarity/common
+  - item/wondrous/generic-variant
 aliases:
-- "Walloping Ammunition"
-- "Walloping Arrow"
-- "Walloping Bolt"
-- "Walloping Energy Cell"
-- "Walloping Firearm Bullet"
-- "Walloping Needle"
-- "Walloping Sling Bullet"
+  - Walloping Ammunition
+  - Walloping Arrow
+  - Walloping Bolt
+  - Walloping Energy Cell
+  - Walloping Firearm Bullet
+  - Walloping Needle
+  - Walloping Sling Bullet
 ---
 # Walloping Ammunition
 *Ammunition, common*  

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/underdark
-- monster/size/large
-- monster/type/ooze
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Black Pudding"
+  - Black Pudding
 ---
 # [Black Pudding](Black-Pudding.md)
 *Source: Monster Manual (2024) p. 42. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/669/1000/1000/638741963850691942.png)
 
 ## Black Pudding
 

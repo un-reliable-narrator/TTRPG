@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/fey
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Dolphin Delighter"
+  - Dolphin Delighter
 ---
 # [Dolphin Delighter](Dolphin-Delighter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/284/1000/1000/637880557379456934.jpeg)
 
 In the Feywild, dolphin delighters brighten the moods of those who travel the seas of the Domains of Delight. Telepathically singing sea chanteys, these dolphins leap and teleport through the luminous waters of Faerie and the Material Plane, and they are faithful allies to any who battle the forces of gloom and brutality under the waves.
 

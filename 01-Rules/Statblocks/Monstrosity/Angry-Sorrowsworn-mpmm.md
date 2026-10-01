@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/13
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Angry Sorrowsworn"
+  - Angry Sorrowsworn
 ---
 # [Angry Sorrowsworn](Angry-Sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 222*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/129/1000/1000/637880557120483311.jpeg)
 
 Relying on violence to sustain their existence, angry sorrowsworn—sometimes called the Angry—grow more powerful when their foes fight back. If a creature opts not to attack, though, this sorrowsworn becomes confused, and its attacks weaken. It also has two heads, which bicker with each other incessantly.
 

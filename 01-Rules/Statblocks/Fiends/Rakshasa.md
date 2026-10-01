@@ -1,14 +1,14 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/13
-- monster/environment/nine-hells
-- monster/environment/planar
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/13
+  - monster/environment/nine-hells
+  - monster/environment/planar
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 ---

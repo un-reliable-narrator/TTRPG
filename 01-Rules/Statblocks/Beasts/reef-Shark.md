@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Reef Shark"
+  - Reef Shark
 ---
 # [Reef Shark](reef-Shark.md)
 *Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/43939/787/1000/1000/638607431063881100.png)
 
 ## Animals
 

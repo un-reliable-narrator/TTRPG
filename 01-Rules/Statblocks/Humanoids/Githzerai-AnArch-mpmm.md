@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/16
-- monster/size/medium
-- monster/type/Humanoids/gith
+  - src/5e/mpmm
+  - monster/cr/16
+  - monster/size/medium
+  - monster/type/Humanoids/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githzerai Anarch"
+  - Githzerai Anarch
 ---
 # [Githzerai Anarch](Githzerai-AnArch-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 142*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/423/1000/1000/637880557633400367.jpeg)
 
 Anarchs are githzerai sages and mystics who lead communities and maintain the adamantine citadels that serve as strong points in Limbo and on other planes. They have formidable psionic capabilities and are able to manipulate the unformed substance of their adopted plane with a thought.
 

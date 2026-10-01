@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ankheg"
+  - Ankheg
 ---
 # [Ankheg](Ankheg.md)
 *Source: Monster Manual (2024) p. 18. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/612/1000/1000/638741963773026835.png)
 
 ## Ankheg
 

@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xphb
-- monster/cr/
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/xphb
+  - monster/cr/
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Elemental Spirit"
+  - Elemental Spirit
 ---
 # [Elemental Spirit](Elemental-Spirit.md)
 *Source: Player's Handbook (2024) p. 325*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- domain/trickery
-- subclass/cleric/trickery
+  - src/5e/xphb
+  - domain/trickery
+  - subclass/cleric/trickery
 aliases:
-- "Trickery Domain"
+  - Trickery Domain
 ---
 # Trickery Domain
 *[[Cleric|Cleric]]: Cleric Subclass*  

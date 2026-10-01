@@ -4,7 +4,7 @@ tags:
 school: Transmutation
 spell_level: "5"
 aliases:
-- "Animate Objects"
+  - Animate Objects
 ---
 # Animate Objects
 *Level 5 Transmutation (Bard, Sorcerer, Wizard)*

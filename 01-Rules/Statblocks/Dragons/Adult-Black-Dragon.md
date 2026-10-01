@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/14
-- monster/environment/swamp
-- monster/size/huge
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/14
+  - monster/environment/swamp
+  - monster/size/huge
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult Black Dragon"
+  - Adult Black Dragon
 ---
 # [Adult Black Dragon](Adult-Black-Dragon.md)
 *Source: Monster Manual (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/553/1000/1000/638741963688798487.png)
 
 By the time they're adults, black dragons are among the greatest terrors in the lands they claim. Wretched swamps and monster-haunted ruins grow more dismal and spread under an adult black dragon's influence. Morbid cultists and doomsayers frequently gather in the dragon's service, bringing with them undead terrors that answer to the black dragon and aid it in spreading ruin to nearby bastions of beauty and peace.
 

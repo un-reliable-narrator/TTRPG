@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/rod
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/rod
 aliases:
-- "Rod of Absorption"
+  - Rod of Absorption
 ---
 # Rod of Absorption
 *Rod, very rare (requires attunement)*  

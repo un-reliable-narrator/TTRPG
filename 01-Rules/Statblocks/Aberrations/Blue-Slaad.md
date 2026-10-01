@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/limbo
-- monster/environment/planar
-- monster/size/large
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/limbo
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Blue Slaad"
+  - Blue Slaad
 ---
 # [Blue Slaad](Blue-Slaad.md)
 *Source: Monster Manual (2024) p. 285*  
+
+![228](https://www.dndbeyond.com/avatars/thumbnails/47138/677/1000/1000/638741963861806636.jpeg)
 
 Almost as numerous as red slaadi, blue slaadi are muscular brutes with vicious blades extending from the backs of their claws. These claws carry a magical curse called chaos phage, which can transform victims into red or green slaadi. Blue slaadi accompany red slaadi and behave similarly. They innately know the signs of chaos phage and avoid slaying creatures that carry it or other slaad curses.
 

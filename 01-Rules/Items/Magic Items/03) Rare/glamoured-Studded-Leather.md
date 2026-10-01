@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/light
-- item/rarity/rare
+  - src/5e/dmg
+  - item/armor/light
+  - item/rarity/rare
 aliases:
-- "Glamoured Studded Leather"
+  - Glamoured Studded Leather
 ---
 # Glamoured Studded Leather
 *Light armor ([studded leather armor](Studded-Leather-Armor.md)), rare*  

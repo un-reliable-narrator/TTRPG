@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/limbo
-- monster/environment/planar
-- monster/size/medium
-- monster/type/aberrations/gith
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/limbo
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/aberrations/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githzerai Zerth"
+  - Githzerai Zerth
 ---
 # [Githzerai Zerth](Githzerai-zerth.md)
 *Source: Monster Manual (2024) p. 137*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/906/1000/1000/638741964176930499.jpeg)
 
 Githzerai zerths embody the discipline espoused by their first leader, Zerthimon. Their psionic control aids them in protecting their people and traveling the planes of existence without fear of being followed by githyanki or mind flayer foes.
 

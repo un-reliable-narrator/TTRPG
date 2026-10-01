@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/ooze
+  - src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Oblex Spawn"
+  - Oblex Spawn
 ---
 # [Oblex Spawn](oblex-Spawn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/584/1000/1000/637880557901244975.jpeg)
 
 An oblex devours memories not only to sustain its existence, but also to spawn new oblexes. Each time it fully drains the memories of a victim, it gains the creature's personality—now twisted by the oblex's foul nature. The more memories an oblex steals, the larger it becomes, until it must shed a personality it has absorbed or else go uncontrolled and erratic. This act spawns a new oblex.
 

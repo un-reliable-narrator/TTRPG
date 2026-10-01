@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/legendary
-- item/wondrous/ring
+  - src/5e/dmg
+  - item/rarity/legendary
+  - item/wondrous/ring
 aliases:
-- "Ring of Three Wishes"
+  - Ring of Three Wishes
 ---
 # Ring of Three Wishes
 *Ring, legendary*  

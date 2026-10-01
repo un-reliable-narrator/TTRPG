@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/construct
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Clockwork Iron Cobra"
+  - Clockwork Iron Cobra
 ---
 # [Clockwork Iron Cobra](Clockwork-Iron-Cobra-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/226/1000/1000/637880557286598341.jpeg)
 
 An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. Gnomes load this clockwork with alchemical concoctions that can paralyze creatures and cloud the mind.
 

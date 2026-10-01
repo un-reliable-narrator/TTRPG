@@ -1,23 +1,25 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kobold Scale Sorcerer"
+  - Kobold Scale Sorcerer
 ---
 # [Kobold Scale Sorcerer](Kobold-Scale-Sorcerer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/483/1000/1000/637880557754721385.jpeg)
 
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
 

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/15
-- monster/environment/desert
-- monster/environment/swamp
-- monster/size/small-or-medium
-- monster/type/undead/cleric
+  - src/5e/xmm
+  - monster/cr/15
+  - monster/environment/desert
+  - monster/environment/swamp
+  - monster/size/small-or-medium
+  - monster/type/undead/cleric
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mummy Lord"
+  - Mummy Lord
 ---
 # [Mummy Lord](Mummy-Lord.md)
 *Source: Monster Manual (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/100/1000/1000/638741964441125626.png)
 
 Those desperate to escape death sometimes make terrible bargains with wicked deities. Devoting their hearts to evil forces, these villains gain power over death and a cursed immortality that binds their minds and spirits within a desiccated corpse. Freed from mortal concerns, these mummy lords pursue their obsessions across ages.
 

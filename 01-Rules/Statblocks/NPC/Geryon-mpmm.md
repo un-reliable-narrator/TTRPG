@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/22
-- monster/size/huge
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/22
+  - monster/size/huge
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Geryon"
+  - Geryon
 ---
 # [Geryon](Geryon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 136*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/401/1000/1000/637880557584955721.jpeg)
 
 Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
 

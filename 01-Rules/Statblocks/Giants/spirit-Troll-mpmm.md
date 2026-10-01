@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/11
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Spirit Troll"
+  - Spirit Troll
 ---
 # [Spirit Troll](spirit-Troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/657/1000/1000/637880558015797179.jpeg)
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
 

@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Harpy"
+  - Harpy
 ---
 # [Harpy](Harpy.md)
 *Source: Monster Manual (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/964/1000/1000/638741964254917066.png)
 
 ## Harpy
 

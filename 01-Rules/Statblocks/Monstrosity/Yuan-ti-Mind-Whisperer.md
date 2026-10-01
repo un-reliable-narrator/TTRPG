@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity/warlock
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Yuan-ti Mind Whisperer"
+  - Yuan-ti Mind Whisperer
 ---
 # [Yuan-ti Mind Whisperer](Yuan-ti-Mind-Whisperer.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 274*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/788/1000/1000/637880558210931745.jpeg)
 
 Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the serpent god Sseth, the Sibilant Death. They use their abilities to convert others to their faith, increase their personal power, and befuddle the minds of their enemies.
 

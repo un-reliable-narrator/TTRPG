@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/any
-- monster/size/tiny
-- monster/type/Fiends/devil
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/any
+  - monster/size/tiny
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Imp"
+  - Imp
 ---
 # [Imp](Imp.md)
 *Source: Monster Manual (2024) p. 177, Player's Handbook (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/43939/643/1000/1000/638607427690376961.png)
 
 ## Imp
 

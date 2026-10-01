@@ -6,5 +6,9 @@
   "monospaceFontFamily": "Cambria Math",
   "interfaceFontFamily": "Segoe UI Variable Small",
   "nativeMenus": false,
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "text-align"
+  ]
 }

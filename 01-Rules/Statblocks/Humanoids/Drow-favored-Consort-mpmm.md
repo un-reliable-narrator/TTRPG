@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/18
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Humanoids/elf
-- monster/type/Humanoids/wizard
+  - src/5e/mpmm
+  - monster/cr/18
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Humanoids/elf
+  - monster/type/Humanoids/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Drow Favored Consort"
+  - Drow Favored Consort
 ---
 # [Drow Favored Consort](Drow-favored-Consort-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/296/1000/1000/637880557403099219.jpeg)
 
 Nearly every priestess of Lolth, including the powerful [drow matron mother](Drow-matron-mother-mpmm.md) in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
 

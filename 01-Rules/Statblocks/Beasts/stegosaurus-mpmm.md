@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/huge
-- monster/type/Beasts/dinosaur
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/huge
+  - monster/type/Beasts/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Stegosaurus"
+  - Stegosaurus
 ---
 # [Stegosaurus](stegosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/682/1000/1000/637880558052946930.jpeg)
 
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.
 

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/kenku
+  - src/5e/mpmm
+  - race/kenku
 aliases:
-- "Kenku"
+  - Kenku
 ---
 # Kenku
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 24*  

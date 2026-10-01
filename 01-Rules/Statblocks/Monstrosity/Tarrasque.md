@@ -1,17 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/30
-- monster/environment/urban
-- monster/size/gargantuan
-- monster/type/monstrosity/titan
+  - src/5e/xmm
+  - monster/cr/30
+  - monster/environment/urban
+  - monster/size/gargantuan
+  - monster/type/monstrosity/titan
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Tarrasque](Tarrasque.md)
 *Source: Monster Manual (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/299/1000/1000/638741964722123518.jpeg)
 
 ## Tarrasque
 

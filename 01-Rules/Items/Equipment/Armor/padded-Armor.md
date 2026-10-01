@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/armor/light
-- item/rarity/none
+  - src/5e/xphb
+  - item/armor/light
+  - item/rarity/none
 aliases:
-- "Padded Armor"
+  - Padded Armor
 ---
 # Padded Armor
 *Light armor*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
 aliases:
-- "Cloak of Arachnida"
+  - Cloak of Arachnida
 ---
 # Cloak of Arachnida
 *Wondrous item, very rare (requires attunement)*  

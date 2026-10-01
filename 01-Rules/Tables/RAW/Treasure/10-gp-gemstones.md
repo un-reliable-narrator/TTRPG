@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "10 GP Gemstones"
+  - 10 GP Gemstones
 ---
 # 10 GP Gemstones
 *Source: Dungeon Master's Guide (2024) p. 214* 

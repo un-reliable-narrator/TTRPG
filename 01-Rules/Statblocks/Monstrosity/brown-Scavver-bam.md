@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/4
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/bam
+  - monster/cr/4
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Brown Scavver"
+  - Brown Scavver
 ---
 # [Brown Scavver](brown-Scavver-bam.md)
 *Source: Boo's Astral Menagerie p. 49, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/814/1000/1000/637961800732449697.jpeg)
 
 Brown scavvers are 10 feet long and range in color from sun-dappled brownish gold to dark umber. It takes them days to digest a meal, during which time they attack only in self-defense.
 

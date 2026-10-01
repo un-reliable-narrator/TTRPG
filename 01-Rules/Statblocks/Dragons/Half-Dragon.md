@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/any
-- monster/size/medium
-- monster/type/dragon
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/any
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Half-Dragon"
+  - Half-Dragon
 ---
 # [Half-Dragon](Half-Dragon.md)
 *Source: Monster Manual (2024) p. 163. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/962/1000/1000/638741964251485685.png)
 
 ## Half-Dragon
 

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/small
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Darkmantle"
+  - Darkmantle
 ---
 # [Darkmantle](Darkmantle.md)
 *Source: Monster Manual (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/740/1000/1000/638741963947652691.png)
 
 ## Darkmantle
 

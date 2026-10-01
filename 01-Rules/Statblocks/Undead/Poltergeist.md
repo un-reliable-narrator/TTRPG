@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small-or-medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small-or-medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Poltergeist"
+  - Poltergeist
 ---
 # [Poltergeist](Poltergeist.md)
 *Source: Monster Manual (2024) p. 246*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/170/1000/1000/638741964540689745.jpeg)
 
 ## Poltergeist
 

@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/desert
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/large
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Orthon"
+  - Orthon
 ---
 # [Orthon](orthon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 205*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/599/1000/1000/637880557924166917.jpeg)
 
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.
 

@@ -1,17 +1,17 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/small
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Xvart Warlock of Raxivort"
+  - Xvart Warlock of Raxivort
 ---
 # [Xvart Warlock of Raxivort](xvart-Warlock-of-Raxivort-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267*  

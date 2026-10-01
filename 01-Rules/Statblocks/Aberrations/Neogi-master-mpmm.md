@@ -1,17 +1,17 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberrations/warlock
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberrations/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Neogi Master"
+  - Neogi Master
 ---
 # [Neogi Master](Neogi-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192*  

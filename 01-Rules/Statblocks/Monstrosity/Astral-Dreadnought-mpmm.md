@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/21
-- monster/size/gargantuan
-- monster/type/monstrosity/titan
+  - src/5e/mpmm
+  - monster/cr/21
+  - monster/size/gargantuan
+  - monster/type/monstrosity/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Astral Dreadnought"
+  - Astral Dreadnought
 ---
 # [Astral Dreadnought](Astral-Dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/147/1000/1000/637880557149305781.jpeg)
 
 Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astral Plane, causing planar travelers to shudder at the very thought of them. Dreadnoughts have been gliding through the astral mists since the dawn of the multiverse, trying to devour all other creatures they encounter.
 

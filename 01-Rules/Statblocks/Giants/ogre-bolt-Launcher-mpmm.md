@@ -1,18 +1,18 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ogre Bolt Launcher"
+  - Ogre Bolt Launcher
 ---
 # [Ogre Bolt Launcher](ogre-bolt-Launcher-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200*  

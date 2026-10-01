@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/warlock/celestial
+  - src/5e/xphb
+  - subclass/warlock/celestial
 aliases:
-- "Celestial Patron"
+  - Celestial Patron
 ---
 # Celestial Patron
 *[[Warlock|Warlock]]: Warlock Subclass*  

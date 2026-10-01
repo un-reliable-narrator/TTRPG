@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
 aliases:
-- "Tome of the Stilled Tongue"
+  - Tome of the Stilled Tongue
 ---
 # Tome of the Stilled Tongue
 *Wondrous item, legendary (requires attunement by a wizard)*  

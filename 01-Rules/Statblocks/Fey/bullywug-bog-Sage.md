@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bullywug Bog Sage"
+  - Bullywug Bog Sage
 ---
 # [Bullywug Bog Sage](bullywug-bog-Sage.md)
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/342/1000/1000/638742810250056888.png)
 
 Bullywug bog sages channel the magic of the swamp to sicken foes and speak with plants.
 

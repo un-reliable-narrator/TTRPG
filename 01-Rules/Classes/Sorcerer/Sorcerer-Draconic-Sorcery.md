@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/sorcerer/draconic
+  - src/5e/xphb
+  - subclass/sorcerer/draconic
 aliases:
-- "Draconic Sorcery"
+  - Draconic Sorcery
 ---
 # Draconic Sorcery
 *[[Sorcerer|Sorcerer]]: Sorcerer Subclass*  

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/plant
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Thorny Vegepygmy"
+  - Thorny Vegepygmy
 ---
 # [Thorny Vegepygmy](thorny-vegepygmy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/710/1000/1000/637880558091980785.png)
 
 If a Beast such as a dog or a bear dies from [russet mold](russet-mold-vgm.md), the result is a bestial moldy called a thorny, instead of a bipedal vegepygmy. Thornies are less intelligent than other vegepygmies, but they are larger and more ferocious and have thorn-covered bodies.
 

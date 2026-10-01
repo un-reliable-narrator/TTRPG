@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/mechanus
-- monster/environment/planar
-- monster/size/large
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/mechanus
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Modron Pentadrone"
+  - Modron Pentadrone
 ---
 # [Modron Pentadrone](Modron-Pentadrone.md)
 *Source: Monster Manual (2024) p. 218*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/90/1000/1000/638741964430607009.jpeg)
 
 Pentadrones oversee and protect contingents of lesser modrons. They're quick to call lengthy meetings with other modrons when making decisions.
 

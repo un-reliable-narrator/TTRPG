@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/7
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/bam
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Astral Elf Commander"
+  - Astral Elf Commander
 ---
 # [Astral Elf Commander](Astral-Elf-Commander-bam.md)
 *Source: Boo's Astral Menagerie p. 12, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/793/1000/1000/637961800688146226.jpeg)
 
 An astral elf commander leads warriors into battle and usually has one or more spelljamming ships under their command. A commander channels the radiant energy of starlight through their weapons, and they can rescue warriors from a perilous situation by using their gods-given power of teleportation.
 

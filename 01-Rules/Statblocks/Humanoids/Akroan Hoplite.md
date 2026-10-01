@@ -1,8 +1,8 @@
 ---
 tags:
-- src/5e/MOT
-- monster/cr3
-- monster/type/Humanoids
+  - src/5e/MOT
+  - monster/cr3
+  - monster/type/Humanoids
 ---
 
 [![Token Image: Akroan Hoplite|126](https://5e.tools/img/bestiary/tokens/MOT/Akroan%20Hoplite.webp)](https://5e.tools/img/bestiary/tokens/MOT/Akroan%20Hoplite.webp)

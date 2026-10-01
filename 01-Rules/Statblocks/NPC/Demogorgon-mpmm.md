@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/26
-- monster/size/huge
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/26
+  - monster/size/huge
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Demogorgon"
+  - Demogorgon
 ---
 # [Demogorgon](Demogorgon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 90*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/264/1000/1000/637880557348984095.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

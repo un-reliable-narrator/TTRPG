@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/small
-- monster/type/fey/goblinoid
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/fey/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Nilbog"
+  - Nilbog
 ---
 # [Nilbog](Nilbog-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/577/1000/1000/637880557891594128.jpeg)
 
 When Maglubiyet conquered the goblin gods, a trickster deity was determined to get the last laugh. Although Maglubiyet shattered its essence, this trickster god survives in a splintered form as possessing spirits that cause disorder unless they are appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, as well as the goblin possessed by it, a nilbog ("goblin" spelled backward), and they revel in the chaos a nilbog sows.
 

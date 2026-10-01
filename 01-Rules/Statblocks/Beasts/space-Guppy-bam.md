@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/0
-- monster/size/small
-- monster/type/beast
+  - src/5e/bam
+  - monster/cr/0
+  - monster/size/small
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Space Guppy"
+  - Space Guppy
 ---
 # [Space Guppy](space-Guppy-bam.md)
 *Source: Boo's Astral Menagerie p. 55, Light of Xaryxis*  
+
+![325](https://www.dndbeyond.com/avatars/thumbnails/28079/931/1000/1000/637961800953030328.jpeg)
 
 Space guppies are 2- to 3-foot-long, fish-like creatures that glide through Wildspace and the Astral Sea. Chwinga astronauts, sprites, and other Tiny creatures occasionally use space guppies as mounts.
 

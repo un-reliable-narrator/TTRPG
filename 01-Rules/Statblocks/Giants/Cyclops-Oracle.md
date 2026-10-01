@@ -1,24 +1,26 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cyclops Oracle"
+  - Cyclops Oracle
 ---
 # [Cyclops Oracle](Cyclops-Oracle.md)
 *Source: Monster Manual (2024) p. 88*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/734/1000/1000/638741963939970889.jpeg)
 
 Cyclops oracles gaze through history to learn hidden truths. Many share these secrets with those who aid them in correcting the mistakes of the past.
 

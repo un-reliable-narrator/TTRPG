@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/wizard/illusionist
+  - src/5e/xphb
+  - subclass/wizard/illusionist
 aliases:
-- "Illusionist"
+  - Illusionist
 ---
 # Illusionist
 *[Wizard](Wizard.md): Wizard Subclass*  

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/artifact
-- item/weapon/melee
-- item/weapon/simple
-- item/wondrous/wand
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/weapon/melee
+  - item/weapon/simple
+  - item/wondrous/wand
 aliases:
-- "Wand of Orcus"
+  - Wand of Orcus
 ---
 # Wand of Orcus
 *Weapon ([Mace](Mace.md)), wand, artifact (requires attunement)*  

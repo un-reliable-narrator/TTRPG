@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Will-o'-Wisp"
+  - Will-o'-Wisp
 ---
 # [Will-o'-Wisp](Will-O-Wisp.md)
 *Source: Monster Manual (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/378/1000/1000/638741964830860982.png)
 
 ## Will-o'-Wisp
 

@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gnoll Flesh Gnawer"
+  - Gnoll Flesh Gnawer
 ---
 # [Gnoll Flesh Gnawer](Gnoll-flesh-Gnawer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/428/1000/1000/637880557644721250.jpeg)
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
 

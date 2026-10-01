@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/small
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/small
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Jackal"
+  - Jackal
 ---
 # [Jackal](Jackal.md)
 *Source: Monster Manual (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/10/1000/1000/638741964321047623.png)
 
 ## Animals
 

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/very-rare
+  - src/5e/dmg
+  - item/rarity/very-rare
 aliases:
-- "Manual of Stone Golems"
+  - Manual of Stone Golems
 ---
 # Manual of Stone Golems
 *Wondrous item, very rare*  

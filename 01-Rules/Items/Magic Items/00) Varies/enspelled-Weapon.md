@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/varies
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/varies
+  - item/wondrous/generic-variant
 aliases:
-- "Enspelled Weapon"
+  - Enspelled Weapon
 ---
 # Enspelled Weapon
 *(Requires attunement)*  

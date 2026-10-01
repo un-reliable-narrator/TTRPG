@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/desert
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Humanoids/cleric
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/desert
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Humanoids/cleric
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "War Priest"
+  - War Priest
 ---
 # [War Priest](War-Priest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 254*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/741/1000/1000/637880558136674769.jpeg)
 
 War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties. A war priest might command an army or serve as the right hand of a [warlord](Warlord-mpmm.md) (appears in "this book") on the battlefield.
 

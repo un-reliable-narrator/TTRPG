@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/uncommon
-- item/shield/
+  - src/5e/dmg
+  - item/rarity/uncommon
+  - item/shield/
 aliases:
-- "+1 Shield"
+  - +1 Shield
 ---
 # +1 Shield
 *Armor ([Shield](01-Rules/Items/Equipment/Shield.md)), uncommon*  

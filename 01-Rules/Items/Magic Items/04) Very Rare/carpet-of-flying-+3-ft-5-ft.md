@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/very-rare
+  - src/5e/dmg
+  - item/rarity/very-rare
 aliases:
-- "Carpet of Flying, 3 ft. × 5 ft."
+  - Carpet of Flying, 3 ft. × 5 ft.
 ---
 # Carpet of Flying, 3 ft. × 5 ft.
 *Wondrous item, very rare*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/rarity/none
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/xphb
+  - item/rarity/none
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Handaxe"
+  - Handaxe
 ---
 # Handaxe
 *Weapon*  

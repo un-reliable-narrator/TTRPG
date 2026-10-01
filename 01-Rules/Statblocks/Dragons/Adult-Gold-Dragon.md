@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/17
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/huge
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/17
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/huge
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult Gold Dragon"
+  - Adult Gold Dragon
 ---
 # [Adult Gold Dragon](Adult-Gold-Dragon.md)
 *Source: Monster Manual (2024) p. 145. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/564/1000/1000/638741963701519799.png)
 
 Adult gold dragons act subtly, frequently changing their shape to resemble harmless animals or cultivating personas so they can pass as common people.
 

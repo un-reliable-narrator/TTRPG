@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/mpmm
+  - src/5e/mpmm
 aliases:
-- "Using This Book"
+  - Using This Book
 ---
 # Using This Book
 *Source: Mordenkainen Presents: Monsters of the Multiverse, p. 4* 

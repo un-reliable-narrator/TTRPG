@@ -1,74 +1,74 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/age/futuristic
-- item/age/modern
-- item/attunement/required
-- item/gear/spellcasting-focus
-- item/rarity/rare
-- item/weapon/martial
-- item/weapon/melee
-- item/weapon/ranged
-- item/weapon/simple
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/age/futuristic
+  - item/age/modern
+  - item/attunement/required
+  - item/gear/spellcasting-focus
+  - item/rarity/rare
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/weapon/ranged
+  - item/weapon/simple
+  - item/wondrous/generic-variant
 aliases:
-- "Enspelled Weapon (Level 3)"
-- "Enspelled (Level 3) Antimatter Rifle"
-- "Enspelled (Level 3) Automatic Rifle"
-- "Enspelled (Level 3) Battleaxe"
-- "Enspelled (Level 3) Blowgun"
-- "Enspelled (Level 3) Club"
-- "Enspelled (Level 3) Dagger"
-- "Enspelled (Level 3) Dart"
-- "Enspelled (Level 3) Double-Bladed Scimitar"
-- "Enspelled (Level 3) Flail"
-- "Enspelled (Level 3) Glaive"
-- "Enspelled (Level 3) Greataxe"
-- "Enspelled (Level 3) Greatclub"
-- "Enspelled (Level 3) Greatsword"
-- "Enspelled (Level 3) Halberd"
-- "Enspelled (Level 3) Hand Crossbow"
-- "Enspelled (Level 3) Handaxe"
-- "Enspelled (Level 3) Heavy Crossbow"
-- "Enspelled (Level 3) Hooked Shortspear"
-- "Enspelled (Level 3) Hoopak"
-- "Enspelled (Level 3) Hunting Rifle"
-- "Enspelled (Level 3) Javelin"
-- "Enspelled (Level 3) Lance"
-- "Enspelled (Level 3) Laser Pistol"
-- "Enspelled (Level 3) Laser Rifle"
-- "Enspelled (Level 3) Light Crossbow"
-- "Enspelled (Level 3) Light Hammer"
-- "Enspelled (Level 3) Light Repeating Crossbow"
-- "Enspelled (Level 3) Longbow"
-- "Enspelled (Level 3) Longsword"
-- "Enspelled (Level 3) Mace"
-- "Enspelled (Level 3) Maul"
-- "Enspelled (Level 3) Morningstar"
-- "Enspelled (Level 3) Musket"
-- "Enspelled (Level 3) Pike"
-- "Enspelled (Level 3) Pistol"
-- "Enspelled (Level 3) Quarterstaff"
-- "Enspelled (Level 3) Rapier"
-- "Enspelled (Level 3) Revolver"
-- "Enspelled (Level 3) Scimitar"
-- "Enspelled (Level 3) Semiautomatic Pistol"
-- "Enspelled (Level 3) Shortbow"
-- "Enspelled (Level 3) Shortsword"
-- "Enspelled (Level 3) Shotgun"
-- "Enspelled (Level 3) Sickle"
-- "Enspelled (Level 3) Sling"
-- "Enspelled (Level 3) Spear"
-- "Enspelled (Level 3) Staff"
-- "Enspelled (Level 3) Trident"
-- "Enspelled (Level 3) War Pick"
-- "Enspelled (Level 3) Warhammer"
-- "Enspelled (Level 3) Whip"
-- "Enspelled (Level 3) Wooden Staff"
-- "Enspelled (Level 3) Yklwa"
+  - Enspelled Weapon (Level 3)
+  - Enspelled (Level 3) Antimatter Rifle
+  - Enspelled (Level 3) Automatic Rifle
+  - Enspelled (Level 3) Battleaxe
+  - Enspelled (Level 3) Blowgun
+  - Enspelled (Level 3) Club
+  - Enspelled (Level 3) Dagger
+  - Enspelled (Level 3) Dart
+  - Enspelled (Level 3) Double-Bladed Scimitar
+  - Enspelled (Level 3) Flail
+  - Enspelled (Level 3) Glaive
+  - Enspelled (Level 3) Greataxe
+  - Enspelled (Level 3) Greatclub
+  - Enspelled (Level 3) Greatsword
+  - Enspelled (Level 3) Halberd
+  - Enspelled (Level 3) Hand Crossbow
+  - Enspelled (Level 3) Handaxe
+  - Enspelled (Level 3) Heavy Crossbow
+  - Enspelled (Level 3) Hooked Shortspear
+  - Enspelled (Level 3) Hoopak
+  - Enspelled (Level 3) Hunting Rifle
+  - Enspelled (Level 3) Javelin
+  - Enspelled (Level 3) Lance
+  - Enspelled (Level 3) Laser Pistol
+  - Enspelled (Level 3) Laser Rifle
+  - Enspelled (Level 3) Light Crossbow
+  - Enspelled (Level 3) Light Hammer
+  - Enspelled (Level 3) Light Repeating Crossbow
+  - Enspelled (Level 3) Longbow
+  - Enspelled (Level 3) Longsword
+  - Enspelled (Level 3) Mace
+  - Enspelled (Level 3) Maul
+  - Enspelled (Level 3) Morningstar
+  - Enspelled (Level 3) Musket
+  - Enspelled (Level 3) Pike
+  - Enspelled (Level 3) Pistol
+  - Enspelled (Level 3) Quarterstaff
+  - Enspelled (Level 3) Rapier
+  - Enspelled (Level 3) Revolver
+  - Enspelled (Level 3) Scimitar
+  - Enspelled (Level 3) Semiautomatic Pistol
+  - Enspelled (Level 3) Shortbow
+  - Enspelled (Level 3) Shortsword
+  - Enspelled (Level 3) Shotgun
+  - Enspelled (Level 3) Sickle
+  - Enspelled (Level 3) Sling
+  - Enspelled (Level 3) Spear
+  - Enspelled (Level 3) Staff
+  - Enspelled (Level 3) Trident
+  - Enspelled (Level 3) War Pick
+  - Enspelled (Level 3) Warhammer
+  - Enspelled (Level 3) Whip
+  - Enspelled (Level 3) Wooden Staff
+  - Enspelled (Level 3) Yklwa
 ---
 # Enspelled Weapon (Level 3)
 *Rare (requires attunement)*  

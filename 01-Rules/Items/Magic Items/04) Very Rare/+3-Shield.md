@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/very-rare
-- item/shield/
+  - src/5e/dmg
+  - item/rarity/very-rare
+  - item/shield/
 aliases:
-- "+3 Shield"
+  - +3 Shield
 ---
 # +3 Shield
 *Armor ([Shield](01-Rules/Spells/Core/Level%201/Shield.md)), very rare*  

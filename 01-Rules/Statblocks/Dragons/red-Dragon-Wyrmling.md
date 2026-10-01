@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Red Dragon Wyrmling"
+  - Red Dragon Wyrmling
 ---
 # [Red Dragon Wyrmling](red-Dragon-Wyrmling.md)
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/192/1000/1000/638741964568356418.jpeg)
 
 Red dragon wyrmlings are born destroyers. From a young age, they delight in igniting objects and creatures alike. They sometimes restrain themselves from scorching creatures to instead bully others into following their orders and bringing them gifts.
 

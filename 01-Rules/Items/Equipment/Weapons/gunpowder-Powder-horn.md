@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/none
-- item/weapon/explosive
+  - src/5e/dmg
+  - item/rarity/none
+  - item/weapon/explosive
 aliases:
-- "Gunpowder (powder horn)"
+  - Gunpowder (powder horn)
 ---
 # Gunpowder (powder horn)
 *Explosive*  

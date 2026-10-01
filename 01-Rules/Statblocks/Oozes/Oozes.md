@@ -1,7 +1,7 @@
 ---
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
 ---
 # Index of Ooze
 
@@ -12,6 +12,6 @@ cssclasses:
 - [Gelatinous Cube](Gelatinous-Cube.md)
 - [Gray Ooze](Gray-Ooze.md)
 - [Oblex Spawn](oblex-Spawn-mpmm.md)
-- [Ochre Jelly](ochre-jelly.md)
+- [Ochre Jelly](Ochre-Jelly.md)
 - [Psychic Gray Ooze](Psychic-Gray-Ooze.md)
 - [Slithering Tracker](slithering-Tracker-mpmm.md)

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/25
-- monster/environment/any
-- monster/size/gargantuan
-- monster/type/Constructs/titan
+  - src/5e/xmm
+  - monster/cr/25
+  - monster/environment/any
+  - monster/size/gargantuan
+  - monster/type/Constructs/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Colossus"
+  - Colossus
 ---
 # [Colossus](Colossus.md)
 *Source: Monster Manual (2024) p. 76*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/722/1000/1000/638741963922962583.png)
 
 ## Colossus
 

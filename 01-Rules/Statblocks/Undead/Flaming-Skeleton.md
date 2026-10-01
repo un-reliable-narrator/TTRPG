@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/planar
-- monster/environment/shadowfell
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/planar
+  - monster/environment/shadowfell
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Flaming Skeleton"
+  - Flaming Skeleton
 ---
 # [Flaming Skeleton](Flaming-Skeleton.md)
 *Source: Monster Manual (2024) p. 283*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/816/1000/1000/638741964051691422.jpeg)
 
 Flaming skeletons burn with unbridled necromantic energy. This magic grants them blazing attacks and greater awareness, which they use to command lesser Undead.
 

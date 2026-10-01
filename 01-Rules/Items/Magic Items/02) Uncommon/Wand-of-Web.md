@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/wondrous/wand
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/wondrous/wand
 aliases:
-- "Wand of Web"
+  - Wand of Web
 ---
 # Wand of Web
 *Wand, uncommon (requires attunement by a spellcaster)*  

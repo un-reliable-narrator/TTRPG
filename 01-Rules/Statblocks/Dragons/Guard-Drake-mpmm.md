@@ -1,25 +1,27 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/dragon
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Guard Drake"
+  - Guard Drake
 ---
 # [Guard Drake](Guard-Drake-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/443/1000/1000/637880557677444338.jpeg)
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
 

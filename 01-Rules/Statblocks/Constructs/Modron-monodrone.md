@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/mechanus
-- monster/environment/planar
-- monster/size/medium
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/mechanus
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Modron Monodrone"
+  - Modron Monodrone
 ---
 # [Modron Monodrone](Modron-monodrone.md)
 *Source: Monster Manual (2024) p. 216*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/88/1000/1000/638741964426547544.jpeg)
 
 The most numerous modrons, monodrones can perform one simple task at a time. They believe anything they're told that isn't logically or mathematically false. When faced with unexpected situations, they're quick to seek duodrones for help.
 

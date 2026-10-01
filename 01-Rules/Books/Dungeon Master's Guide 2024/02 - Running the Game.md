@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Chapter 2: Running the Game"
+  - "Chapter 2: Running the Game"
 ---
 # Chapter 2: Running the Game
 *Source: Dungeon Master's Guide (2024), p. 21* 
@@ -587,7 +587,7 @@ If the characters encounter another group of creatures and neither side is being
 
 ##### Visibility Outdoors
 
-When traveling outdoors, most characters can see about 2 miles in any direction on a clear day, except where obstructions block their view. That range increases to 40 miles if they are atop a mountain or a tall hill or are otherwise able to look down on the area from a height. [Lightly Obscured](lightly-obscured.md) conditions reduce visibility: rain reduces maximum visibility to 1 mile, and fog reduces it to between 100 and 300 feet.
+When traveling outdoors, most characters can see about 2 miles in any direction on a clear day, except where obstructions block their view. That range increases to 40 miles if they are atop a mountain or a tall hill or are otherwise able to look down on the area from a height. [Lightly Obscured](Lightly-Obscured.md) conditions reduce visibility: rain reduces maximum visibility to 1 mile, and fog reduces it to between 100 and 300 feet.
 
 Outdoor terrain determines the distance at which characters encounter other creatures. The "Travel Terrain" table (see ""Travel"" below) gives suggested encounter distances for different types of terrain.
 
@@ -974,7 +974,7 @@ Consider changing a battle's terrain to introduce a new element and give combata
 
 #### Change the Monster
 
-You can transform one monster into another to keep a fight interesting. Maybe a [worg](worg.md) splits open, and a [gibbering mouther](Gibbering-mouther.md) spills out to take its place. Or a cultist is consumed in a pillar of infernal flame, and a devil erupts from the ashes. You can also alter a monster's stat block in subtle ways in the middle of combat; for example, you might decide that a monster flies into a frenzy when it's [Bloodied](Conditions.md#Bloodied), giving it [[Advantage|Advantage]] on its attack rolls—and giving the characters Advantage on their attack rolls against it as well, speeding the fight to an end.
+You can transform one monster into another to keep a fight interesting. Maybe a [Worg](Worg.md) splits open, and a [gibbering mouther](Gibbering-mouther.md) spills out to take its place. Or a cultist is consumed in a pillar of infernal flame, and a devil erupts from the ashes. You can also alter a monster's stat block in subtle ways in the middle of combat; for example, you might decide that a monster flies into a frenzy when it's [Bloodied](Conditions.md#Bloodied), giving it [[Advantage|Advantage]] on its attack rolls—and giving the characters Advantage on their attack rolls against it as well, speeding the fight to an end.
 
 ### Adjusting Difficulty
 

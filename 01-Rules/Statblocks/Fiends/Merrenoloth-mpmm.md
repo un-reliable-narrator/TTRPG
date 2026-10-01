@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/coastal
-- monster/size/medium
-- monster/type/Fiends/yugoloth
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/coastal
+  - monster/size/medium
+  - monster/type/Fiends/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Merrenoloth"
+  - Merrenoloth
 ---
 # [Merrenoloth](Merrenoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/531/1000/1000/637880557823117862.jpeg)
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
 

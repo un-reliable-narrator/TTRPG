@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/wizard/evoker
+  - src/5e/xphb
+  - subclass/wizard/evoker
 aliases:
-- "Evoker"
+  - Evoker
 ---
 # Evoker
 *[Wizard](Wizard.md): Wizard Subclass*  

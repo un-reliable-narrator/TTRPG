@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Frost Salamander"
+  - Frost Salamander
 ---
 # [Frost Salamander](../Elementals/frost Salamander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 132*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/384/1000/1000/637880557552592914.jpeg)
 
 Frost salamanders are natives of the Plane of Ice, also called the Frostfell, which rests between the Plane of Air and the Plane of Water. Frost salamanders especially like to hunt warm-blooded creatures. They sometimes travel to frigid climes on the Material Plane by wandering through planar gates.
 

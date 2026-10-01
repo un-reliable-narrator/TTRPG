@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Chapter 7: Treasure"
+  - "Chapter 7: Treasure"
 ---
 # Chapter 7: Treasure
 *Source: Dungeon Master's Guide (2024), p. 213* 
@@ -632,7 +632,7 @@ If a magic item description capitalizes a creature's name and presents it in **b
 - [Ring of Free Action](Ring-of-free-Action.md)  
 - [Ring of Invisibility](Ring-of-Invisibility.md)  
 - [Ring of Jumping](Ring-of-jumping.md)  
-- [Ring of Mind Shielding](Ring-of-mind-Shielding.md)  
+- [Ring of Mind Shielding](Ring-of-Mind-Shielding.md)  
 - [Ring of Protection](Ring-of-Protection.md)  
 - [Ring of Regeneration](Ring-of-Regeneration.md)  
 - [Ring of Resistance](Ring-of-Resistance.md)  
@@ -655,7 +655,7 @@ If a magic item description capitalizes a creature's name and presents it in **b
 - [Rod of Absorption](rod-of-Absorption.md)  
 - [Rod of Alertness](rod-of-Alertness.md)  
 - [Rod of Lordly Might](rod-of-Lordly-might.md)  
-- [Rod of Resurrection](rod-of-Resurrection.md)  
+- [Rod of Resurrection](Rod-of-Resurrection.md)  
 - [Rod of Rulership](rod-of-Rulership.md)  
 - [Rod of Security](rod-of-Security.md)  
 - [Rod of the Pact Keeper](rod-of-the-Pact-keeper.md)  

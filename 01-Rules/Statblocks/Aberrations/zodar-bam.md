@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/16
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/bam
+  - monster/cr/16
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Zodar"
+  - Zodar
 ---
 # [Zodar](zodar-bam.md)
 *Source: Boo's Astral Menagerie p. 64, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/968/1000/1000/637961801021981258.jpeg)
 
 A zodar is a bipedal entity whose body is encased in an obsidian exoskeleton. It has no facial features aside from two narrow, vertical slits that resemble eyes, and its countenance betrays no hint of pain or emotion. Underneath its armored exterior, a zodar's body is composed of tightly knit muscle fibers that make it incredibly strong and heavy. A zodar weighs 1,500 pounds.
 

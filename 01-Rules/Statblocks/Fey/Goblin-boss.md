@@ -1,25 +1,27 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/acheron
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/small
-- monster/type/fey/goblinoid
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/acheron
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/fey/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Goblin Boss"
+  - Goblin Boss
 ---
 # [Goblin Boss](Goblin-boss.md)
 *Source: Monster Manual (2024) p. 143. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/920/1000/1000/638741964195086352.png)
 
 Goblin bosses are often the most imaginative, disruptive, or forceful goblins. Through a combination of luck, cowardice, and callousness, these leaders avoid harm at the expense of their followers.
 

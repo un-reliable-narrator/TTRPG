@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/planar
-- monster/environment/shadowfell
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/large
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/planar
+  - monster/environment/shadowfell
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Beholder Zombie"
+  - Beholder Zombie
 ---
 # [Beholder Zombie](Beholder-zombie.md)
 *Source: Monster Manual (2024) p. 347*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/663/1000/1000/638741963841621577.jpeg)
 
 Zombies animated from the corpses of beholders retain some use of those monsters' magical eyestalks. These hovering corpses rely on their magic to destroy impediments and paralyze foes, allowing them to savage foes with their rotting maws.
 

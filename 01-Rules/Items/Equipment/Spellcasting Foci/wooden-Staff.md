@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/gear/spellcasting-focus
-- item/rarity/none
-- item/weapon/simple
+  - src/5e/xphb
+  - item/gear/spellcasting-focus
+  - item/rarity/none
+  - item/weapon/simple
 aliases:
-- "Wooden Staff"
+  - Wooden Staff
 ---
 # Wooden Staff
 *Weapon, spellcasting focus*  

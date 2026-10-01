@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/warlock/fiend
+  - src/5e/xphb
+  - subclass/warlock/fiend
 aliases:
-- "Fiend Patron"
+  - Fiend Patron
 ---
 # Fiend Patron
 *[[Warlock|Warlock]]: Warlock Subclass*  

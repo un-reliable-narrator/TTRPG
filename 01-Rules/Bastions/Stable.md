@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-bastion
+  - json5e-bastion
 tags:
-- Bastion
-- src/5e/dmg
+  - Bastion
+  - src/5e/dmg
 aliases:
-- "Stable"
+  - Stable
 ---
 # Stable
 *Level 9 Bastion facility*  

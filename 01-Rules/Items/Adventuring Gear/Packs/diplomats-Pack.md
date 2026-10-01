@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/gear/
-- item/rarity/none
+  - src/5e/xphb
+  - item/gear/
+  - item/rarity/none
 aliases:
-- "Diplomat's Pack"
+  - Diplomat's Pack
 ---
 # Diplomat's Pack
 *Adventuring gear*  

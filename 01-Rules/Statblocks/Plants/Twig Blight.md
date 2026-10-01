@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/forest
-- monster/size/small
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/forest
+  - monster/size/small
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Twig Blight"
+  - Twig Blight
 ---
 # Twig Blight
 *Source: Monster Manual (2024) p. 43*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/319/1000/1000/638741964748722131.png)
 
 Resembling bundles of sticks or dead brush, twig blights easily blend in among deadwood, flotsam, and the wood piles common in many rural settings. Groups of them are often found near river crossings, forgotten wells, or natural campsites, where they ambush those who let down their guard.
 

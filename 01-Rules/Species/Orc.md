@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/xphb
-- race/orc
+  - src/5e/xphb
+  - race/orc
 aliases:
-- "Orc"
+  - Orc
 ---
 # Orc
 *Source: Player's Handbook (2024) p. 195. Available in the Free Rules (2024)*  

@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/fiend
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vargouille"
+  - Vargouille
 ---
 # [Vargouille](vargouille-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 251*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/733/1000/1000/637880558125803751.jpeg)
 
 Shrieking, flapping, and hideous to behold—with a body like a severed head and wings in place of ears—vargouilles boil out of the Abyss to infest other planes of existence, such as Carceri, where they are a menace. Each vargouille carries a disease that creates more of its kind; a flock of vargouilles on the wing is a plague of chaos and evil.
 

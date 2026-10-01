@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/coastal
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/coastal
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kuo-toa"
+  - Kuo-toa
 ---
 # [Kuo-Toa](Kuo-Toa.md)
 *Source: Monster Manual (2024) p. 189*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/31/1000/1000/638741964347645548.png)
 
 Kuo-toa loot ruins and raid communities near their dwellings in the Underdark. Their shields are coated in sticky slime, which they use to disarm their foes, and they employ slimy nets to entrap victims. They usually strive to take their enemies alive and drag captives to their hidden lairs.
 

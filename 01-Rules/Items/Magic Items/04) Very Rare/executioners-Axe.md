@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/very-rare
-- item/weapon/martial
-- item/weapon/melee
-- item/weapon/simple
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/rarity/very-rare
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/weapon/simple
+  - item/wondrous/generic-variant
 aliases:
-- "Executioner's Axe"
-- "Executioner's Battleaxe"
-- "Executioner's Greataxe"
-- "Executioner's Halberd"
-- "Executioner's Handaxe"
+  - Executioner's Axe
+  - Executioner's Battleaxe
+  - Executioner's Greataxe
+  - Executioner's Halberd
+  - Executioner's Handaxe
 ---
 # Executioner's Axe
 *Very rare*  

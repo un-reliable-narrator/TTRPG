@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/size/small
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Star Spawn Grue"
+  - Star Spawn Grue
 ---
 # [Star Spawn Grue](star-Spawn-Grue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/663/1000/1000/637880558025031728.jpeg)
 
 Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its grayish skin, and its long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produce discordant psychic energy that disrupts thought patterns in other creatures, which experience flashing colors, hallucinations, disorientation, and waves of hopelessness.
 

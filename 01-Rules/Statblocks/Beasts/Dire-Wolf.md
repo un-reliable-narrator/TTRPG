@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Dire Wolf"
+  - Dire Wolf
 ---
 # [Dire Wolf](Dire-Wolf.md)
 *Source: Monster Manual (2024) p. 352, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/804/1000/1000/638742831347754764.png)
 
 ## Animals
 

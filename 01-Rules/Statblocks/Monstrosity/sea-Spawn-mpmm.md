@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sea Spawn"
+  - Sea Spawn
 ---
 # [Sea Spawn](sea-Spawn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 211*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/623/1000/1000/637880557959120280.jpeg)
 
 Many of the stories sung as sea chanteys and recounted in dockside taverns tell of people lost to the sea—but not merely drowned and gone. Some unfortunates taken by the ocean live on as sea spawn, haunting the waves like tortured reflections of their former selves. Coral encrusts them. Barnacles cling to their cold skin. Lungs that once filled with air can now breathe in water as well.
 

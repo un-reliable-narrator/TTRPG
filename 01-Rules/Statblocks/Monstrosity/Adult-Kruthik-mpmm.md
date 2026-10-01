@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult Kruthik"
+  - Adult Kruthik
 ---
 # [Adult Kruthik](Adult-Kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/105/1000/1000/637880557083119765.jpeg)
 
 It takes six months of steady eating for a [young kruthik](young-Kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 

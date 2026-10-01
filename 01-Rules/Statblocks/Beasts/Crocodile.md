@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/coastal
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/large
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/coastal
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Crocodile"
+  - Crocodile
 ---
 # [Crocodile](Crocodile.md)
 *Source: Monster Manual (2024) p. 352, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/43939/131/1000/1000/638607415525020149.png)
 
 ## Animals
 

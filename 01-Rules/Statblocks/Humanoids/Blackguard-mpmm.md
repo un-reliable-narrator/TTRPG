@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/8
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Humanoids/paladin
+  - src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Humanoids/paladin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Blackguard"
+  - Blackguard
 ---
 # [Blackguard](Blackguard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 63*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/183/1000/1000/637880557209561332.jpeg)
 
 Blackguards are paladins who broke their sacred oaths and now indulge their own villainous ambitions. They consort with Fiends and Undead, and they reject many of the goodly things from their former lives.
 

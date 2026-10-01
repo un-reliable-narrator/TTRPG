@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/environment/arctic
-- monster/size/medium
-- monster/type/fey
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/arctic
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bheur Hag"
+  - Bheur Hag
 ---
 # [Bheur Hag](bheur-Hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/177/1000/1000/637880557199740417.jpeg)
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
 

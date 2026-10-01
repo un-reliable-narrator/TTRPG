@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/aberrations/beholder
+  - src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/aberrations/beholder
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gazer"
+  - Gazer
 ---
 # [Gazer](Gazer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/395/1000/1000/637880557572264724.jpeg)
 
 A gazer is a tiny manifestation of the dreams of a beholder. It resembles the beholder who dreamed it into existence, but its body is only 8 inches wide and it has only four eyestalks. It follows its creator like a devoted, aggressive puppy, and sometimes small packs of these creatures patrol their master's lair for vermin to kill and lone creatures to harass.
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lmop
-- monster/cr/1
-- monster/size/medium
-- monster/type/Humanoids/human
+  - src/5e/lmop
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/Humanoids/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sildar Hallwinter"
+  - Sildar Hallwinter
 ---
 # [Sildar Hallwinter](sildar-Hallwinter-Lmop.md)
 *Source: Lost Mine of Phandelver p. 61*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/36576/652/1000/1000/638291908661874573.png)
 
 Sildar Hallwinter is a retired soldier and sellsword who hails from the city of Neverwinter. He is a loyal member of the Lords' Alliance, a political organization that unites the various free cities and towns of the North.
 

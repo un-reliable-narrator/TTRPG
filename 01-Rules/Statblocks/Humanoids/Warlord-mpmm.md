@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/12
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Warlord"
+  - Warlord
 ---
 # [Warlord](Warlord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 257*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/745/1000/1000/637880558142385423.jpeg)
 
 Warlords are legendary battlefield commanders, whose names are spoken with awe. After a string of decisive victories, a warlord could easily take on the role of monarch or general and attract followers willing to die for the warlord's banner.
 

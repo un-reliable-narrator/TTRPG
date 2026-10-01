@@ -1,7 +1,7 @@
 ---
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
 ---
 # Index of Fiend
 
@@ -17,7 +17,7 @@ cssclasses:
 - [Bearded Devil](Bearded-Devil.md)
 - [Black Abishai](Black-Abishai-mpmm.md)
 - [Blue Abishai](Blue-Abishai-mpmm.md)
-- [Bone Devil](bone-Devil.md)
+- [Bone Devil](Bone-Devil.md)
 - [Bulezau](bulezau-mpmm.md)
 - [Cambion](Cambion.md)
 - [Canoloth](Canoloth-mpmm.md)

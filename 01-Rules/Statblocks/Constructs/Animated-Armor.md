@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/urban
-- monster/size/medium
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Animated Armor"
+  - Animated Armor
 ---
 # [Animated Armor](Animated-Armor.md)
 *Source: Monster Manual (2024) p. 16. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/604/1000/1000/638741963762360011.png)
 
 Animated suits of armor might move with steady deliberateness or awkward gaits. They're often constructed from plate armor, making them easy to mistake for soldiers or helmed horrors. Other types of armor or even metal statuary might also become animated armor.
 

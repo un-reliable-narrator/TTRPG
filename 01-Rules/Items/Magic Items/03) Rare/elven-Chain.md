@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/medium
-- item/rarity/rare
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/medium
+  - item/rarity/rare
+  - item/wondrous/generic-variant
 aliases:
-- "Elven Chain"
-- "Elven Chain Mail"
-- "Elven Chain Shirt"
+  - Elven Chain
+  - Elven Chain Mail
+  - Elven Chain Shirt
 ---
 # Elven Chain
 *Rare*  

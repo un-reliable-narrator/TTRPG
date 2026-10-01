@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/legendary
+  - src/5e/dmg
+  - item/rarity/legendary
 aliases:
-- "Apparatus of Kwalish"
+  - Apparatus of Kwalish
 ---
 # Apparatus of Kwalish
 *Wondrous item, legendary*  

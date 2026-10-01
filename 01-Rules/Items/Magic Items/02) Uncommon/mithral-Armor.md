@@ -1,23 +1,23 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/medium
-- item/rarity/uncommon
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/medium
+  - item/rarity/uncommon
+  - item/wondrous/generic-variant
 aliases:
-- "Mithral Armor"
-- "Mithral Breastplate"
-- "Mithral Chain Mail"
-- "Mithral Chain Shirt"
-- "Mithral Half Plate Armor"
-- "Mithral Plate Armor"
-- "Mithral Ring Mail"
-- "Mithral Scale Mail"
-- "Mithral Splint Armor"
+  - Mithral Armor
+  - Mithral Breastplate
+  - Mithral Chain Mail
+  - Mithral Chain Shirt
+  - Mithral Half Plate Armor
+  - Mithral Plate Armor
+  - Mithral Ring Mail
+  - Mithral Scale Mail
+  - Mithral Splint Armor
 ---
 # Mithral Armor
 *Uncommon*  

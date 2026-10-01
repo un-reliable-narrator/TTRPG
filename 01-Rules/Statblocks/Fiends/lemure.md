@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/nine-hells
-- monster/environment/planar
-- monster/size/medium
-- monster/type/Fiends/devil
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/nine-hells
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Lemure"
+  - Lemure
 ---
 # [Lemure](lemure.md)
 *Source: Monster Manual (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/39/1000/1000/638741964357181064.png)
 
 Lemures torment weaker creatures, but in the Nine Hells, few such beings exist. To avoid greater suffering, they obey the orders of more powerful devils.
 

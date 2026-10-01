@@ -1,8 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
 ---
 # Index of Items
 
@@ -699,7 +699,7 @@ cssclasses:
 - [Ring of Invisibility](Ring-of-Invisibility.md)
 - [Ring of Jumping](Ring-of-jumping.md)
 - [Ring of Lightning Resistance](Ring-of-Lightning-Resistance.md)
-- [Ring of Mind Shielding](Ring-of-mind-Shielding.md)
+- [Ring of Mind Shielding](Ring-of-Mind-Shielding.md)
 - [Ring of Necrotic Resistance](Ring-of-Necrotic-Resistance.md)
 - [Ring of Poison Resistance](Ring-of-Poison-Resistance.md)
 - [Ring of Protection](Ring-of-Protection.md)
@@ -728,7 +728,7 @@ cssclasses:
 - [Rod of Absorption](rod-of-Absorption.md)
 - [Rod of Alertness](rod-of-Alertness.md)
 - [Rod of Lordly Might](rod-of-Lordly-might.md)
-- [Rod of Resurrection](rod-of-Resurrection.md)
+- [Rod of Resurrection](Rod-of-Resurrection.md)
 - [Rod of Rulership](rod-of-Rulership.md)
 - [Rod of Security](rod-of-Security.md)
 - [Rod of the Pact Keeper](rod-of-the-Pact-keeper.md)

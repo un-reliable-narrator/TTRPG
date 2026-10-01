@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/size/medium
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/size/medium
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Merregon"
+  - Merregon
 ---
 # [Merregon](Merregon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/528/1000/1000/637880557818587311.jpeg)
 
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
 

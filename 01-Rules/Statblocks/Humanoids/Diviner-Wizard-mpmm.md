@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/8
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Diviner Wizard"
+  - Diviner Wizard
 ---
 # [Diviner Wizard](Diviner-Wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/281/1000/1000/637880557375216415.jpeg)
 
 Diviners peer into the future and know that knowledge is power. They might act aloof and mysterious, hinting at omens and secrets, or they might be know-it-alls, spilling insights to advance their own status.
 

@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/mpmm
+  - src/5e/mpmm
 aliases:
-- "Fantastical Races"
+  - Fantastical Races
 ---
 # Fantastical Races
 *Source: Mordenkainen Presents: Monsters of the Multiverse, p. 5* 

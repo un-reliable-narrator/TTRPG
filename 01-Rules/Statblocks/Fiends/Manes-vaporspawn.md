@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/abyss
-- monster/environment/planar
-- monster/size/medium
-- monster/type/Fiends/demon
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/abyss
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Manes Vaporspawn"
+  - Manes Vaporspawn
 ---
 # [Manes Vaporspawn](Manes-vaporspawn.md)
 *Source: Monster Manual (2024) p. 201*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/55/1000/1000/638741964380049417.png)
 
 Vaporspawn arise from evil souls shattered by unspeakable torments or the depredations of more powerful demons. These distorted manes undergo endless, painful contortions, and they share their torment with whatever creatures they encounter.
 

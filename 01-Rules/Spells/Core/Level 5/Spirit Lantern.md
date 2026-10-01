@@ -1,4 +1,4 @@
-Spirit Lantern
+# Spirit Lantern
 
 [Home](http://dnd2024.wikidot.com/home:home) » [All Spells](http://dnd2024.wikidot.com/spell:all) » Spirit Lantern
 

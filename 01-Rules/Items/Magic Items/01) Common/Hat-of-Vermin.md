@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/common
+  - src/5e/dmg
+  - item/rarity/common
 aliases:
-- "Hat of Vermin"
+  - Hat of Vermin
 ---
 # Hat of Vermin
 *Wondrous item, common*  

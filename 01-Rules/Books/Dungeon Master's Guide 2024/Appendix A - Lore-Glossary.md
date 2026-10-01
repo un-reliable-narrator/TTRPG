@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Appendix A: Lore Glossary"
+  - "Appendix A: Lore Glossary"
 ---
 # Appendix A: Lore Glossary
 *Source: Dungeon Master's Guide (2024), p. 354* 

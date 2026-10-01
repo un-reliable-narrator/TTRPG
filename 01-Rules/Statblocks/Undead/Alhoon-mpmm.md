@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/undead/mind-flayer
-- monster/type/undead/wizard
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/undead/mind-flayer
+  - monster/type/undead/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Alhoon"
+  - Alhoon
 ---
 # [Alhoon](Alhoon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/113/1000/1000/637880557094360609.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Rot Troll"
+  - Rot Troll
 ---
 # [Rot Troll](Rot%20Troll%20-%20mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/612/1000/1000/637880557943118916.jpeg)
 
 A troll infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body wither and the flesh falls away from the body as quickly, as it forms. Eventually a rot troll becomes unable to regenerate, though the troll still heals normally. The creature courses with necrotic energy; simply standing near a rot troll exposes other creatures to lethal emanations.
 

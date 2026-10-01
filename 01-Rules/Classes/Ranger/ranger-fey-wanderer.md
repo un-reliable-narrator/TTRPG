@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/ranger/fey-wanderer
+  - src/5e/xphb
+  - subclass/ranger/fey-wanderer
 aliases:
-- "Fey Wanderer"
+  - Fey Wanderer
 ---
 # Fey Wanderer
 *[[Ranger|Ranger]]: Ranger Subclass*  

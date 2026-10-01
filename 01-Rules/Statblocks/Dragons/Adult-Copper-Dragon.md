@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/14
-- monster/environment/hill
-- monster/size/huge
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/14
+  - monster/environment/hill
+  - monster/size/huge
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult Copper Dragon"
+  - Adult Copper Dragon
 ---
 # [Adult Copper Dragon](Adult-Copper-Dragon.md)
 *Source: Monster Manual (2024) p. 79. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/562/1000/1000/638741963698686697.png)
 
 Adult copper dragons use their influence to better the world. With broad circles of friends, adult copper dragons delight in introducing people to one another and helping people find places where they can flourish. When disaster strikes, these dragons draw on their family of contacts to offer support, right wrongs, and rebuild stronger than before.
 

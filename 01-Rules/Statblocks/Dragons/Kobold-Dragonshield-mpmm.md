@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/small
-- monster/type/dragon
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kobold Dragonshield"
+  - Kobold Dragonshield
 ---
 # [Kobold Dragonshield](Kobold-Dragonshield-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/477/1000/1000/637880557741240241.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

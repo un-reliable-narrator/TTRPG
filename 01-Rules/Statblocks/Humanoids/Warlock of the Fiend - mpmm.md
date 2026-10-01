@@ -1,19 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Warlock of the Fiend"
+  - Warlock of the Fiend
 ---
 # [Warlock of the Fiend](Warlock%20of%20the%20Fiend%20-%20mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255*  

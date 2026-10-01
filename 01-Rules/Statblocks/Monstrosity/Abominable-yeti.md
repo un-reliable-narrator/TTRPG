@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/9
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/9
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Abominable Yeti"
+  - Abominable Yeti
 ---
 # [Abominable Yeti](Abominable-yeti.md)
 *Source: Monster Manual (2024) p. 340*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/551/1000/1000/638741963684583108.png)
 
 Giants even among their own intimidating kind, abominable yetis are stronger and bloodthirstier than their kin. They claim whole regions as their hunting grounds, and they might track trespassers for days. On sighting prey, abominable yetis fling boulders of ice and snow before closing to finish foes. In addition to their icy claws and gaze, they can exhale a blast of arctic cold.
 

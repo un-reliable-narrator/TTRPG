@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/desert
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/desert
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Necromancer Wizard"
+  - Necromancer Wizard
 ---
 # [Necromancer Wizard](Necromancer-Wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 264*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/561/1000/1000/637880557870712162.jpeg)
 
 Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.
 

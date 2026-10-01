@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/20
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/undead
+  - src/5e/mpmm
+  - monster/cr/20
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Nightwalker"
+  - Nightwalker
 ---
 # [Nightwalker](Nightwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/574/1000/1000/637880557887953684.jpeg)
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
 

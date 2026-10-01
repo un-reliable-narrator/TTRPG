@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/desert
-- monster/environment/planar
-- monster/environment/upper
-- monster/size/large
-- monster/type/celestial
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/desert
+  - monster/environment/planar
+  - monster/environment/upper
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sphinx of Secrets"
+  - Sphinx of Secrets
 ---
 # [Sphinx of Secrets](sphinx-of-Secrets.md)
 *Source: Monster Manual (2024) p. 292*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/259/1000/1000/638741964662018790.png)
 
 Sphinxes of secrets are commonly associated with a site of great magic or learning. These immortal beings often outlive such locations, though, and might protect a site's ruins as they continue their own studies. Sphinxes of secrets fiercely guard their dwellings and research.
 

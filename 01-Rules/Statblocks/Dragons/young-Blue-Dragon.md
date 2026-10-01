@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/9
-- monster/environment/coastal
-- monster/environment/desert
-- monster/size/large
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/9
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Young Blue Dragon"
+  - Young Blue Dragon
 ---
 # [Young Blue Dragon](young-Blue-Dragon.md)
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/394/1000/1000/638741964854073852.png)
 
 Young blue dragons seek to establish themselves as forces to be feared. Many claim isolated communities to rule over or ancient ruins where they might find magical paths to power. These blue dragons might temporarily cooperate with other dragons or powerful villains to gain followers and influence.
 

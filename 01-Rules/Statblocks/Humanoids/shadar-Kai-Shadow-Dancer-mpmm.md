@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/environment/forest
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Humanoids/elf
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Humanoids/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Shadar-kai Shadow Dancer"
+  - Shadar-kai Shadow Dancer
 ---
 # [Shadar-kai Shadow Dancer](shadar-Kai-Shadow-Dancer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/629/1000/1000/637880557971241592.jpeg)
 
 Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place the lithe and acrobatic shadow dancers can emerge from to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, they dispatch it and then loot the corpse for trinkets, particularly anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.
 

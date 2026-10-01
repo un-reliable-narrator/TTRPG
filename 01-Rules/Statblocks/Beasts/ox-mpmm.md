@@ -1,17 +1,17 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/large
-- monster/type/Beasts/cattle
+  - src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/Beasts/cattle
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ox"
+  - Ox
 ---
 # [Ox](ox-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72*  

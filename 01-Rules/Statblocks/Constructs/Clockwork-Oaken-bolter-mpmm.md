@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/construct
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Clockwork Oaken Bolter"
+  - Clockwork Oaken Bolter
 ---
 # [Clockwork Oaken Bolter](Clockwork-Oaken-bolter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/229/1000/1000/637880557291048837.jpeg)
 
 No ordinary ballista, an oaken bolter is a Construct capable of striking at long distances. The bolts it launches can rend flesh, destroy armor, or drag enemies toward traps or melee-oriented clockworks—and at shorter ranges, burst with explosive force.
 

@@ -1,7 +1,7 @@
 ---
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
 ---
 rgb(236, 233, 228)
 # Index of Elemental

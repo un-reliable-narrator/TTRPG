@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/any
-- monster/size/medium
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/any
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Flesh Golem"
+  - Flesh Golem
 ---
 # [Flesh Golem](flesh-Golem.md)
 *Source: Monster Manual (2024) p. 121. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/818/1000/1000/638741964055142268.png)
 
 ## Flesh Golem
 

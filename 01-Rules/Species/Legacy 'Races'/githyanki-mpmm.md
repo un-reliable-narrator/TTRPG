@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/githyanki
+  - src/5e/mpmm
+  - race/githyanki
 aliases:
-- "Githyanki"
+  - Githyanki
 ---
 # Githyanki
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 18*  

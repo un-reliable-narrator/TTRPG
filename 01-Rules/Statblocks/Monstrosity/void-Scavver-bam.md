@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/11
-- monster/size/huge
-- monster/type/monstrosity
+  - src/5e/bam
+  - monster/cr/11
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Void Scavver"
+  - Void Scavver
 ---
 # [Void Scavver](void-Scavver-bam.md)
 *Source: Boo's Astral Menagerie p. 49, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/965/1000/1000/637961801015741442.jpeg)
 
 Void scavvers are 20 feet long. Each one is a solitary menace with a pitch-black hide. While most other scavvers are content to feed on kitchen scraps, a void scavver goes after the cook.
 

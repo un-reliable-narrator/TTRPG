@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Noble Prodigy"
+  - Noble Prodigy
 ---
 # [Noble Prodigy](Noble-Prodigy.md)
 *Source: Monster Manual (2024) p. 227*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/121/1000/1000/638741964470068558.png)
 
 Noble prodigies trace their lineage to a legendary hero, a demigod, a dragon, or some other ancestor that grants them magical prowess. Among some nobles, the source of a prodigy's magic might be a family secret.
 

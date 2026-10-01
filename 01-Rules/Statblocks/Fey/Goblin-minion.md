@@ -1,25 +1,27 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/acheron
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/small
-- monster/type/fey/goblinoid
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/acheron
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/fey/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Goblin Minion"
+  - Goblin Minion
 ---
 # [Goblin Minion](Goblin-minion.md)
 *Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58416/946/1000/1000/639226708358025163.jpeg)
 
 Goblin minions enjoy participating in the disruptive schemes of clever leaders but are quick to flee when confronted by their comeuppance.
 

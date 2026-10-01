@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/limbo
-- monster/environment/planar
-- monster/size/medium
-- monster/type/aberrations/gith
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/limbo
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/aberrations/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githzerai Monk"
+  - Githzerai Monk
 ---
 # [Githzerai Monk](Githzerai-monk.md)
 *Source: Monster Manual (2024) p. 136*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/902/1000/1000/638741964172255310.jpeg)
 
 Githzerai monks pursue control of their minds by honing their physical and psionic talents. They might be found beyond githzerai sanctuaries, testing themselves amid the dangerous extremes of the multiverse.
 

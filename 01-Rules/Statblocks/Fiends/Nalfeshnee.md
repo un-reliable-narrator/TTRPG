@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/13
-- monster/environment/abyss
-- monster/environment/planar
-- monster/size/large
-- monster/type/Fiends/demon
+  - src/5e/xmm
+  - monster/cr/13
+  - monster/environment/abyss
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Nalfeshnee"
+  - Nalfeshnee
 ---
 # [Nalfeshnee](Nalfeshnee.md)
 *Source: Monster Manual (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/112/1000/1000/638741964459573712.png)
 
 ## Nalfeshnee
 

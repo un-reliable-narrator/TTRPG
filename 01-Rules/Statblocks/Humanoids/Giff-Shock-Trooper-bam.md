@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/6
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/bam
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giff Shock Trooper"
+  - Giff Shock Trooper
 ---
 # [Giff Shock Trooper](Giff-Shock-Trooper-bam.md)
 *Source: Boo's Astral Menagerie p. 25, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/848/1000/1000/637961800795004788.jpeg)
 
 A giff shock trooper is trained to mount assaults on enemy strongholds. Each one is adept at softening up the enemy from a distance with firearms before charging into melee to mop up the foes that remain standing.
 

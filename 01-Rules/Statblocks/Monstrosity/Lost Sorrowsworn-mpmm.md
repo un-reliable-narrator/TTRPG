@@ -1,25 +1,27 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Lost Sorrowsworn"
+  - Lost Sorrowsworn
 ---
 # [Lost Sorrowsworn](lost Sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/501/1000/1000/637880557782764142.jpeg)
 
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
 

@@ -1,29 +1,29 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/light
-- item/armor/medium
-- item/attunement/required
-- item/rarity/legendary
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/light
+  - item/armor/medium
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/wondrous/generic-variant
 aliases:
-- "Enspelled Armor (Level 8)"
-- "Enspelled (Level 8) Breastplate"
-- "Enspelled (Level 8) Chain Mail"
-- "Enspelled (Level 8) Chain Shirt"
-- "Enspelled (Level 8) Half Plate Armor"
-- "Enspelled (Level 8) Hide Armor"
-- "Enspelled (Level 8) Leather Armor"
-- "Enspelled (Level 8) Padded Armor"
-- "Enspelled (Level 8) Plate Armor"
-- "Enspelled (Level 8) Ring Mail"
-- "Enspelled (Level 8) Scale Mail"
-- "Enspelled (Level 8) Splint Armor"
-- "Enspelled (Level 8) Studded Leather Armor"
+  - Enspelled Armor (Level 8)
+  - Enspelled (Level 8) Breastplate
+  - Enspelled (Level 8) Chain Mail
+  - Enspelled (Level 8) Chain Shirt
+  - Enspelled (Level 8) Half Plate Armor
+  - Enspelled (Level 8) Hide Armor
+  - Enspelled (Level 8) Leather Armor
+  - Enspelled (Level 8) Padded Armor
+  - Enspelled (Level 8) Plate Armor
+  - Enspelled (Level 8) Ring Mail
+  - Enspelled (Level 8) Scale Mail
+  - Enspelled (Level 8) Splint Armor
+  - Enspelled (Level 8) Studded Leather Armor
 ---
 # Enspelled Armor (Level 8)
 *Legendary (requires attunement)*  

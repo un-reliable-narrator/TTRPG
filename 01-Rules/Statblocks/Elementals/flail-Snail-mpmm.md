@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Flail Snail"
+  - Flail Snail
 ---
 # [Flail Snail](flail-Snail-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/369/1000/1000/637880557524650176.jpeg)
 
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
 

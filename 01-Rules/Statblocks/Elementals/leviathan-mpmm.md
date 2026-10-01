@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/20
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/gargantuan
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/20
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/gargantuan
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Leviathan"
+  - Leviathan
 ---
 # [Leviathan](leviathan-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/495/1000/1000/637880557774513162.jpeg)
 
 A leviathan is an immense creature that acts as a force of nature, dragging ships down to the ocean's depths and washing away coastal settlements. When called forth, a leviathan arises from a large body of water and takes on the form of a gigantic serpent.
 

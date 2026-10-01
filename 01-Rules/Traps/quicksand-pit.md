@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Quicksand Pit"
+  - Quicksand Pit
 ---
 # Quicksand Pit
 *Generic Hazard*  

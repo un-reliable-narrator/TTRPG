@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/weapon/martial
-- item/weapon/melee
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/wondrous/generic-variant
 aliases:
-- "Sword of Sharpness"
-- "Glaive of Sharpness"
-- "Greatsword of Sharpness"
-- "Longsword of Sharpness"
-- "Scimitar of Sharpness"
+  - Sword of Sharpness
+  - Glaive of Sharpness
+  - Greatsword of Sharpness
+  - Longsword of Sharpness
+  - Scimitar of Sharpness
 ---
 # Sword of Sharpness
 *Very rare (requires attunement)*  

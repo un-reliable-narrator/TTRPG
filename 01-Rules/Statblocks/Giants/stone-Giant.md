@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Stone Giant"
+  - Stone Giant
 ---
-# [Stone Giant](stone-Giant.md)
+# [Stone Giant](Stone-Giant.md)
 *Source: Monster Manual (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/275/1000/1000/638741964686276434.png)
 
 ## Stone Giant
 

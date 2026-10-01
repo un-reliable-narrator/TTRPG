@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Tanarukk"
+  - Tanarukk
 ---
 # [Tanarukk](tanarukk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/708/1000/1000/637880558089220468.jpeg)
 
 > [!quote] A quote from Tasha  
 > 

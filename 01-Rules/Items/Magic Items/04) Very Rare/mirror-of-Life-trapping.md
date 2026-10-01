@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/very-rare
+  - src/5e/dmg
+  - item/rarity/very-rare
 aliases:
-- "Mirror of Life Trapping"
+  - Mirror of Life Trapping
 ---
 # Mirror of Life Trapping
 *Wondrous item, very rare*  

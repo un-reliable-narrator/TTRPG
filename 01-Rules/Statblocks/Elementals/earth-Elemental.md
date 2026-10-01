@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/earth
-- monster/environment/mountain
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/earth
+  - monster/environment/mountain
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Earth Elemental"
+  - Earth Elemental
 ---
 # [Earth Elemental](earth-Elemental.md)
 *Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/784/1000/1000/638741964007227935.png)
 
 ## Earth Elemental
 

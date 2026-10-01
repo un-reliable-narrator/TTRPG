@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/common
+  - src/5e/dmg
+  - item/rarity/common
 aliases:
-- "Tankard of Sobriety"
+  - Tankard of Sobriety
 ---
 # Tankard of Sobriety
 *Wondrous item, common*  

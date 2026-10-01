@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/12
-- monster/environment/nine-hells
-- monster/environment/planar
-- monster/size/medium
-- monster/type/Fiends/devil
+  - src/5e/xmm
+  - monster/cr/12
+  - monster/environment/nine-hells
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Erinyes"
+  - Erinyes
 ---
 # [Erinyes](erinyes.md)
 *Source: Monster Manual (2024) p. 114. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/800/1000/1000/638741964028972778.png)
 
 ## Erinyes
 

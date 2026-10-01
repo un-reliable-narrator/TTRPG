@@ -1,24 +1,26 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Swarm of Venomous Snakes"
+  - Swarm of Venomous Snakes
 ---
 # [Swarm of Venomous Snakes](Swarm-of-venomous-Snakes.md)
 *Source: Monster Manual (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/297/1000/1000/638741964720072977.png)
 
 ## Animals
 

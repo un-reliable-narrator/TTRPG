@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Frog"
+  - Giant Frog
 ---
 # [Giant Frog](Giant-frog.md)
 *Source: Monster Manual (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58417/101/1000/1000/639226714224349673.jpeg)
 
 ## Animals
 

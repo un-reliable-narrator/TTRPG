@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/forest
-- monster/size/medium
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Green Dragon Wyrmling"
+  - Green Dragon Wyrmling
 ---
 # [Green Dragon Wyrmling](Green-Dragon-Wyrmling.md)
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/938/1000/1000/638741964218388890.png)
 
 Green dragon wyrmlings often serve as pawns in older dragons' schemes. By spying on those dragons' agents, wyrmlings learn the art of manipulation. Once they've accumulated influence and lackeys, these wyrmlings depart to claim their own territories and pursue their sinister ambitions.
 

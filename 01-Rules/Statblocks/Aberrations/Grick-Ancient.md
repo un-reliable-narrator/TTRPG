@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Grick Ancient"
+  - Grick Ancient
 ---
 # [Grick Ancient](Grick-Ancient.md)
 *Source: Monster Manual (2024) p. 158*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/946/1000/1000/638741964229036929.png)
 
 Gricks can live for centuries, with the eldest growing to monstrous sizes. Grick ancients actively hunt more than they wait in ambush, and they have no qualms about devouring smaller gricks.
 

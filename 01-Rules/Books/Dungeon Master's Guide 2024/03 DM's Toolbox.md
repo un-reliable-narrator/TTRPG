@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Chapter 3: DM's Toolbox"
+  - "Chapter 3: DM's Toolbox"
 ---
 # Chapter 3: DM's Toolbox
 *Source: Dungeon Master's Guide (2024), p. 51* 
@@ -213,7 +213,7 @@ You can also use traits from other stat blocks in the "Monster Manual", provided
 - **Dimensional Disruption.** Disruptive energy extends from the creature in a 30-foot [Emanation](emanation-area-of-effect.md). Other creatures can't teleport to or from a space in that area. Any attempt to do so is wasted.  
 - **Disciple of the Nine Hells.** When the creature dies, its body disgorges a [Hostile](hostile-attitude.md) [Imp](Imp.md) in the same space.  
 - **Disintegration.** When the creature dies, its body and nonmagical possessions turn to dust. Any magic items it possessed are left behind in its space.  
-- **Emissary of Juiblex.** When the creature dies, its body disgorges a [Hostile](hostile-attitude.md) [Ochre Jelly](ochre-jelly.md) in the same space.  
+- **Emissary of Juiblex.** When the creature dies, its body disgorges a [Hostile](hostile-attitude.md) [Ochre Jelly](Ochre-Jelly.md) in the same space.  
 - **Fey Ancestry.** The creature has Advantage on saving throws it makes to avoid or end the [Charmed](Conditions.md#Charmed) condition, and magic can't put it to sleep.  
 - **Forbiddance.** The creature can't enter a residence without an invitation from one of its occupants.  
 - **Gloom Shroud.** Imperceptible energy channeled from the "Shadowfell" extends from the creature in a 20-foot [Emanation](emanation-area-of-effect.md). Other creatures in that area have [[01-Rules/Rules/Disadvantage|Disadvantage]] on Charisma checks and Charisma saving throws.  

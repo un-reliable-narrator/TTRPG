@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-8
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/small
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/1-8
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Xvart"
+  - Xvart
 ---
 # [Xvart](xvart-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/766/1000/1000/637880558178088611.jpeg)
 
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
 

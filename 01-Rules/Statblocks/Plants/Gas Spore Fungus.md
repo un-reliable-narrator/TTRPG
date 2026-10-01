@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/large
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gas Spore Fungus"
+  - Gas Spore Fungus
 ---
 # Gas Spore Fungus
 *Source: Monster Manual (2024) p. 125*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/832/1000/1000/638741964073436197.jpeg)
 
 Gas spores are floating, orbicular fungi with rhizome growths and protuberances that resemble the stalks and eyes of beholders. If destroyed, a gas spore explodes in a poisonous burst that can infect creatures and slay them in hours. Infected corpses spawn more gas spores that grow to full size in a matter of days.
 

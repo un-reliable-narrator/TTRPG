@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/11
-- monster/environment/urban
-- monster/size/large
-- monster/type/Fiends/yugoloth
+  - src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/Fiends/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Yagnoloth"
+  - Yagnoloth
 ---
 # [Yagnoloth](yagnoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/769/1000/1000/637880558183549236.jpeg)
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
 

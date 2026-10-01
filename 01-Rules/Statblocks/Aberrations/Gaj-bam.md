@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/4
-- monster/size/large
-- monster/type/aberration
+  - src/5e/bam
+  - monster/cr/4
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gaj"
+  - Gaj
 ---
 # [Gaj](Gaj-bam.md)
 *Source: Boo's Astral Menagerie p. 23, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/842/1000/1000/637961800780652887.jpeg)
 
 Gaj are hideous hunters that prey on other intelligent life forms. They crawl on six insectile legs and attack with their mandibles. They ambush prey by burying themselves under sand or silt and lying in wait, lurking in dark caves, or perching on natural stone ledges, where they blend in with their surroundings. Gaj have no language, but they have the magical ability to understand the speech of other creatures.
 

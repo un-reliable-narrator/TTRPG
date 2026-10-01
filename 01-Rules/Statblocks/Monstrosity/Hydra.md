@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/coastal
-- monster/environment/swamp
-- monster/size/huge
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/coastal
+  - monster/environment/swamp
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Hydra](Hydra.md)
 *Source: Monster Manual (2024) p. 175. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/996/1000/1000/638741964301487263.jpeg)
 
 ## Hydra
 

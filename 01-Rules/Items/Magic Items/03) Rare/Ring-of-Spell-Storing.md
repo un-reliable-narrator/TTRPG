@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/ring
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/ring
 aliases:
-- "Ring of Spell Storing"
+  - Ring of Spell Storing
 ---
 # Ring of Spell Storing
 *Ring, rare (requires attunement)*  

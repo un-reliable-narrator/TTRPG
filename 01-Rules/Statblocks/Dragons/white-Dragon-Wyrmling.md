@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/arctic
-- monster/size/medium
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/size/medium
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "White Dragon Wyrmling"
+  - White Dragon Wyrmling
 ---
 # [White Dragon Wyrmling](white-Dragon-Wyrmling.md)
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/374/1000/1000/638741964823492966.png)
 
 White dragon wyrmlings usually head off on their own soon after hatching. While the cold means little to these creatures, food is scarce in arctic realms, and predators there are merciless. Most white dragon wyrmlings survive by scavenging, hunting opportunistically, and quickly fleeing foes—including other white dragons.
 

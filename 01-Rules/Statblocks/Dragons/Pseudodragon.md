@@ -1,24 +1,26 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/dragon
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Pseudodragon"
+  - Pseudodragon
 ---
 # [Pseudodragon](Pseudodragon.md)
 *Source: Monster Manual (2024) p. 249, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/628/1000/1000/638742822950497429.png)
 
 ## Pseudodragon
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Water Elemental Myrmidon"
+  - Water Elemental Myrmidon
 ---
 # [Water Elemental Myrmidon](Water-Elemental-Myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/751/1000/1000/637880558150786163.jpeg)
 
 ## Elemental Myrmidons
 

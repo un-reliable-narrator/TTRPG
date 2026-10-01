@@ -1,45 +1,45 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/weapon/martial
-- item/weapon/melee
-- item/weapon/simple
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/weapon/simple
+  - item/wondrous/generic-variant
 aliases:
-- "Defender"
-- "Defender Battleaxe"
-- "Defender Club"
-- "Defender Dagger"
-- "Defender Flail"
-- "Defender Glaive"
-- "Defender Greataxe"
-- "Defender Greatclub"
-- "Defender Greatsword"
-- "Defender Halberd"
-- "Defender Handaxe"
-- "Defender Javelin"
-- "Defender Lance"
-- "Defender Light Hammer"
-- "Defender Longsword"
-- "Defender Mace"
-- "Defender Maul"
-- "Defender Morningstar"
-- "Defender Pike"
-- "Defender Quarterstaff"
-- "Defender Rapier"
-- "Defender Scimitar"
-- "Defender Shortsword"
-- "Defender Sickle"
-- "Defender Spear"
-- "Defender Trident"
-- "Defender War Pick"
-- "Defender Warhammer"
-- "Defender Whip"
+  - Defender
+  - Defender Battleaxe
+  - Defender Club
+  - Defender Dagger
+  - Defender Flail
+  - Defender Glaive
+  - Defender Greataxe
+  - Defender Greatclub
+  - Defender Greatsword
+  - Defender Halberd
+  - Defender Handaxe
+  - Defender Javelin
+  - Defender Lance
+  - Defender Light Hammer
+  - Defender Longsword
+  - Defender Mace
+  - Defender Maul
+  - Defender Morningstar
+  - Defender Pike
+  - Defender Quarterstaff
+  - Defender Rapier
+  - Defender Scimitar
+  - Defender Shortsword
+  - Defender Sickle
+  - Defender Spear
+  - Defender Trident
+  - Defender War Pick
+  - Defender Warhammer
+  - Defender Whip
 ---
 # Defender
 *Legendary (requires attunement)*  

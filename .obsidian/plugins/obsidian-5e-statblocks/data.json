@@ -6,14 +6,14 @@
   "useDice": true,
   "renderDice": false,
   "export": true,
-  "showAdvanced": false,
+  "showAdvanced": true,
   "version": {
     "major": 4,
     "minor": 10,
     "patch": 3
   },
   "paths": [
-    "Resources/Statblocks"
+    "01-Rules/Statblocks"
   ],
   "autoParse": true,
   "disableSRD": false,

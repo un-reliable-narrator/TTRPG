@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/17
-- monster/environment/desert
-- monster/environment/planar
-- monster/environment/upper
-- monster/size/large
-- monster/type/celestial
+  - src/5e/xmm
+  - monster/cr/17
+  - monster/environment/desert
+  - monster/environment/planar
+  - monster/environment/upper
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sphinx of Valor"
+  - Sphinx of Valor
 ---
 # [Sphinx of Valor](sphinx-of-valor.md)
 *Source: Monster Manual (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/261/1000/1000/638741964664845820.png)
 
 Sphinxes of valor guard world-changing or dangerous secrets—evidence of weird truths, deadly Artifacts, and things that shouldn't exist. They inhabit hidden, magical sites and hold their duty above mortal life. If threatened, a sphinx of valor defends its charge with its supernaturally empowered roar and fierce strikes.
 

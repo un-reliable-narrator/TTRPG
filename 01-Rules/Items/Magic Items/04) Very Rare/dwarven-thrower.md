@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/weapon/martial
-- item/weapon/melee
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/weapon/martial
+  - item/weapon/melee
 aliases:
-- "Dwarven Thrower"
+  - Dwarven Thrower
 ---
 # Dwarven Thrower
 *Weapon ([Warhammer](Warhammer.md)), very rare (requires attunement by a Dwarf or a Creature Attuned to a [Belt of Dwarvenkind](Belt-of-dwarvenkind.md))*  

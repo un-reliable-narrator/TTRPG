@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/treasure-art-object
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/treasure-art-object
+  - item/rarity/none
 aliases:
-- "Copper chalice with silver filigree"
+  - Copper chalice with silver filigree
 ---
 # Copper chalice with silver filigree
 *Treasure (art object)*  

@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xphb
-- monster/cr/
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xphb
+  - monster/cr/
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Aberrant Spirit (Beholderkin)"
+  - Aberrant Spirit (Beholderkin)
 ---
 # [Aberrant Spirit (Beholderkin)](../Aberrations/aberrant Spirit-beholderkin)
 *Source: Player's Handbook (2024) p. 322*  

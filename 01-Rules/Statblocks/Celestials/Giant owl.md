@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/large
-- monster/type/celestial
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Owl"
+  - Giant Owl
 ---
 # [Giant Owl](giant-owl.md)
 *Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58417/115/1000/1000/639226714638369904.jpeg)
 
 ## Animals
 

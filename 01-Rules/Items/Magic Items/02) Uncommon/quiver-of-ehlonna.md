@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/uncommon
+  - src/5e/dmg
+  - item/rarity/uncommon
 aliases:
-- "Quiver of Ehlonna"
+  - Quiver of Ehlonna
 ---
 # Quiver of Ehlonna
 *Wondrous item, uncommon*  

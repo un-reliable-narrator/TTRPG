@@ -1,26 +1,28 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/giant
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ogrillon Ogre"
+  - Ogrillon Ogre
 ---
 # [Ogrillon Ogre](ogrillon-Ogre.md)
 *Source: Monster Manual (2024) p. 231*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58415/850/1000/1000/639226670524293755.jpeg)
 
 Ogrillons arise from Humanoids cursed by foul magic or the will of wrathful deities. They appear similar to whoever they once were, but they grow to over 8 feet tall and gain ogre-like features. Ogrillons constantly seethe with supernatural anger, which they might struggle to control or purposefully vent on other creatures.
 

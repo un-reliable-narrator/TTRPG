@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/23
-- monster/size/large
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/23
+  - monster/size/large
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Zuggtmoy"
+  - Zuggtmoy
 ---
 # [Zuggtmoy](zuggtmoy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 281*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/803/1000/1000/637880558234293792.jpeg)
 
 The Demon Queen of Fungi, Lady of Rot and Decay, Zuggtmoy is an alien creature whose only desire is to infect the living with spores, transforming them into her mindless servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.
 

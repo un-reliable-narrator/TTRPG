@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/2
-- monster/size/medium
-- monster/type/undead
+  - src/5e/bam
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vampirate"
+  - Vampirate
 ---
 # [Vampirate](vampirate-bam.md)
 *Source: Boo's Astral Menagerie p. 62, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/962/1000/1000/637961801010905395.jpeg)
 
 Vampirates are the walking, talking husks of dead pirates who refused to go quietly into the afterlife. They ply the void in their ships, plundering unsuspecting vessels and feeding on the life energy of those unlucky enough to cross their path.
 

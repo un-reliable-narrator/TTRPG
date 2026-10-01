@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/large
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sahuagin Baron"
+  - Sahuagin Baron
 ---
 # [Sahuagin Baron](sahuagin-baron.md)
 *Source: Monster Manual (2024) p. 265*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/210/1000/1000/638741964596256165.jpeg)
 
 During times of great conflict, Sekolah blesses particularly ruthless sahuagin warriors with increased size and an additional pair of arms, transforming them into sahuagin barons. These boons elevate the recipients' status among their kind, and they become champions or leaders. Sahuagin barons' blood is infused with profane magic capable of searing their enemies and making these foes irresistible targets for other Fiends.
 

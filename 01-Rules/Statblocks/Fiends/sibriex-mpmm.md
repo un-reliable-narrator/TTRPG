@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/18
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/18
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sibriex"
+  - Sibriex
 ---
 # [Sibriex](sibriex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/642/1000/1000/637880557990536152.jpeg)
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/3
-- monster/size/medium
-- monster/type/monstrosity/lizardfolk
+  - src/5e/bam
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/monstrosity/lizardfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ssurran Defiler"
+  - Ssurran Defiler
 ---
 # [Ssurran Defiler](ssurran-Defiler-bam.md)
 *Source: Boo's Astral Menagerie p. 58, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/943/1000/1000/637961800971594007.jpeg)
 
 Ssurran defilers can lay waste to the plant life around them and draw vital energy at the same time from other creatures that are caught in the area.
 

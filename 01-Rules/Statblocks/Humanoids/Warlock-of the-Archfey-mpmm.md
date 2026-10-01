@@ -1,25 +1,25 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Warlock of the Archfey"
+  - Warlock of the Archfey
 ---
 # [[Warlock-of the-Archfey-mpmm|Warlock of the Archfey]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255*  
 
-Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [boggles](boggle-mpmm.md), [quicklings](quickling-mpmm.md), and [redcaps](redcap-mpmm.md) (all appear in "this book") or even [satyrs](Satyr.md) and [sprites](sprite.md).
+Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [boggles](boggle-mpmm.md), [quicklings](quickling-mpmm.md), and [redcaps](Redcap-mpmm.md) (all appear in "this book") or even [satyrs](Satyr.md) and [sprites](Sprite.md).
 
 ## Warlocks
 

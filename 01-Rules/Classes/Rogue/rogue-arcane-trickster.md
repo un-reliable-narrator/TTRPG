@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/rogue/arcane-trickster
+  - src/5e/xphb
+  - subclass/rogue/arcane-trickster
 aliases:
-- "Arcane Trickster"
+  - Arcane Trickster
 ---
 # Arcane Trickster
 *[[Rogue|Rogue]]: Rogue Subclass*  

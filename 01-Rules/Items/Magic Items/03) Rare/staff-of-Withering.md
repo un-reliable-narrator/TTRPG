@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Staff of Withering"
+  - Staff of Withering
 ---
 # Staff of Withering
 *Staff, weapon, rare (requires attunement by a cleric, druid, or warlock)*  

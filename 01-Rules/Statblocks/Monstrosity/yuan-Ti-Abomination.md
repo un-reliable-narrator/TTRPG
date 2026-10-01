@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Yuan-ti Abomination"
+  - Yuan-ti Abomination
 ---
 # [Yuan-ti Abomination](yuan-Ti-Abomination.md)
 *Source: Monster Manual (2024) p. 345*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/414/1000/1000/638741964883479389.png)
 
 Yuan-ti abominations have traded away nearly all evidence of their humanity, coming to resemble giant, upright serpents with scaly arms and hands. In battle, they relish opportunities to crush foes in their powerful coils or strike with their venomous fangs. These abominations can also shape-shift into snakes. In these forms, abominations are indistinguishable from normal serpents.
 

@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Quarterstaff of the Acrobat"
+  - Quarterstaff of the Acrobat
 ---
 # Quarterstaff of the Acrobat
 *Staff, weapon ([Quarterstaff](Quarterstaff.md)), very rare (requires attunement)*  

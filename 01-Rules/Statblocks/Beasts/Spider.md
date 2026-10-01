@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Spider](Spider.md)
 *Source: Monster Manual (2024) p. 369, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/43939/862/1000/1000/638607433377512962.png)
 
 ## Animals
 

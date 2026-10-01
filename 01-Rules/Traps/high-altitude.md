@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- src/5e/dmg
-- hazard/env
+  - src/5e/dmg
+  - hazard/env
 aliases:
-- "High Altitude"
+  - High Altitude
 ---
 # High Altitude
 *Environmental Hazard*  

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/poison/injury
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/poison/injury
+  - item/rarity/none
 aliases:
-- "Serpent Venom"
+  - Serpent Venom
 ---
 # Serpent Venom
 *Adventuring gear, poison (injury)*  

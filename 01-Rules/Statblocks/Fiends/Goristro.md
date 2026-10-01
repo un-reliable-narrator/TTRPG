@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/17
-- monster/environment/abyss
-- monster/environment/planar
-- monster/size/huge
-- monster/type/Fiends/demon
+  - src/5e/xmm
+  - monster/cr/17
+  - monster/environment/abyss
+  - monster/environment/planar
+  - monster/size/huge
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Goristro"
+  - Goristro
 ---
 # [Goristro](Goristro.md)
 *Source: Monster Manual (2024) p. 150*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/932/1000/1000/638741964211195819.png)
 
 ## Goristro
 

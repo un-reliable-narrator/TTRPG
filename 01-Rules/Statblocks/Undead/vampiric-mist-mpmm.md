@@ -1,26 +1,28 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vampiric Mist"
+  - Vampiric Mist
 ---
 # [Vampiric Mist](vampiric-mist-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/730/1000/1000/637880558120363350.jpeg)
 
 In billowing clouds of fog lurk vampiric mists, the wretched remnants of [vampires](Vampire.md) that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
 

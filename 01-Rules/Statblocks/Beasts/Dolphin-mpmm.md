@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-8
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/beast
+  - src/5e/mpmm
+  - monster/cr/1-8
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Dolphin"
+  - Dolphin
 ---
 # [Dolphin](Dolphin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/287/1000/1000/637880557385497402.jpeg)
 
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
 

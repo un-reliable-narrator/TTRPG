@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/16
-- monster/environment/urban
-- monster/size/large
-- monster/type/construct
+  - src/5e/mpmm
+  - monster/cr/16
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Steel Predator"
+  - Steel Predator
 ---
 # [Steel Predator](steel-Predator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/679/1000/1000/637880558048026316.jpeg)
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
 aliases:
-- "Belt of Dwarvenkind"
+  - Belt of Dwarvenkind
 ---
 # Belt of Dwarvenkind
 *Wondrous item, rare (requires attunement)*  

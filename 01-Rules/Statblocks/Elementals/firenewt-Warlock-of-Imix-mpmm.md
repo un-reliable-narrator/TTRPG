@@ -1,18 +1,18 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Firenewt Warlock of Imix"
+  - Firenewt Warlock of Imix
 ---
 # [Firenewt Warlock of Imix](firenewt-Warlock-of-Imix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125*  

@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Chapter 4: Creating Adventures"
+  - "Chapter 4: Creating Adventures"
 ---
 # Chapter 4: Creating Adventures
 *Source: Dungeon Master's Guide (2024), p. 105* 
@@ -524,7 +524,7 @@ Just outside the cave, the characters encounter six [Twig Blights](Plants/twig-b
 
 Use the Underdark Warren map in "Appendix B" for the corrupted cave. Ignore the secret door and the inner chambers behind it. Close off the tunnels leading off the map to the south, east, and north. The characters enter the cave in the southeast, following the stream. The cave's main features and inhabitants are as follows:
 
-- **Entrance.** A [Shrieker Fungus](shrieker-fungus.md) just inside the cave entrance alerts the inhabitants to the characters' arrival. On watch near the entrance and quick to respond to the shriekers' cry are four [Bullywug Warriors](bullywug-Warrior.md) who have fungal growths on them.  
+- **Entrance.** A [Shrieker Fungus](shrieker-fungus.md) just inside the cave entrance alerts the inhabitants to the characters' arrival. On watch near the entrance and quick to respond to the shriekers' cry are four [Bullywug Warriors](Bullywug-Warrior.md) who have fungal growths on them.  
 - **Berserk Bear.** In a side cave to the southeast is a [Brown Bear](brown-bear.md) that drank from the stream. It's upset because the water made it ill. If the characters can make it eat Borogrove's acorn or otherwise rid it the [Poisoned](Conditions.md#Poisoned) condition, the bear recovers immediately and leaves them alone.  
 - **Ooze's Lair.** At the north end of the stream are a [Psychic Gray Ooze](Gray-Ooze.md) and six [Stirges](Stirge.md). After defeating these creatures, the characters can destroy the brain-like fungus in the water, which is the source of the corruption. If they do, each character earns a bonus 100 XP.  
 

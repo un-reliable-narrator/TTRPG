@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/12
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gray Render"
+  - Gray Render
 ---
 # [Gray Render](Gray-Render-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/434/1000/1000/637880557660323057.jpeg)
 
 A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-object
+  - json5e-object
 tags:
-- src/5e/dmg
-- object/size/large
-- object/type/siege-weapon
+  - src/5e/dmg
+  - object/size/large
+  - object/type/siege-weapon
 aliases:
-- "Keg Launcher"
+  - Keg Launcher
 ---
 # Keg Launcher
 %%-- Embedded content starts on the next line. --%%

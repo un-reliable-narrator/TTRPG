@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cultist Hierophant"
+  - Cultist Hierophant
 ---
 # [Cultist Hierophant](cultist Hierophant.md)
 *Source: Monster Manual (2024) p. 85*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/732/1000/1000/638741963937319151.png)
 
 Cultist hierophants are leaders who oversee the lives of their underlings, dictate the edicts of the cult, and interpret their patron's will. They possess supernatural powers gained from the cult's patron, supernatural sources, or the power of their own fanaticism. These leaders know their cult's deepest secrets and often control strange relics, mystical sites, and monstrous servants.
 

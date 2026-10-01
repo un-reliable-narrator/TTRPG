@@ -1,17 +1,17 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/12
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Humanoids/dwarf
+  - src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Humanoids/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Duergar Despot"
+  - Duergar Despot
 ---
 # [Duergar Despot](Duergar-Despot-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107*  

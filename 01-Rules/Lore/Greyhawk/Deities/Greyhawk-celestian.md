@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deity
+  - json5e-deity
 tags:
-- src/5e/dmg
-- deity/greyhawk
+  - src/5e/dmg
+  - deity/greyhawk
 aliases:
-- "Celestian"
+  - Celestian
 ---
 # Celestian
 *Source: Dungeon Master's Guide (2024) p. 148* 

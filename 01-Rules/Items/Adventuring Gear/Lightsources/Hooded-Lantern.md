@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/gear/light
-- item/rarity/none
+  - src/5e/xphb
+  - item/gear/light
+  - item/rarity/none
 aliases:
-- "Hooded Lantern"
+  - Hooded Lantern
 ---
 # Hooded Lantern
 *Adventuring gear*  

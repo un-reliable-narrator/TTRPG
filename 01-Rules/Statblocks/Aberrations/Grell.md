@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Grell"
+  - Grell
 ---
 # [Grell](Grell.md)
 *Source: Monster Manual (2024) p. 157*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/944/1000/1000/638741964226364873.png)
 
 ## Grell
 

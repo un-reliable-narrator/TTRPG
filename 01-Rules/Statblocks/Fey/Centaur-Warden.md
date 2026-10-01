@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/planar
-- monster/size/large
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Centaur Warden"
+  - Centaur Warden
 ---
 # [Centaur Warden](Centaur-Warden.md)
 *Source: Monster Manual (2024) p. 67*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/700/1000/1000/638741963893283547.jpeg)
 
 Centaur wardens often lead groups of centaur troopers and act as intermediaries between Fey creatures and trespassers into their territories.
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/23
-- monster/size/huge
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/23
+  - monster/size/huge
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Baphomet"
+  - Baphomet
 ---
 # [Baphomet](Baphomet-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 58*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/165/1000/1000/637880557181038519.jpeg)
 
 Civilization is weakness and brutality is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most bloodthirsty desires.
 

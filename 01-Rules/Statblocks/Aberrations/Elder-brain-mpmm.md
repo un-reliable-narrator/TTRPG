@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/14
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberrations/mind-flayer
+  - src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberrations/mind-flayer
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Elder Brain"
+  - Elder Brain
 ---
 # [Elder Brain](Elder-brain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/345/1000/1000/637880557486536699.jpeg)
 
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.
 

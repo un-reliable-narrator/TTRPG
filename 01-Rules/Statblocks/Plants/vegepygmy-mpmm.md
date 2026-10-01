@@ -1,17 +1,17 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/small
-- monster/type/plant
+  - src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/small
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vegepygmy"
+  - Vegepygmy
 ---
 # [Vegepygmy](vegepygmy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 252*  

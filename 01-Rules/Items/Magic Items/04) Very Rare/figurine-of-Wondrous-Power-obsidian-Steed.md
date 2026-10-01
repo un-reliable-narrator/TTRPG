@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/very-rare
+  - src/5e/dmg
+  - item/rarity/very-rare
 aliases:
-- "Figurine of Wondrous Power, Obsidian Steed"
+  - Figurine of Wondrous Power, Obsidian Steed
 ---
 # Figurine of Wondrous Power, Obsidian Steed
 *Wondrous item, very rare*  

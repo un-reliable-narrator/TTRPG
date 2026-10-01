@@ -1,16 +1,16 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Enchanter Wizard"
+  - Enchanter Wizard
 ---
 # [Enchanter Wizard](enchanter-Wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261*  

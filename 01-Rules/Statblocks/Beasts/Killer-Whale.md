@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Killer Whale"
+  - Killer Whale
 ---
 # [Killer Whale](Killer-Whale.md)
 *Source: Monster Manual (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/19/1000/1000/638741964332452431.jpeg)
 
 ## Animals
 

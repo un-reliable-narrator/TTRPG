@@ -1,26 +1,28 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/acheron
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/fey/goblinoid
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/acheron
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/fey/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Hobgoblin Warrior"
+  - Hobgoblin Warrior
 ---
 # [Hobgoblin Warrior](Hobgoblin-Warrior.md)
 *Source: Monster Manual (2024) p. 170. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/985/1000/1000/638741964287579099.png)
 
 Hobgoblin warriors might hunt and raid alone or with trained mastiffs, worgs, goblin gangs, or other allies. They employ simple tactics and exploit every advantage their allies provide. They willingly sacrifice companions in their pursuit of victory.
 

@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/14
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Humanoids/gith
+  - src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Humanoids/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githyanki Supreme Commander"
+  - Githyanki Supreme Commander
 ---
 # [Githyanki Supreme Commander](Githyanki-Supreme-Commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/420/1000/1000/637880557629850021.jpeg)
 
 Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [red dragons](Adult-Red-Dragon.md) into battle.
 

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Young Red Dragon"
+  - Young Red Dragon
 ---
 # [Young Red Dragon](young-Red-Dragon.md)
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/406/1000/1000/638741964872368132.png)
 
 Young red dragons number among the most unpredictable of their kind. They seek territories rich with treasures and potential followers, raiding, burning, and slaughtering to enforce their will. Unless these dragons meet significant resistance, they cement their power and begin reigns of terror that can last for centuries.
 

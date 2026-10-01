@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/5
-- monster/size/medium
-- monster/type/Humanoids/cleric
+  - src/5e/bam
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/Humanoids/cleric
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Astral Elf Star Priest"
+  - Astral Elf Star Priest
 ---
 # [Astral Elf Star Priest](Astral-Elf-Star-Priest-bam.md)
 *Source: Boo's Astral Menagerie p. 13, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/799/1000/1000/637961800701094101.jpeg)
 
 Star priests draw their strength from the pantheon of elven gods and oversee religious practices in astral elf society. It's common for them to serve aboard spelljamming ships, not only as emissaries of the gods but also as spelljammers.
 

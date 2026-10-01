@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/weapon/martial
-- item/weapon/melee
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/wondrous/generic-variant
 aliases:
-- "Sword of Life Stealing"
-- "Glaive of Life Stealing"
-- "Greatsword of Life Stealing"
-- "Longsword of Life Stealing"
-- "Rapier of Life Stealing"
-- "Scimitar of Life Stealing"
-- "Shortsword of Life Stealing"
+  - Sword of Life Stealing
+  - Glaive of Life Stealing
+  - Greatsword of Life Stealing
+  - Longsword of Life Stealing
+  - Rapier of Life Stealing
+  - Scimitar of Life Stealing
+  - Shortsword of Life Stealing
 ---
 # Sword of Life Stealing
 *Rare (requires attunement)*  

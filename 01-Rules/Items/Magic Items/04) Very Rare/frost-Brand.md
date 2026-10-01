@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/weapon/martial
-- item/weapon/melee
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/wondrous/generic-variant
 aliases:
-- "Frost Brand"
-- "Frost Brand Glaive"
-- "Frost Brand Greatsword"
-- "Frost Brand Longsword"
-- "Frost Brand Rapier"
-- "Frost Brand Scimitar"
-- "Frost Brand Shortsword"
+  - Frost Brand
+  - Frost Brand Glaive
+  - Frost Brand Greatsword
+  - Frost Brand Longsword
+  - Frost Brand Rapier
+  - Frost Brand Scimitar
+  - Frost Brand Shortsword
 ---
 # Frost Brand
 *Very rare (requires attunement)*  

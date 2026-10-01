@@ -1,29 +1,29 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/light
-- item/armor/medium
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/light
+  - item/armor/medium
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/generic-variant
 aliases:
-- "Armor of Fire Resistance"
-- "Breastplate of Fire Resistance"
-- "Chain Mail of Fire Resistance"
-- "Chain Shirt of Fire Resistance"
-- "Half Plate Armor of Fire Resistance"
-- "Hide Armor of Fire Resistance"
-- "Leather Armor of Fire Resistance"
-- "Padded Armor of Fire Resistance"
-- "Plate Armor of Fire Resistance"
-- "Ring Mail of Fire Resistance"
-- "Scale Mail of Fire Resistance"
-- "Splint Armor of Fire Resistance"
-- "Studded Leather Armor of Fire Resistance"
+  - Armor of Fire Resistance
+  - Breastplate of Fire Resistance
+  - Chain Mail of Fire Resistance
+  - Chain Shirt of Fire Resistance
+  - Half Plate Armor of Fire Resistance
+  - Hide Armor of Fire Resistance
+  - Leather Armor of Fire Resistance
+  - Padded Armor of Fire Resistance
+  - Plate Armor of Fire Resistance
+  - Ring Mail of Fire Resistance
+  - Scale Mail of Fire Resistance
+  - Splint Armor of Fire Resistance
+  - Studded Leather Armor of Fire Resistance
 ---
 # Armor of Fire Resistance
 *Rare (requires attunement)*  

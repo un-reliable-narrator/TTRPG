@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Fiends/yugoloth
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Fiends/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Dhergoloth"
+  - Dhergoloth
 ---
 # [Dhergoloth](Dhergoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/276/1000/1000/637880557368305896.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

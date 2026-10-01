@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- src/5e/xphb
-- optional-feature/ei
+  - src/5e/xphb
+  - optional-feature/ei
 aliases:
-- "Gift of the Depths"
+  - Gift of the Depths
 ---
 # Gift of the Depths
 *Source: Player's Handbook (2024) p. 156*  

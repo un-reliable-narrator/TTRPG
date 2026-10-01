@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- src/5e/xphb
-- feat
+  - src/5e/xphb
+  - feat
 aliases:
-- "Inspiring Leader"
+  - Inspiring Leader
 ---
 # Inspiring Leader
 *Source: Player's Handbook (2024) p. 204*  

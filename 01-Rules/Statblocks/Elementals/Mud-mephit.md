@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/elemental
-- monster/environment/planar
-- monster/size/small
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/elemental
+  - monster/environment/planar
+  - monster/size/small
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mud Mephit"
+  - Mud Mephit
 ---
 # [Mud Mephit](Mud-mephit.md)
 *Source: Monster Manual (2024) p. 207*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/98/1000/1000/638741964438785629.jpeg)
 
 A combination of earth and water, mud mephits are crude, disgusting creatures. They take every opportunity to ruin objects and pollute food with muck.
 

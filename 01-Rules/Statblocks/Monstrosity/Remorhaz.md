@@ -1,17 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/11
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/11
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Remorhaz](Remorhaz.md)
 *Source: Monster Manual (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/196/1000/1000/638741964574336108.png)
 
 Full-grown remorhazes are single-minded ambush predators. They attempt to bite prey and trap it against their searing bodies, then swallow their meal whole. Remorhazes eat as much as they can, since they might go months without feeding.
 

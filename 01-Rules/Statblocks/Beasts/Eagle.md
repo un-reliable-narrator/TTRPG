@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/coastal
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/small
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/coastal
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/small
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Eagle"
+  - Eagle
 ---
 # [Eagle](Eagle.md)
 *Source: Monster Manual (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/782/1000/1000/638741964003618292.png)
 
 ## Animals
 

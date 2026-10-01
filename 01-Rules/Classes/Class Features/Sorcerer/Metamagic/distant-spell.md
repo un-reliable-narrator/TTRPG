@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- src/5e/xphb
-- optional-feature/mm
+  - src/5e/xphb
+  - optional-feature/mm
 aliases:
-- "Distant Spell"
+  - Distant Spell
 ---
 # Distant Spell
 *Source: Player's Handbook (2024) p. 141. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

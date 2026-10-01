@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sea Hag"
+  - Sea Hag
 ---
 # [Sea Hag](Sea-Hag.md)
 *Source: Monster Manual (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/230/1000/1000/638741964621278883.png)
 
 ## Sea Hag
 

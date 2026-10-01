@@ -1,28 +1,28 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/light
-- item/armor/medium
-- item/rarity/uncommon
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/light
+  - item/armor/medium
+  - item/rarity/uncommon
+  - item/wondrous/generic-variant
 aliases:
-- "Mariner's Armor"
-- "Mariner's Breastplate"
-- "Mariner's Chain Mail"
-- "Mariner's Chain Shirt"
-- "Mariner's Half Plate Armor"
-- "Mariner's Hide Armor"
-- "Mariner's Leather Armor"
-- "Mariner's Padded Armor"
-- "Mariner's Plate Armor"
-- "Mariner's Ring Mail"
-- "Mariner's Scale Mail"
-- "Mariner's Splint Armor"
-- "Mariner's Studded Leather Armor"
+  - Mariner's Armor
+  - Mariner's Breastplate
+  - Mariner's Chain Mail
+  - Mariner's Chain Shirt
+  - Mariner's Half Plate Armor
+  - Mariner's Hide Armor
+  - Mariner's Leather Armor
+  - Mariner's Padded Armor
+  - Mariner's Plate Armor
+  - Mariner's Ring Mail
+  - Mariner's Scale Mail
+  - Mariner's Splint Armor
+  - Mariner's Studded Leather Armor
 ---
 # Mariner's Armor
 *Uncommon*  

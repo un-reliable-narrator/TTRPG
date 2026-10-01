@@ -1,17 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/Humanoids/wizard
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/Humanoids/wizard
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Mage](Mage.md)
 *Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/556/1000/1000/638742819089285235.jpeg)
 
 Mages are accomplished spellcasters whose lives have been shaped by magic. They can use their powers to defend or dominate other creatures, or they could focus on magical research and unlocking mystical secrets.
 

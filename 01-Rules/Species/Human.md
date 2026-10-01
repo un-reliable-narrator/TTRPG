@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/xphb
-- race/human
+  - src/5e/xphb
+  - race/human
 aliases:
-- "Human"
+  - Human
 ---
 # Human
 *Source: Player's Handbook (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

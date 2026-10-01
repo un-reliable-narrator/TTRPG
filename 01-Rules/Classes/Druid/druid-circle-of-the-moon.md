@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/druid/moon
+  - src/5e/xphb
+  - subclass/druid/moon
 aliases:
-- "Circle of the Moon"
+  - Circle of the Moon
 ---
 # Circle of the Moon
 *[[01-Rules/Classes/Druid/Druid|Druid]]: Druid Subclass*  

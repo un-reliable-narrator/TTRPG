@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- domain/light
-- subclass/cleric/light
+  - src/5e/xphb
+  - domain/light
+  - subclass/cleric/light
 aliases:
-- "Light Domain"
+  - Light Domain
 ---
 # Light Domain
 *[[Cleric|Cleric]]: Cleric Subclass*  

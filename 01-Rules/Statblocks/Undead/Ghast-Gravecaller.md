@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ghast Gravecaller"
+  - Ghast Gravecaller
 ---
 # [Ghast Gravecaller](Ghast-Gravecaller.md)
 *Source: Monster Manual (2024) p. 130*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/836/1000/1000/638741964079851978.png)
 
 Ghast gravecallers wield fell magic and converse with corpses. They might pose as liches or vampires.
 

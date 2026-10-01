@@ -1,17 +1,17 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/tiny
-- monster/type/Beasts/dinosaur
+  - src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/tiny
+  - monster/type/Beasts/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Velociraptor"
+  - Velociraptor
 ---
 # [Velociraptor](velociraptor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  

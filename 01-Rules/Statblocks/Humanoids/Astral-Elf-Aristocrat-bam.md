@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/8
-- monster/size/medium
-- monster/type/Humanoids/wizard
+  - src/5e/bam
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/Humanoids/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Astral Elf Aristocrat"
+  - Astral Elf Aristocrat
 ---
 # [Astral Elf Aristocrat](Astral-Elf-Aristocrat-bam.md)
 *Source: Boo's Astral Menagerie p. 11, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/790/1000/1000/637961800680190391.jpeg)
 
 An astral elf aristocrat is a brilliant, highborn leader gifted with magical abilities, including the power to channel sunlight and summon a solar dragon.
 

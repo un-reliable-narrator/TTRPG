@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/17
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/17
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Death Knight"
+  - Death Knight
 ---
 # [Death Knight](Death-Knight.md)
 *Source: Monster Manual (2024) p. 92*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/749/1000/1000/638741963959973998.jpeg)
 
 Death knights are deadly combatants and domineering commanders with grim histories. Some strive to end the curses that doom them to undeath, though their selfish souls eternally shackle them to their fates. Others, like the infamous death knight Lord Soth, brood in dismal ruins for centuries, rousing themselves to action only when something reignites their deathless evil.
 

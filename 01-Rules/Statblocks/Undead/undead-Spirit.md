@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xphb
-- monster/cr/
-- monster/size/medium
-- monster/type/undead
+  - src/5e/xphb
+  - monster/cr/
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Undead Spirit"
+  - Undead Spirit
 ---
 # [Undead Spirit](undead-Spirit.md)
 *Source: Player's Handbook (2024) p. 328*  

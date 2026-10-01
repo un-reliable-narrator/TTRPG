@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/uncommon
-- item/shield/
+  - src/5e/dmg
+  - item/rarity/uncommon
+  - item/shield/
 aliases:
-- "Sentinel Shield"
+  - Sentinel Shield
 ---
 # Sentinel Shield
 *Armor ([Shield](01-Rules/Spells/Core/Level%201/Shield.md)), uncommon*  

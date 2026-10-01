@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/20
-- monster/environment/desert
-- monster/size/gargantuan
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/20
+  - monster/environment/desert
+  - monster/size/gargantuan
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ancient Brass Dragon"
+  - Ancient Brass Dragon
 ---
 # [Ancient Brass Dragon](Ancient-Brass-Dragon.md)
 *Source: Monster Manual (2024) p. 56. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/582/1000/1000/638741963729183240.jpeg)
 
 Ancient brass dragons create worlds-spanning networks. They combat forces of repression and misinformation, helping people learn from the mistakes of the past. Either personally or through webs of messengers, ancient brass dragons keep allies informed about challenges they can face together.
 

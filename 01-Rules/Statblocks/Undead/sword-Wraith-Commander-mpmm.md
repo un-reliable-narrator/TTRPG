@@ -1,17 +1,17 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/8
-- monster/environment/grassland
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/undead
+  - src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/grassland
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sword Wraith Commander"
+  - Sword Wraith Commander
 ---
 # [Sword Wraith Commander](sword-Wraith-Commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  

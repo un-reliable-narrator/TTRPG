@@ -25,7 +25,7 @@ aliases:
 | 4 | [Aarakocra Aeromancer](Aarakocra-Aeromancer.md), [ettin](ettin.md), [Red Dragon Wyrmling](red-Dragon-Wyrmling.md) |
 | 5 | [Air Elemental](Air-Elemental.md), [Bulette](Bulette.md), [Earth Elemental](earth-Elemental.md), [troll](troll.md) |
 | 6 | [Azer Pyromancer](Azer-Pyromancer.md), [Chimera](Chimera.md), [Cyclops Sentry](Cyclops-Sentry.md), [Galeb Duhr](Galeb-Duhr.md), [Hobgoblin Warlord](Hobgoblin-Warlord.md), [wyvern](wyvern.md) |
-| 7 | [Stone Giant](stone-Giant.md) |
+| 7 | [Stone Giant](Stone-Giant.md) |
 | 8 | [Frost Giant](frost-Giant.md) |
 | 9 | [Cloud Giant](Cloud-Giant.md), [Fire Giant](fire-Giant.md), [Young Silver Dragon](young-Silver-Dragon.md) |
 | 10 | [Cyclops Oracle](Cyclops-Oracle.md), [Young Red Dragon](young-Red-Dragon.md) |

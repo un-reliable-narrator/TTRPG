@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/xphb
-- race/aasimar
+  - src/5e/xphb
+  - race/aasimar
 aliases:
-- "Aasimar"
+  - Aasimar
 ---
 # Aasimar
 *Source: Player's Handbook (2024) p. 186*  

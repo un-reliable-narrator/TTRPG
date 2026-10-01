@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/13
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small-or-medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small-or-medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vampire"
+  - Vampire
 ---
 # [Vampire](Vampire.md)
 *Source: Monster Manual (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/340/1000/1000/638741964775011927.png)
 
 Vampires are terrifying hunters and manipulators. They use their powers to shape-shift and bend other creatures' wills as they terrorize and feed on populations over generations.
 

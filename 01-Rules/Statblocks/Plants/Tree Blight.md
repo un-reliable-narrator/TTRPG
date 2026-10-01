@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/forest
-- monster/size/huge
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Tree Blight"
+  - Tree Blight
 ---
 # Tree Blight
 *Source: Monster Manual (2024) p. 44*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/309/1000/1000/638741964734777521.png)
 
 Tree blights look like ancient, dead trees with gnarled limbs and splintered hollows. Imbued with bloodlust, these blights feed on the living. Evidence of their past meals is often tangled amid their branches and roots. Tree blights cooperate with other blights, but they attack other tree-shaped beings they encounter, such as awakened trees and treants.
 

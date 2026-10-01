@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/lower
-- monster/environment/planar
-- monster/size/large
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/lower
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Nightmare"
+  - Nightmare
 ---
 # [Nightmare](Nightmare.md)
 *Source: Monster Manual (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/119/1000/1000/638741964467093774.png)
 
 ## Nightmare
 

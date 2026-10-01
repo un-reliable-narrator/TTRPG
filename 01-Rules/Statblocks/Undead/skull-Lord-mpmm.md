@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/15
-- monster/environment/desert
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/undead/sorcerer
+  - src/5e/mpmm
+  - monster/cr/15
+  - monster/environment/desert
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/undead/sorcerer
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Skull Lord"
+  - Skull Lord
 ---
 # [Skull Lord](skull-Lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/648/1000/1000/637880558001961972.jpeg)
 
 Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
 

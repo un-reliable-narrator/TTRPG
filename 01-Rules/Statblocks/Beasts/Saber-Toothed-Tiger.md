@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Saber-Toothed Tiger"
+  - Saber-Toothed Tiger
 ---
 # [Saber-Toothed Tiger](Saber-Toothed-Tiger.md)
 *Source: Monster Manual (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/208/1000/1000/638741964592184244.png)
 
 ## Animals
 

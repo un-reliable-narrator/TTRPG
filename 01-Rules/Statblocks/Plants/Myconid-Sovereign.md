@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/underdark
-- monster/size/large
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Myconid Sovereign"
+  - Myconid Sovereign
 ---
 # [Myconid Sovereign](Myconid-Sovereign.md)
 *Source: Monster Manual (2024) p. 223*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/106/1000/1000/638741964449554623.jpeg)
 
 Myconid sovereigns resemble towering myconid adults with elaborate fungal growths. They direct their lesser kin and see to the health and growth of vast fungal blooms.
 

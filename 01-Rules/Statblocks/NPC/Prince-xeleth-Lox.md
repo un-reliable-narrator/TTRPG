@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/8
-- monster/size/medium
-- monster/type/Humanoids/wizard
+  - src/5e/lox
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/Humanoids/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Prince Xeleth"
+  - Prince Xeleth
 ---
 # [Prince Xeleth](Prince-xeleth-Lox.md)
 *Source: Light of Xaryxis p. 48*  

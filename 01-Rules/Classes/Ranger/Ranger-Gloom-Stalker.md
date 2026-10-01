@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/ranger/gloom-stalker
+  - src/5e/xphb
+  - subclass/ranger/gloom-stalker
 aliases:
-- "Gloom Stalker"
+  - Gloom Stalker
 ---
 # Gloom Stalker
 *[[Ranger|Ranger]]: Ranger Subclass*  

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/legendary
+  - src/5e/dmg
+  - item/rarity/legendary
 aliases:
-- "Iron Flask"
+  - Iron Flask
 ---
 # Iron Flask
 *Wondrous item, legendary*  
@@ -21,7 +21,7 @@ An [Identify](Identify.md) spell reveals if the flask contains a creature, but t
 | ----------- | --------------------------------------------------- |
 | 01-50       | No creature                                         |
 | 51          | [Arcanaloth](Arcanaloth.md)                            |
-| 52-54       | [Bone Devil](bone-Devil.md)                            |
+| 52-54       | [Bone Devil](Bone-Devil.md)                            |
 | 55-56       | [Cambion](Cambion.md)                                  |
 | 57-58       | [Dao](Dao.md)                                          |
 | 59          | [Deva](Deva.md)                                        |

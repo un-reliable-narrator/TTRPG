@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/9
-- monster/size/large
-- monster/type/dragon
+  - src/5e/bam
+  - monster/cr/9
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Young Solar Dragon"
+  - Young Solar Dragon
 ---
 # [Young Solar Dragon](young-Solar-Dragon-bam.md)
 *Source: Boo's Astral Menagerie p. 53, Light of Xaryxis*  

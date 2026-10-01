@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-reward
+  - json5e-reward
 tags:
-- src/5e/dmg
-- reward/blessing
+  - src/5e/dmg
+  - reward/blessing
 aliases:
-- "Blessing of Wound Closure"
+  - Blessing of Wound Closure
 ---
 # Blessing of Wound Closure
 

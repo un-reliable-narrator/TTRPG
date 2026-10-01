@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/gargantuan
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/gargantuan
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Haunting Revenant"
+  - Haunting Revenant
 ---
 # [Haunting Revenant](Haunting-Revenant.md)
 *Source: Monster Manual (2024) p. 260*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/966/1000/1000/638741964258660982.jpeg)
 
 Haunting revenants possess ruins and forsaken places connected with their deaths—such as abandoned buildings, wrecked ships, or junk heaps. These revenants lurk in plain sight, waiting for their foes to near, then trap their victims within their massive bodies. Those inside a revenant might be battered by animate furnishings or more unsettling manifestations of the revenant's hatred.
 

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/age/futuristic
-- item/gear/ammunition-firearm
-- item/rarity/none
+  - src/5e/dmg
+  - item/age/futuristic
+  - item/gear/ammunition-firearm
+  - item/rarity/none
 aliases:
-- "Energy Cell"
+  - Energy Cell
 ---
 # Energy Cell
 *Ammunition (firearm)*  

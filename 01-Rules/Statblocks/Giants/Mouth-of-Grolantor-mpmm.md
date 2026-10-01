@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/6
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/huge
-- monster/type/Giants/hill-giant
+  - src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/huge
+  - monster/type/Giants/hill-giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mouth of Grolantor"
+  - Mouth of Grolantor
 ---
 # [Mouth of Grolantor](Mouth-of-Grolantor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/549/1000/1000/637880557851320431.jpeg)
 
 Hill giants consume spoiled food and diseased carcasses with as much enthusiasm as children eating dessert and rarely suffer for such eating habits. When one of their kind becomes incapable of keeping down food, that giant is seen, among hill giant worshipers of the god Grolantor, as the vessel of a message from the deity.
 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/gear/gaming-set
-- item/rarity/none
+  - src/5e/xphb
+  - item/gear/gaming-set
+  - item/rarity/none
 aliases:
-- "Three-Dragon Ante Set"
+  - Three-Dragon Ante Set
 ---
 # Three-Dragon Ante Set
 *Gaming set*  

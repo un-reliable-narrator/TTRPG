@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/abyss
-- monster/environment/planar
-- monster/size/large
-- monster/type/Fiends/demon
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/abyss
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Chasme"
+  - Chasme
 ---
 # [Chasme](Chasme.md)
 *Source: Monster Manual (2024) p. 69*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/704/1000/1000/638741963899249766.png)
 
 ## Chasme
 

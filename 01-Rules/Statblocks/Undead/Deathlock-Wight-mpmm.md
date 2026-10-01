@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/size/medium
-- monster/type/undead/warlock
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/undead/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Deathlock Wight"
+  - Deathlock Wight
 ---
 # [Deathlock Wight](Deathlock-Wight-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/252/1000/1000/637880557326632025.jpeg)
 
 Deprived of much of its magic as a special punishment, a deathlock wight lingers between the warlock it was and the wretched existence of a wight.
 

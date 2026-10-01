@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/tabaxi
+  - src/5e/mpmm
+  - race/tabaxi
 aliases:
-- "Tabaxi"
+  - Tabaxi
 ---
 # Tabaxi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 33*  

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/11
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/11
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Death Knight Aspirant"
+  - Death Knight Aspirant
 ---
 # [Death Knight Aspirant](Death-Knight-Aspirant.md)
 *Source: Monster Manual (2024) p. 93*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/746/1000/1000/638741963957014513.png)
 
 When the leader of a villainous order rises as a death knight, their wicked devotees might join them in their cursed existence as death knight aspirants. These followers bear a measure of their leader's power and serve as they did in life, obediently following the death knight's decrees and heralding its terrible will.
 

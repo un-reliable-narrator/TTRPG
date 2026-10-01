@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Trapper"
+  - Trapper
 ---
 # [Trapper](trapper-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 245*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/724/1000/1000/637880558112292653.jpeg)
 
 A trapper is a manta-like creature that usually lurks in subterranean environments. It can change the color and texture of its tough, outward-facing side to help it blend in with its surroundings, while its soft, inward-facing side clings to the floor, wall, or ceiling in its hunting territory. It remains motionless as it waits for prey to come close. When a target is within its reach, it peels itself away from the surface and wraps around its prey, crushing, smothering, and then digesting it. Only a scattering of bones, metal, treasure, and other indigestible bits is left behind.
 

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/abyss
-- monster/environment/planar
-- monster/size/tiny
-- monster/type/Fiends/demon
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/abyss
+  - monster/environment/planar
+  - monster/size/tiny
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Quasit"
+  - Quasit
 ---
 # [Quasit](Quasit.md)
 *Source: Monster Manual (2024) p. 252, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/646/1000/1000/638742823656416310.png)
 
 ## Quasit
 

@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/planar
-- monster/size/tiny
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/planar
+  - monster/size/tiny
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sprite"
+  - Sprite
 ---
-# [Sprite](sprite.md)
+# [Sprite](Sprite.md)
 *Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![209](https://www.dndbeyond.com/avatars/thumbnails/47158/673/1000/1000/638742824960143576.png)
 
 ## Sprite
 

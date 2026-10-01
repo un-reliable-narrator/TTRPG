@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/coastal
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/coastal
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kuo-toa Archpriest"
+  - Kuo-toa Archpriest
 ---
 # [Kuo-toa Archpriest](Kuo-Toa-Archpriest.md)
 *Source: Monster Manual (2024) p. 191*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/25/1000/1000/638741964341233207.png)
 
 Kuo-toa archpriests lead kuo-toa communities by interpreting omens and messages from their strange gods. They wear grotesque ceremonial regalia honoring their deities. Archpriests channel their faith into spells to support their followers.
 

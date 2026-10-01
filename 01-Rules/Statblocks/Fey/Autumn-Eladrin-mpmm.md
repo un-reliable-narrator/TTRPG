@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/forest
-- monster/size/medium
-- monster/type/fey/elf
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/fey/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Autumn Eladrin"
+  - Autumn Eladrin
 ---
 # [Autumn Eladrin](Autumn-Eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25814/920/1000/1000/637883017262154458.jpeg)
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
 

@@ -1,17 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Troglodyte](Troglodyte.md)
 *Source: Monster Manual (2024) p. 309*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/313/1000/1000/638741964740568631.png)
 
 ## Troglodyte
 *Reeking Subterranean Hunter*

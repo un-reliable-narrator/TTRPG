@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ogre Battering Ram"
+  - Ogre Battering Ram
 ---
 # [Ogre Battering Ram](ogre-battering-Ram-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/587/1000/1000/637880557906495399.jpeg)
 
 An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
 

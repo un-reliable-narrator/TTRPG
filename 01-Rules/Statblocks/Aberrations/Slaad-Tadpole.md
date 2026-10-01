@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/limbo
-- monster/environment/planar
-- monster/size/tiny
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/limbo
+  - monster/environment/planar
+  - monster/size/tiny
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Slaad Tadpole"
+  - Slaad Tadpole
 ---
 # [Slaad Tadpole](Slaad-Tadpole.md)
 *Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357. Available in the Free Rules (2024)*  
+
+![420](https://www.dndbeyond.com/avatars/thumbnails/43939/836/1000/1000/638607432319122375.png)
 
 Slaad tadpoles are ravenous, newborn slaadi. They hatch from eggs implanted into living hosts by red slaadi, but they also appear in great numbers in Limbo and other chaotic realms. Under most conditions, a slaad tadpole transforms into a blue slaad—or a green slaad if its host was able to cast spells of level 3 or higher—within `dice: 2d12` hours of hatching.
 

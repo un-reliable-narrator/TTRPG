@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/3
-- monster/size/small
-- monster/type/aberration
+  - src/5e/bam
+  - monster/cr/3
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Neogi Pirate"
+  - Neogi Pirate
 ---
 # [Neogi Pirate](Neogi-Pirate-bam.md)
 *Source: Boo's Astral Menagerie p. 41, Light of Xaryxis*  

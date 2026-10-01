@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/ooze
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Slithering Tracker"
+  - Slithering Tracker
 ---
 # [Slithering Tracker](slithering-Tracker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/651/1000/1000/637880558006828597.jpeg)
 
 The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can't go and brings its own brand of watery death down on its quarry.
 

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberrations/mind-flayer
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberrations/mind-flayer
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ulitharid"
+  - Ulitharid
 ---
 # [Ulitharid](ulitharid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/727/1000/1000/637880558116852946.jpeg)
 
 Very rarely, when a tadpole from the brine pool of an [elder brain](Elder-brain-mpmm.md) is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [mind flayer](Mind-flayer.md) with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [elder brain's](Elder-brain-mpmm.md) reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [elder brain](Elder-brain-mpmm.md) perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
 

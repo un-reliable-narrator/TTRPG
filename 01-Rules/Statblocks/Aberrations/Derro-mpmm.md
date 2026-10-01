@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/small
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Derro"
+  - Derro
 ---
 # [Derro](Derro-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/270/1000/1000/637880557358314984.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

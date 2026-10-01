@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/12
-- monster/environment/limbo
-- monster/environment/planar
-- monster/size/medium
-- monster/type/aberrations/gith
+  - src/5e/xmm
+  - monster/cr/12
+  - monster/environment/limbo
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/aberrations/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githzerai Psion"
+  - Githzerai Psion
 ---
 # [Githzerai Psion](Githzerai-Psion.md)
 *Source: Monster Manual (2024) p. 137*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/904/1000/1000/638741964174433972.png)
 
 These powerful psions oversee githzerai sanctuaries, study enigmatic planar events, and lead rrakkma—hostile forays into mind flayer colonies to slay illithids and uncover secrets of how the ancient gith were transformed.
 

@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ogre Howdah"
+  - Ogre Howdah
 ---
 # [Ogre Howdah](ogre-howdah-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/590/1000/1000/637880557911255889.jpeg)
 
 The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [goblins](Goblin-Warrior.md) into battle, or perhaps [kobolds](Kobold-Warrior.md) or deep gnomes, but they might also transport other Small folk.
 

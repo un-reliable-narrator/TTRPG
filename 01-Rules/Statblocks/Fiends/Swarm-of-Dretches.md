@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/abyss
-- monster/environment/planar
-- monster/size/large
-- monster/type/Fiends/demon
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/abyss
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Swarm of Dretches"
+  - Swarm of Dretches
 ---
 # [Swarm of Dretches](Swarm-of-Dretches.md)
 *Source: Monster Manual (2024) p. 104*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58416/537/1000/1000/639226693889940409.jpeg)
 
 Swarms of dretches sometimes escape the Abyss onto other planes of existence, or they might be part of a demonic invasion. Without direction, these crude demons rampage and despoil with cruel enthusiasm.
 

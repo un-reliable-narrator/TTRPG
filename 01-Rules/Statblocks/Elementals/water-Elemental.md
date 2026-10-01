@@ -1,23 +1,25 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/coastal
-- monster/environment/planar
-- monster/environment/swamp
-- monster/environment/underwater
-- monster/environment/water
-- monster/size/large
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/coastal
+  - monster/environment/planar
+  - monster/environment/swamp
+  - monster/environment/underwater
+  - monster/environment/water
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Water Elemental"
+  - Water Elemental
 ---
 # [Water Elemental](water-Elemental.md)
 *Source: Monster Manual (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/360/1000/1000/638741964804728866.png)
 
 ## Water Elemental
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/3
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/bam
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Astral Elf Warrior"
+  - Astral Elf Warrior
 ---
 # [Astral Elf Warrior](Astral-Elf-Warrior-bam.md)
 *Source: Boo's Astral Menagerie p. 13, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/802/1000/1000/637961800707333935.jpeg)
 
 Astral elf warriors operate elven spelljamming ships and defend elven strongholds throughout the Astral Plane.
 

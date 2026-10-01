@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Humanoids/dwarf
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Humanoids/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Duergar Soulblade"
+  - Duergar Soulblade
 ---
 # [Duergar Soulblade](Duergar-Soulblade-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 109*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/326/1000/1000/637880557452653775.jpeg)
 
 Soulblades are duergar combatants whose mastery of psionics allows them to manifest blades of psychic energy to slice apart their foes.
 

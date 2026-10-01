@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/planar
-- monster/environment/upper
-- monster/size/large
-- monster/type/celestial
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/planar
+  - monster/environment/upper
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Guardian Naga"
+  - Guardian Naga
 ---
 # [Guardian Naga](Guardian-Naga.md)
 *Source: Monster Manual (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/958/1000/1000/638741964245986047.jpeg)
 
 ## Guardian Naga
 

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/underdark
-- monster/size/large
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bone Naga"
+  - Bone Naga
 ---
 # [Bone Naga](bone-naga.md)
 *Source: Monster Manual (2024) p. 53*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47159/415/1000/1000/638742858657911692.png)
 
 ## Bone Naga
 

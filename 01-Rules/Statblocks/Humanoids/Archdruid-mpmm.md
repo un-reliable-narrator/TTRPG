@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/12
-- monster/environment/forest
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/Humanoids/druid
+  - src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/forest
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/Humanoids/druid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Archdruid"
+  - Archdruid
 ---
 # [Archdruid](Archdruid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 48*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/138/1000/1000/637880557134194287.jpeg)
 
 Archdruids watch over the natural wonders of their domains. They seldom interact with folk away from their druid groves and shrines, unless there is a great threat to the natural order or to a nearby community. An archdruid typically has one or more pupils who are [druids](Druid-xmm.md), and the archdruid's lair is usually guarded by loyal Beasts and Fey creatures.
 

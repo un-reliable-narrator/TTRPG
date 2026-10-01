@@ -1,23 +1,25 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/fey/goblinoid
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/fey/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bugbear Warrior"
+  - Bugbear Warrior
 ---
 # [Bugbear Warrior](Bugbear-Warrior.md)
 *Source: Monster Manual (2024) p. 62. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/288/1000/1000/638742808059284739.png)
 
 Bugbear warriors serve those who offer them treasure, food, or the chance to hunt challenging prey.
 

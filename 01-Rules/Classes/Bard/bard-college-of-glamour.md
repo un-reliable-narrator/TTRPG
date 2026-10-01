@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/bard/glamour
+  - src/5e/xphb
+  - subclass/bard/glamour
 aliases:
-- "College of Glamour"
+  - College of Glamour
 ---
 # College of Glamour
 *[[Bard|Bard]]: Bard Subclass*  

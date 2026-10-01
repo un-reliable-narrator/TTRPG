@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/5
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/bam
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Astral Elf Honor Guard"
+  - Astral Elf Honor Guard
 ---
 # [Astral Elf Honor Guard](Astral-Elf-honor-Guard-bam.md)
 *Source: Boo's Astral Menagerie p. 12, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/796/1000/1000/637961800694854277.jpeg)
 
 The safety of important individuals and locations is entrusted to astral elf honor guards, highly trained warriors who are more than capable of holding their own in combat.
 

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/shield/
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/shield/
 aliases:
-- "Arrow-Catching Shield"
+  - Arrow-Catching Shield
 ---
 # Arrow-Catching Shield
 *Armor ([Shield](01-Rules/Spells/Core/Level%201/Shield.md)), rare (requires attunement)*  

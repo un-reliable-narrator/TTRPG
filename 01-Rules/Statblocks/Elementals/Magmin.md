@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/fire
-- monster/environment/planar
-- monster/size/small
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/fire
+  - monster/environment/planar
+  - monster/size/small
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Magmin"
+  - Magmin
 ---
 # [Magmin](Magmin.md)
 *Source: Monster Manual (2024) p. 200. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/51/1000/1000/638741964374746091.png)
 
 ## Magmin
 

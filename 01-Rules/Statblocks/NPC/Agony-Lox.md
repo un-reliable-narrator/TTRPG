@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/4
-- monster/size/medium
-- monster/type/undead
+  - src/5e/lox
+  - monster/cr/4
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Agony"
+  - Agony
 ---
 # [Agony](Agony-Lox.md)
 *Source: Light of Xaryxis p. 34*  

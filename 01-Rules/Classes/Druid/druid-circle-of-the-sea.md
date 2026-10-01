@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/druid/sea
+  - src/5e/xphb
+  - subclass/druid/sea
 aliases:
-- "Circle of the Sea"
+  - Circle of the Sea
 ---
 # Circle of the Sea
 *[[01-Rules/Classes/Druid/Druid|Druid]]: Druid Subclass*  

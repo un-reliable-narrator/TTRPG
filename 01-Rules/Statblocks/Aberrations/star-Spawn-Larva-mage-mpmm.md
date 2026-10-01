@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/16
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/16
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Star Spawn Larva Mage"
+  - Star Spawn Larva Mage
 ---
 # [Star Spawn Larva Mage](star-Spawn-Larva-mage-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/670/1000/1000/637880558034834405.jpeg)
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
 

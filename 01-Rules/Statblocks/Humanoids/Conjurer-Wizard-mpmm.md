@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/6
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Conjurer Wizard"
+  - Conjurer Wizard
 ---
 # [Conjurer Wizard](Conjurer-Wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/237/1000/1000/637880557303639850.jpeg)
 
 Conjurers summon creatures from other planes of existence and teleport themselves and others in the blink of an eye.
 

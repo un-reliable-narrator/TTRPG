@@ -1,23 +1,25 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Skulk"
+  - Skulk
 ---
 # [Skulk](skulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/645/1000/1000/637880557996779073.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

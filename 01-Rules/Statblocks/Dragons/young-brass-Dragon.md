@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/desert
-- monster/size/large
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Young Brass Dragon"
+  - Young Brass Dragon
 ---
 # [Young Brass Dragon](young-brass-Dragon.md)
 *Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/396/1000/1000/638741964857656989.png)
 
 Young brass dragons travel extensively, often spending a few years in a region before circling back to their lair. Some work closely with other metallic dragons, carrying information between allies.
 

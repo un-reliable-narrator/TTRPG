@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/15
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/15
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Nabassu"
+  - Nabassu
 ---
 # [Nabassu](Nabassu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/552/1000/1000/637880557856210763.jpeg)
 
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
 

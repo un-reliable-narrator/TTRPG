@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Thri-kreen Psion"
+  - Thri-kreen Psion
 ---
 # [Thri-kreen Psion](thri-Kreen-Psion.md)
 *Source: Monster Manual (2024) p. 306*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/303/1000/1000/638741964726664497.jpeg)
 
 Thri-kreen psions harness their psychic powers to avoid danger and manipulate objects from afar.
 

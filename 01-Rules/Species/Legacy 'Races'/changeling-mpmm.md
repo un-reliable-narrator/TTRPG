@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/changeling
+  - src/5e/mpmm
+  - race/changeling
 aliases:
-- "Changeling"
+  - Changeling
 ---
 # Changeling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 10*  

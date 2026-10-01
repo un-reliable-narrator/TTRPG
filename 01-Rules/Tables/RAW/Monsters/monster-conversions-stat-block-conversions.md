@@ -21,7 +21,7 @@ aliases:
 | [Androsphinx](sphinx-of-valor.md)                                        | [Sphinx of Valor](sphinx-of-valor.md)                       |
 | [Azer](Azer-Sentinel.md)                                                    | [Azer Sentinel](Azer-Sentinel.md)                              |
 | [Bugbear](Bugbear-Warrior.md)                                               | [Bugbear Warrior](Bugbear-Warrior.md)                          |
-| [Bullywug](bullywug-Warrior.md)                                             | [Bullywug Warrior](bullywug-Warrior.md)                        |
+| [Bullywug](Bullywug-Warrior.md)                                             | [Bullywug Warrior](Bullywug-Warrior.md)                        |
 | [Centaur](Centaur-Trooper.md)                                               | [Centaur Trooper](Centaur-Trooper.md)                          |
 | [Cult Fanatic](Cultist-Fanatic.md)                                          | [Cultist Fanatic](Cultist-Fanatic.md)                          |
 | [Cyclops](Cyclops-Sentry.md)                                                | [Cyclops Sentry](Cyclops-Sentry.md)                            |

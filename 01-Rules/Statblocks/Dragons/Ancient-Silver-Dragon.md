@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/23
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/gargantuan
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/23
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/gargantuan
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ancient Silver Dragon"
+  - Ancient Silver Dragon
 ---
 # [Ancient Silver Dragon](ancient Silver-dragon.md)
 *Source: Monster Manual (2024) p. 280. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/594/1000/1000/638741963746988937.jpeg)
 
 Ancient silver dragons pursue world-wide change. They defend their communities and allies, encouraging them to perform deeds worthy of legend. Some set their sights on other worlds and planes of existence, creating extraplanar alliances or combating multiplanar threats. They might have guises in multiple societies and forge generation-spanning friendships with heroic families or valorous groups.
 

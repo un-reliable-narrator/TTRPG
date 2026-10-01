@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/xphb
+  - src/5e/xphb
 aliases:
-- "Chapter 1: Playing the Game"
+  - "Chapter 1: Playing the Game"
 ---
 # Chapter 1: Playing the Game
 *Source: Player's Handbook (2024), p. 7* 
@@ -505,7 +505,7 @@ Bright Light lets most creatures see normally. Even gloomy days provide Bright L
 
 ##### Dim Light
 
-Dim Light, also called shadows, creates a [Lightly Obscured](lightly-obscured.md) area. An area of Dim Light is usually a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light. A full moon might bathe the land in Dim Light.
+Dim Light, also called shadows, creates a [Lightly Obscured](Lightly-Obscured.md) area. An area of Dim Light is usually a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light. A full moon might bathe the land in Dim Light.
 
 ##### Darkness
 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/common
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/common
 aliases:
-- "Hat of Wizardry"
+  - Hat of Wizardry
 ---
 # Hat of Wizardry
 *Wondrous item, common (requires attunement by a wizard)*  

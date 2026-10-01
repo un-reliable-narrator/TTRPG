@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/rogue/thief
+  - src/5e/xphb
+  - subclass/rogue/thief
 aliases:
-- "Thief"
+  - Thief
 ---
 # Thief
 *[[Rogue|Rogue]]: Rogue Subclass*  

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/lower
-- monster/environment/planar
-- monster/size/medium
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/lower
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Larva"
+  - Larva
 ---
 # [Larva](larva.md)
 *Source: Monster Manual (2024) p. 193*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58415/730/1000/1000/639226666700708182.jpeg)
 
 Larvae have disjointed, painful memories of their past lives. Most desperately avoid other creatures.
 

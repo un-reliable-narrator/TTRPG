@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/huge
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/huge
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Graveyard Revenant"
+  - Graveyard Revenant
 ---
 # [Graveyard Revenant](Graveyard-Revenant.md)
 *Source: Monster Manual (2024) p. 260*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/934/1000/1000/638741964213220912.jpeg)
 
 Graveyard revenants possess dozens of bodies that combine to form grotesque masses. They take revenge on those responsible for mass deaths or institutions that callously ruin lives.
 

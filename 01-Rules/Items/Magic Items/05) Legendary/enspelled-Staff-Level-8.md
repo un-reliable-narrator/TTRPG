@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Enspelled Staff (Level 8)"
+  - Enspelled Staff (Level 8)
 ---
 # Enspelled Staff (Level 8)
 *Staff, weapon, legendary (requires attunement by a Spellcaster)*  

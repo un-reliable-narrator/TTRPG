@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/rarity/none
-- item/vehicle/ship-water
+  - src/5e/xphb
+  - item/rarity/none
+  - item/vehicle/ship-water
 aliases:
-- "Keelboat"
+  - Keelboat
 ---
 # Keelboat
 *Ship, vehicle (water)*  

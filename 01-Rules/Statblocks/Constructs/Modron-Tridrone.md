@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/mechanus
-- monster/environment/planar
-- monster/size/medium
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/mechanus
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Modron Tridrone"
+  - Modron Tridrone
 ---
 # [Modron Tridrone](Modron-Tridrone.md)
 *Source: Monster Manual (2024) p. 217*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/95/1000/1000/638741964435177620.jpeg)
 
 Tridrones oversee lesser modrons and lead them in battle. They're suspicious of any data provided by non-modrons.
 

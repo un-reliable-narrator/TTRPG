@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/12
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/urban
-- monster/size/large
-- monster/type/undead
+  - src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Boneclaw"
+  - Boneclaw
 ---
 # [Boneclaw](boneclaw-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/192/1000/1000/637880557224942642.jpeg)
 
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
 

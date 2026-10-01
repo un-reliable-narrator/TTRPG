@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Deer](Deer.md)
 *Source: Monster Manual (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/755/1000/1000/638741963968756119.png)
 
 ## Animals
 

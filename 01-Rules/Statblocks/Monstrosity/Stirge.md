@@ -1,24 +1,26 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Stirge](Stirge.md)
 *Source: Monster Manual (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/273/1000/1000/638741964683293393.png)
 
 A single stirge is usually little more than an annoyance, but several can be deadly if they attach faster than a victim can remove them.
 

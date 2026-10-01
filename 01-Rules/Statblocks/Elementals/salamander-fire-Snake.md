@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/fire
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/fire
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Salamander Fire Snake"
+  - Salamander Fire Snake
 ---
 # [Salamander Fire Snake](salamander-fire-Snake.md)
 *Source: Monster Manual (2024) p. 266*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/216/1000/1000/638741964603608103.png)
 
 Juvenile salamanders emerge from burning hot, two-foot-diameter eggs. Called fire snakes, these serpent-like creatures slither through the Plane of Fire and other intensely hot places. After consuming the proper fuels and exposing themselves to fiery extremes, fire snakes grow into salamanders.
 

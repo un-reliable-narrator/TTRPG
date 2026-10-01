@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/8
-- monster/size/medium
-- monster/type/celestial
+  - src/5e/lox
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Hastain"
+  - Hastain
 ---
 # [Hastain](Hastain-Lox.md)
 *Source: Light of Xaryxis p. 25*  

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/age/modern
-- item/rarity/none
-- item/weapon/explosive
+  - src/5e/dmg
+  - item/age/modern
+  - item/rarity/none
+  - item/weapon/explosive
 aliases:
-- "Dynamite Stick"
+  - Dynamite Stick
 ---
 # Dynamite Stick
 *Explosive*  

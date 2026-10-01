@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/12
-- monster/size/gargantuan
-- monster/type/aberration
+  - src/5e/bam
+  - monster/cr/12
+  - monster/size/gargantuan
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Esthetic"
+  - Esthetic
 ---
 # [Esthetic](esthetic-bam.md)
 *Source: Boo's Astral Menagerie p. 20, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/829/1000/1000/637961800754913369.jpeg)
 
 An esthetic is a biological, symbiotic creation of a reigar. It is essentially an organic ship with only the barest hint of awareness. Without its reigar to guide it, an esthetic becomes a nearly mindless entity with an instinct for self-preservation.
 

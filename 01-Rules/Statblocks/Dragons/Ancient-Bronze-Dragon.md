@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/22
-- monster/environment/coastal
-- monster/size/gargantuan
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/22
+  - monster/environment/coastal
+  - monster/size/gargantuan
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ancient Bronze Dragon"
+  - Ancient Bronze Dragon
 ---
 # [Ancient Bronze Dragon](Ancient-Bronze-Dragon.md)
 *Source: Monster Manual (2024) p. 60. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/584/1000/1000/638741963732619438.jpeg)
 
 Ancient bronze dragons develop dramatic patinas on their glimmering scales. These dragons strive to protect whole regions, continents, or planets from threats. They seek solutions to planes-spanning calamities or multiversal perils and oppose the evil of mighty chromatic dragons.
 

@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/medium
-- item/attunement/required
-- item/rarity/very-rare
+  - src/5e/dmg
+  - item/armor/medium
+  - item/attunement/required
+  - item/rarity/very-rare
 aliases:
-- "White Dragon Scale Mail"
+  - White Dragon Scale Mail
 ---
 # White Dragon Scale Mail
 *Medium armor ([scale mail](Scale-Mail.md)), very rare (requires attunement)*  

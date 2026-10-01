@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/13
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Beholder"
+  - Beholder
 ---
 # [Beholder](Beholder.md)
 *Source: Monster Manual (2024) p. 36*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/665/1000/1000/638741963843965275.png)
 
 ## Beholder
 

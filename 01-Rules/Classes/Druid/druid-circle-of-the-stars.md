@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/druid/stars
+  - src/5e/xphb
+  - subclass/druid/stars
 aliases:
-- "Circle of the Stars"
+  - Circle of the Stars
 ---
 # Circle of the Stars
 *[[01-Rules/Classes/Druid/Druid|Druid]]: Druid Subclass*  

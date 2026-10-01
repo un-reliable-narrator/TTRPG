@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Intellect Devourer"
+  - Intellect Devourer
 ---
 # [Intellect Devourer](Intellect-Devourer.md)
 *Source: Monster Manual (2024) p. 179*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/4/1000/1000/638741964312602766.png)
 
 ## Intellect Devourer
 

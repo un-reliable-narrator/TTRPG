@@ -1,18 +1,18 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/coastal
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/Beasts/dinosaur
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/coastal
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/Beasts/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Quetzalcoatlus"
+  - Quetzalcoatlus
 ---
 # [Quetzalcoatlus](quetzalcoatlus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  

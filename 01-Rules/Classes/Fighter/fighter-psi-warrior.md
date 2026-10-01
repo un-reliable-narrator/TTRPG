@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/fighter/psi-warrior
+  - src/5e/xphb
+  - subclass/fighter/psi-warrior
 aliases:
-- "Psi Warrior"
+  - Psi Warrior
 ---
 # Psi Warrior
 *[Fighter](Fighter.md): Fighter Subclass*  

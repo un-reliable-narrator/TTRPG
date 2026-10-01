@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/coastal
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/coastal
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kuo-toa Monitor"
+  - Kuo-toa Monitor
 ---
 # [Kuo-toa Monitor](Kuo-Toa-monitor.md)
 *Source: Monster Manual (2024) p. 190*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47396/154/1000/1000/638752488566211403.jpeg)
 
 Kuo-toa monitors control the day-to-day life of weaker kuo-toa, directing their work and worship. They also train beasts or monsters in the kuo-toa's service—such as chuuls or giant crabs—and command them in battle. Archpriests bless monitors with the power to control their underlings and to subdue foes with electricity channeled through their bizarre whips.
 

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/dragon
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Faerie Dragon Adult"
+  - Faerie Dragon Adult
 ---
 # [Faerie Dragon Adult](faerie-Dragon-Adult.md)
 *Source: Monster Manual (2024) p. 117*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/806/1000/1000/638741964039483543.jpeg)
 
 The pranks of faerie dragon adults tend to lead others to people in need or wrongs to be righted.
 

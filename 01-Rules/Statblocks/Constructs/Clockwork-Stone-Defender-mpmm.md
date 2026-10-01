@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/construct
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Clockwork Stone Defender"
+  - Clockwork Stone Defender
 ---
 # [Clockwork Stone Defender](Clockwork-Stone-Defender-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/232/1000/1000/637880557295319136.jpeg)
 
 The thick plates of stone riveted onto a stone [defender](defender.md) give it substantial protection. Its chief role is as a bodyguard.
 

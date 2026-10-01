@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/13
-- monster/size/medium
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/13
+  - monster/size/medium
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Narzugon"
+  - Narzugon
 ---
 # [Narzugon](Narzugon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/558/1000/1000/637880557866471751.jpeg)
 
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.
 

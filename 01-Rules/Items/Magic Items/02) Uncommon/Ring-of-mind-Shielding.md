@@ -1,18 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/wondrous/ring
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/wondrous/ring
 aliases:
-- "Ring of Mind Shielding"
+  - Ring of Mind Shielding
 ---
 # Ring of Mind Shielding
 *Ring, uncommon (requires attunement)*  
-![](items/XDMG/Ring of Mind Shielding.webp#right)
+
+![99](https://www.dndbeyond.com/avatars/thumbnails/45205/755/1000/1000/638657413948822267.png)
 
 
 While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.

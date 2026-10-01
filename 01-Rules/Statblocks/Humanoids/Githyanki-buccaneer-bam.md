@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/3
-- monster/size/medium
-- monster/type/Humanoids/gith
+  - src/5e/bam
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/Humanoids/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githyanki Buccaneer"
+  - Githyanki Buccaneer
 ---
 # [Githyanki Buccaneer](Githyanki-buccaneer-bam.md)
 *Source: Boo's Astral Menagerie p. 27, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/854/1000/1000/637961800806704396.jpeg)
 
 Githyanki buccaneers ply the Astral Plane for riches, which they haul back to their hidden fortresses in the Deep Astral. Many of them are warriors who lost the will to serve the Lich-Queen Vlaakith; they prefer to live by their own code or revel in their unbridled freedom.
 

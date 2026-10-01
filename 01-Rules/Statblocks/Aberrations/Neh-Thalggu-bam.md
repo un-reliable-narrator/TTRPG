@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/4
-- monster/size/large
-- monster/type/aberration
+  - src/5e/bam
+  - monster/cr/4
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Neh-thalggu"
+  - Neh-thalggu
 ---
 # [Neh-thalggu](Neh-Thalggu-bam.md)
 *Source: Boo's Astral Menagerie p. 39, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/897/1000/1000/637961800886575218.jpeg)
 
 Known throughout the multiverse as brain collectors, neh-thalggu consume the brains of Humanoids and use them as receptacles to enhance their magical abilities.
 

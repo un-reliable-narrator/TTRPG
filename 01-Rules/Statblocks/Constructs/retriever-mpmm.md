@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/14
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/large
-- monster/type/construct
+  - src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Retriever"
+  - Retriever
 ---
 # [Retriever](retriever-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/608/1000/1000/637880557938298348.jpeg)
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
 

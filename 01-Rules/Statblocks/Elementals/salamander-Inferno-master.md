@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/15
-- monster/environment/fire
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/15
+  - monster/environment/fire
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Salamander Inferno Master"
+  - Salamander Inferno Master
 ---
 # [Salamander Inferno Master](salamander-Inferno-master.md)
 *Source: Monster Manual (2024) p. 267*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/218/1000/1000/638741964606439468.png)
 
 Salamander inferno masters are ancient connoisseurs of flames and often inhabit places with unique scorching properties. They gather communes of apprentices who learn fiery techniques while helping their mentors accomplish great works. Inferno masters have ambitious goals, such as causing massive volcanic eruptions, opening portals to burning planes, destroying Artifacts, or burning all instances of something from the multiverse.
 

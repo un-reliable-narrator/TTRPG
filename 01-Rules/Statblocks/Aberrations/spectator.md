@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberrations/beholder
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberrations/beholder
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Spectator"
+  - Spectator
 ---
 # [Spectator](spectator.md)
 *Source: Monster Manual (2024) p. 289*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/253/1000/1000/638741964652328039.png)
 
 ## Spectator
 

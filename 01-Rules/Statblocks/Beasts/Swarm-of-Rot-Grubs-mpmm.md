@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/beast
+  - src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Swarm of Rot Grubs"
+  - Swarm of Rot Grubs
 ---
 # [Swarm of Rot Grubs](Swarm-of-Rot-Grubs-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 237*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/702/1000/1000/637880558079549568.jpeg)
 
 Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.
 

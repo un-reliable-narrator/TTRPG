@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/common
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/common
 aliases:
-- "Dark Shard Amulet"
+  - Dark Shard Amulet
 ---
 # Dark Shard Amulet
 *Wondrous item, common (requires attunement by a warlock)*  

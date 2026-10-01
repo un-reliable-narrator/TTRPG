@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/ring
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/ring
 aliases:
-- "Ring of Shooting Stars"
+  - Ring of Shooting Stars
 ---
 # Ring of Shooting Stars
 *Ring, very rare (requires attunement)*  

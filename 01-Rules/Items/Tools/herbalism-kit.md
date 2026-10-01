@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/gear/tool
-- item/rarity/none
+  - src/5e/xphb
+  - item/gear/tool
+  - item/rarity/none
 aliases:
-- "Herbalism Kit"
+  - Herbalism Kit
 ---
 # Herbalism Kit
 *Tool*  

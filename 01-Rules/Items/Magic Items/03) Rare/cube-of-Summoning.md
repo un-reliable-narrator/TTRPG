@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/rare
+  - src/5e/dmg
+  - item/rarity/rare
 aliases:
-- "Cube of Summoning"
+  - Cube of Summoning
 ---
 # Cube of Summoning
 *Wondrous item, rare*  

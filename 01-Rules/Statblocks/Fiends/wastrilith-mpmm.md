@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/13
-- monster/environment/coastal
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/underwater
-- monster/size/large
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/coastal
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Wastrilith"
+  - Wastrilith
 ---
 # [Wastrilith](wastrilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 258*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/748/1000/1000/637880558146895718.jpeg)
 
 Found in the waters of the Abyss and other bodies of water contaminated by that plane's fell influence, wastriliths establish themselves as lords of the deep and rule their dominions with cruelty.
 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/rare
-- item/wondrous/ring
+  - src/5e/dmg
+  - item/rarity/rare
+  - item/wondrous/ring
 aliases:
-- "Ring of Acid Resistance"
+  - Ring of Acid Resistance
 ---
 # Ring of Acid Resistance
 *Ring, rare*  

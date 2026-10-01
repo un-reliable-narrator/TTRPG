@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/dmg
-- monster/cr/0
-- monster/size/large
-- monster/type/beast
+  - src/5e/dmg
+  - monster/cr/0
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Fly"
+  - Giant Fly
 ---
 # [Giant Fly](Giant-Fly.md)
 *Source: Dungeon Master's Guide (2024) p. 261*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58417/95/1000/1000/639226714018729503.jpeg)
 
 ```statblock
 "name": "Giant Fly (XDMG)"

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/21
-- monster/size/large
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/21
+  - monster/size/large
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Hutijin"
+  - Hutijin
 ---
 # [Hutijin](Hutijin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 157*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/462/1000/1000/637880557711987628.jpeg)
 
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
 

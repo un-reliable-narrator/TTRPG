@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xphb
-- monster/cr/
-- monster/size/medium
-- monster/type/beast
+  - src/5e/xphb
+  - monster/cr/
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Beast of the Land"
+  - Beast of the Land
 ---
 # [Beast of the Land](Beast-of-The-Land.md)
 *Source: Player's Handbook (2024) p. 123*  

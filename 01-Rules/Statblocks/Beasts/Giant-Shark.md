@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Shark"
+  - Giant Shark
 ---
 # [Giant Shark](giant Shark.md)
 *Source: Monster Manual (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58417/130/1000/1000/639226715031150192.jpeg)
 
 ## Animals
 

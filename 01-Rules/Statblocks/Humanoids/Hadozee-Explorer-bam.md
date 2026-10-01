@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/2
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/bam
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Hadozee Explorer"
+  - Hadozee Explorer
 ---
 # [Hadozee Explorer](Hadozee-Explorer-bam.md)
 *Source: Boo's Astral Menagerie p. 28, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/30164/525/1000/1000/638036924900420131.jpeg)
 
 Hadozee explorers scour Wildspace systems for riches and adventure. They often serve as navigators aboard spelljamming ships. To them, the Astral Plane is a mostly uncharted expanse worthy of further exploration.
 

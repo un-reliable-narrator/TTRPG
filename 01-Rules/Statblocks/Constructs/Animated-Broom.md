@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/urban
-- monster/size/small
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Animated Broom"
+  - Animated Broom
 ---
 # [Animated Broom](Animated-Broom.md)
 *Source: Monster Manual (2024) p. 16*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/606/1000/1000/638741963764559310.png)
 
 Animated brooms keep their surroundings tidy and defend them when necessary. Launching into the air, these brooms dart about, attacking foes from unexpected angles. Other flying objects, like animated tools or staffs, might also use this stat block.
 

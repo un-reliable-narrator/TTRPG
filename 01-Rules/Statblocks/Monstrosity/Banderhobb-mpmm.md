@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/urban
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Banderhobb"
+  - Banderhobb
 ---
 # [Banderhobb](Banderhobb-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 56*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/162/1000/1000/637880557173707888.jpeg)
 
 A banderhobb is a hybrid of shadow and flesh. Through vile magic, these components take on an enormous and horrific upright shape resembling a bipedal toad. In this form, a banderhobb temporarily serves its creator as a thug, a thief, and a kidnapper that swallows the unwary.
 

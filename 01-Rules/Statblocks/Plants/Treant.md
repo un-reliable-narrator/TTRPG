@@ -1,19 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/9
-- monster/environment/forest
-- monster/size/huge
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/9
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-- "Treant"
 ---
 # [Treant](Treant.md)
 *Source: Monster Manual (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/307/1000/1000/638741964731659600.png)
 
 ## Treant
 

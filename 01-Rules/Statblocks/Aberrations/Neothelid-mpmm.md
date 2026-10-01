@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/13
-- monster/environment/underdark
-- monster/size/gargantuan
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/size/gargantuan
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Neothelid"
+  - Neothelid
 ---
 # [Neothelid](Neothelid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 193*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/571/1000/1000/637880557883513207.jpeg)
 
 A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain is killed, the colony's tadpoles are suddenly freed from their fate. They no longer serve as food—and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony's pool, and it emerges as a neothelid.
 

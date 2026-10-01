@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/lower
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/large
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/lower
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Spirit Naga"
+  - Spirit Naga
 ---
 # [Spirit Naga](Spirit-Naga.md)
 *Source: Monster Manual (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/265/1000/1000/638741964671713861.png)
 
 ## Spirit Naga
 

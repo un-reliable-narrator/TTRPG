@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small-or-medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small-or-medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vampire Nightbringer"
+  - Vampire Nightbringer
 ---
 # [Vampire Nightbringer](Vampire-Nightbringer.md)
 *Source: Monster Manual (2024) p. 316*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/332/1000/1000/638741964766858773.png)
 
 Born of necromantic rituals and planes of existence suffused with negative energy, vampire nightbringers manipulate shadows and feed on the raw life force of living creatures.
 

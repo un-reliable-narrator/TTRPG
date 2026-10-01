@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/24
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/gargantuan
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/24
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/gargantuan
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ancient Red Dragon"
+  - Ancient Red Dragon
 ---
 # [Ancient Red Dragon](Ancient-Red-Dragon.md)
 *Source: Monster Manual (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/592/1000/1000/638741963744652250.jpeg)
 
 Ancient red dragons number among the most feared and destructive beings in the multiverse. Few can withstand the wrath of an ancient red dragon that turns its mind toward devastation. These dragons' greed matches their ruinous potential, and they collect vast hoards studded with storied treasures and magic items. Their lairs frequently tap into volcanic depths and might pierce other planes of existence, bringing servants from the Elemental Plane of Fire or the Lower Planes into their service.
 

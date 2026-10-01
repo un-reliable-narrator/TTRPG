@@ -1,25 +1,27 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/acheron
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/small
-- monster/type/fey/goblinoid
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/acheron
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/fey/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Goblin Warrior"
+  - Goblin Warrior
 ---
 # [Goblin Warrior](Goblin-Warrior.md)
 *Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/926/1000/1000/638741964204310372.png)
 
 Goblin warriors excel at causing mischief. Those in service to Maglubiyet have greater discipline and are likely to withdraw to set up ambushes.
 

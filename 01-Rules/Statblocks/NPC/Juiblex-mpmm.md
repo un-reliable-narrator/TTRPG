@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/23
-- monster/size/huge
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/23
+  - monster/size/huge
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Juiblex"
+  - Juiblex
 ---
 # [Juiblex](Juiblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 160*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/471/1000/1000/637880557729579191.jpeg)
 
 Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and ooze, a noxious creature that doesn't care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
 

@@ -1,28 +1,28 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/light
-- item/armor/medium
-- item/rarity/rare
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/light
+  - item/armor/medium
+  - item/rarity/rare
+  - item/wondrous/generic-variant
 aliases:
-- "+1 Armor"
-- "+1 Breastplate"
-- "+1 Chain Mail"
-- "+1 Chain Shirt"
-- "+1 Half Plate Armor"
-- "+1 Hide Armor"
-- "+1 Leather Armor"
-- "+1 Padded Armor"
-- "+1 Plate Armor"
-- "+1 Ring Mail"
-- "+1 Scale Mail"
-- "+1 Splint Armor"
-- "+1 Studded Leather Armor"
+  - +1 Armor
+  - +1 Breastplate
+  - +1 Chain Mail
+  - +1 Chain Shirt
+  - +1 Half Plate Armor
+  - +1 Hide Armor
+  - +1 Leather Armor
+  - +1 Padded Armor
+  - +1 Plate Armor
+  - +1 Ring Mail
+  - +1 Scale Mail
+  - +1 Splint Armor
+  - +1 Studded Leather Armor
 ---
 # +1 Armor
 *Rare*  

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/underdark
-- monster/size/small
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Flumph"
+  - Flumph
 ---
 # [Flumph](flumph.md)
 *Source: Monster Manual (2024) p. 122*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/820/1000/1000/638741964057170368.png)
 
 ## Flumph
 

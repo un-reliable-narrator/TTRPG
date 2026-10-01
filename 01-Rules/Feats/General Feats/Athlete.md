@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- src/5e/xphb
-- feat
+  - src/5e/xphb
+  - feat
 aliases:
-- "Athlete"
+  - Athlete
 ---
 # Athlete
 *Source: Player's Handbook (2024) p. 202*  

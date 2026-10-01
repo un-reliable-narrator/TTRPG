@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/grassland
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/undead
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/grassland
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sword Wraith Warrior"
+  - Sword Wraith Warrior
 ---
 # [Sword Wraith Warrior](sword-Wraith-Warrior-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/24407/166/1000/1000/637828636924315705.jpeg)
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
 

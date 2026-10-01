@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
 aliases:
-- "Ioun Stone, Strength"
+  - Ioun Stone, Strength
 ---
 # Ioun Stone, Strength
 *Wondrous item, very rare (requires attunement)*  

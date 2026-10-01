@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/mechanus
-- monster/environment/planar
-- monster/size/medium
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/mechanus
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Modron Quadrone"
+  - Modron Quadrone
 ---
 # [Modron Quadrone](Modron-quadrone.md)
 *Source: Monster Manual (2024) p. 218*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/93/1000/1000/638741964432945144.jpeg)
 
 Quadrones are among the most relatable modrons—and those most likely to go rogue.
 

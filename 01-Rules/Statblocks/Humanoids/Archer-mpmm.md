@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Archer"
+  - Archer
 ---
 # [Archer](Archer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 49*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/141/1000/1000/637880557138424755.jpeg)
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
 

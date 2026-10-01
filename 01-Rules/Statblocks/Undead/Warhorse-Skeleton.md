@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/planar
-- monster/environment/shadowfell
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/large
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/planar
+  - monster/environment/shadowfell
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Warhorse Skeleton"
+  - Warhorse Skeleton
 ---
 # [Warhorse Skeleton](Warhorse-Skeleton.md)
 *Source: Monster Manual (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/352/1000/1000/638741964793008811.jpeg)
 
 Warhorse skeletons are obedient, supernatural steeds bearing the rotted remains of the barding they wore in life. They're often ridden by the corpses of their former riders.
 

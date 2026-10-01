@@ -1,17 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/12
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/Humanoids/cleric
+  - src/5e/xmm
+  - monster/cr/12
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/Humanoids/cleric
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Archpriest](Archpriest.md)
 *Source: Monster Manual (2024) p. 248*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/624/1000/1000/638741963788175470.jpeg)
 
 By forging connections with divine beings and mastering mystical truths, archpriests become conduits for godly intentions and other supernatural forces. Their magic allows them to work wonders, whether to share the benevolence of their faiths or to vent divine wrath. Some archpriests attract vast followings as they claim to speak for divine forces, while others undertake personal spiritual journeys and seek to transcend mortal concerns.
 

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Humanoids/elf
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Humanoids/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Shadar-kai Gloom Weaver"
+  - Shadar-kai Gloom Weaver
 ---
 # [Shadar-kai Gloom Weaver](shadar-Kai-Gloom-Weaver-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/626/1000/1000/637880557965350651.jpeg)
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
 

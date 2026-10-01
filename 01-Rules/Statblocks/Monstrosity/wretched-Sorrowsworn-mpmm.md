@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Wretched Sorrowsworn"
+  - Wretched Sorrowsworn
 ---
 # [Wretched Sorrowsworn](wretched-Sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/763/1000/1000/637880558173898136.jpeg)
 
 Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
 

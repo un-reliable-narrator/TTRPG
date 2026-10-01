@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/druid/land
+  - src/5e/xphb
+  - subclass/druid/land
 aliases:
-- "Circle of the Land"
+  - Circle of the Land
 ---
 # Circle of the Land
 *[[01-Rules/Classes/Druid/Druid|Druid]]: Druid Subclass*  

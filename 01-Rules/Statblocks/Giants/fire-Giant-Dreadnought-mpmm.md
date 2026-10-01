@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/14
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Fire Giant Dreadnought"
+  - Fire Giant Dreadnought
 ---
 # [Fire Giant Dreadnought](fire-Giant-Dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/363/1000/1000/637880557515509375.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

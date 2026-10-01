@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Evoker Wizard"
+  - Evoker Wizard
 ---
 # [Evoker Wizard](Evoker-Wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/354/1000/1000/637880557501488183.jpeg)
 
 Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.
 

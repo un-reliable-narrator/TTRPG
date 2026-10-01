@@ -1,26 +1,28 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/acheron
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/fey/goblinoid
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/acheron
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/fey/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Hobgoblin Warlord"
+  - Hobgoblin Warlord
 ---
 # [Hobgoblin Warlord](Hobgoblin-Warlord.md)
 *Source: Monster Manual (2024) p. 171*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/983/1000/1000/638741964285085063.png)
 
 Hobgoblin warlords lead armies of hobgoblins and their allies, using their experience and strategic minds to command amid the ebb and flow of battle.
 

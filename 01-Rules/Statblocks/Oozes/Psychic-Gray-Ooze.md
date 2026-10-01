@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/ooze
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Psychic Gray Ooze"
+  - Psychic Gray Ooze
 ---
 # [Psychic Gray Ooze](Psychic-Gray-Ooze.md)
 *Source: Monster Manual (2024) p. 151. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/178/1000/1000/638741964549888267.png)
 
 Psychic gray oozes exhibit violent psionic abilities. These oozes sometimes result from failed attempts to summon or create creatures linked to the Elemental Plane of Earth, like gargoyles or homunculi.
 

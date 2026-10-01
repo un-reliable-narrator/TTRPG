@@ -1,16 +1,16 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/any
-- monster/size/medium
-- monster/type//titan
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/any
+  - monster/size/medium
+  - monster/type//titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Empyrean Iota"
+  - Empyrean Iota
 ---
 # [Empyrean Iota](Empyrean%20Iota.md)
 *Source: Monster Manual (2024) p. 112*  

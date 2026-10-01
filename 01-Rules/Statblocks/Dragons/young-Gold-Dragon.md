@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/large
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Young Gold Dragon"
+  - Young Gold Dragon
 ---
 # [Young Gold Dragon](young-Gold-Dragon.md)
 *Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/402/1000/1000/638741964866257029.png)
 
 Young gold dragons have seen glimpses of the world's true evils and crusade to oppose them. They often seek bold and direct solutions to problems.
 

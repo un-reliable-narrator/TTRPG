@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/gear/artisans-tools
-- item/rarity/none
+  - src/5e/xphb
+  - item/gear/artisans-tools
+  - item/rarity/none
 aliases:
-- "Leatherworker's Tools"
+  - Leatherworker's Tools
 ---
 # Leatherworker's Tools
 *Artisan's tools*  

@@ -1,28 +1,28 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/light
-- item/armor/medium
-- item/rarity/common
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/light
+  - item/armor/medium
+  - item/rarity/common
+  - item/wondrous/generic-variant
 aliases:
-- "Armor of Gleaming"
-- "Breastplate of Gleaming"
-- "Chain Mail of Gleaming"
-- "Chain Shirt of Gleaming"
-- "Half Plate Armor of Gleaming"
-- "Hide Armor of Gleaming"
-- "Leather Armor of Gleaming"
-- "Padded Armor of Gleaming"
-- "Plate Armor of Gleaming"
-- "Ring Mail of Gleaming"
-- "Scale Mail of Gleaming"
-- "Splint Armor of Gleaming"
-- "Studded Leather Armor of Gleaming"
+  - Armor of Gleaming
+  - Breastplate of Gleaming
+  - Chain Mail of Gleaming
+  - Chain Shirt of Gleaming
+  - Half Plate Armor of Gleaming
+  - Hide Armor of Gleaming
+  - Leather Armor of Gleaming
+  - Padded Armor of Gleaming
+  - Plate Armor of Gleaming
+  - Ring Mail of Gleaming
+  - Scale Mail of Gleaming
+  - Splint Armor of Gleaming
+  - Studded Leather Armor of Gleaming
 ---
 # Armor of Gleaming
 *Common*  

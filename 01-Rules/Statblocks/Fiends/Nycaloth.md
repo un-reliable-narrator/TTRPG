@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/9
-- monster/environment/gehenna
-- monster/environment/planar
-- monster/size/large
-- monster/type/Fiends/yugoloth
+  - src/5e/xmm
+  - monster/cr/9
+  - monster/environment/gehenna
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/Fiends/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Nycaloth"
+  - Nycaloth
 ---
 # [Nycaloth](Nycaloth.md)
 *Source: Monster Manual (2024) p. 229*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/127/1000/1000/638741964480426334.png)
 
 ## Nycaloth
 

@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/artifact
-- item/weapon/martial
-- item/weapon/melee
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/weapon/martial
+  - item/weapon/melee
 aliases:
-- "Axe of the Dwarvish Lords"
+  - Axe of the Dwarvish Lords
 ---
 # Axe of the Dwarvish Lords
 *Weapon ([Battleaxe](Battleaxe.md)), artifact (requires attunement)*  

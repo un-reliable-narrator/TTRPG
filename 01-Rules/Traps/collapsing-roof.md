@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- src/5e/dmg
-- hazard/trp
+  - src/5e/dmg
+  - hazard/trp
 aliases:
-- "Collapsing Roof"
+  - Collapsing Roof
 ---
 # Collapsing Roof
 *Generic Hazard*  

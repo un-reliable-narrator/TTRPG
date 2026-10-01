@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Leucrotta"
+  - Leucrotta
 ---
 # [Leucrotta](leucrotta-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/492/1000/1000/637880557769692836.jpeg)
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
 

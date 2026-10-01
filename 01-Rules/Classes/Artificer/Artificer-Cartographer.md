@@ -1,6 +1,6 @@
 ---
 alias:
-- "Cartographer"
+  - Cartographer
 ---
 # Cartographer
 

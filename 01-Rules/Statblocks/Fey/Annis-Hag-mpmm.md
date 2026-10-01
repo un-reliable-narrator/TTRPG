@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/6
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/fey
+  - src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Annis Hag"
+  - Annis Hag
 ---
 # [Annis Hag](Annis-Hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/132/1000/1000/637880557125033410.jpeg)
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
 

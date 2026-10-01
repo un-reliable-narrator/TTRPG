@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/lower
-- monster/environment/planar
-- monster/size/large
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/lower
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Swarm of Larvae"
+  - Swarm of Larvae
 ---
 # [Swarm of Larvae](Swarm-of-Larvae.md)
 *Source: Monster Manual (2024) p. 193*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/285/1000/1000/638741964700048410.png)
 
 Lone larvae pose little threat, but in large numbers, larvae can overwhelm vulnerable creatures. Out of desperation, larvae band together in grotesque swarms, their squirming stampedes heralded by a din of wordless whimpers and stomach-turning worm sounds.
 

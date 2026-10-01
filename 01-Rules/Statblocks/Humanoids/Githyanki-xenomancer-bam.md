@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/9
-- monster/size/medium
-- monster/type/Humanoids/druid
-- monster/type/Humanoids/gith
+  - src/5e/bam
+  - monster/cr/9
+  - monster/size/medium
+  - monster/type/Humanoids/druid
+  - monster/type/Humanoids/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githyanki Xenomancer"
+  - Githyanki Xenomancer
 ---
 # [Githyanki Xenomancer](Githyanki-xenomancer-bam.md)
 *Source: Boo's Astral Menagerie p. 27, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/863/1000/1000/637961800821056290.jpeg)
 
 A githyanki xenomancer travels to the farthest reaches of Wildspace and the Astral Sea, even visiting worlds of the Material Plane from time to time, to study and catalog creatures it has never encountered before. Friendly contact with sapient creatures can bring the xenomancer's diplomatic skills to the forefront, while hostile contact becomes a test of the xenomancer's survival skills.
 

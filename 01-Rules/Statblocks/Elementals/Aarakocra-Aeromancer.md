@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/air
-- monster/environment/mountain
-- monster/environment/planar
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/air
+  - monster/environment/mountain
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Aarakocra Aeromancer"
+  - Aarakocra Aeromancer
 ---
 # [Aarakocra Aeromancer](Aarakocra-Aeromancer.md)
 *Source: Monster Manual (2024) p. 10*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/542/1000/1000/638741963671595019.png)
 
 Aarakocra aeromancers control magical winds from the endless storms of the Elemental Plane of Air.
 

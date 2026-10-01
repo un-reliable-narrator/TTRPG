@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/23
-- monster/environment/underwater
-- monster/size/gargantuan
-- monster/type/monstrosity/titan
+  - src/5e/xmm
+  - monster/cr/23
+  - monster/environment/underwater
+  - monster/size/gargantuan
+  - monster/type/monstrosity/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kraken"
+  - Kraken
 ---
 # [Kraken](Kraken.md)
 *Source: Monster Manual (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/23/1000/1000/638741964337775307.png)
 
 ## Kraken
 

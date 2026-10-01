@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gargoyle"
+  - Gargoyle
 ---
 # [Gargoyle](Gargoyle.md)
 *Source: Monster Manual (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/830/1000/1000/638741964071097961.jpeg)
 
 ## Gargoyle
 

@@ -1,17 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/9
-- monster/environment/abyss
-- monster/environment/planar
-- monster/size/large
-- monster/type/Fiends/demon
+  - src/5e/xmm
+  - monster/cr/9
+  - monster/environment/abyss
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
-aliases:
-- "Glabrezu"
 ---
 # [Glabrezu](Glabrezu.md)
 *Source: Monster Manual (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -19,6 +17,8 @@ aliases:
 ## Glabrezu
 
 *Demon of Delusion and Entrapment*
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/908/1000/1000/638741964179444801.png)
 
 - **Habitat.** Planar (Abyss)  
 - **Treasure.** [Relics](random-magic-items-relics.md)  

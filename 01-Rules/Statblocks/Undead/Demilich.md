@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/18
-- monster/environment/any
-- monster/size/tiny
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/18
+  - monster/environment/any
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Demilich"
+  - Demilich
 ---
 # [Demilich](Demilich.md)
 *Source: Monster Manual (2024) p. 96*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/757/1000/1000/638741963971115850.png)
 
 ## Demilich
 

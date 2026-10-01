@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Merfolk Skirmisher"
+  - Merfolk Skirmisher
 ---
 # [Merfolk Skirmisher](Merfolk-Skirmisher.md)
 *Source: Monster Manual (2024) p. 209. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/67/1000/1000/638741964398367463.jpeg)
 
 Merfolk skirmishers defend their homes from aquatic monsters and invaders from the surface.
 

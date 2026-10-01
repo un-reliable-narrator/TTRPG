@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/25
-- monster/size/large
-- monster/type/Constructs/inevitable
+  - src/5e/mpmm
+  - monster/cr/25
+  - monster/size/large
+  - monster/type/Constructs/inevitable
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Marut"
+  - Marut
 ---
 # [Marut](Marut-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/507/1000/1000/637880557791844840.jpeg)
 
 The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil. Primus, the leader of the modrons, created maruts and other inevitables to bring order to dealings between planar folk. A wide array of disparate creatures, including yugoloths, will enter into a contract with inevitables if asked.
 

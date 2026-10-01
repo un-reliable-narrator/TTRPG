@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Maw Demon"
+  - Maw Demon
 ---
 # [Maw Demon](Maw-Demon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/517/1000/1000/637880557805216044.jpeg)
 
 > [!quote] A quote from Tasha  
 > 

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/small
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/small
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Jackalwere"
+  - Jackalwere
 ---
 # [Jackalwere](jackalwere.md)
 *Source: Monster Manual (2024) p. 182*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/12/1000/1000/638741964323696230.png)
 
 ## Jackalwere
 

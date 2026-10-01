@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xphb
-- monster/cr/
-- monster/size/large
-- monster/type/fiend
+  - src/5e/xphb
+  - monster/cr/
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Fiendish Spirit (Devil)"
+  - Fiendish Spirit (Devil)
 ---
 # [Fiendish Spirit (Devil)](fiendish-Spirit-Devil.md)
 *Source: Player's Handbook (2024) p. 327*  

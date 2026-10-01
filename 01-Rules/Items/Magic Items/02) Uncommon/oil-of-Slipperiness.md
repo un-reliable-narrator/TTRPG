@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/uncommon
-- item/wondrous/potion
+  - src/5e/dmg
+  - item/rarity/uncommon
+  - item/wondrous/potion
 aliases:
-- "Oil of Slipperiness"
+  - Oil of Slipperiness
 ---
 # Oil of Slipperiness
 *Potion, uncommon*  

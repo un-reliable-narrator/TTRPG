@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/desert
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/desert
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Champion"
+  - Champion
 ---
 # [Champion](Champion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/211/1000/1000/637880557261006051.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

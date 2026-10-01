@@ -1,12 +1,12 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/23
-- monster/environment/any
-- monster/size/huge
-- monster/type//titan
+  - src/5e/xmm
+  - monster/cr/23
+  - monster/environment/any
+  - monster/size/huge
+  - monster/type//titan
 statblock: inline
 statblock-link: "#^statblock"
 ---

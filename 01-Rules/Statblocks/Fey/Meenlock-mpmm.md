@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/small
-- monster/type/fey
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Meenlock"
+  - Meenlock
 ---
 # [Meenlock](Meenlock-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 178*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/525/1000/1000/637880557814746535.jpeg)
 
 Meenlocks are Fey that invoke terror and seek to destroy all that is good, innocent, and beautiful. These bipeds have the heads and claws of crustaceans, and they primarily live in forests, although they adapt well to urban and subterranean settings.
 

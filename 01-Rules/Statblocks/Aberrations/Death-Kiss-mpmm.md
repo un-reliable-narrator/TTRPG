@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberrations/beholder
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberrations/beholder
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Death Kiss"
+  - Death Kiss
 ---
 # [Death Kiss](Death-Kiss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/246/1000/1000/637880557317591233.jpeg)
 
 A death kiss is a lesser beholder that can come into being when a true beholder has a vivid nightmare about losing blood. Its coloration and shape resemble those of the beholder that dreamed it into existence, but its hue is more muted, and instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. It can speak through any of its tentacle-maws in a high-pitched, nasal voice.
 

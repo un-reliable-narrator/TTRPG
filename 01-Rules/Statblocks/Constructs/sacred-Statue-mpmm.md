@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/
-- monster/size/large
-- monster/type/construct
+  - src/5e/mpmm
+  - monster/cr/
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sacred Statue"
+  - Sacred Statue
 ---
 # [Sacred Statue](sacred-Statue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/618/1000/1000/637880557953369876.jpeg)
 
 To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [eidolon](eidolon-mpmm.md) plunges into a [statue](sacred-Statue-mpmm.md) specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
 

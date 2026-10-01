@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/desert
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/desert
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Dybbuk"
+  - Dybbuk
 ---
 # [Dybbuk](Dybbuk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/339/1000/1000/637880557475555708.jpeg)
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.
 

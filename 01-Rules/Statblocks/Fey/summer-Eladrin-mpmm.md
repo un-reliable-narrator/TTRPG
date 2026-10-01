@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/desert
-- monster/environment/forest
-- monster/size/medium
-- monster/type/fey/elf
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/fey/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Summer Eladrin"
+  - Summer Eladrin
 ---
 # [Summer Eladrin](summer-Eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/695/1000/1000/637880558070648712.jpeg)
 
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
 

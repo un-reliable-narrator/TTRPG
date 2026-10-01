@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/grassland
-- monster/size/small
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/grassland
+  - monster/size/small
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cockatrice"
+  - Cockatrice
 ---
 # [Cockatrice](Cockatrice.md)
 *Source: Monster Manual (2024) p. 75. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/720/1000/1000/638741963920465849.png)
 
 Cockatrices often try to claim eye-catching structures—such as ruins and secluded farms—as roosts.
 

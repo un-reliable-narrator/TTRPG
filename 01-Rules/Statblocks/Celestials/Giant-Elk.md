@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/huge
-- monster/type/celestial
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/huge
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Elk"
+  - Giant Elk
 ---
 # [Giant Elk](Giant-Elk.md)
 *Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58417/88/1000/1000/639226713770809470.jpeg)
 
 ## Animals
 

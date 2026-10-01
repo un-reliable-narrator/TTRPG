@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/varies
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/varies
 aliases:
-- "Belt of Giant Strength"
+  - Belt of Giant Strength
 ---
 # Belt of Giant Strength
 *Wondrous item (requires attunement)*  

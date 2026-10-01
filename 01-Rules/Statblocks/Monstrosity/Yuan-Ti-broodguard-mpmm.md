@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Yuan-ti Broodguard"
+  - Yuan-ti Broodguard
 ---
 # [Yuan-ti Broodguard](Yuan-Ti-broodguard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/785/1000/1000/637880558205281089.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

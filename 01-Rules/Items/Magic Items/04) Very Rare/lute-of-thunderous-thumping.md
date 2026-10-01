@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/very-rare
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/dmg
+  - item/rarity/very-rare
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Lute of Thunderous Thumping"
+  - Lute of Thunderous Thumping
 ---
 # Lute of Thunderous Thumping
 *Weapon ([Club](Club.md)), very rare*  

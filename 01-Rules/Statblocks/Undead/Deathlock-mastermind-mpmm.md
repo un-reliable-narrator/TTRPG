@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/8
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead/warlock
+  - src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Deathlock Mastermind"
+  - Deathlock Mastermind
 ---
 # [Deathlock Mastermind](Deathlock-mastermind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/249/1000/1000/637880557321961732.jpeg)
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
 

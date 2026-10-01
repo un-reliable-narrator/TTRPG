@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/6
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "White Abishai"
+  - White Abishai
 ---
 # [White Abishai](white-Abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/754/1000/1000/637880558156116213.jpeg)
 
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
 

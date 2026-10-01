@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Allip"
+  - Allip
 ---
 # [Allip](Allip-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/119/1000/1000/637880557105201582.jpeg)
 
 When a creature uncovers a secret that a powerful being has protected with a mighty curse, the result is often the creation of an allip. Secrets protected in this manner range in scope from a demon lord's true name to the hidden truths of the cosmic order. The creature acquires the secret, but the curse annihilates its body and leaves behind a spectral being composed of fragments from the victim's psyche and overwhelming psychic agony.
 

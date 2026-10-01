@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/medium
-- item/attunement/required
-- item/rarity/legendary
+  - src/5e/dmg
+  - item/armor/medium
+  - item/attunement/required
+  - item/rarity/legendary
 aliases:
-- "Half Plate Armor of Etherealness"
+  - Half Plate Armor of Etherealness
 ---
 # Half Plate Armor of Etherealness
 *Medium armor, legendary (requires attunement)*  

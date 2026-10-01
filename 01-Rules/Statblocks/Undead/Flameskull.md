@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Flameskull"
+  - Flameskull
 ---
 # [Flameskull](Flameskull.md)
 *Source: Monster Manual (2024) p. 120*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/815/1000/1000/638741964050133620.png)
 
 ## Flameskull
 

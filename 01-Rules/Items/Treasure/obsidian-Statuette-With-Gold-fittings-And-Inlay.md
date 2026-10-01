@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/treasure-art-object
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/treasure-art-object
+  - item/rarity/none
 aliases:
-- "Obsidian statuette with gold fittings and inlay"
+  - Obsidian statuette with gold fittings and inlay
 ---
 # Obsidian statuette with gold fittings and inlay
 *Treasure (art object)*  

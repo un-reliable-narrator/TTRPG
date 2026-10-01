@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/1-8
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/bam
+  - monster/cr/1-8
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Hadozee Shipmate"
+  - Hadozee Shipmate
 ---
 # [Hadozee Shipmate](Hadozee-Shipmate-bam.md)
 *Source: Boo's Astral Menagerie p. 29, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/30164/522/1000/1000/638036924896420126.jpeg)
 
 Hadozee shipmates make up much of the crew aboard some spelljamming ships.
 

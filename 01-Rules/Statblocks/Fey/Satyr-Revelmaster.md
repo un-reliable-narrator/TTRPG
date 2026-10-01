@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/planar
-- monster/size/medium
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Satyr Revelmaster"
+  - Satyr Revelmaster
 ---
 # [Satyr Revelmaster](Satyr-Revelmaster.md)
 *Source: Monster Manual (2024) p. 268*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/222/1000/1000/638741964610965441.jpeg)
 
 Satyr revelmasters use magical music to change the moods of other creatures. They do so to keep their celebrations exciting and to ward off foes.
 

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/small
-- monster/type/aberrations/sorcerer
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/aberrations/sorcerer
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Derro Savant"
+  - Derro Savant
 ---
 # [Derro Savant](Derro-Savant-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/267/1000/1000/637880557353504426.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

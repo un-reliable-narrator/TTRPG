@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Berserker Commander"
+  - Berserker Commander
 ---
 # [Berserker Commander](Berserker-Commander.md)
 *Source: Monster Manual (2024) p. 37*  
+
+![620](https://www.dndbeyond.com/avatars/thumbnails/47138/667/1000/1000/638741963847084494.png)
 
 Berserker commanders bear the scars of battle and drive their followers to match their deadly zeal. These commanders tap into a primal magic to enhance their might.
 

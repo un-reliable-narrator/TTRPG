@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/weapon/martial
-- item/weapon/melee
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/weapon/martial
+  - item/weapon/melee
 aliases:
-- "Scimitar of Speed"
+  - Scimitar of Speed
 ---
 # Scimitar of Speed
 *Weapon ([Scimitar](Scimitar.md)), very rare (requires attunement)*  

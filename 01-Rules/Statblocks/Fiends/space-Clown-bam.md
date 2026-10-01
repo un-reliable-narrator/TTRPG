@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/2
-- monster/size/medium
-- monster/type/fiend
+  - src/5e/bam
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Space Clown"
+  - Space Clown
 ---
 # [Space Clown](space-Clown-bam.md)
 *Source: Boo's Astral Menagerie p. 54, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/925/1000/1000/637961800941330467.jpeg)
 
 Space clowns are the inhabitants of a Wildspace system known as Clownspace. The humans who once inhabited the system's three ring-shaped worlds placed their faith in a god of revelry. Their worship ceremonies were centered on festivals and frivolity. Over time, the people's happiness hinged on the ever-increasing consumption of an elixir called Thrill Joy. Only after they became addicted did they discover that the priests of their faith had distilled the elixir from demonic ichor and the nectar of the bozo flower. Eventually, Thrill Joy transformed the faithful into fiendish creatures and "blessed" them with clown-like appearances.
 

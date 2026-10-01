@@ -1,17 +1,17 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/20
-- monster/environment/beastlands
-- monster/environment/planar
-- monster/size/medium
-- monster/type/celestial
+  - src/5e/xmm
+  - monster/cr/20
+  - monster/environment/beastlands
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Animal Lord; Sage"
+  - Animal Lord; Sage
 ---
 # [Animal Lord; Sage](Animal-Lord-Sage.md)
 *Source: Monster Manual (2024) p. 15*  

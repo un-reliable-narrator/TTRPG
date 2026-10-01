@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/abyss
-- monster/environment/planar
-- monster/size/small
-- monster/type/Fiends/demon
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/abyss
+  - monster/environment/planar
+  - monster/size/small
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Dretch"
+  - Dretch
 ---
 # [Dretch](Dretch.md)
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/772/1000/1000/638741963989558139.png)
 
 Lone dretches serve other demons or evil magic-users. They are erratic, filthy, and violent, and they demonstrate little sense of self-preservation.
 

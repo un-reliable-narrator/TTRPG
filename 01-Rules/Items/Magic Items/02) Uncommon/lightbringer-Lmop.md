@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/lmop
-- item/rarity/uncommon
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/lmop
+  - item/rarity/uncommon
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Lightbringer"
+  - Lightbringer
 ---
 # Lightbringer
 *Weapon ([Mace](Mace.md)), uncommon*  

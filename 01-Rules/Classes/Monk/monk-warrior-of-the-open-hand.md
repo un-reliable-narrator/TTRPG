@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/monk/open-hand
+  - src/5e/xphb
+  - subclass/monk/open-hand
 aliases:
-- "Warrior of the Open Hand"
+  - Warrior of the Open Hand
 ---
 # Warrior of the Open Hand
 *[[Monk|Monk]]: Monk Subclass*  

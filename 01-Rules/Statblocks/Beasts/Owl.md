@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/tiny
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Owl"
+  - Owl
 ---
 # [Owl](Owl.md)
 *Source: Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/951/1000/1000/638742837731128628.png)
 
 ## Animals
 

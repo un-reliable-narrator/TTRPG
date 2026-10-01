@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bulette Pup"
+  - Bulette Pup
 ---
 # [Bulette Pup](bulette-Pup.md)
 *Source: Monster Manual (2024) p. 63*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/689/1000/1000/638741963878892509.png)
 
 Juvenile bulettes are known as pups. They travel in small groups, using their numbers to bring down larger foes. Their arrival frequently presages the appearance of an adult bulette.
 

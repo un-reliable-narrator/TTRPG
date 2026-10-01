@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/rod
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/rod
 aliases:
-- "+3 Rod of the Pact Keeper"
+  - +3 Rod of the Pact Keeper
 ---
 # +3 Rod of the Pact Keeper
 *Rod, very rare (requires attunement by a warlock)*  

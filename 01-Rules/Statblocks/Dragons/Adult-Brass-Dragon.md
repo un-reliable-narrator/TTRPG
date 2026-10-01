@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/13
-- monster/environment/desert
-- monster/size/huge
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/13
+  - monster/environment/desert
+  - monster/size/huge
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult Brass Dragon"
+  - Adult Brass Dragon
 ---
 # [Adult Brass Dragon](Adult-Brass-Dragon.md)
 *Source: Monster Manual (2024) p. 55. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/558/1000/1000/638741963695543942.png)
 
 Adult brass dragons know many secrets and have vast networks of contacts. These dragons share perspectives they've learned from across the world and passionately combat the lies of con artists and villains that lead people astray.
 

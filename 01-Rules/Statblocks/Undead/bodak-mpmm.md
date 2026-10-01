@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/6
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bodak"
+  - Bodak
 ---
 # [Bodak](bodak-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/189/1000/1000/637880557219852317.jpeg)
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
 

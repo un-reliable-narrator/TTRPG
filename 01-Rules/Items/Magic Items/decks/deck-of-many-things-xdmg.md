@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deck
+  - json5e-deck
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Deck of Many Things"
+  - Deck of Many Things
 ---
 # Deck of Many Things
 *Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*  

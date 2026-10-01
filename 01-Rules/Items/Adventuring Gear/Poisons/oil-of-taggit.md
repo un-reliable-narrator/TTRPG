@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/poison/contact
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/poison/contact
+  - item/rarity/none
 aliases:
-- "Oil of Taggit"
+  - Oil of Taggit
 ---
 # Oil of Taggit
 *Adventuring gear, poison (contact)*  

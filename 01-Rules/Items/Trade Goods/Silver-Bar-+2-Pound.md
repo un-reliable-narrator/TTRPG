@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/trade-bar
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/trade-bar
+  - item/rarity/none
 aliases:
-- "Silver Bar (2-pound)"
+  - Silver Bar (2-pound)
 ---
 # Silver Bar (2-pound)
 *Trade bar*  

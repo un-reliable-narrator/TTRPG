@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/desert
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Berbalang"
+  - Berbalang
 ---
 # [Berbalang](Berbalang-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61*  
+
+![344](https://www.dndbeyond.com/avatars/thumbnails/25746/174/1000/1000/637880557195729976.jpeg)
 
 Berbalangs creep across the [petrified](Conditions.md#Petrified) remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
 

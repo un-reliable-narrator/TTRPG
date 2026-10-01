@@ -16,7 +16,7 @@ While you hold the staff, you can cast [Chill Touch](http://dnd2024.wikidot.com
 
 When a creature you can see within 30 feet of you makes an attack roll, you can take a Reaction to impose Disadvantage on that roll, as the skulls’ eyes glow green and their teeth chatter unnervingly.
 
-**Pulverizing (Very Rare).**The entire staff is made of fused skulls.
+**Pulverizing (Very Rare).** The entire staff is made of fused skulls.
 
 While you hold the staff, you can take a Magic action to point the staff at a Humanoid you can see. That creature makes a DC 17 Constitution saving throw. On a failed save, the creature takes 10d8 Necrotic damage and has the Prone condition as it’s crushed from the inside. On a successful save, the creature takes half as much damage only. Once used, this property can’t be used again until the next dawn.
 

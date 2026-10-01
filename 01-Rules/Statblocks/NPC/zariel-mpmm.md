@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/26
-- monster/size/large
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/26
+  - monster/size/large
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Zariel"
+  - Zariel
 ---
 # [Zariel](zariel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 280*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/800/1000/1000/637880558229873628.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

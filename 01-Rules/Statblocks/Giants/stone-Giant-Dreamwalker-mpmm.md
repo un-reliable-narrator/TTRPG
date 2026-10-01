@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/coastal
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/coastal
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Stone Giant Dreamwalker"
+  - Stone Giant Dreamwalker
 ---
 # [Stone Giant Dreamwalker](stone-Giant-Dreamwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/688/1000/1000/637880558062417942.jpeg)
 
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
 

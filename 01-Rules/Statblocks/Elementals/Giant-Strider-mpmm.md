@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Strider"
+  - Giant Strider
 ---
 # [Giant Strider](giant Strider-mpmm%201.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/404/1000/1000/637880557595806738.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

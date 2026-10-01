@@ -1,6 +1,6 @@
 ---
 aliases:
-- "Izek Strazni"
+  - Izek Strazni
 ---
 # Izek Strazni
 *Medium humanoid (human), neutral evil*

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/16
-- monster/environment/desert
-- monster/environment/mountain
-- monster/size/gargantuan
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/16
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/size/gargantuan
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Phoenix](Phoenix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/602/1000/1000/637880557928647435.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

@@ -1,24 +1,26 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/17
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity/wizard
+  - src/5e/mpmm
+  - monster/cr/17
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Nagpa"
+  - Nagpa
 ---
 # [Nagpa](Nagpa-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/555/1000/1000/637880557862151446.jpeg)
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
 

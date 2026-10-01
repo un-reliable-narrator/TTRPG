@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/forest
-- monster/size/medium
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vine Blight"
+  - Vine Blight
 ---
 # [Vine Blight](vine-Blight.md)
 *Source: Monster Manual (2024) p. 44*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/342/1000/1000/638741964777840961.png)
 
 Vine blights resemble humans wrapped in vines common to the areas in which they grow, from hairy ivy vines to flowering kudzu. They can cause plants to burst from the ground around themselves and entangle nearby foes.
 

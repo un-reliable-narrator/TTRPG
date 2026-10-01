@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/uncommon
-- item/wondrous/rod
+  - src/5e/dmg
+  - item/rarity/uncommon
+  - item/wondrous/rod
 aliases:
-- "Immovable Rod"
+  - Immovable Rod
 ---
 # Immovable Rod
 *Rod, uncommon*  

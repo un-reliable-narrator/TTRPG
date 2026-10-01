@@ -1,17 +1,19 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/forest
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Owlbear](Owlbear.md)
 *Source: Monster Manual (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/138/1000/1000/638741964495949233.jpeg)
 
 Owlbears are tenacious hunters that might track prey over miles and rarely give up their hunts.
 

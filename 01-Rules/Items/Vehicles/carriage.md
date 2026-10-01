@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/rarity/none
-- item/vehicle/land
+  - src/5e/xphb
+  - item/rarity/none
+  - item/vehicle/land
 aliases:
-- "Carriage"
+  - Carriage
 ---
 # Carriage
 *Vehicle (land)*  

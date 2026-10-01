@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mind Flayer"
+  - Mind Flayer
 ---
 # [Mind Flayer](Mind-flayer.md)
 *Source: Monster Manual (2024) p. 214*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/80/1000/1000/638741964415748098.png)
 
 A mind flayer's hunger for brains is outmeasured only by its thirst for dominance, and it embraces any plot that allows it to indulge both.
 

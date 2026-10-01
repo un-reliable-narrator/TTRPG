@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/underdark
-- monster/size/large
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Violet Fungus Necrohulk"
+  - Violet Fungus Necrohulk
 ---
 # [Violet Fungus Necrohulk](violet-fungus-necrohulk.md)
 *Source: Monster Manual (2024) p. 126*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/344/1000/1000/638741964780957580.png)
 
 A violet fungus necrohulk forms when a violet fungus colony infests and animates an ample heap of decay. This necrohulk attacks prey and spreads fungal spores for the colony.
 

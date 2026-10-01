@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/
+  - item/rarity/none
 aliases:
-- "Assassin's Blood"
+  - Assassin's Blood
 ---
 # Assassin's Blood
 *Adventuring gear, poison (ingested)*  

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/9
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/large
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/9
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Young Silver Dragon"
+  - Young Silver Dragon
 ---
 # [Young Silver Dragon](young-Silver-Dragon.md)
 *Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/410/1000/1000/638741964877688466.png)
 
 Young silver dragons usually have close ties with elder metallic dragons or heroic role models, helping those with great goals achieve their ambitions. They might serve as messengers for or representatives of such do-gooders.
 

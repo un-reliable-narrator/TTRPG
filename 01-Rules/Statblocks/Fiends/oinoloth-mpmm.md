@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/12
-- monster/environment/desert
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Fiends/yugoloth
+  - src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Fiends/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Oinoloth"
+  - Oinoloth
 ---
 # [Oinoloth](oinoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/593/1000/1000/637880557915556161.jpeg)
 
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.
 

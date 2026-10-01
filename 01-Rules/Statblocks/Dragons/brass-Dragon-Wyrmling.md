@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/desert
-- monster/size/medium
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Brass Dragon Wyrmling"
+  - Brass Dragon Wyrmling
 ---
 # [Brass Dragon Wyrmling](brass-Dragon-Wyrmling.md)
 *Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/681/1000/1000/638741963867268034.png)
 
 Brass dragon wyrmlings are relentlessly curious. These dragons eagerly engage approachable creatures and are quick to explore any place that has an interesting story. Once they hear tales of adventure, many are keen to start their own quests.
 

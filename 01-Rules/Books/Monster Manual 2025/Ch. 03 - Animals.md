@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/xmm
+  - src/5e/xmm
 aliases:
-- "Animals"
+  - Animals
 ---
 # Animals
 *Source: Monster Manual (2025), p. 348* 

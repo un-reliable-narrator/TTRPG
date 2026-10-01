@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/attunement/required
-- item/rarity/legendary
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/attunement/required
+  - item/rarity/legendary
 aliases:
-- "Plate Armor of Etherealness"
+  - Plate Armor of Etherealness
 ---
 # Plate Armor of Etherealness
 *Heavy armor, legendary (requires attunement)*  

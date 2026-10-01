@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Scout Captain"
+  - Scout Captain
 ---
 # [Scout Captain](Scout-Captain.md)
 *Source: Monster Manual (2024) p. 270*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/228/1000/1000/638741964618937279.jpeg)
 
 Scout captains are experienced explorers and sharpshooters. They might lead bands of other scouts or disappear into the wilds alone for months at a time.
 

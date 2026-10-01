@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/6
-- monster/size/medium
-- monster/type/undead
+  - src/5e/lox
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Grimzod Gargenhale"
+  - Grimzod Gargenhale
 ---
 # [Grimzod Gargenhale](Grimzod-Gargenhale-Lox.md)
 *Source: Light of Xaryxis p. 32*  

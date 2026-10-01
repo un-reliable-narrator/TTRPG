@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/Humanoids/wizard
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/Humanoids/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mage Apprentice"
+  - Mage Apprentice
 ---
 # [Mage Apprentice](Mage-Apprentice.md)
 *Source: Monster Manual (2024) p. 198*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/47/1000/1000/638741964369700988.png)
 
 Mage apprentices are spellcasters of humble skill. Some are students of accomplished mages, while others have innate powers.
 

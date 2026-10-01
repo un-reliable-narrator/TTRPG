@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sahuagin Priest"
+  - Sahuagin Priest
 ---
 # [Sahuagin Priest](sahuagin-Priest.md)
 *Source: Monster Manual (2024) p. 265*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/212/1000/1000/638741964598596144.jpeg)
 
 Sahuagin priests serve the will of Sekolah or other fiendish masters. They direct and support other sahuagin, and they consider every combatant that falls in battle—whether enemy or ally—a sacrifice to their fierce deities.
 

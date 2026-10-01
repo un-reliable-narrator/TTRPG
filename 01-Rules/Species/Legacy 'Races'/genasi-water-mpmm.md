@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/genasi/water
+  - src/5e/mpmm
+  - race/genasi/water
 aliases:
-- "Genasi (Water)"
+  - Genasi (Water)
 ---
 # Genasi (Water)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 17*  

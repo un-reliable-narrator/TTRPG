@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
 aliases:
-- "Gloves of Swimming and Climbing"
+  - Gloves of Swimming and Climbing
 ---
 # Gloves of Swimming and Climbing
 *Wondrous item, uncommon (requires attunement)*  

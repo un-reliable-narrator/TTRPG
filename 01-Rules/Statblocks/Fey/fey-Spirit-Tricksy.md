@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xphb
-- monster/cr/
-- monster/size/small
-- monster/type/fey
+  - src/5e/xphb
+  - monster/cr/
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Fey Spirit (Tricksy)"
+  - Fey Spirit (Tricksy)
 ---
 # [Fey Spirit (Tricksy)](fey-Spirit-Tricksy.md)
 *Source: Player's Handbook (2024) p. 326*  

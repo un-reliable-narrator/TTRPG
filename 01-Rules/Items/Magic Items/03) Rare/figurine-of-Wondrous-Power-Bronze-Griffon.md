@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/rare
+  - src/5e/dmg
+  - item/rarity/rare
 aliases:
-- "Figurine of Wondrous Power, Bronze Griffon"
+  - Figurine of Wondrous Power, Bronze Griffon
 ---
 # Figurine of Wondrous Power, Bronze Griffon
 *Wondrous item, rare*  

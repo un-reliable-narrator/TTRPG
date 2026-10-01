@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/lmop
-- item/attunement/required
-- item/rarity/rare
-- item/weapon/simple
+  - src/5e/lmop
+  - item/attunement/required
+  - item/rarity/rare
+  - item/weapon/simple
 aliases:
-- "Staff of Defense"
+  - Staff of Defense
 ---
 # Staff of Defense
 *Staff, weapon, rare (requires attunement)*  

@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/5
-- monster/size/large
-- monster/type/celestial
+  - src/5e/lox
+  - monster/cr/5
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vocath"
+  - Vocath
 ---
 # [Vocath](vocath-Lox.md)
 *Source: Light of Xaryxis p. 42*  

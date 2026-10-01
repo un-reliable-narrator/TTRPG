@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/treasure-art-object
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/treasure-art-object
+  - item/rarity/none
 aliases:
-- "Jeweled gold crown"
+  - Jeweled gold crown
 ---
 # Jeweled gold crown
 *Treasure (art object)*  

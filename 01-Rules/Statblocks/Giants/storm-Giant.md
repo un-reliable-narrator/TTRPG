@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/13
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/giant
+  - src/5e/xmm
+  - monster/cr/13
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Storm Giant"
+  - Storm Giant
 ---
 # [Storm Giant](storm-Giant.md)
 *Source: Monster Manual (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/277/1000/1000/638741964688928614.png)
 
 ## Storm Giant
 

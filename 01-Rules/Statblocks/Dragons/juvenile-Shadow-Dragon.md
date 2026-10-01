@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/planar
-- monster/environment/shadowfell
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/dragon
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/planar
+  - monster/environment/shadowfell
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Juvenile Shadow Dragon"
+  - Juvenile Shadow Dragon
 ---
 # [Juvenile Shadow Dragon](juvenile-Shadow-Dragon.md)
 *Source: Monster Manual (2024) p. 275*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58415/705/1000/1000/639226666033227170.jpeg)
 
 ## Shadow Dragons
 

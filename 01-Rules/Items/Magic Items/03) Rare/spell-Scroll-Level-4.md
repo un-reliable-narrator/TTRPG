@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/rare
-- item/wondrous/scroll
+  - src/5e/dmg
+  - item/rarity/rare
+  - item/wondrous/scroll
 aliases:
-- "Spell Scroll (Level 4)"
+  - Spell Scroll (Level 4)
 ---
 # Spell Scroll (Level 4)
 *Scroll, rare*  

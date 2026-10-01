@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- src/5e/xphb
-- optional-feature/ei
+  - src/5e/xphb
+  - optional-feature/ei
 aliases:
-- "Lifedrinker"
+  - Lifedrinker
 ---
 # Lifedrinker
 *Source: Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

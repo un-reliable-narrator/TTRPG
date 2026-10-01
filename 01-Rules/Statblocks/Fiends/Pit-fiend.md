@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/20
-- monster/environment/nine-hells
-- monster/environment/planar
-- monster/size/large
-- monster/type/Fiends/devil
+  - src/5e/xmm
+  - monster/cr/20
+  - monster/environment/nine-hells
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Pit Fiend"
+  - Pit Fiend
 ---
 # [Pit Fiend](Pit-fiend.md)
 *Source: Monster Manual (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/158/1000/1000/638741964521765909.png)
 
 ## Pit Fiend
 

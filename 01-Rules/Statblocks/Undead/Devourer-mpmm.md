@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/13
-- monster/environment/underdark
-- monster/size/large
-- monster/type/undead
+  - src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Devourer"
+  - Devourer
 ---
 # [Devourer](Devourer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/273/1000/1000/637880557362655501.jpeg)
 
 Of all the abominations unleashed by [Orcus](orcus-mpmm.md), devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
 

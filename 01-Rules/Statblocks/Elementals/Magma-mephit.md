@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/elemental
-- monster/environment/planar
-- monster/size/small
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/elemental
+  - monster/environment/planar
+  - monster/size/small
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Magma Mephit"
+  - Magma Mephit
 ---
 # [Magma Mephit](Magma-mephit.md)
 *Source: Monster Manual (2024) p. 207. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/49/1000/1000/638741964372215335.jpeg)
 
 These mephits embody the merging of earth and fire as glowing magma. They love melting things, but they loathe magmins and attack them on sight.
 

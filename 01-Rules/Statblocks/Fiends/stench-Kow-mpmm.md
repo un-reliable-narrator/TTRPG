@@ -1,17 +1,17 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/large
-- monster/type/Fiends/cattle
+  - src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/Fiends/cattle
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Stench Kow"
+  - Stench Kow
 ---
 # [Stench Kow](stench-Kow-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72*  

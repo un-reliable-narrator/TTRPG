@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/construct
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Stone Cursed"
+  - Stone Cursed
 ---
 # [Stone Cursed](stone-Cursed-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/685/1000/1000/637880558057937373.jpeg)
 
 Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [petrified](Conditions.md#Petrified) victim's spirit, animating the statue and turning it into a useful guardian.
 

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- src/5e/xphb
-- optional-feature/mv-b
+  - src/5e/xphb
+  - optional-feature/mv-b
 aliases:
-- "Lunging Attack"
+  - Lunging Attack
 ---
 # Lunging Attack
 *Source: Player's Handbook (2024) p. 95*  

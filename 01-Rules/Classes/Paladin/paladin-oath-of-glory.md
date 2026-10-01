@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/paladin/glory
+  - src/5e/xphb
+  - subclass/paladin/glory
 aliases:
-- "Oath of Glory"
+  - Oath of Glory
 ---
 # Oath of Glory
 *[[Paladin|Paladin]]: Paladin Subclass*  

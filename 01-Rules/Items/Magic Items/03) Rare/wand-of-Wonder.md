@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/wand
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/wand
 aliases:
-- "Wand of Wonder"
+  - Wand of Wonder
 ---
 # Wand of Wonder
 *Wand, rare (requires attunement)*  
@@ -30,7 +30,7 @@ The wand regains `dice: 1d6 + 1` expended charges daily at dawn. If you expend t
 | 21-25 | Nothing happens at the chosen point of origin. Instead, you have the [Stunned](Conditions.md#Stunned) condition until the start of your next turn, believing something awesome just happened. |
 | 26-30 | You cast [Gust of Wind](Gust-of-Wind.md). The [Line](line-area-of-effect.md) created by the spell extends from you to the chosen point of origin. |
 | 31-35 | Nothing happens at the chosen point of origin. Instead, you take `dice: 1d6` Psychic damage. |
-| 36-40 | Heavy rain falls for 1 minute in a 120-foot-high, 60-foot-radius [Cylinder](cylinder-area-of-effect.md) centered on the chosen point of origin. During that time, the area of effect is [Lightly Obscured](lightly-obscured.md). |
+| 36-40 | Heavy rain falls for 1 minute in a 120-foot-high, 60-foot-radius [Cylinder](cylinder-area-of-effect.md) centered on the chosen point of origin. During that time, the area of effect is [Lightly Obscured](Lightly-Obscured.md). |
 | 41-45 | A cloud of 600 oversized butterflies fills a 60-foot-high, 30-foot-radius [Cylinder](cylinder-area-of-effect.md) centered on the chosen point of origin. The butterflies remain for 10 minutes, during which time the area of effect is [Heavily Obscured](heavily-obscured.md). |
 | 46-50 | You cast [Lightning Bolt](Lightning-Bolt.md). The [Line](line-area-of-effect.md) created by the spell extends from you to the chosen point of origin. |
 | 51-55 | The creature closest to the chosen point of origin is enlarged as if you had cast [Enlarge/Reduce](Enlarge-Reduce.md) on it. If the target isn't you and can't be affected by that spell, you become the target instead. |

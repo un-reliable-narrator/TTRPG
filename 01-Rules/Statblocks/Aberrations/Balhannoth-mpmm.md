@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/11
-- monster/environment/coastal
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/coastal
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Balhannoth"
+  - Balhannoth
 ---
 # [Balhannoth](Balhannoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/159/1000/1000/637880557168947574.jpeg)
 
 Native to the Shadowfell, the vicious, predatory balhannoth alters reality in its lair to make the place appear inviting to travelers. A limited form of telepathy enables a balhannoth to identify images of places where its prey expects their needs and desires to be met, such as an inn or a temple offering healing. It then warps reality around itself, hiding itself and remaking its environment to resemble such a place. The imitation is imperfect, but it's good enough to fool greedy or desperate creatures. Once its prey enters the trap, it snatches the targets and teleports away to feed on their fear and despair.
 

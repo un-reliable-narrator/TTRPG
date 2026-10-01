@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lmop
-- monster/cr/0
-- monster/size/medium
-- monster/type/Humanoids/any-race
+  - src/5e/lmop
+  - monster/cr/0
+  - monster/size/medium
+  - monster/type/Humanoids/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gundren Rockseeker"
+  - Gundren Rockseeker
 ---
 # [Gundren Rockseeker](Gundren-Rockseeker-Lmop.md)
 *Source: Lost Mine of Phandelver p. 41*  

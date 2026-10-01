@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Nothic"
+  - Nothic
 ---
 # [Nothic](Nothic.md)
 *Source: Monster Manual (2024) p. 228. Available in the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/125/1000/1000/638741964477127265.png)
 
 ## Nothic
 

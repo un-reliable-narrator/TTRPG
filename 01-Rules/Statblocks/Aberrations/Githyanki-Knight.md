@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/astral
-- monster/environment/planar
-- monster/size/medium
-- monster/type/aberrations/gith
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/astral
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/aberrations/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githyanki Knight"
+  - Githyanki Knight
 ---
 # [Githyanki Knight](Githyanki-Knight.md)
 *Source: Monster Manual (2024) p. 135*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/898/1000/1000/638741964166728717.png)
 
 Githyanki knights wield silver blades to slay magic-users who use the [Astral Projection](Astral-Projection.md) spell to intrude on githyanki territories on the Astral Plane. These silver blades are sacred to the githyanki. Non-githyanki who claim these weapons often find themselves hunted by wrathful githyanki knights.
 

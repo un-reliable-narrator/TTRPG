@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/small
-- monster/type/plant
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/small
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vegepygmy Chief"
+  - Vegepygmy Chief
 ---
 # [Vegepygmy Chief](vegepygmy-Chief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/736/1000/1000/637880558129044340.jpeg)
 
 As a [vegepygmy](vegepygmy-mpmm.md) ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [russet mold](russet-mold-vgm.md) does.
 

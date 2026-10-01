@@ -1,23 +1,25 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/planar
-- monster/size/large
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Worg"
+  - Worg
 ---
-# [Worg](worg.md)
+# [Worg](Worg.md)
 *Source: Monster Manual (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![392](https://www.dndbeyond.com/avatars/thumbnails/47158/750/1000/1000/638742828061880403.png)
 
 Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire with goblinoids and gnolls and might serve them as mounts.
 

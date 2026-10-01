@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Lacedon Ghoul"
+  - Lacedon Ghoul
 ---
 # [Lacedon Ghoul](lacedon-Ghoul.md)
 *Source: Monster Manual (2024) p. 132*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/33/1000/1000/638741964350141366.png)
 
 Lacedons are loose-skinned, aquatic ghouls. They often arise from the corpses of greedy pirates, those who starved on deserted islands, or scoundrels who met their end by drowning.
 

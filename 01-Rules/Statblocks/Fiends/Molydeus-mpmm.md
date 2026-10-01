@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/21
-- monster/size/huge
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/21
+  - monster/size/huge
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Molydeus"
+  - Molydeus
 ---
 # [Molydeus](Molydeus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/543/1000/1000/637880557840909440.jpeg)
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
 

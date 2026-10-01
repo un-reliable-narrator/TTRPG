@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/6
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Humanoids/dwarf
+  - src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Humanoids/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Duergar Warlord"
+  - Duergar Warlord
 ---
 # [Duergar Warlord](Duergar-Warlord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/333/1000/1000/637880557464314620.jpeg)
 
 A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader in battle, the warlord can use spikes of psionic energy to compel the warriors they command to fight harder.
 

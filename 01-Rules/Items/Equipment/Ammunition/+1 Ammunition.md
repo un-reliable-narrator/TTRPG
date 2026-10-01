@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/age/futuristic
-- item/gear/ammunition
-- item/gear/ammunition-firearm
-- item/rarity/uncommon
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/age/futuristic
+  - item/gear/ammunition
+  - item/gear/ammunition-firearm
+  - item/rarity/uncommon
+  - item/wondrous/generic-variant
 aliases:
-- "+1 Ammunition"
-- "+1 Arrow"
-- "+1 Bolt"
-- "+1 Energy Cell"
-- "+1 Firearm Bullet"
-- "+1 Needle"
-- "+1 Sling Bullet"
+  - +1 Ammunition
+  - +1 Arrow
+  - +1 Bolt
+  - +1 Energy Cell
+  - +1 Firearm Bullet
+  - +1 Needle
+  - +1 Sling Bullet
 ---
 # +1 Ammunition
 *Ammunition, uncommon*  

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/coastal
-- monster/size/large
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/coastal
+  - monster/size/large
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Young Bronze Dragon"
+  - Young Bronze Dragon
 ---
 # [Young Bronze Dragon](young-bronze-Dragon.md)
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/398/1000/1000/638741964861113471.png)
 
 Many young bronze dragons become experts in a type of problem, like driving off pirates or protecting communities from storms. Young bronze dragons collect friends with varied expertise, cultivating a community of experts they can rely on.
 

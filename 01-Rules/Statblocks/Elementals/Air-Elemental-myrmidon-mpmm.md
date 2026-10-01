@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Air Elemental Myrmidon"
+  - Air Elemental Myrmidon
 ---
 # [Air Elemental Myrmidon](Air-Elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/110/1000/1000/637880557090099973.jpeg)
 
 ## Elemental Myrmidons
 

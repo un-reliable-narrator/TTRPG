@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/12
-- monster/environment/coastal
-- monster/size/huge
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/coastal
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Frost Giant Everlasting One"
+  - Frost Giant Everlasting One
 ---
 # [Frost Giant Everlasting One](frost-Giant-Everlasting-One-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/381/1000/1000/637880557548032430.jpeg)
 
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
 

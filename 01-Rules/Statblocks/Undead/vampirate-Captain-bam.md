@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/6
-- monster/size/medium
-- monster/type/undead
+  - src/5e/bam
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Vampirate Captain"
+  - Vampirate Captain
 ---
 # [Vampirate Captain](vampirate-Captain-bam.md)
 *Source: Boo's Astral Menagerie p. 63, Light of Xaryxis*  

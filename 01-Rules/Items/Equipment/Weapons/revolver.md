@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/age/modern
-- item/rarity/none
-- item/weapon/martial
-- item/weapon/ranged
+  - src/5e/dmg
+  - item/age/modern
+  - item/rarity/none
+  - item/weapon/martial
+  - item/weapon/ranged
 aliases:
-- "Revolver"
+  - Revolver
 ---
 # Revolver
 *Weapon*  

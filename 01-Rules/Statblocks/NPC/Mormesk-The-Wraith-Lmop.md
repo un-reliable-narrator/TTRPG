@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lmop
-- monster/cr/3
-- monster/size/medium
-- monster/type/undead
+  - src/5e/lmop
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mormesk the Wraith"
+  - Mormesk the Wraith
 ---
 # [Mormesk the Wraith](Mormesk-The-Wraith-Lmop.md)
 *Source: Lost Mine of Phandelver p. 59*  

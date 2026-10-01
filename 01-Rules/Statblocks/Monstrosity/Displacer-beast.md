@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/forest
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Displacer Beast"
+  - Displacer Beast
 ---
 # [Displacer Beast](Displacer-beast.md)
 *Source: Monster Manual (2024) p. 98*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/764/1000/1000/638741963979068987.png)
 
 ## Displacer Beast
 

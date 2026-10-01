@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/26
-- monster/size/huge
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/26
+  - monster/size/huge
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Orcus"
+  - Orcus
 ---
 # [Orcus](orcus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 204*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/596/1000/1000/637880557920456718.jpeg)
 
 Orcus is the Demon Prince of Undeath, also known as the Blood Lord. While he takes pleasure in the sufferings of the living, he far prefers the company and service of Undead. His desire is to see all life quenched and the multiverse transformed into a vast necropolis populated solely by Undead creatures under his command.
 

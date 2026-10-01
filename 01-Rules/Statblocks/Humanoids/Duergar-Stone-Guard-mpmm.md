@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Humanoids/dwarf
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Humanoids/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Duergar Stone Guard"
+  - Duergar Stone Guard
 ---
 # [Duergar Stone Guard](Duergar-Stone-Guard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 110*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/330/1000/1000/637880557458534179.jpeg)
 
 Stone guards are elite troops deployed in small numbers to bolster war bands of regulars or organized into elite strike forces for specific missions.
 

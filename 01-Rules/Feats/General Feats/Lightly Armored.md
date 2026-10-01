@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- src/5e/xphb
-- feat
+  - src/5e/xphb
+  - feat
 aliases:
-- "Lightly Armored"
+  - Lightly Armored
 ---
 # Lightly Armored
 *Source: Player's Handbook (2024) p. 205*  

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/elemental
-- monster/environment/planar
-- monster/size/small
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/elemental
+  - monster/environment/planar
+  - monster/size/small
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Smoke Mephit"
+  - Smoke Mephit
 ---
 # [Smoke Mephit](smoke-mephit.md)
 *Source: Monster Manual (2024) p. 208*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/249/1000/1000/638741964646205247.jpeg)
 
 Smoke mephits are elusive beings formed of fiery cinders and hot air. They love misleading creatures and then mocking them for their gullibility.
 

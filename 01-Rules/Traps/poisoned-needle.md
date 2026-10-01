@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- src/5e/dmg
-- hazard/trp
+  - src/5e/dmg
+  - hazard/trp
 aliases:
-- "Poisoned Needle"
+  - Poisoned Needle
 ---
 # Poisoned Needle
 *Generic Hazard*  

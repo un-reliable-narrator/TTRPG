@@ -1,23 +1,25 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kobold Inventor"
+  - Kobold Inventor
 ---
 # [Kobold Inventor](Kobold-Inventor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 164*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/480/1000/1000/637880557747570750.jpeg)
 
 A kobold inventor builds improvised weapons to gain an advantage in combat. These weapons last for only one or two attacks before they break and typically work only for the inventor, but they might be surprisingly effective in the meantime. The weapons don't have to be lethal—often one serves its purpose if it distracts, scares, or confuses a creature long enough for the inventor to kill that foe.
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Star Spawn Mangler"
+  - Star Spawn Mangler
 ---
 # [Star Spawn Mangler](star-Spawn-mangler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/673/1000/1000/637880558039385090.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

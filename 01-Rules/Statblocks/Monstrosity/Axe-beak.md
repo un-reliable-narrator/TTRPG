@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/arctic
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/arctic
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Axe Beak"
+  - Axe Beak
 ---
 # [Axe Beak](Axe-beak.md)
 *Source: Monster Manual (2024) p. 24. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/632/1000/1000/638741963799273383.png)
 
 Alone or in small groups, axe beaks stalk prey to feed their flocks. When working together, axe beaks use rudimentary tactics, with some distracting threats while others strike vulnerable targets or rush young axe beaks to safety.
 

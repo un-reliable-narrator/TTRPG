@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/11
-- monster/size/gargantuan
-- monster/type/monstrosity
+  - src/5e/bam
+  - monster/cr/11
+  - monster/size/gargantuan
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Megapede"
+  - Megapede
 ---
 # [Megapede](Megapede-bam.md)
 *Source: Boo's Astral Menagerie p. 36, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/888/1000/1000/637961800868791508.jpeg)
 
 Megapedes are enormous centipedes that can be as much as 150 feet long, though most specimens top out at between 100 and 120 feet. Their dozens of legs are each 5 feet long and tipped with flexible claws, and they have fur-covered carapaces. A megapede that lives in a sandy environment often buries itself in the sand and waits for prey to wander nearby, but megapedes also nest in cavernous underground chambers.
 

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/desert
-- monster/size/large
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Scorpion"
+  - Giant Scorpion
 ---
 # [Giant Scorpion](giant Scorpion.md)
 *Source: Monster Manual (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58417/123/1000/1000/639226714851940076.jpeg)
 
 ## Animals
 

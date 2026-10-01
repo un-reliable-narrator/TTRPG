@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-8
-- monster/environment/abyss
-- monster/environment/planar
-- monster/size/small
-- monster/type/Fiends/demon
+  - src/5e/xmm
+  - monster/cr/1-8
+  - monster/environment/abyss
+  - monster/environment/planar
+  - monster/size/small
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Manes"
+  - Manes
 ---
 # [Manes](Manes.md)
 *Source: Monster Manual (2024) p. 201*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/57/1000/1000/638741964383186882.png)
 
 Manes lash out at creatures that appear weaker than themselves—or that react to them with fear—and strive to avoid more powerful demons. When manes escape from the Abyss, they go on reckless rampages and inflict as much harm as possible.
 

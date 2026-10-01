@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/11
-- monster/environment/coastal
-- monster/environment/planar
-- monster/environment/underwater
-- monster/environment/water
-- monster/size/large
-- monster/type/Elementals/genie
+  - src/5e/xmm
+  - monster/cr/11
+  - monster/environment/coastal
+  - monster/environment/planar
+  - monster/environment/underwater
+  - monster/environment/water
+  - monster/size/large
+  - monster/type/Elementals/genie
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Marid"
+  - Marid
 ---
 # [Marid](Marid.md)
 *Source: Monster Manual (2024) p. 203*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/61/1000/1000/638741964390051237.png)
 
 ## Marid
 

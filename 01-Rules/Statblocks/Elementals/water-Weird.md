@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/large
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Water Weird"
+  - Water Weird
 ---
 # [Water Weird](water-Weird.md)
 *Source: Monster Manual (2024) p. 323*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/362/1000/1000/638741964807692900.png)
 
 ## Water Weird
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/16
-- monster/size/huge
-- monster/type/construct
+  - src/5e/mpmm
+  - monster/cr/16
+  - monster/size/huge
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Hellfire Engine"
+  - Hellfire Engine
 ---
 # [Hellfire Engine](Hellfire-Engine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 152*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/446/1000/1000/637880557681894815.jpeg)
 
 Hellfire engines are semiautonomous bringers of destruction. Amnizus (in this book) and other devilish generals hold them in reserve until they are needed to repel an incursion by demons or crusading mortals, but occasionally one of these magical-mechanical hybrids gets loose, driven berserk by its need to destroy.
 

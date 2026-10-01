@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/artifact
-- item/weapon/martial
-- item/weapon/melee
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/weapon/martial
+  - item/weapon/melee
 ---
 # Whelm
 *Weapon ([Warhammer](Warhammer.md)), artifact (requires attunement by a dwarf or a creature attuned to a belt of dwarvenkind)*  

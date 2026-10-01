@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/fey/goblinoid
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/fey/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Hobgoblin Iron Shadow"
+  - Hobgoblin Iron Shadow
 ---
 # [Hobgoblin Iron Shadow](Hobgoblin-Iron-Shadow-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/452/1000/1000/637880557695185758.jpeg)
 
 Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
 

@@ -1,24 +1,26 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cyclops Sentry"
+  - Cyclops Sentry
 ---
 # [Cyclops Sentry](Cyclops-Sentry.md)
 *Source: Monster Manual (2024) p. 88*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/736/1000/1000/638741963942638050.jpeg)
 
 Most cyclops sentries serve their divine progenitors and oppose those who would tamper with fate.
 

@@ -1,23 +1,23 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/common
-- item/weapon/martial
-- item/weapon/melee
-- item/weapon/simple
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/common
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/weapon/simple
+  - item/wondrous/generic-variant
 aliases:
-- "Sylvan Talon"
-- "Sylvan Talon Dagger"
-- "Sylvan Talon Rapier"
-- "Sylvan Talon Scimitar"
-- "Sylvan Talon Shortsword"
-- "Sylvan Talon Sickle"
-- "Sylvan Talon Spear"
+  - Sylvan Talon
+  - Sylvan Talon Dagger
+  - Sylvan Talon Rapier
+  - Sylvan Talon Scimitar
+  - Sylvan Talon Shortsword
+  - Sylvan Talon Sickle
+  - Sylvan Talon Spear
 ---
 # Sylvan Talon
 *Common (requires attunement)*  

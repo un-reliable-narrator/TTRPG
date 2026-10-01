@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cloaker"
+  - Cloaker
 ---
 # [Cloaker](Cloaker.md)
 *Source: Monster Manual (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/714/1000/1000/638741963912044157.png)
 
 ## Cloaker
 

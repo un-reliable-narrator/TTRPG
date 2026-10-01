@@ -1,7 +1,7 @@
 ---
 tags:
   - monster/cr/0
-  - monster/type/Beasts 
+  - monster/type/Beasts
 ---
 
 

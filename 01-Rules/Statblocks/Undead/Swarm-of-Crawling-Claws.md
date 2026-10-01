@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/any
-- monster/size/medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/any
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Swarm of Crawling Claws"
+  - Swarm of Crawling Claws
 ---
 # [Swarm of Crawling Claws](Swarm-of-Crawling-Claws.md)
 *Source: Monster Manual (2024) p. 83. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/46992/23/1000/1000/638736097261803942.png)
 
 Swarms of crawling claws are typically animated by depraved necromancers. Occasionally, these grotesque swarms arise from mass graves or after tragedies, refusing to let their murderers escape their grasp.
 

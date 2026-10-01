@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/arctic
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/giant
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/arctic
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Frost Giant"
+  - Frost Giant
 ---
 # [Frost Giant](frost-Giant.md)
 *Source: Monster Manual (2024) p. 124. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/826/1000/1000/638741964064970373.png)
 
 ## Frost Giant
 

@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/xphb
+  - src/5e/xphb
 aliases:
-- "Appendix B: Creature Stat Blocks"
+  - "Appendix B: Creature Stat Blocks"
 ---
 # Appendix B: Creature Stat Blocks
 *Source: Player's Handbook (2024), p. 346* 
@@ -57,7 +57,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 - [Slaad Tadpole](Slaad-Tadpole.md)  
 - [Sphinx of Wonder](sphinx-of-Wonder.md)  
 - [Spider](Spider.md)  
-- [Sprite](sprite.md)  
+- [Sprite](Sprite.md)  
 - [Tiger](Tiger.md)  
 - [Venomous Snake](venomous-Snake.md)  
 - [Warhorse](01-Rules/Items/Mounts/warhorse.md)  

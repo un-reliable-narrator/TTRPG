@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/xphb
+  - src/5e/xphb
 aliases:
-- "Rules Glossary"
+  - Rules Glossary
 ---
 # Rules Glossary
 *Source: Player's Handbook (2024), p. 360* 
@@ -307,7 +307,7 @@ Here are definitions of various rules.
 > ![Knocking Out a Creature](Knocking-out-a-Creature.md)
 
 > [!embed-variantrule]- Lightly Obscured
-> ![Lightly Obscured](lightly-obscured.md)
+> ![Lightly Obscured](Lightly-Obscured.md)
 
 > [!embed-variantrule]- Line [Area of Effect]
 > ![Line ](line-area-of-effect.md)

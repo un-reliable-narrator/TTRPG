@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/12
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Yuan-ti Anathema"
+  - Yuan-ti Anathema
 ---
 # [Yuan-ti Anathema](yuan-Ti-Anathema-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 272*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/782/1000/1000/637880558201400870.jpeg)
 
 As part of their quest for godhood, a yuan-ti abomination might perform a ritual that, if successful, transforms them into an even greater form: a yuan-ti anathema. This ritual demands the sacrifice of hundreds of snakes and requires the abomination to bathe in the blood of their enemies. The transformation is quick but painful.
 

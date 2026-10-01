@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/age/futuristic
-- item/gear/ammunition
-- item/gear/ammunition-firearm
-- item/rarity/very-rare
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/age/futuristic
+  - item/gear/ammunition
+  - item/gear/ammunition-firearm
+  - item/rarity/very-rare
+  - item/wondrous/generic-variant
 aliases:
-- "Ammunition of Slaying"
-- "Arrow of Slaying"
-- "Bolt of Slaying"
-- "Energy Cell of Slaying"
-- "Firearm Bullet of Slaying"
-- "Needle of Slaying"
-- "Sling Bullet of Slaying"
+  - Ammunition of Slaying
+  - Arrow of Slaying
+  - Bolt of Slaying
+  - Energy Cell of Slaying
+  - Firearm Bullet of Slaying
+  - Needle of Slaying
+  - Sling Bullet of Slaying
 ---
 # Ammunition of Slaying
 *Ammunition, very rare*  

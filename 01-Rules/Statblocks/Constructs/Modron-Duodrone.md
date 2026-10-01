@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/mechanus
-- monster/environment/planar
-- monster/size/medium
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/mechanus
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Modron Duodrone"
+  - Modron Duodrone
 ---
 # [Modron Duodrone](Modron-Duodrone.md)
 *Source: Monster Manual (2024) p. 217*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/86/1000/1000/638741964423251585.jpeg)
 
 Duodrones can perform two tasks at once and often oversee monodrone work groups. They are slightly more skeptical of strangers than monodrones are.
 

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Badger"
+  - Badger
 ---
 # [Badger](Badger.md)
 *Source: Monster Manual (2024) p. 349, Player's Handbook (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/43938/902/1000/1000/638607409157242443.png)
 
 ## Animals
 

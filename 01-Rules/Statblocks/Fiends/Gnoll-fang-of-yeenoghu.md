@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gnoll Fang of Yeenoghu"
+  - Gnoll Fang of Yeenoghu
 ---
 # [Gnoll Fang of Yeenoghu](Gnoll-fang-of-yeenoghu.md)
 *Source: Monster Manual (2024) p. 141*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/914/1000/1000/638741964187421963.png)
 
 Gnolls possessed by demonic vestiges of the demon lord Yeenoghu, fangs of Yeenoghu direct the chaos of gnoll packs. Along the way, these fanatics seek grisly omens from Yeenoghu and strive to interpret the demon lord's vicious goals.
 

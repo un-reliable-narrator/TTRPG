@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-object
+  - json5e-object
 tags:
-- src/5e/dmg
-- object/size/gargantuan
-- object/type/siege-weapon
+  - src/5e/dmg
+  - object/size/gargantuan
+  - object/type/siege-weapon
 aliases:
-- "Siege Tower"
+  - Siege Tower
 ---
 # Siege Tower
 %%-- Embedded content starts on the next line. --%%

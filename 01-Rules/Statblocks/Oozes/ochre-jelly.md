@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/underdark
-- monster/size/large
-- monster/type/ooze
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ochre Jelly"
+  - Ochre Jelly
 ---
-# [Ochre Jelly](ochre-jelly.md)
+# [Ochre Jelly](Ochre-Jelly.md)
 *Source: Monster Manual (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/130/1000/1000/638741964483720834.png)
 
 ## Ochre Jelly
 

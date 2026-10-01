@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Drider"
+  - Drider
 ---
 # [Drider](Drider.md)
 *Source: Monster Manual (2024) p. 105. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/774/1000/1000/638741963992522116.png)
 
 ## Drider
 

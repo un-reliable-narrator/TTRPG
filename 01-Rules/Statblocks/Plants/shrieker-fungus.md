@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Shrieker Fungus"
+  - Shrieker Fungus
 ---
 # [Shrieker Fungus](shrieker-fungus.md)
 *Source: Monster Manual (2024) p. 125. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/245/1000/1000/638741964640116293.jpeg)
 
 If exposed to light or otherwise disturbed, mushroom-like shriekers emit a high-pitched noise that gives them their name. This wailing might alert other creatures or attract predators.
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/2
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/bam
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Psurlon"
+  - Psurlon
 ---
 # [Psurlon](Psurlon-bam.md)
 *Source: Boo's Astral Menagerie p. 44, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/916/1000/1000/637961800921830771.jpeg)
 
 Psurlons are malevolent, wormlike creatures that live on the Astral Plane. A fully grown specimen is 7 feet long. They have legs that end in hooves and arms that end in hands with three long fingers. A psurlon's eyeless head resembles that of an earthworm, capped by a maw ringed with teeth. Psurlons adorn themselves in richly colored robes and rarely wear armor or carry weapons.
 

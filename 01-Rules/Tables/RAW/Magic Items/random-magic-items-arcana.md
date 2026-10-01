@@ -102,7 +102,7 @@ aliases:
 | 58–59 | [Potion of Resistance](potion-of-Resistance.md) |
 | 60–61 | [Potion of Water Breathing](potion-of-Water-Breathing.md) |
 | 62 | [Quaal's Feather Token](quaals-feather-token.md) ([anchor](quaals-feather-token-Anchor.md), [fan](quaals-feather-token-fan.md), or [tree](quaals-feather-token-tree.md)) |
-| 63 | [Ring of Mind Shielding](Ring-of-mind-Shielding.md) |
+| 63 | [Ring of Mind Shielding](Ring-of-Mind-Shielding.md) |
 | 64–65 | [Robe of Useful Items](Robe-of-Useful-Items.md) |
 | 66–67 | [Rod of the Pact Keeper](rod-of-the-Pact-keeper.md) |
 | 68–69 | [Rope of Climbing](rope-of-Climbing.md) |

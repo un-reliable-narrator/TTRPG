@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/16
-- monster/environment/astral
-- monster/environment/planar
-- monster/size/medium
-- monster/type/aberrations/gith
+  - src/5e/xmm
+  - monster/cr/16
+  - monster/environment/astral
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/aberrations/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githyanki Dracomancer"
+  - Githyanki Dracomancer
 ---
 # [Githyanki Dracomancer](Githyanki-Dracomancer.md)
 *Source: Monster Manual (2024) p. 135*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/896/1000/1000/638741964163764730.png)
 
 One of Gith's last deeds was to forge an alliance between the githyanki and the dragon god Tiamat. Ever since, the Dragon Queen's red dragon consort, Ephelomon, and his kind have been allies of the githyanki. Githyanki dracomancers uphold this pact and cultivate magic talents that complement the might of red dragons.
 

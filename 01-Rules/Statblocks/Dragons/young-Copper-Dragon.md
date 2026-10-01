@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/hill
-- monster/size/large
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Young Copper Dragon"
+  - Young Copper Dragon
 ---
 # [Young Copper Dragon](young-Copper-Dragon.md)
 *Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/400/1000/1000/638741964863604979.png)
 
 Young copper dragons forge strong connections with a community or group of friends while flitting from one artistic fixation to the next.
 

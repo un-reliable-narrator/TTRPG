@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xphb
-- monster/cr/
-- monster/size/unknown
-- monster/type/construct
+  - src/5e/xphb
+  - monster/cr/
+  - monster/size/unknown
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Animated Object (Medium or Smaller)"
+  - Animated Object (Medium or Smaller)
 ---
 # [Animated Object (Medium or Smaller)](Animated-Object-medium-Or-Smaller.md)
 *Source: Player's Handbook (2024) p. 240*  

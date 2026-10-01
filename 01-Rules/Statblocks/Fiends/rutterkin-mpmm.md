@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/size/medium
-- monster/type/Fiends/demon
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/Fiends/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Rutterkin"
+  - Rutterkin
 ---
 # [Rutterkin](rutterkin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/615/1000/1000/637880557947369162.jpeg)
 
 > [!quote] A quote from Tasha  
 > 

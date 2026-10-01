@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/forest
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Girallon"
+  - Girallon
 ---
 # [Girallon](Girallon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 139*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/414/1000/1000/637880557617699091.jpeg)
 
 A girallon looks like an oversized, four-armed ape with grayish-tan skin and white fur. Its vicious fangs and claws reveal it to be a monstrous predator.
 

@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/weapon/martial
-- item/weapon/melee
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/wondrous/generic-variant
 aliases:
-- "Vorpal Sword"
-- "Vorpal Glaive"
-- "Vorpal Greatsword"
-- "Vorpal Longsword"
-- "Vorpal Scimitar"
+  - Vorpal Sword
+  - Vorpal Glaive
+  - Vorpal Greatsword
+  - Vorpal Longsword
+  - Vorpal Scimitar
 ---
 # Vorpal Sword
 *Legendary (requires attunement)*  

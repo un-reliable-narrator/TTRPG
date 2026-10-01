@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cave Fisher"
+  - Cave Fisher
 ---
 # [Cave Fisher](Cave-Fisher-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/208/1000/1000/637880557255655478.jpeg)
 
 A cave fisher is a subterranean arachnid with a long snout that houses spinnerets, enabling the creature to produce sticky filaments, much like the strands of a spider's webbing, which the creature uses to snag prey.
 

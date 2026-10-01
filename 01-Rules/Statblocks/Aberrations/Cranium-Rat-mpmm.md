@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/0
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/0
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cranium Rat"
+  - Cranium Rat
 ---
 # [Cranium Rat](Cranium-Rat-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/243/1000/1000/637880557313520747.jpeg)
 
 ## Cranium Rat
 

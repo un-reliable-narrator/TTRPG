@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/11
-- monster/environment/desert
-- monster/environment/planar
-- monster/environment/upper
-- monster/size/large
-- monster/type/celestial
+  - src/5e/xmm
+  - monster/cr/11
+  - monster/environment/desert
+  - monster/environment/planar
+  - monster/environment/upper
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Sphinx of Lore"
+  - Sphinx of Lore
 ---
 # [Sphinx of Lore](sphinx-of-Lore.md)
 *Source: Monster Manual (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/257/1000/1000/638741964659035971.png)
 
 Sphinxes of lore each know a great secret and protect it all costs. This truth might take the form of an ancient text, a magical puzzle, or a path to another world. These sphinxes might gain reputations as sages or oracles, but they typically dwell far from civilization.
 

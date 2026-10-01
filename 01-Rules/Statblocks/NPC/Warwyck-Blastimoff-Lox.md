@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/3
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/lox
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Warwyck Blastimoff"
+  - Warwyck Blastimoff
 ---
 # [Warwyck Blastimoff](Warwyck-Blastimoff-Lox.md)
 *Source: Light of Xaryxis p. 39*  

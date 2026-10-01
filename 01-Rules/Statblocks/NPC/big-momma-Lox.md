@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/11
-- monster/size/huge
-- monster/type/monstrosity
+  - src/5e/lox
+  - monster/cr/11
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Big Momma"
+  - Big Momma
 ---
 # [Big Momma](big-momma-Lox.md)
 *Source: Light of Xaryxis p. 29*  

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/grassland
-- monster/size/large
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Rhinoceros"
+  - Rhinoceros
 ---
 # [Rhinoceros](rhinoceros.md)
 *Source: Monster Manual (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/200/1000/1000/638741964579661943.png)
 
 ## Animals
 

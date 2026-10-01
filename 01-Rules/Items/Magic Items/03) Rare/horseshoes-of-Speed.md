@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/rare
+  - src/5e/dmg
+  - item/rarity/rare
 aliases:
-- "Horseshoes of Speed"
+  - Horseshoes of Speed
 ---
 # Horseshoes of Speed
 *Wondrous item, rare*  

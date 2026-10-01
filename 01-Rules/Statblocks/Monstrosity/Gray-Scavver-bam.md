@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/1-4
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/bam
+  - monster/cr/1-4
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gray Scavver"
+  - Gray Scavver
 ---
 # [Gray Scavver](Gray-Scavver-bam.md)
 *Source: Boo's Astral Menagerie p. 49, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/866/1000/1000/637961800825892321.jpeg)
 
 Gray scavvers are 6 feet long and travel in packs. The scent of blood sends them into a feeding frenzy, but wounding one usually weakens it enough to make it break off its attack.
 

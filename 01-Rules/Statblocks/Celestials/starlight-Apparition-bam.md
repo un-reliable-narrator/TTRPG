@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/5
-- monster/size/medium
-- monster/type/celestial
+  - src/5e/bam
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Starlight Apparition"
+  - Starlight Apparition
 ---
 # [Starlight Apparition](starlight-Apparition-bam.md)
 *Source: Boo's Astral Menagerie p. 59, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/949/1000/1000/637961800985477888.jpeg)
 
 The transparent projections of unfortunate souls who perished in Wildspace or in the Astral Sea are known as starlight apparitions. Each one has a luminous, incorporeal appearance that resembles its former self, but with eyes that glow.
 

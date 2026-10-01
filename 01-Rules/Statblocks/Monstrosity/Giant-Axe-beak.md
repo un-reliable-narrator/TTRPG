@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/arctic
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/huge
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/arctic
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Axe Beak"
+  - Giant Axe Beak
 ---
 # [Giant Axe Beak](Giant-Axe-beak.md)
 *Source: Monster Manual (2024) p. 24*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58417/75/1000/1000/639226713207039092.jpeg)
 
 Giant axe beaks typically dwell in secluded, primeval realms, such as isolated islands or underground wildernesses. They often compete with dinosaurs and other giant beasts for territory.
 

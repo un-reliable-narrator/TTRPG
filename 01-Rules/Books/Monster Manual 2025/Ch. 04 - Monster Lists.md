@@ -1,10 +1,10 @@
 ---
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/xmm
+  - src/5e/xmm
 aliases:
-- "Monster Lists"
+  - Monster Lists
 ---
 # Monster Lists
 *Source: Monster Manual (2025), p. 374* 

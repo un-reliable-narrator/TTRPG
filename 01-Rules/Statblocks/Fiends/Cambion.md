@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/any
-- monster/size/medium
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/any
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cambion"
+  - Cambion
 ---
 # [Cambion](Cambion.md)
 *Source: Monster Manual (2024) p. 65*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/694/1000/1000/638741963885171334.png)
 
 ## Cambion
 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
 aliases:
-- "Gauntlets of Ogre Power"
+  - Gauntlets of Ogre Power
 ---
 # Gauntlets of Ogre Power
 *Wondrous item, uncommon (requires attunement)*  

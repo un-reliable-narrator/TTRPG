@@ -1,29 +1,29 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/light
-- item/armor/medium
-- item/attunement/required
-- item/rarity/legendary
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/light
+  - item/armor/medium
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/wondrous/generic-variant
 aliases:
-- "Enspelled Armor (Level 7)"
-- "Enspelled (Level 7) Breastplate"
-- "Enspelled (Level 7) Chain Mail"
-- "Enspelled (Level 7) Chain Shirt"
-- "Enspelled (Level 7) Half Plate Armor"
-- "Enspelled (Level 7) Hide Armor"
-- "Enspelled (Level 7) Leather Armor"
-- "Enspelled (Level 7) Padded Armor"
-- "Enspelled (Level 7) Plate Armor"
-- "Enspelled (Level 7) Ring Mail"
-- "Enspelled (Level 7) Scale Mail"
-- "Enspelled (Level 7) Splint Armor"
-- "Enspelled (Level 7) Studded Leather Armor"
+  - Enspelled Armor (Level 7)
+  - Enspelled (Level 7) Breastplate
+  - Enspelled (Level 7) Chain Mail
+  - Enspelled (Level 7) Chain Shirt
+  - Enspelled (Level 7) Half Plate Armor
+  - Enspelled (Level 7) Hide Armor
+  - Enspelled (Level 7) Leather Armor
+  - Enspelled (Level 7) Padded Armor
+  - Enspelled (Level 7) Plate Armor
+  - Enspelled (Level 7) Ring Mail
+  - Enspelled (Level 7) Scale Mail
+  - Enspelled (Level 7) Splint Armor
+  - Enspelled (Level 7) Studded Leather Armor
 ---
 # Enspelled Armor (Level 7)
 *Legendary (requires attunement)*  

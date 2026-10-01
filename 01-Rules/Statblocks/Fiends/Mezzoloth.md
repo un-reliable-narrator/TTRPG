@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/gehenna
-- monster/environment/planar
-- monster/size/medium
-- monster/type/Fiends/yugoloth
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/gehenna
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/Fiends/yugoloth
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mezzoloth"
+  - Mezzoloth
 ---
 # [Mezzoloth](Mezzoloth.md)
 *Source: Monster Manual (2024) p. 211*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/73/1000/1000/638741964406811485.png)
 
 ## Mezzoloth
 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- domain/life
-- subclass/cleric/life
+  - src/5e/xphb
+  - domain/life
+  - subclass/cleric/life
 aliases:
-- "Life Domain"
+  - Life Domain
 ---
 # Life Domain
 *[[Cleric|Cleric]]: Cleric Subclass*  

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/15
-- monster/environment/coastal
-- monster/size/huge
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/15
+  - monster/environment/coastal
+  - monster/size/huge
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult Bronze Dragon"
+  - Adult Bronze Dragon
 ---
 # [Adult Bronze Dragon](Adult-Bronze-Dragon.md)
 *Source: Monster Manual (2024) p. 59. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47159/907/1000/1000/638742881075395870.png)
 
 Adult bronze dragons often dwell near places they defend or where they help others work toward goals. They might become patrons of whole cities, advising leaders and helping generations flourish.
 

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Fomorian"
+  - Fomorian
 ---
 # [Fomorian](fomorian.md)
 *Source: Monster Manual (2024) p. 123*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/824/1000/1000/638741964062632892.jpeg)
 
 ## Fomorian
 

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/uncommon
+  - src/5e/dmg
+  - item/rarity/uncommon
 aliases:
-- "Alchemy Jug"
+  - Alchemy Jug
 ---
 # Alchemy Jug
 *Wondrous item, uncommon*  
@@ -22,18 +22,18 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 
 **Alchemy Jug Liquids**
 
-| Liquid | Max. Amount |
-|--------|-------------|
-| Acid | 8 ounces |
-| Basic Poison | 4 ounces |
-| Beer | 4 gallons |
-| Honey | 1 gallon |
-| Mayonnaise | 2 gallons |
-| Oil | 1 quart |
-| Vinegar | 2 gallons |
-| Water, fresh | 8 gallons |
-| Water, salt | 12 gallons |
-| Wine | 1 gallon |
+| Liquid       | Max. Amount |
+| ------------ | ----------- |
+| Acid         | 8 ounces    |
+| Basic Poison | 4 ounces    |
+| Beer         | 4 gallons   |
+| Honey        | 1 gallon    |
+| Mayonnaise   | 2 gallons   |
+| Oil          | 1 quart     |
+| Vinegar      | 2 gallons   |
+| Water, fresh | 8 gallons   |
+| Water, salt  | 12 gallons  |
+| Wine         | 1 gallon    |
 ^alchemy-jug-liquids
 
 *Source: Dungeon Master's Guide (2024) p. 227*

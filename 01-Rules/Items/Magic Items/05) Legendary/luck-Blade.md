@@ -1,24 +1,24 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/weapon/martial
-- item/weapon/melee
-- item/weapon/simple
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/weapon/simple
+  - item/wondrous/generic-variant
 aliases:
-- "Luck Blade"
-- "Luck Glaive"
-- "Luck Greatsword"
-- "Luck Longsword"
-- "Luck Rapier"
-- "Luck Scimitar"
-- "Luck Shortsword"
-- "Luck Sickle"
+  - Luck Blade
+  - Luck Glaive
+  - Luck Greatsword
+  - Luck Longsword
+  - Luck Rapier
+  - Luck Scimitar
+  - Luck Shortsword
+  - Luck Sickle
 ---
 # Luck Blade
 *Legendary (requires attunement)*  

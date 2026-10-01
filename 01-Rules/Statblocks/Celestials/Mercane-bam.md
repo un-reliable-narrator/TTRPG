@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/5
-- monster/size/large
-- monster/type/celestial
+  - src/5e/bam
+  - monster/cr/5
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mercane"
+  - Mercane
 ---
 # [Mercane](Mercane-bam.md)
 *Source: Boo's Astral Menagerie p. 37, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/891/1000/1000/637961800875499623.jpeg)
 
 Mercanes are the mysterious, magical creations of one or more deities whose portfolios revolve around fair commerce. Standing 12 feet tall, they are lanky blue beings who dress in elegant robes and have elongated heads and long, spindly fingers.
 

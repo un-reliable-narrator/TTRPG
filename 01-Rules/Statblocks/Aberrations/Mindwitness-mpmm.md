@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mindwitness"
+  - Mindwitness
 ---
 # [Mindwitness](Mindwitness-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/534/1000/1000/637880557826968065.jpeg)
 
 If a beholder is [stunned](Conditions.md#Stunned) and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
 

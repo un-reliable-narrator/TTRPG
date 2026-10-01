@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Constructs/dwarf
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Constructs/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Duergar Hammerer"
+  - Duergar Hammerer
 ---
 # [Duergar Hammerer](Duergar-Hammerer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 112*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/320/1000/1000/637880557442922867.jpeg)
 
 The duergar hammerer is a digging machine and siege engine, used to dig tunnels and besiege enemy fortifications.
 

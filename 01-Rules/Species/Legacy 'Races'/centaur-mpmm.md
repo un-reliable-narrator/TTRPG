@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/centaur
+  - src/5e/mpmm
+  - race/centaur
 aliases:
-- "Centaur"
+  - Centaur
 ---
 # Centaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 9*  

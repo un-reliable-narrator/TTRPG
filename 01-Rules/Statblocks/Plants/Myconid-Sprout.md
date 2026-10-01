@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/underdark
-- monster/size/small
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Myconid Sprout"
+  - Myconid Sprout
 ---
 # [Myconid Sprout](Myconid-Sprout.md)
 *Source: Monster Manual (2024) p. 222*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/110/1000/1000/638741964456615481.png)
 
 Myconid sprouts tend to their fungal homes and watch for trespassers.
 

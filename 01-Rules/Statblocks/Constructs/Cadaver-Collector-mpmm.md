@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/14
-- monster/environment/grassland
-- monster/size/large
-- monster/type/construct
+  - src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cadaver Collector"
+  - Cadaver Collector
 ---
 # [Cadaver Collector](Cadaver-Collector-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/199/1000/1000/637880557236583919.jpeg)
 
 The ancient war machines known as cadaver collectors lumber aimlessly across the blasted plains of Acheron until they are called upon by a necromancer to bolster the ranks of a conquering army on the Material Plane. These fearsome Constructs obey their summoners until they are dismissed back to Acheron, but if a summoner comes to a bad end, a cadaver collector might wander the Material Plane for centuries, collecting corpses while searching for a way to return home.
 

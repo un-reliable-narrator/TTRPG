@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gold Dragon Wyrmling"
+  - Gold Dragon Wyrmling
 ---
 # [Gold Dragon Wyrmling](Gold-Dragon-Wyrmling.md)
 *Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/928/1000/1000/638741964206337781.png)
 
 Gold dragon wyrmlings learn much from their elders, then head off to save the world. Idealistic and curious, these wyrmlings seek to right obvious wrongs and make friends among those they aid.
 

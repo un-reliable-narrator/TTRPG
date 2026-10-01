@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/11
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/11
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Mind Flayer Arcanist"
+  - Mind Flayer Arcanist
 ---
 # [Mind Flayer Arcanist](Mind-Flayer-Arcanist.md)
 *Source: Monster Manual (2024) p. 214*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/78/1000/1000/638741964412447511.png)
 
 Mind flayer arcanists enhance their psionic abilities with magic. Other mind flayers view those that undertake such experiments with disgust and fear.
 

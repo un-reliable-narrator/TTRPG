@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/3
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/bam
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giff Shipmate"
+  - Giff Shipmate
 ---
 # [Giff Shipmate](Giff-Shipmate-bam.md)
 *Source: Boo's Astral Menagerie p. 24, Light of Xaryxis*  

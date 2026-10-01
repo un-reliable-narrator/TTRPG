@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/wand
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/wand
 aliases:
-- "Wand of Polymorph"
+  - Wand of Polymorph
 ---
 # Wand of Polymorph
 *Wand, very rare (requires attunement by a spellcaster)*  

@@ -1,21 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/weapon/martial
-- item/weapon/melee
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/wondrous/generic-variant
 aliases:
-- "Moonblade"
-- "Moonblade Greatsword"
-- "Moonblade Longsword"
-- "Moonblade Rapier"
-- "Moonblade Scimitar"
-- "Moonblade Shortsword"
+  - Moonblade
+  - Moonblade Greatsword
+  - Moonblade Longsword
+  - Moonblade Rapier
+  - Moonblade Scimitar
+  - Moonblade Shortsword
 ---
 # Moonblade
 *Legendary (requires attunement by a creature of the weapon's choice)*  

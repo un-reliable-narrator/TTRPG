@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/7
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
+  - src/5e/xmm
+  - monster/cr/7
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bandit Deceiver"
+  - Bandit Deceiver
 ---
 # [Bandit Deceiver](Bandit-Deceiver.md)
 *Source: Monster Manual (2024) p. 28*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/646/1000/1000/638741963819477674.jpeg)
 
 Bandit deceivers use magic to disguise their activities or create flashy distractions.
 

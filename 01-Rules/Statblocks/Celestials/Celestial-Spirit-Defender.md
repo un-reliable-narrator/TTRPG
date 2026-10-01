@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xphb
-- monster/cr/
-- monster/size/large
-- monster/type/celestial
+  - src/5e/xphb
+  - monster/cr/
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Celestial Spirit (Defender)"
+  - Celestial Spirit (Defender)
 ---
 # [Celestial Spirit (Defender)](Celestial-Spirit-Defender.md)
 *Source: Player's Handbook (2024) p. 323*  

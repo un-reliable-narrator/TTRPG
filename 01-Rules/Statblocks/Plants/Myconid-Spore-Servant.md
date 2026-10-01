@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/underdark
-- monster/size/small-or-medium
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/underdark
+  - monster/size/small-or-medium
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Myconid Spore Servant"
+  - Myconid Spore Servant
 ---
 # [Myconid Spore Servant](Myconid-Spore-Servant.md)
 *Source: Monster Manual (2024) p. 223*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/108/1000/1000/638741964452553670.png)
 
 Spore servants are corpses that have been overgrown and reanimated by a myconid sovereign's spores. These fungus-infested bodies are extensions of a myconid sovereign and obey its will.
 

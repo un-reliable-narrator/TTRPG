@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
 aliases:
-- "Crystal Ball of True Seeing"
+  - Crystal Ball of True Seeing
 ---
 # Crystal Ball of True Seeing
 *Wondrous item, legendary (requires attunement)*  

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/5
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/bam
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Thri-kreen Mystic"
+  - Thri-kreen Mystic
 ---
 # [Thri-kreen Mystic](thri-Kreen-mystic-bam.md)
 *Source: Boo's Astral Menagerie p. 61, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/959/1000/1000/637961801004041597.jpeg)
 
 Thri-kreen mystics use psionics to navigate difficult terrain in Wildspace, turn invisible, and drain life from their prey. They often serve as spelljammers aboard thri-kreen ships.
 

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/dragon
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Wyvern"
+  - Wyvern
 ---
 # [Wyvern](wyvern.md)
 *Source: Monster Manual (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/384/1000/1000/638741964839190832.png)
 
 ## Wyvern
 

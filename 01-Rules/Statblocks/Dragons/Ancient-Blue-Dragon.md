@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/23
-- monster/environment/coastal
-- monster/environment/desert
-- monster/size/gargantuan
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/23
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/size/gargantuan
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ancient Blue Dragon"
+  - Ancient Blue Dragon
 ---
 # [Ancient Blue Dragon](Ancient-Blue-Dragon.md)
 *Source: Monster Manual (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/580/1000/1000/638741963725910358.jpeg)
 
 Ancient blue dragons think beyond dominating groups of short-lived servants. Instead, they seek to claim their places above other dragons and their world's most powerful inhabitants. If world domination seems too tedious or cliché, these dragons might seek to seize control of extraplanar realms, multi-world empires, or forces of reality—like life, storms, or time itself.
 

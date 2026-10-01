@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Squid"
+  - Giant Squid
 ---
 # [Giant Squid](giant Squid.md)
 *Source: Monster Manual (2024) p. 360*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/882/1000/1000/638741964144226871.png)
 
 ## Animals
 

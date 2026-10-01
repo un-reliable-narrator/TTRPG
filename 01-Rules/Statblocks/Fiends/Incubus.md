@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/lower
-- monster/environment/planar
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/lower
+  - monster/environment/planar
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Incubus"
+  - Incubus
 ---
 # [Incubus](Incubus.md)
 *Source: Monster Manual (2024) p. 178. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/521/1000/1000/638742817354978781.png)
 
 ## Incubus
 

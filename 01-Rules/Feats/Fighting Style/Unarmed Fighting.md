@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-feat
+  - json5e-feat
 tags:
-- src/5e/xphb
-- feat
+  - src/5e/xphb
+  - feat
 aliases:
-- "Unarmed Fighting"
+  - Unarmed Fighting
 ---
 # Unarmed Fighting
 *Source: Player's Handbook (2024) p. 210*  

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/grassland
-- monster/size/huge
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/grassland
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Elephant"
+  - Elephant
 ---
 # [Elephant](01-Rules/Statblocks/Beasts/Elephant.md)
 *Source: Monster Manual (2024) p. 353, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/43939/193/1000/1000/638607417003290867.png)
 
 ## Animals
 

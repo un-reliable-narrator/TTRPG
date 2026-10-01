@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Fire Elemental Myrmidon"
+  - Fire Elemental Myrmidon
 ---
 # [Fire Elemental Myrmidon](fire-Elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/360/1000/1000/637880557510478990.jpeg)
 
 ## Elemental Myrmidons
 

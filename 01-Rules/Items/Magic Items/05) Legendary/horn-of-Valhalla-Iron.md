@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/legendary
+  - src/5e/dmg
+  - item/rarity/legendary
 aliases:
-- "Horn of Valhalla, Iron"
+  - Horn of Valhalla, Iron
 ---
 # Horn of Valhalla, Iron
 *Wondrous item, legendary*  

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/23
-- monster/environment/any
-- monster/size/gargantuan
-- monster/type/Oozes/titan
+  - src/5e/xmm
+  - monster/cr/23
+  - monster/environment/any
+  - monster/size/gargantuan
+  - monster/type/Oozes/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Blob of Annihilation"
+  - Blob of Annihilation
 ---
 # [Blob of Annihilation](Blob-of-Annihilation.md)
 *Source: Monster Manual (2024) p. 47*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/671/1000/1000/638741963853676688.png)
 
 ## Blob of Annihilation
 

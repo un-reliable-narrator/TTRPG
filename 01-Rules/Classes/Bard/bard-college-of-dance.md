@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/bard/dance
+  - src/5e/xphb
+  - subclass/bard/dance
 aliases:
-- "College of Dance"
+  - College of Dance
 ---
 # College of Dance
 *[[Bard|Bard]]: Bard Subclass*  

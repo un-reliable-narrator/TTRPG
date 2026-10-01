@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/sorcerer/wild-magic
+  - src/5e/xphb
+  - subclass/sorcerer/wild-magic
 aliases:
-- "Wild Magic Sorcery"
+  - Wild Magic Sorcery
 ---
 # Wild Magic Sorcery
 *[[Sorcerer|Sorcerer]]: Sorcerer Subclass*  

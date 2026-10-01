@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
 aliases:
-- "Necklace of Adaptation"
+  - Necklace of Adaptation
 ---
 # Necklace of Adaptation
 *Wondrous item, uncommon (requires attunement)*  

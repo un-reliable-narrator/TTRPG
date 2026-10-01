@@ -1,18 +1,18 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Shadow Mastiff Alpha"
+  - Shadow Mastiff Alpha
 ---
 # [Shadow Mastiff Alpha](shadow-mastiff-Alpha-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215*  

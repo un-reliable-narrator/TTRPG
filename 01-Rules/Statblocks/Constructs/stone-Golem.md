@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/any
-- monster/size/large
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/any
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Stone Golem"
+  - Stone Golem
 ---
 # [Stone Golem](stone-Golem.md)
 *Source: Monster Manual (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/692/1000/1000/638742825754036623.jpeg)
 
 ## Stone Golem
 

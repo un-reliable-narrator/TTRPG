@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xphb
-- monster/cr/
-- monster/size/large
-- monster/type/fiend
+  - src/5e/xphb
+  - monster/cr/
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Otherworldly Steed (Fiend)"
+  - Otherworldly Steed (Fiend)
 ---
 # [Otherworldly Steed (Fiend)](otherworldly-Steed-fiend.md)
 *Source: Player's Handbook (2024) p. 273*  

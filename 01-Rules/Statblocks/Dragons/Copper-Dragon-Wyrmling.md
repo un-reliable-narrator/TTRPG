@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/hill
-- monster/size/medium
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Copper Dragon Wyrmling"
+  - Copper Dragon Wyrmling
 ---
 # [Copper Dragon Wyrmling](Copper-Dragon-Wyrmling.md)
 *Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/726/1000/1000/638741963928584606.jpeg)
 
 Copper dragon wyrmlings venture into the world seeking to make friends and discover wonders. They sometimes get into trouble, but those who help them can become their friends for life.
 

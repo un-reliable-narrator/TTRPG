@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/16
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/16
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Storm Giant Quintessent"
+  - Storm Giant Quintessent
 ---
 # [Storm Giant Quintessent](storm-Giant-quintessent-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/691/1000/1000/637880558066388188.jpeg)
 
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
 

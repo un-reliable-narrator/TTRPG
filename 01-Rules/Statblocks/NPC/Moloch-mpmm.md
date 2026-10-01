@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/21
-- monster/size/large
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/21
+  - monster/size/large
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Moloch"
+  - Moloch
 ---
 # [Moloch](Moloch-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 183*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/537/1000/1000/637880557832138643.jpeg)
 
 > [!quote] A quote from Mordenkainen  
 > 

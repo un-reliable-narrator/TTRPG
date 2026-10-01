@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/shield/
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/shield/
 aliases:
-- "Shield of Missile Attraction"
+  - Shield of Missile Attraction
 ---
 # Shield of Missile Attraction
 *Armor ([Shield](01-Rules/Spells/Core/Level%201/Shield.md)), cursed item, rare (requires attunement)*  

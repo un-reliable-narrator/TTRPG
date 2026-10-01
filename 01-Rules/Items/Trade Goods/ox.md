@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/trade-good
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/trade-good
+  - item/rarity/none
 aliases:
-- "Ox"
+  - Ox
 ---
 # Ox
 *Trade good*  

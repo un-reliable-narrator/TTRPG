@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- class/barbarian
-- src/5e/xphb
+  - class/barbarian
+  - src/5e/xphb
 aliases:
-- "Barbarian"
+  - Barbarian
 ---
 # Barbarian
 *Source: Player's Handbook (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

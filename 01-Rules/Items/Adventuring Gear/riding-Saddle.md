@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/gear/tack-and-harness
-- item/rarity/none
+  - src/5e/xphb
+  - item/gear/tack-and-harness
+  - item/rarity/none
 aliases:
-- "Riding Saddle"
+  - Riding Saddle
 ---
 # Riding Saddle
 *Tack and harness*  

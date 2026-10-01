@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/astral
-- monster/environment/planar
-- monster/size/medium
-- monster/type/aberrations/gith
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/astral
+  - monster/environment/planar
+  - monster/size/medium
+  - monster/type/aberrations/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githyanki Warrior"
+  - Githyanki Warrior
 ---
 # [Githyanki Warrior](Githyanki-Warrior.md)
 *Source: Monster Manual (2024) p. 134*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/900/1000/1000/638741964169422663.png)
 
 Githyanki warriors use psionic abilities to augment their battle prowess.
 

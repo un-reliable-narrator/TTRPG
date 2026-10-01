@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/20
-- monster/environment/arctic
-- monster/size/gargantuan
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/20
+  - monster/environment/arctic
+  - monster/size/gargantuan
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ancient White Dragon"
+  - Ancient White Dragon
 ---
 # [Ancient White Dragon](Ancient-White-Dragon.md)
 *Source: Monster Manual (2024) p. 330. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/596/1000/1000/638741963749839299.jpeg)
 
 Like arctic storms, ancient white dragons threaten icy realms. They emerge from their frozen lairs to indulge their hungers for food or treasure, menacing other creatures with lethal cold. While they might ignore animals or small groups of polar wanderers, these dragons are quick to challenge other dragons and creatures wielding powerful magic, hoping to add their foes' skulls and magic items to their own hoards.
 

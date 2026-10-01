@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/construct
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Scarecrow"
+  - Scarecrow
 ---
 # [Scarecrow](scarecrow.md)
 *Source: Monster Manual (2024) p. 269*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/226/1000/1000/638741964616111714.png)
 
 ## Scarecrow
 

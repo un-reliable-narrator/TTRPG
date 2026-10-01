@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- src/5e/xphb
-aliases:
-- "Suffocation"
+  - src/5e/xphb
 ---
 # Suffocation
 *Generic Hazard*  

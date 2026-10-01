@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/11
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/large
-- monster/type/aberration
+  - src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Morkoth"
+  - Morkoth
 ---
 # [Morkoth](Morkoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/546/1000/1000/637880557846659852.jpeg)
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
 

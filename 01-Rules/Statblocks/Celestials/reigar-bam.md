@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/8
-- monster/size/medium
-- monster/type/celestial
+  - src/5e/bam
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Reigar"
+  - Reigar
 ---
 # [Reigar](reigar-bam.md)
 *Source: Boo's Astral Menagerie p. 47, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/919/1000/1000/637961800929006353.jpeg)
 
 Reigar were once cephalopods similar to octopi. They inhabited the stormy seas of Ysgard until the gods of that plane transformed them. They have bioluminescent freckles and the ability to change the coloration of their skin. A glory (or halo) surrounds each of them. This magical display is a cloud of twinkling, glittering motes that changes color randomly and repels attacks.
 

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/size/medium
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Giant Badger"
+  - Giant Badger
 ---
 # [Giant Badger](Giant-Badger.md)
 *Source: Monster Manual (2024) p. 354, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/58417/80/1000/1000/639226713417629123.jpeg)
 
 ## Animals
 

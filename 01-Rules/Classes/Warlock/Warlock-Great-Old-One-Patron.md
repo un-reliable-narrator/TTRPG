@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/warlock/great-old-one
+  - src/5e/xphb
+  - subclass/warlock/great-old-one
 aliases:
-- "Great Old One Patron"
+  - Great Old One Patron
 ---
 # Great Old One Patron
 *[[Warlock|Warlock]]: Warlock Subclass*  

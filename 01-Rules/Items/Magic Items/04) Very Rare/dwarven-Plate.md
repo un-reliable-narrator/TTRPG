@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/medium
-- item/rarity/very-rare
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/medium
+  - item/rarity/very-rare
+  - item/wondrous/generic-variant
 aliases:
-- "Dwarven Plate"
-- "Dwarven Half Plate Armor"
-- "Dwarven Plate Armor"
+  - Dwarven Plate
+  - Dwarven Half Plate Armor
+  - Dwarven Plate Armor
 ---
 # Dwarven Plate
 *Very rare*  

@@ -1,28 +1,28 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/light
-- item/armor/medium
-- item/rarity/common
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/light
+  - item/armor/medium
+  - item/rarity/common
+  - item/wondrous/generic-variant
 aliases:
-- "Smoldering Armor"
-- "Smoldering Breastplate"
-- "Smoldering Chain Mail"
-- "Smoldering Chain Shirt"
-- "Smoldering Half Plate Armor"
-- "Smoldering Hide Armor"
-- "Smoldering Leather Armor"
-- "Smoldering Padded Armor"
-- "Smoldering Plate Armor"
-- "Smoldering Ring Mail"
-- "Smoldering Scale Mail"
-- "Smoldering Splint Armor"
-- "Smoldering Studded Leather Armor"
+  - Smoldering Armor
+  - Smoldering Breastplate
+  - Smoldering Chain Mail
+  - Smoldering Chain Shirt
+  - Smoldering Half Plate Armor
+  - Smoldering Hide Armor
+  - Smoldering Leather Armor
+  - Smoldering Padded Armor
+  - Smoldering Plate Armor
+  - Smoldering Ring Mail
+  - Smoldering Scale Mail
+  - Smoldering Splint Armor
+  - Smoldering Studded Leather Armor
 ---
 # Smoldering Armor
 *Common*  

@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/small
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/small
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Baboon"
+  - Baboon
 ---
 # [Baboon](Baboon.md)
 *Source: Monster Manual (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47144/597/1000/1000/638742154067495194.png)
 
 ## Animals
 

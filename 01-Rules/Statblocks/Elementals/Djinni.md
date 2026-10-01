@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/11
-- monster/environment/air
-- monster/environment/coastal
-- monster/environment/planar
-- monster/size/large
-- monster/type/Elementals/genie
+  - src/5e/xmm
+  - monster/cr/11
+  - monster/environment/air
+  - monster/environment/coastal
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/Elementals/genie
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Djinni](Djinni.md)
 *Source: Monster Manual (2024) p. 99. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/766/1000/1000/638741963981562034.png)
 
 ## Djinni
 

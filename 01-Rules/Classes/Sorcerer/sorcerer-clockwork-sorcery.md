@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/sorcerer/clockwork
+  - src/5e/xphb
+  - subclass/sorcerer/clockwork
 aliases:
-- "Clockwork Sorcery"
+  - Clockwork Sorcery
 ---
 # Clockwork Sorcery
 *[[Sorcerer|Sorcerer]]: Sorcerer Subclass*  

@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- class/cleric
-- src/5e/xphb
+  - class/cleric
+  - src/5e/xphb
 ---
 # Cleric
 *Source: Player's Handbook (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

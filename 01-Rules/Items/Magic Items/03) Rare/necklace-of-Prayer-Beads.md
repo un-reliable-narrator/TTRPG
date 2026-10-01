@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
 aliases:
-- "Necklace of Prayer Beads"
+  - Necklace of Prayer Beads
 ---
 # Necklace of Prayer Beads
 *Wondrous item, rare (requires attunement by a cleric, druid, or paladin)*  

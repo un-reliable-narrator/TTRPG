@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/0
-- monster/size/small
-- monster/type/fey
+  - src/5e/bam
+  - monster/cr/0
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Dohwar"
+  - Dohwar
 ---
 # [Dohwar](Dohwar-bam.md)
 *Source: Boo's Astral Menagerie p. 19, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/826/1000/1000/637961800749321519.jpeg)
 
 Dohwars are short, pudgy, flightless avians that look and move like penguins. Dohwars migrate from the Feywild to Wildspace, where they are typically encountered. They conduct their affairs in secrecy, preferring to meet in dark alleys and out-of-the-way places even when their business isn't illegal or dangerous. They tend to dress in a garish mishmash of clothing, but many of them also shroud themselves in hooded cloaks.
 

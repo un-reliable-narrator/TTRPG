@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/4
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead/warlock
+  - src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Deathlock"
+  - Deathlock
 ---
 # [Deathlock](Deathlock-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/255/1000/1000/637880557331322582.jpeg)
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
 

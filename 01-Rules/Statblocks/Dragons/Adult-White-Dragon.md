@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/13
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/Dragons/chromatic
+  - src/5e/xmm
+  - monster/cr/13
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/Dragons/chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Adult White Dragon"
+  - Adult White Dragon
 ---
 # [Adult White Dragon](Adult-White-Dragon.md)
 *Source: Monster Manual (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/572/1000/1000/638741963712275432.png)
 
 Adult white dragons claim large territories and are often the mightiest predators in those lands. While some lurk in their lairs for months, others regularly soar over their domains. When they spot something moving on the ice, they might swoop down to feed or extort food and offerings from sapient creatures.
 

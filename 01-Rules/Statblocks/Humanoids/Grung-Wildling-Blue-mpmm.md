@@ -1,16 +1,16 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/size/small
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/size/small
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Grung Wildling (Blue)"
+  - Grung Wildling (Blue)
 ---
 # [Grung Wildling (Blue)](Grung-Wildling-Blue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150*  

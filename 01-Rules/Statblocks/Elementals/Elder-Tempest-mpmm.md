@@ -1,23 +1,25 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/23
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/gargantuan
-- monster/type/elemental
+  - src/5e/mpmm
+  - monster/cr/23
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/gargantuan
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Elder Tempest"
+  - Elder Tempest
 ---
 # [Elder Tempest](Elder-Tempest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/351/1000/1000/637880557496727643.jpeg)
 
 Terrifying storms manifest in the bodies of elder tempests. Beings carved from clouds, wind, rain, and lightning, elder tempests assume the shape of serpents that slither through the sky. They drown the land beneath them with rain and stab the earth with lances of lightning. Punishing winds scream around them as they fly, feeding the chaos they create.
 

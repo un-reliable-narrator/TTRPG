@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/7
-- monster/size/gargantuan
-- monster/type/celestial
+  - src/5e/bam
+  - monster/cr/7
+  - monster/size/gargantuan
+  - monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kindori"
+  - Kindori
 ---
 # [Kindori](Kindori-bam.md)
 *Source: Boo's Astral Menagerie p. 31, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/882/1000/1000/637961800857715651.jpeg)
 
 A kindori lacks a noticeable mouth. The leading edge of its body is dotted with small eyes that can emit bright beams of light, which the creature uses to blind predators before making its escape. Kindori communicate with one another over long distances by sending flashes of light from their eyes and draw their nourishment from the light of suns and stars.
 

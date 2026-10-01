@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/fire
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/fire
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Salamander](Salamander.md)
 *Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/220/1000/1000/638741964608622540.png)
 
 Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
 

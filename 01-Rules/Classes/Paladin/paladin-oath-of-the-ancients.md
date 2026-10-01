@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/paladin/ancients
+  - src/5e/xphb
+  - subclass/paladin/ancients
 aliases:
-- "Oath of the Ancients"
+  - Oath of the Ancients
 ---
 # Oath of the Ancients
 *[[Paladin|Paladin]]: Paladin Subclass*  

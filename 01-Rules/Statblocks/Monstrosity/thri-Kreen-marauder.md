@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Thri-kreen Marauder"
+  - Thri-kreen Marauder
 ---
 # [Thri-kreen Marauder](thri-Kreen-marauder.md)
 *Source: Monster Manual (2024) p. 306*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/301/1000/1000/638741964724305381.png)
 
 Thri-kreen marauders employ weapons made of stone and bone, such as the spear-like gythka and throwing blades called chatkcha.
 

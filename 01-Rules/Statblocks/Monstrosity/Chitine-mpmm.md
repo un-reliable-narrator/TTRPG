@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/small
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Chitine"
+  - Chitine
 ---
 # [Chitine](Chitine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/214/1000/1000/637880557265066323.jpeg)
 
 Dedicated to Lolth, chitines are multi-armed bipeds with arachnid qualities. Most live in colonies in the Underdark and fight the enemies of the Demon Queen of Spiders. Long ago, the cult of Lolth first subjected elf prisoners to horrible rituals that transformed them into creatures with both elven and spider traits, which their creators dubbed chitines. The intention was to create servile warriors dedicated first to the cult and then, only by association with it, to Lolth. The goddess found this arrangement unacceptable.
 

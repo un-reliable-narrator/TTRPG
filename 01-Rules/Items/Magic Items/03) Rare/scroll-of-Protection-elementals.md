@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/rare
-- item/wondrous/scroll
+  - src/5e/dmg
+  - item/rarity/rare
+  - item/wondrous/scroll
 aliases:
-- "Scroll of Protection (Elementals)"
+  - Scroll of Protection (Elementals)
 ---
 # Scroll of Protection (Elementals)
 *Scroll, rare*  

@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/xphb
-- race/goliath
+  - src/5e/xphb
+  - race/goliath
 ---
 # Goliath
 *Source: Player's Handbook (2024) p. 192. Available in the Free Rules (2024)*  

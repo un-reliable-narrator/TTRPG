@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/rare
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/dmg
+  - item/rarity/rare
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Dagger of Venom"
+  - Dagger of Venom
 ---
 # Dagger of Venom
 *Weapon ([dagger](dagger.md)), rare*  

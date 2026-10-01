@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity/cleric
+  - src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity/cleric
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Choldrith"
+  - Choldrith
 ---
 # [Choldrith](Choldrith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/220/1000/1000/637880557276037356.jpeg)
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
 

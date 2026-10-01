@@ -1,7 +1,7 @@
 ---
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
 ---
 # Index of Giant
 
@@ -29,7 +29,7 @@ cssclasses:
 - [Rot Troll](Rot%20Troll%20-%20mpmm.md)
 - [Spirit Troll](spirit-Troll-mpmm.md)
 - [Stone Giant Dreamwalker](stone-Giant-Dreamwalker-mpmm.md)
-- [Stone Giant](stone-Giant.md)
+- [Stone Giant](Stone-Giant.md)
 - [Storm Giant Quintessent](storm-Giant-quintessent-mpmm.md)
 - [Storm Giant](storm-Giant.md)
 - [Troll Limb](troll-Limb.md)

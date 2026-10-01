@@ -1,18 +1,18 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/Beasts/dinosaur
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/Beasts/dinosaur
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Deinonychus"
+  - Deinonychus
 ---
 # [Deinonychus](Deinonychus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95*  

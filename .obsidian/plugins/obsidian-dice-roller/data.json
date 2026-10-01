@@ -239,6 +239,27 @@
       "resultText": "1d100\n[82]",
       "timestamp": 1788804669434,
       "id": "CBa8P4g6WKIQ"
+    },
+    {
+      "result": "6",
+      "original": "1d6",
+      "resultText": "1d6\n[6]",
+      "timestamp": 1789406997861,
+      "id": "mP5E75esKETQ"
+    },
+    {
+      "result": "6",
+      "original": "1d12",
+      "resultText": "1d12\n[6]",
+      "timestamp": 1789407112328,
+      "id": "9QG75rM0rM4d"
+    },
+    {
+      "result": "2",
+      "original": "1d12",
+      "resultText": "1d12\n[2]",
+      "timestamp": 1790679467568,
+      "id": "vUS0g6Jsn4ok"
     }
   ]
 }

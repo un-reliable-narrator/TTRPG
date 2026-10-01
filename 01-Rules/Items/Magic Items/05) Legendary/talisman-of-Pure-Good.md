@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
 aliases:
-- "Talisman of Pure Good"
+  - Talisman of Pure Good
 ---
 # Talisman of Pure Good
 *Wondrous item, legendary (requires attunement by a cleric or paladin)*  

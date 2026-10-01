@@ -592,7 +592,19 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
     const options = await this.font_options();
     containerEl.createDiv({
       cls: "custom-font-hint",
-      text: `Put your fonts in a 'fonts' folder (at your vault root) or in '${this.app.vault.configDir}/fonts', then pick them below. New files appear after you reload.`
+      text: `Put your fonts in a 'fonts' folder (at your vault root), in '${this.app.vault.configDir}/fonts', or in a custom folder set below, then pick them below. New files appear after you reload.`
+    });
+    new import_obsidian.Setting(containerEl).setName("Fonts folder").setDesc(
+      "Optional custom folder to also scan for fonts (e.g. 'assets/fonts')."
+    ).addText((text) => {
+      text.setPlaceholder("Path to an extra fonts folder");
+      text.setValue(this.plugin.settings.font_folder);
+      text.onChange(async (value) => {
+        const trimmed = value.trim();
+        this.plugin.settings.font_folder = trimmed === "" ? "" : with_trailing_slash(trimmed);
+        await this.plugin.saveSettings();
+        await this.plugin.load_plugin();
+      });
     });
     this.render_reload(containerEl);
     if (options.length === 0) {
@@ -602,7 +614,7 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
         text: "No fonts found"
       });
       warn.createDiv({
-        text: "No .ttf/.otf/.woff/.woff2 files were found. Add some to a fonts folder, then reload."
+        text: "No .ttf/.otf/.woff/.woff2 files were found. Add some to a fonts folder (or the custom folder above), then reload."
       });
       return;
     }
@@ -637,18 +649,6 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
       toggle.setValue(this.plugin.settings.force_mode);
       toggle.onChange(async (value) => {
         this.plugin.settings.force_mode = value;
-        await this.plugin.saveSettings();
-        await this.plugin.load_plugin();
-      });
-    });
-    new import_obsidian.Setting(containerEl).setName("Fonts folder").setDesc(
-      "Optional custom folder to also scan for fonts (e.g. 'assets/fonts')."
-    ).addText((text) => {
-      text.setPlaceholder("Path to an extra fonts folder");
-      text.setValue(this.plugin.settings.font_folder);
-      text.onChange(async (value) => {
-        const trimmed = value.trim();
-        this.plugin.settings.font_folder = trimmed === "" ? "" : with_trailing_slash(trimmed);
         await this.plugin.saveSettings();
         await this.plugin.load_plugin();
       });

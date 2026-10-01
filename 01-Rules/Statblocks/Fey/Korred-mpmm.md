@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/7
-- monster/environment/forest
-- monster/size/small
-- monster/type/fey
+  - src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Korred"
+  - Korred
 ---
 # [Korred](Korred-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 166*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/9/734/1000/1000/636331228026901440.jpeg)
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
 

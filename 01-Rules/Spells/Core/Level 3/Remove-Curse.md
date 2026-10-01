@@ -3,7 +3,7 @@ tags:
   - spell
 school: Abjuration
 spell_level: "3"
-alias: "Remove Curse"
+alias: Remove Curse
 ---
 #### Remove Curse
 

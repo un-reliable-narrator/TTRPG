@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/Humanoids/elf
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/Humanoids/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Drow House Captain"
+  - Drow House Captain
 ---
 # [Drow House Captain](Drow-house-Captain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/299/1000/1000/637880557407639489.jpeg)
 
 > [!quote] A quote from Tasha  
 > 

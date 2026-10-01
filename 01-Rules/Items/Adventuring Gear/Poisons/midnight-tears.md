@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/gear/poison
-- item/rarity/none
+  - src/5e/dmg
+  - item/gear/poison
+  - item/rarity/none
 aliases:
-- "Midnight Tears"
+  - Midnight Tears
 ---
 # Midnight Tears
 *Adventuring gear, poison (ingested)*  

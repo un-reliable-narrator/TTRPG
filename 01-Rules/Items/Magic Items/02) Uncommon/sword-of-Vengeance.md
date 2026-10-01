@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/weapon/martial
-- item/weapon/melee
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/weapon/martial
+  - item/weapon/melee
+  - item/wondrous/generic-variant
 aliases:
-- "Sword of Vengeance"
-- "Glaive of Vengeance"
-- "Greatsword of Vengeance"
-- "Longsword of Vengeance"
-- "Rapier of Vengeance"
-- "Scimitar of Vengeance"
-- "Shortsword of Vengeance"
+  - Sword of Vengeance
+  - Glaive of Vengeance
+  - Greatsword of Vengeance
+  - Longsword of Vengeance
+  - Rapier of Vengeance
+  - Scimitar of Vengeance
+  - Shortsword of Vengeance
 ---
 # Sword of Vengeance
 *Cursed item, uncommon (requires attunement)*  

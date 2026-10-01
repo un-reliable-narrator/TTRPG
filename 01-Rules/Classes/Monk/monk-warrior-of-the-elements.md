@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/monk/elements
+  - src/5e/xphb
+  - subclass/monk/elements
 aliases:
-- "Warrior of the Elements"
+  - Warrior of the Elements
 ---
 # Warrior of the Elements
 *[[Monk|Monk]]: Monk Subclass*  

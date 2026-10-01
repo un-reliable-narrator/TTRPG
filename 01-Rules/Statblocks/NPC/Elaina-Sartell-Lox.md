@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/2
-- monster/size/medium
-- monster/type/Humanoids/any-race
+  - src/5e/lox
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/Humanoids/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Elaina Sartell"
+  - Elaina Sartell
 ---
 # [Elaina Sartell](Elaina-Sartell-Lox.md)
 *Source: Light of Xaryxis p. 11*  

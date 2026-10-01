@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Peryton"
+  - Peryton
 ---
 # [Peryton](Peryton.md)
 *Source: Monster Manual (2024) p. 238*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/148/1000/1000/638741964507843718.png)
 
 ## Peryton
 

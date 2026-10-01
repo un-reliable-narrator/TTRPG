@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lmop
-- monster/cr/8
-- monster/size/large
-- monster/type/dragon
+  - src/5e/lmop
+  - monster/cr/8
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Venomfang"
+  - Venomfang
 ---
 # [Venomfang](venomfang-Lmop.md)
 *Source: Lost Mine of Phandelver p. 63*  

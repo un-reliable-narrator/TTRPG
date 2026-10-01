@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/Beasts/cattle
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/Beasts/cattle
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Aurochs"
+  - Aurochs
 ---
 # [Aurochs](Aurochs-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/150/1000/1000/637880557153896045.jpeg)
 
 An aurochs is a large, fierce bovine with jutting horns. In many lands, herds of aurochs roam free, while elsewhere orcs and humans train them from an early age to carry riders into combat.
 

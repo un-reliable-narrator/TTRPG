@@ -1,23 +1,25 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/13
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Dire Troll"
+  - Dire Troll
 ---
 # [Dire Troll](Dire-Troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/279/1000/1000/637880557372596397.jpeg)
 
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
 

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/rare
+  - src/5e/dmg
+  - item/rarity/rare
 aliases:
-- "Stone of Controlling Earth Elementals"
+  - Stone of Controlling Earth Elementals
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous item, rare*  

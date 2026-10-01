@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/air
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/planar
-- monster/size/large
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/air
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Air Elemental"
+  - Air Elemental
 ---
 # [Air Elemental](Air-Elemental.md)
 *Source: Monster Manual (2024) p. 13. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/574/1000/1000/638741963715864994.jpeg)
 
 ## Air Elemental
 

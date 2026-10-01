@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gnoll Pack Lord"
+  - Gnoll Pack Lord
 ---
 # [Gnoll Pack Lord](Gnoll-Pack-Lord.md)
 *Source: Monster Manual (2024) p. 140*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/916/1000/1000/638741964189761401.jpeg)
 
 Rising above other gnolls with their viciousness and physical prowess, gnoll pack lords terrorize weaker gnolls into their service. These brutes drive other gnolls to acts of great violence, then claim the best of their servants' spoils.
 

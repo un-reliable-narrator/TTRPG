@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/5
-- monster/environment/limbo
-- monster/environment/planar
-- monster/size/large
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/5
+  - monster/environment/limbo
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Red Slaad"
+  - Red Slaad
 ---
 # [Red Slaad](red-Slaad.md)
 *Source: Monster Manual (2024) p. 285*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/194/1000/1000/638741964571006766.jpeg)
 
 Red slaadi amass in vast throngs in Limbo. There they wrestle and croak-sing as they endlessly dismantle and rebuild islands of drifting planar matter. When they encounter non-slaadi, red slaadi seek to play with, telepathically converse with, or devour the other creatures. These whims change from moment to moment. Red slaadi instinctively avoid harming those bearing slaadi eggs, which red slaadi implant using their claws, or other slaad curses.
 

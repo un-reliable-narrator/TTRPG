@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/forest
-- monster/size/medium
-- monster/type/plant
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Wood Woad"
+  - Wood Woad
 ---
 # [Wood Woad](wood-Woad-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/760/1000/1000/637880558168887785.jpeg)
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
 

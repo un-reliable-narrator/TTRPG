@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/rarity/none
-- item/shield/
+  - src/5e/xphb
+  - item/rarity/none
+  - item/shield/
 ---
 # Shield
 *Armor ([Shield](01-Rules/Items/Equipment/Shield.md))*  

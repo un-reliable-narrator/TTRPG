@@ -1,29 +1,29 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/armor/heavy
-- item/armor/light
-- item/armor/medium
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/generic-variant
+  - src/5e/dmg
+  - item/armor/heavy
+  - item/armor/light
+  - item/armor/medium
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/generic-variant
 aliases:
-- "Armor of Acid Resistance"
-- "Breastplate of Acid Resistance"
-- "Chain Mail of Acid Resistance"
-- "Chain Shirt of Acid Resistance"
-- "Half Plate Armor of Acid Resistance"
-- "Hide Armor of Acid Resistance"
-- "Leather Armor of Acid Resistance"
-- "Padded Armor of Acid Resistance"
-- "Plate Armor of Acid Resistance"
-- "Ring Mail of Acid Resistance"
-- "Scale Mail of Acid Resistance"
-- "Splint Armor of Acid Resistance"
-- "Studded Leather Armor of Acid Resistance"
+  - Armor of Acid Resistance
+  - Breastplate of Acid Resistance
+  - Chain Mail of Acid Resistance
+  - Chain Shirt of Acid Resistance
+  - Half Plate Armor of Acid Resistance
+  - Hide Armor of Acid Resistance
+  - Leather Armor of Acid Resistance
+  - Padded Armor of Acid Resistance
+  - Plate Armor of Acid Resistance
+  - Ring Mail of Acid Resistance
+  - Scale Mail of Acid Resistance
+  - Splint Armor of Acid Resistance
+  - Studded Leather Armor of Acid Resistance
 ---
 # Armor of Acid Resistance
 *Rare (requires attunement)*  

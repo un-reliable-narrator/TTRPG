@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/uncommon
+  - src/5e/dmg
+  - item/rarity/uncommon
 aliases:
-- "Dust of Disappearance"
+  - Dust of Disappearance
 ---
 # Dust of Disappearance
 *Wondrous item, uncommon*  

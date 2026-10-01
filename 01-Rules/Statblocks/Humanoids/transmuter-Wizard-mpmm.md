@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Transmuter Wizard"
+  - Transmuter Wizard
 ---
 # [Transmuter Wizard](Transmuter-Wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 265*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/722/1000/1000/637880558110132407.jpeg)
 
 Transmuters are masters at transforming physical forms. They typically view magical transmutation as a path to riches, enlightenment, or apotheosis.
 

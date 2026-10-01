@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Yuan-ti Malison (Type 1)"
+  - Yuan-ti Malison (Type 1)
 ---
 # [Yuan-ti Malison (Type 1)](yuan-Ti-malison-Type-1.md)
 *Source: Monster Manual (2024) p. 343*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/418/1000/1000/638741964888471550.png)
 
 Malisons exhibit snakelike features that make them deadly in combat.
 

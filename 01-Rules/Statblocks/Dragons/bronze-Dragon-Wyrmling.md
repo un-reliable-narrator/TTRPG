@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/coastal
-- monster/size/medium
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/coastal
+  - monster/size/medium
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bronze Dragon Wyrmling"
+  - Bronze Dragon Wyrmling
 ---
 # [Bronze Dragon Wyrmling](bronze-Dragon-Wyrmling.md)
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/685/1000/1000/638741963872901679.png)
 
 Bronze dragon wyrmlings believe they can solve any problems, and they seek to prove it. They often fixate on local challenges, such as drought or rampant banditry. While their zeal can be charming, these wyrmlings can get in over their heads and might then need help correcting mistakes.
 

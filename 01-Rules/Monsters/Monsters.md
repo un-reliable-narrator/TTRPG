@@ -200,7 +200,7 @@ Every monster in the 2014 *Monster Manual* either appears in this book or has a 
 | Androsphinx                                       | [[Sphinx of Valor]]                              |
 | Azer                                              | [[Azer Sentinel]]                                |
 | Bugbear                                           | [[Bugbear Warrior]]                              |
-| Bullywug                                          | [[bullywug-Warrior\|Bullywug Warrior]]           |
+| Bullywug                                          | [[Bullywug-Warrior\|Bullywug Warrior]]           |
 | Centaur                                           | [[Centaur Trooper]]                              |
 | Cult Fanatic                                      | [[Cultist Fanatic]]                              |
 | Cyclops                                           | [[Cyclops-Sentry\|Cyclops Sentry]]               |

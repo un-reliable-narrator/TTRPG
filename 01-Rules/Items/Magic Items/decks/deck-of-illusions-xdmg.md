@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-deck
+  - json5e-deck
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Deck of Illusions"
+  - Deck of Illusions
 ---
 # Deck of Illusions
 *Source: Dungeon Master's Guide (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Piercer"
+  - Piercer
 ---
 # [Piercer](01-Rules/Statblocks/Aberrations/Piercer.md)
 *Source: Monster Manual (2024) p. 240*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/152/1000/1000/638741964513790397.png)
 
 ## Piercer
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/bam
-- monster/cr/2
-- monster/size/small
-- monster/type/construct
+  - src/5e/bam
+  - monster/cr/2
+  - monster/size/small
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Autognome"
+  - Autognome
 ---
 # [Autognome](Autognome-bam.md)
 *Source: Boo's Astral Menagerie p. 13, Light of Xaryxis*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/805/1000/1000/637961800712637965.jpeg)
 
 An autognome is a mechanical gnome that resembles the rock gnome who created it, though it could never be mistaken for a gnome. Regardless of what its insides are made of, it has a metallic outer casing painted with gnomish features. It walks with a stiff gait, clanking, wheezing, whirring, and buzzing wherever it goes.
 

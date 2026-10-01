@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/1
-- monster/size/medium
-- monster/type/plant
+  - src/5e/lox
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Astral Blight"
+  - Astral Blight
 ---
 # [Astral Blight](Astral-Blight-Lox.md)
 *Source: Light of Xaryxis p. 10*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/28079/787/1000/1000/637961800675042590.jpeg)
 
 ```statblock
 "name": "Astral Blight (LoX)"

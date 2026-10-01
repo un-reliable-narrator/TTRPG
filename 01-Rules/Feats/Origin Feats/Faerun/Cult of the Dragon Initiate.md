@@ -2,7 +2,7 @@
 tags:
   - origin-feat
 ---
-Cult of the Dragon Initiate
+# Cult of the Dragon Initiate
 
 [Home](http://dnd2024.wikidot.com/home:home) » [Feats](all) » Cult of the Dragon Initiate
 

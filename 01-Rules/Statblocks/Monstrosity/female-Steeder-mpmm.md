@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Female Steeder"
+  - Female Steeder
 ---
 # [Female Steeder](female-Steeder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/357/1000/1000/637880557506178499.jpeg)
 
 ## Steeders
 

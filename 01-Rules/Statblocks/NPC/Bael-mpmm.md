@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/19
-- monster/size/large
-- monster/type/Fiends/devil
+  - src/5e/mpmm
+  - monster/cr/19
+  - monster/size/large
+  - monster/type/Fiends/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Bael"
+  - Bael
 ---
 # [Bael](Bael-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 54*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/156/1000/1000/637880557163327152.jpeg)
 
 With the Blood War between devils and demons raging for eons and no end in sight, opportunities abound for ambitious archdevils to win fame, glory, and power in the ongoing struggle. Duke Bael, one of Mammon's most important vassals, has won fame and acclaim for his victories. Charged with leading sixty-six companies of [barbed devils](Barbed-Devil.md), Bael has proven to be a tactical genius, earning esteem for himself and his master as a result of victory after victory over the abyssal host. Mammon relies on Bael to safeguard his holdings because of Bael's battle acumen. During a time when so many other archdevils have lost their positions, Mammon has never been ousted, which is a testament to Bael's skill on the battlefield.
 

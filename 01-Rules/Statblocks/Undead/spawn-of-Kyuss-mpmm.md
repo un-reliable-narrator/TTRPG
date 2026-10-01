@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/desert
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/undead
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Spawn of Kyuss"
+  - Spawn of Kyuss
 ---
 # [Spawn of Kyuss](spawn-of-Kyuss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/654/1000/1000/637880558011334806.jpeg)
 
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
 

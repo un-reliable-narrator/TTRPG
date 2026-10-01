@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- src/5e/vgm
+  - src/5e/vgm
 aliases:
-- "Russet Mold"
+  - Russet Mold
 ---
 # Russet Mold
 *Generic Hazard*  

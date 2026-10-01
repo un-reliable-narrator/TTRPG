@@ -4,7 +4,7 @@ tags:
   - monster/type/Beasts
 ---
 
-[![Token Image: Trilobite](https://5e.tools/img/bestiary/tokens/PSX/Trilobite.webp)](https://5e.tools/img/bestiary/tokens/PSX/Trilobite.webp)
+[![Token Image: Trilobite|496](https://5e.tools/img/bestiary/tokens/PSX/Trilobite.webp)](https://5e.tools/img/bestiary/tokens/PSX/Trilobite.webp)
 
 ||   |   |   |   |   |
 |---|---|---|---|---|---|

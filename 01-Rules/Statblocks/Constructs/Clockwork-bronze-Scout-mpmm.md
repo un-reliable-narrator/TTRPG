@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/construct
+  - src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Clockwork Bronze Scout"
+  - Clockwork Bronze Scout
 ---
 # [Clockwork Bronze Scout](Clockwork-bronze-Scout-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/223/1000/1000/637880557281247530.jpeg)
 
 A bronze scout seldom emerges from underground. Its telescoping eyestalks observe foes at close range while most of its segmented body remains buried. If detected, it sends electrical shocks through the ground toward pursuers while it retreats.
 

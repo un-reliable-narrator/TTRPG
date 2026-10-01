@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/beast
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Cat"
+  - Cat
 ---
 # [Cat](Cat.md)
 *Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/43939/81/1000/1000/638607414147450285.png)
 
 ## Animals
 

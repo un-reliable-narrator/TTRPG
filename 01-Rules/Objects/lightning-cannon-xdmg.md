@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-object
+  - json5e-object
 tags:
-- src/5e/dmg
-- object/size/medium
-- object/type/siege-weapon
+  - src/5e/dmg
+  - object/size/medium
+  - object/type/siege-weapon
 aliases:
-- "Lightning Cannon"
+  - Lightning Cannon
 ---
 # Lightning Cannon
 %%-- Embedded content starts on the next line. --%%

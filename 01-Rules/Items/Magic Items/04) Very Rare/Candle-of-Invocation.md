@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
 aliases:
-- "Candle of Invocation"
+  - Candle of Invocation
 ---
 # Candle of Invocation
 *Wondrous item, very rare (requires attunement)*  

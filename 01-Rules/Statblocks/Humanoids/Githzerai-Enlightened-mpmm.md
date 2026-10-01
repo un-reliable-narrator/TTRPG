@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Humanoids/gith
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Humanoids/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githzerai Enlightened"
+  - Githzerai Enlightened
 ---
 # [Githzerai Enlightened](Githzerai-Enlightened-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/425/1000/1000/637880557636380542.jpeg)
 
 Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
 

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/deep-gnome
+  - src/5e/mpmm
+  - race/deep-gnome
 aliases:
-- "Deep Gnome"
+  - Deep Gnome
 ---
 # Deep Gnome
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 11*  

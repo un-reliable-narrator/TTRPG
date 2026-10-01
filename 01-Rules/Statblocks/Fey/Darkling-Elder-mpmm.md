@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fey
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Darkling Elder"
+  - Darkling Elder
 ---
 # [Darkling Elder](Darkling-Elder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/20487/335/1000/1000/637677953105014863.jpeg)
 
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
 

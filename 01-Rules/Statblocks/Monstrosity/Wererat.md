@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/urban
-- monster/size/small-or-medium
-- monster/type/monstrosity/lycanthrope
+  - src/5e/xmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/urban
+  - monster/size/small-or-medium
+  - monster/type/monstrosity/lycanthrope
 statblock: inline
 statblock-link: "#^statblock"
 ---
 # [Wererat](Wererat.md)
 *Source: Monster Manual (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/368/1000/1000/638741964815668903.jpeg)
 
 ## Wererat
 *Changed by the Deviousness of the Rat*

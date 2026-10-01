@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/9
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Abjurer Wizard"
+  - Abjurer Wizard
 ---
 # [Abjurer Wizard](Abjurer-Wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/102/1000/1000/637880557077829156.jpeg)
 
 Abjurers specialize in creating protective magical wards. Monarchs, nobles, and other wealthy individuals commonly hire abjurers to provide protection.
 

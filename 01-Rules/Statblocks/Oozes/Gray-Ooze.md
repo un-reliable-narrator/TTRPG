@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/ooze
+  - src/5e/xmm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gray Ooze"
+  - Gray Ooze
 ---
 # [Gray Ooze](Gray-Ooze.md)
 *Source: Monster Manual (2024) p. 151. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47158/490/1000/1000/638742816353241367.png)
 
 Gray oozes appear in areas affected by unpredictable magic. Magic-users who fail in their attempts to bind elemental spirits to the bodies of Constructs might also accidentally create gray oozes.
 

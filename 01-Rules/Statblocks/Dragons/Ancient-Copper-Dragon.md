@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/21
-- monster/environment/hill
-- monster/size/gargantuan
-- monster/type/Dragons/metallic
+  - src/5e/xmm
+  - monster/cr/21
+  - monster/environment/hill
+  - monster/size/gargantuan
+  - monster/type/Dragons/metallic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Ancient Copper Dragon"
+  - Ancient Copper Dragon
 ---
 # [Ancient Copper Dragon](Ancient-Copper-Dragon.md)
 *Source: Monster Manual (2024) p. 80. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/586/1000/1000/638741963736051122.jpeg)
 
 Ancient copper dragons use warmth and reliability to effect change over time. They open their cozy lairs to their friends as havens of learning and laughter for the young and those in need. These dragons watch for and oppose future threats while fostering sanctuaries of simple goodness.
 

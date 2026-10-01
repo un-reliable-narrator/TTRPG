@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/genasi/air
+  - src/5e/mpmm
+  - race/genasi/air
 aliases:
-- "Genasi (Air)"
+  - Genasi (Air)
 ---
 # Genasi (Air)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 16*  

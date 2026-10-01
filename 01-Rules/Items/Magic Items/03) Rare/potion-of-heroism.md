@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/rare
-- item/wondrous/potion
+  - src/5e/dmg
+  - item/rarity/rare
+  - item/wondrous/potion
 aliases:
-- "Potion of Heroism"
+  - Potion of Heroism
 ---
 # Potion of Heroism
 *Potion, rare*  

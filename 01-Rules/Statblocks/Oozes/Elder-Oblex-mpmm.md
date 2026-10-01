@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/huge
-- monster/type/ooze
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/huge
+  - monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Elder Oblex"
+  - Elder Oblex
 ---
 # [Elder Oblex](Elder-Oblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 199*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/348/1000/1000/637880557491877313.jpeg)
 
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
 

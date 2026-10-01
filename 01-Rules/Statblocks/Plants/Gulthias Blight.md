@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/16
-- monster/environment/forest
-- monster/size/gargantuan
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/16
+  - monster/environment/forest
+  - monster/size/gargantuan
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gulthias Blight"
+  - Gulthias Blight
 ---
 # [Gulthias Blight](gulthias-blight.md)
 *Source: Monster Manual (2024) p. 45*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/960/1000/1000/638741964248679211.jpeg)
 
 Ancient plants twisted by evil, Gulthias blights feed on blood and despoil the surrounding land, often giving rise to subservient blights. These cursed plants take their name from the story of their creation; the first of their kind was a tree that grew from the stake piercing the heart of the vampire Gulthias. These blights consider all creatures either servants or fertilizer for the blights' corruption.
 

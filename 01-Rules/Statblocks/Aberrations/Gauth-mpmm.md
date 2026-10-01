@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/6
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberrations/beholder
+  - src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberrations/beholder
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gauth"
+  - Gauth
 ---
 # [Gauth](Gauth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/389/1000/1000/637880557559313460.jpeg)
 
 A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
 

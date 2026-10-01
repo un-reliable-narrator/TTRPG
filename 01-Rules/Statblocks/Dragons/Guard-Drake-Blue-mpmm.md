@@ -1,22 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/dragon
+  - src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Guard Drake (Blue)"
+  - Guard Drake (Blue)
 ---
 # [Guard Drake (Blue)](Guard-Drake-Blue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  

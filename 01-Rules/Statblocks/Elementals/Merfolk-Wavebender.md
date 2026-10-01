@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/6
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/elemental
+  - src/5e/xmm
+  - monster/cr/6
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Merfolk Wavebender"
+  - Merfolk Wavebender
 ---
 # [Merfolk Wavebender](Merfolk-Wavebender.md)
 *Source: Monster Manual (2024) p. 209*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/69/1000/1000/638741964401332806.jpeg)
 
 These merfolk mages use magic to manipulate water, storms, and sea creatures to aid them.
 

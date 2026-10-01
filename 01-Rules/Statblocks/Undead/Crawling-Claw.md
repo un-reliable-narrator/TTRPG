@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/0
-- monster/environment/any
-- monster/size/tiny
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/0
+  - monster/environment/any
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Crawling Claw"
+  - Crawling Claw
 ---
 # [Crawling Claw](Crawling-Claw.md)
 *Source: Monster Manual (2024) p. 83*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/730/1000/1000/638741963934195974.png)
 
 Lone crawling claws can continue killing sprees they perpetrated in life. Some recklessly attack the living, while others pursue specific victims. In rare cases, a crawling claw wreaks mayhem while the rest of its body still lives, with the original creature potentially unaware of its severed hand's crimes.
 

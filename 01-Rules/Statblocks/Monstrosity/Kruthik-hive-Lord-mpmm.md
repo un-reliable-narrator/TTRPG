@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Kruthik Hive Lord"
+  - Kruthik Hive Lord
 ---
 # [Kruthik Hive Lord](Kruthik-hive-Lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/489/1000/1000/637880557764132580.jpeg)
 
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
 

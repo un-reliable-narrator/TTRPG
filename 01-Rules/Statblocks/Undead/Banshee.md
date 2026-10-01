@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/4
-- monster/environment/any
-- monster/size/medium
-- monster/type/undead
+  - src/5e/xmm
+  - monster/cr/4
+  - monster/environment/any
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Banshee"
+  - Banshee
 ---
 # [Banshee](Banshee.md)
 *Source: Monster Manual (2024) p. 29*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/650/1000/1000/638741963825250892.png)
 
 ## Banshee
 

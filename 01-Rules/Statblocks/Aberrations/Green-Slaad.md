@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/limbo
-- monster/environment/planar
-- monster/size/large
-- monster/type/aberration
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/limbo
+  - monster/environment/planar
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Green Slaad"
+  - Green Slaad
 ---
 # [Green Slaad](Green-Slaad.md)
 *Source: Monster Manual (2024) p. 286*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/942/1000/1000/638741964224494784.jpeg)
 
 Green slaadi come into being when the propagation methods of red or blue slaadi affect certain creatures capable of casting spells of level 3 or higher. Green slaadi are more intelligent than their blue and red brethren and often direct their kin to portals where gray slaadi have identified Humanoid communities ripe for invasion.
 

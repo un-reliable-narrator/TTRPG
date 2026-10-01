@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/rarity/common
-- item/shield/
+  - src/5e/dmg
+  - item/rarity/common
+  - item/shield/
 aliases:
-- "Shield of Expression"
+  - Shield of Expression
 ---
 # Shield of Expression
 *Armor ([Shield](01-Rules/Spells/Core/Level%201/Shield.md)), common*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-hazard
+  - json5e-hazard
 tags:
-- src/5e/xphb
+  - src/5e/xphb
 aliases:
-- "Burning"
+  - Burning
 ---
 # Burning
 *Generic Hazard*  

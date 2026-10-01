@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Humanoids/gith
-- monster/type/Humanoids/wizard
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Humanoids/gith
+  - monster/type/Humanoids/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githyanki Gish"
+  - Githyanki Gish
 ---
 # [Githyanki Gish](Githyanki-Gish-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/416/1000/1000/637880557623079462.jpeg)
 
 Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
 

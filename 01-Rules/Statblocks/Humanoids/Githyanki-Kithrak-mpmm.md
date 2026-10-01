@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/12
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/Humanoids/gith
+  - src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/Humanoids/gith
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Githyanki Kith'rak"
+  - Githyanki Kith'rak
 ---
 # [Githyanki Kith'rak](Githyanki-Kithrak-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/418/1000/1000/637880557626499633.jpeg)
 
 Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths ([githyanki warriors](Githyanki-Warrior.md)), while ten sarths obey the commands of a mighty kith'rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
 

@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/8
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/fiend
+  - src/5e/xmm
+  - monster/cr/8
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Gnoll Demoniac"
+  - Gnoll Demoniac
 ---
 # [Gnoll Demoniac](Gnoll-Demoniac.md)
 *Source: Monster Manual (2024) p. 141*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/912/1000/1000/638741964185085320.jpeg)
 
 Gnoll demoniacs are berserkers that arise from gnolls who've ritualistically fed on flesh corrupted by the Abyss. Now embodying the ruinous hunger of Yeenoghu, these gnolls throw themselves into battle, heedless of odds or their own survival. Rampaging demoniacs even devour other gnolls in their wild frenzies.
 

@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/size/medium
-- monster/type/plant
+  - src/5e/xmm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Needle Blight"
+  - Needle Blight
 ---
 # Needle Blight
 *Source: Monster Manual (2024) p. 43*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/115/1000/1000/638741964462093003.png)
 
 Needle blights have vaguely bipedal forms, with gaunt, misshapen limbs. Whether standing unnaturally still or lurching with their awkward gaits, these blights can't pass as either normal plants or woodland travelers. Once they spot foes, needle blights attack using their thorn-covered claws or by rapidly growing and flinging volleys of serrated, needlelike projectiles.
 

@@ -1,18 +1,20 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lmop
-- monster/cr/1-2
-- monster/size/medium
-- monster/type/Humanoids/human
+  - src/5e/lmop
+  - monster/cr/1-2
+  - monster/size/medium
+  - monster/type/Humanoids/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Redbrand Ruffian"
+  - Redbrand Ruffian
 ---
 # [Redbrand Ruffian](redbrand-Ruffian-Lmop.md)
 *Source: Lost Mine of Phandelver p. 61*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/36576/643/1000/1000/638291908642062730.png)
 
 Redbrand ruffians are petty thugs and ruthless enforcers skilled at intimidation and violence. They work for money and have no scruples.
 

@@ -1,23 +1,25 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/10
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/planar
-- monster/size/huge
-- monster/type/fey
+  - src/5e/xmm
+  - monster/cr/10
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/planar
+  - monster/size/huge
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Dire Worg"
+  - Dire Worg
 ---
 # [Dire Worg](Dire-Worg.md)
 *Source: Monster Manual (2024) p. 335*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/761/1000/1000/638741963976730827.png)
 
 Dire worgs are larger than common worgs and possess a supernaturally terrifying howl. They frequently hunt alongside ettins, ogres, and trolls.
 

@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lmop
-- monster/cr/1
-- monster/size/medium
-- monster/type/Humanoids/human
+  - src/5e/lmop
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/Humanoids/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Evil Mage"
+  - Evil Mage
 ---
 # [Evil Mage](Evil-Mage-Lmop.md)
 *Source: Lost Mine of Phandelver p. 57*  

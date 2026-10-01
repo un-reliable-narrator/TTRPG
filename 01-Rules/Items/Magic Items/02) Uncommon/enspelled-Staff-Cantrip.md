@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/weapon/melee
-- item/weapon/simple
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/weapon/melee
+  - item/weapon/simple
 aliases:
-- "Enspelled Staff (Cantrip)"
+  - Enspelled Staff (Cantrip)
 ---
 # Enspelled Staff (Cantrip)
 *Staff, weapon, uncommon (requires attunement by a Spellcaster)*  

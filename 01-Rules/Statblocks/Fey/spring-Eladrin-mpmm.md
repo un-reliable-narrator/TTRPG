@@ -1,20 +1,22 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/10
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/fey/elf
+  - src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/fey/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Spring Eladrin"
+  - Spring Eladrin
 ---
 # [Spring Eladrin](spring-Eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/660/1000/1000/637880558019879582.jpeg)
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
 

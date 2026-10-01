@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-race
+  - json5e-race
 tags:
-- src/5e/mpmm
-- race/hobgoblin
+  - src/5e/mpmm
+  - race/hobgoblin
 aliases:
-- "Hobgoblin"
+  - Hobgoblin
 ---
 # Hobgoblin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 23*  

@@ -1,25 +1,27 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/acheron
-- monster/environment/feywild
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/planar
-- monster/environment/underdark
-- monster/size/small
-- monster/type/fey/goblinoid
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/acheron
+  - monster/environment/feywild
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/planar
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/fey/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Goblin Hexer"
+  - Goblin Hexer
 ---
 # [Goblin Hexer](Goblin-Hexer.md)
 *Source: Monster Manual (2024) p. 143*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/922/1000/1000/638741964198054403.png)
 
 Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical, dressing and behaving in exaggerated mimicry of archmages.
 

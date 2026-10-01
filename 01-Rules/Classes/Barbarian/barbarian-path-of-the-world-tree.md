@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/barbarian/world-tree
+  - src/5e/xphb
+  - subclass/barbarian/world-tree
 aliases:
-- "Path of the World Tree"
+  - Path of the World Tree
 ---
 # Path of the World Tree
 *[[Barbarian|Barbarian]]: Barbarian Subclass*  

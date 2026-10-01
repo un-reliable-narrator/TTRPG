@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- src/5e/dmg
+  - src/5e/dmg
 aliases:
-- "Random Individual Treasure"
+  - Random Individual Treasure
 ---
 # Random Individual Treasure
 *Source: Dungeon Master's Guide (2024) p. 120* 

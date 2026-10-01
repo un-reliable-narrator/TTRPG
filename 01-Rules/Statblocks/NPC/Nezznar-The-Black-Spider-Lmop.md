@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lmop
-- monster/cr/2
-- monster/size/medium
-- monster/type/Humanoids/elf
+  - src/5e/lmop
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/Humanoids/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Nezznar the Black Spider"
+  - Nezznar the Black Spider
 ---
 # [Nezznar the Black Spider](Nezznar-The-Black-Spider-Lmop.md)
 *Source: Lost Mine of Phandelver p. 59*  

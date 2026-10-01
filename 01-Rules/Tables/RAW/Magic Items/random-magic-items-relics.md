@@ -118,7 +118,7 @@ aliases:
 | 19–27 | [Enspelled Staff](enspelled-Staff.md) (level 6, 7, or 8 spell) |
 | 28–36 | [Holy Avenger](holy-Avenger.md) |
 | 37–45 | [Horn of Valhalla (iron)](horn-of-Valhalla-Iron.md) |
-| 46–54 | [Rod of Resurrection](rod-of-Resurrection.md) |
+| 46–54 | [Rod of Resurrection](Rod-of-Resurrection.md) |
 | 55–63 | [Scarab of Protection](scarab-of-Protection.md) |
 | 64–72 | [Scroll of Titan Summoning](scroll-of-titan-Summoning.md) |
 | 73–80 | [Spell Scroll](spell-Scroll.md) ([level 9](spell-Scroll-Level-9.md) spell) |

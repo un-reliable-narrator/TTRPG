@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/wand
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/wand
 aliases:
-- "Wand of Enemy Detection"
+  - Wand of Enemy Detection
 ---
 # Wand of Enemy Detection
 *Wand, rare (requires attunement)*  

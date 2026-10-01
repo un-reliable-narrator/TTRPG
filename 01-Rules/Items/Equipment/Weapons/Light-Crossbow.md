@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/xphb
-- item/rarity/none
-- item/weapon/ranged
-- item/weapon/simple
+  - src/5e/xphb
+  - item/rarity/none
+  - item/weapon/ranged
+  - item/weapon/simple
 aliases:
-- "Light Crossbow"
+  - Light Crossbow
 ---
 # Light Crossbow
 *Weapon*  

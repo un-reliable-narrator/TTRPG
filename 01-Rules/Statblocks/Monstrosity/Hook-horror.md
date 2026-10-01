@@ -1,19 +1,21 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/xmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - src/5e/xmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Hook Horror"
+  - Hook Horror
 ---
 # [Hook Horror](Hook-horror.md)
 *Source: Monster Manual (2024) p. 173*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/47138/989/1000/1000/638741964293215075.png)
 
 ## Hook Horror
 

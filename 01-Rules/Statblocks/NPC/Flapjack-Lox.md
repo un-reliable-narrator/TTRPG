@@ -1,15 +1,15 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/lox
-- monster/cr/1-8
-- monster/size/small
-- monster/type/aberration
+  - src/5e/lox
+  - monster/cr/1-8
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Flapjack"
+  - Flapjack
 ---
 # [Flapjack](Flapjack-Lox.md)
 *Source: Light of Xaryxis p. 13*  

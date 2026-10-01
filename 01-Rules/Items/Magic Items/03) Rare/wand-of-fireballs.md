@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-item
+  - json5e-item
 tags:
-- src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/wand
+  - src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/wand
 aliases:
-- "Wand of Fireballs"
+  - Wand of Fireballs
 ---
 # Wand of Fireballs
 *Wand, rare (requires attunement by a spellcaster)*  

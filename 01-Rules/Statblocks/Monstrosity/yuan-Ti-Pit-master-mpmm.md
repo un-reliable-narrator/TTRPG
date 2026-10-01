@@ -1,21 +1,23 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/5
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity/warlock
+  - src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Yuan-ti Pit Master"
+  - Yuan-ti Pit Master
 ---
 # [Yuan-ti Pit Master](yuan-Ti-Pit-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 276*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/25746/794/1000/1000/637880558219922548.jpeg)
 
 With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
 

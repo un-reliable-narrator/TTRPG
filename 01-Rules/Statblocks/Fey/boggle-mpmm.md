@@ -1,22 +1,24 @@
 ---
 cssclasses:
-- json5e-monster
+  - json5e-monster
 tags:
-- src/5e/mpmm
-- monster/cr/1-8
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/fey
+  - src/5e/mpmm
+  - monster/cr/1-8
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- "Boggle"
+  - Boggle
 ---
 # [Boggle](boggle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 65*  
+
+![](https://www.dndbeyond.com/avatars/thumbnails/9/594/1000/1000/636329509694817521.jpeg)
 
 Boggles are the little bogeys of fairy tales. They lurk in the fringes of the Feywild and are also found on the Material Plane, where they hide under beds and in closets, waiting to frighten and bedevil folk with their mischief.
 

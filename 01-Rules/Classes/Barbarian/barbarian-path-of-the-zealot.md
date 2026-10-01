@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-class
+  - json5e-class
 tags:
-- src/5e/xphb
-- subclass/barbarian/zealot
+  - src/5e/xphb
+  - subclass/barbarian/zealot
 aliases:
-- "Path of the Zealot"
+  - Path of the Zealot
 ---
 # Path of the Zealot
 *[[Barbarian|Barbarian]]: Barbarian Subclass*  
