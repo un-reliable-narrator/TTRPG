@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Dexterity  
 - **Utilize.** Add a design to a leather item (DC 10)  
-- **Craft.** [Sling](Sling.md), [Whip](Whip.md), [Hide Armor](hide-Armor.md), [Leather Armor](Leather-Armor.md), [Studded Leather Armor](Studded-Leather-Armor.md), [Backpack](Backpack.md), [Crossbow Bolt Case](crossbow-Bolt-Case.md), [Map or Scroll Case](map-or-Scroll-Case.md), [Parchment](parchment.md), [Pouch](Pouch.md), [Quiver](Quiver.md), [Waterskin](Waterskin.md)  
+- **Craft.** [Sling](Sling.md), [Whip](Whip.md), [Hide Armor](hide-Armor.md), [Leather Armor](Leather-Armor.md), [Studded Leather Armor](Studded-Leather-Armor.md), [Backpack](Backpack.md), [Crossbow Bolt Case](crossbow-Bolt-Case.md), [Map or Scroll Case](Map-or-Scroll-Case.md), [Parchment](Parchment.md), [Pouch](Pouch.md), [Quiver](Quiver.md), [Waterskin](Waterskin.md)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

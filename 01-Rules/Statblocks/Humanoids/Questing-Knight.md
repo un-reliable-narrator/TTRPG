@@ -15,7 +15,7 @@ aliases:
 # [Questing Knight](Questing-Knight.md)
 *Source: Monster Manual (2024) p. 184*  
 
-![](https://www.dndbeyond.com/avatars/thumbnails/47139/188/1000/1000/638741964562876553.png)
+![299](https://www.dndbeyond.com/avatars/thumbnails/47139/188/1000/1000/638741964562876553.png)
 
 Questing knights travel in pursuit of a cause, such as slaying a villain, defeating a monster, recovering an Artifact, or restoring their lost honor.
 

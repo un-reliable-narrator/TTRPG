@@ -1,35 +1,103 @@
 ---
+cssclasses:
+  - json5e-monster
 tags:
+  - src/5e/rhw
   - monster/cr/5
-  - monster/type/humanoid
+  - monster/size/medium
+  - monster/type/humanoid/human
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Rudolph van Richten
 ---
-# Rudolph van Richten
-_Medium Humanoid (Human), Lawful Good_
+# [Rudolph van Richten](Rudolph%20van%20Richten.md)
+*Source: Ravenloft: The Horrors Within p. 264*  
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 105 (14d8 + 42)
-**Speed** 30 ft.
+![](https://5e.tools/img/bestiary/RHW/Rudolph%20van%20Richten.webp)
 
-**Skills** Arcana +6, Medicine +7, Perception +7, Religion +6, Sleight of Hand +5
-**Gear** [Hand Crossbow](https://5e.tools/items.html#hand%20crossbow_xphb), [Leather Armor](https://5e.tools/items.html#leather%20armor_xphb)
-**Senses** Passive Perception 17
-**Languages** Abyssal, Common, Elvish, Infernal
-**CR** 5 (XP 1,800; PB +3)
+*Cursed Vampire Hunter*
 
-### Traits
-**Shield of Erasmus.** While [Bloodied](https://5e.tools/conditionsdiseases.html#bloodied_xphb), Rudolph has [Resistance](https://5e.tools/variantrules.html#resistance_xphb) to Force, Poison, and Psychic damage.
+In better days, Rudolph van Richten lived with his wife, Ingrid, and son, Erasmus, in their family home outside Rivalis in the domain of Darkon. The brash doctor Rudolph ran afoul of the Radanaviches, a family of brigands disguised as Vistani travelers. When the doctor refused to treat one of the family's mortally ill members, the group's leader, Irena Radanavich, ordered her band to kidnap Rudolph's son. She then sold the young man to the vampire Baron Metus. Rudolph pursued the Radanaviches, shattered their criminal operation, and brought Irena to justice, but not before suffering her curse: "Live you always among monsters, and see everyone you love die beneath their claws."
 
-### Actions
-**Multiattack**. Rudolph makes three attacks, using Silver Sword Cane or Hand Crossbow in any combination.
+By the time Rudolph tracked down his missing son, the curse had already taken hold: Erasmus had been transformed into Metus's vampire spawn. Rudolph put an end to his son's suffering by pounding a wooden stake through the youth's chest.
 
-**Silver Sword Cane**. _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 5 (1d6 + 2) Slashing damage plus 5 (2d4) Radiant damage. Critical _Hit:_ The target has the [Poisoned](https://5e.tools/conditionsdiseases.html#poisoned_xphb) condition until it finishes a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb). It makes a DC 15 Constitution saving throw at end of each hour, ending the effect on a success.
+This violent deed begat more bloodshed: Baron Metus avenged his slain servant by killing Rudolph's wife, Ingrid. Though Rudolph eventually slew the evil baron, he remains haunted by the horror of his family's destruction.
 
-**Hand Crossbow.** _Ranged Attack Roll:_ +5, range 30/120 ft. _Hit:_ 5 (1d6 + 2) Piercing damage plus 5 (2d4) Radiant damage.
+Rudolph has committed himself to unmasking the evils lurking amid the Land of the Mists, hunting monsters, ending curses, and providing others with tools to do the same. His reputation and writings have spread among the domains. His published works, such as*Van Richten's Guide to Vampires*and*Van Richten's Guide to Werebeasts*, have earned him both adherents and disdain among scholarly communities. Nevertheless, his good works have touched lives and earned him allies far and wide.
 
-**Repel Evil (Recharge 5–6)**. _Charisma Saving Throw:_ DC 15, each creature of Rudolph's choice in a 30-foot [Cone](https://5e.tools/variantrules.html#cone%20%5barea%20of%20effect%5d_xphb). _Failure:_ 18 (4d8) Psychic damage, and the target has the [Frightened](https://5e.tools/conditionsdiseases.html#frightened_xphb) condition until the end of Rudolph's next turn. _Success:_ Half damage only.
+Rudolph lives in Mordentshire in the domain of Mordent. From his modest herbalist's shop, he corresponds with scholars and monster hunters across the domains, researches horrific creatures, and crafts tools to combat evil. Frequently he travels to other domains to conduct research or aid friends.
 
-### Bonus Actions
-**Occult Aid (2/Day).** Rudolph casts [Cure Wounds](https://5e.tools/spells.html#cure%20wounds_xphb), [Dispel Evil and Good](https://5e.tools/spells.html#dispel%20evil%20and%20good_xphb), or [Sanctuary](https://5e.tools/spells.html#sanctuary_xphb), using Wisdom as the spellcasting modifier (spell save DC 15).
+Over the years, Rudolph has adventured alongside heroes like monster hunter George Weathermay and detectives Alanik Ray and Arthur Sedgwick. A new generation of heroes, including Ez d'Avenir and Gennifer and Laurie Weathermay-Foxgrove, have learned from the doctor and continue his fight against evil.
 
-**Source:** _RHW_, page 264
+Unbeknownst to Rudolph, Erasmus watches over his father. The spirit of the artistic and thoughtful young man haunts the elder van Richten and aids him and his father's allies with subtle direction and encouragement.
+
+Rudolph knows that his age or vocation will eventually put an end to his endeavors. Increasingly he turns his research toward Barovia and its vampire overlord, Strahd von Zarovich, believing they hold keys to undoing myriad evils across the Land of the Mists.
+
+```statblock
+"name": "Rudolph van Richten (RHW)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human"
+"alignment": "Lawful Good"
+"ac": !!int "13"
+"hp": !!int "105"
+"hit_dice": "14d8 + 42"
+"modifier": !!int "2"
+"stats":
+  - !!int "9"
+  - !!int "14"
+  - !!int "16"
+  - !!int "17"
+  - !!int "18"
+  - !!int "15"
+"speed": "30 ft."
+"saves":
+  - "constitution": !!int "6"
+  - "wisdom": !!int "7"
+"skillsaves":
+  - "name": "[Arcana](skills.md#Arcana)"
+    "desc": "+6"
+  - "name": "[Medicine](skills.md#Medicine)"
+    "desc": "+7"
+  - "name": "[Perception](skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Religion](skills.md#Religion)"
+    "desc": "+6"
+  - "name": "[Sleight Of Hand](skills.md#Sleight%20Of%20Hand)"
+    "desc": "+5"
+"senses": "passive Perception 17"
+"languages": "Abyssal, Common, Elvish, Infernal"
+"cr": "5"
+"traits":
+  - "desc": "While Bloodied, Rudolph has Resistance to Force, Poison, and\
+      \ Psychic damage."
+    "name": "Shield of Erasmus"
+"actions":
+  - "desc": "Rudolph makes three attacks, using Silver Sword Cane or Hand\
+      \ Crossbow in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing\
+      \ damage plus 5 (2d4) Radiant damage. Critical *Hit:* The target has the\
+      \ [Poisoned](conditions.md#Poisoned) condition until it finishes a Long\
+      \ Rest. It makes a DC 15 Constitution saving throw at end of each hour,\
+      \ ending the effect on a success."
+    "name": "Silver Sword Cane"
+  - "desc": "*Ranged Attack Roll:* +5, range 30/120 ft. *Hit:* 5 (1d6 + 2)\
+      \ Piercing damage plus 5 (2d4) Radiant damage."
+    "name": "Hand Crossbow"
+  - "desc": "*Charisma Saving Throw:* DC 15, each creature of Rudolph's choice\
+      \ in a 30-foot Cone. *Failure:* 18 (4d8) Psychic damage, and the target\
+      \ has the [Frightened](conditions.md#Frightened) condition until the end\
+      \ of Rudolph's next turn. *Success:* Half damage only."
+    "name": "Repel Evil (Recharge 5-6)"
+"bonus_actions":
+  - "desc": "Rudolph casts [Cure Wounds](Cure-Wounds.md), [Dispel Evil and\
+      \ Good](Dispel-Evil-and-Good.md), or [Sanctuary](Sanctuary.md), using\
+      \ Wisdom as the spellcasting modifier (spell save DC 15)."
+    "name": "Occult Aid (2/Day)"
+"source":
+  - "RHW"
+"image": "bestiary/tokens/RHW/Rudolph van Richten.webp"
+```
+^statblock

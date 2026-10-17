@@ -88,7 +88,7 @@ Sixteen backgrounds are presented in this section in alphabetical order:
 - [Criminal](Criminal.md)  
 - [Entertainer](Entertainer.md)  
 - [Farmer](Farmer.md)  
-- [Guard](01-Rules/Statblocks/Humanoids/Guard.md)  
+- [Guard-mm25](Guard-mm25.md)  
 - [Guide](Guide.md)  
 - [Hermit](Hermit.md)  
 - [Merchant](Merchant.md)  

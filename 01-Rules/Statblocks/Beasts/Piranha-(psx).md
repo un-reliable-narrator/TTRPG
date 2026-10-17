@@ -1,26 +1,60 @@
 ---
+cssclasses:
+  - json5e-monster
 tags:
+  - src/5e/psx
   - monster/cr/0
-  - monster/type/Beasts
+  - monster/environment/underwater
+  - monster/size/tiny
+  - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Piranha
 ---
+# [Piranha](Piranha-(psx).md)
+*Source: Plane Shift: Ixalan p. 40*  
 
-[![Token Image: Piranha](https://5e.tools/img/bestiary/tokens/PSX/Piranha.webp "This is a custom/unofficial token.")](https://5e.tools/img/bestiary/tokens/PSX/Piranha.webp)
+![](https://5e.tools/img/bestiary/tokens/PSX/Piranha.webp)
 
-||   |   |   |   |   |
-|---|---|---|---|---|---|
-|# Piranha<br><br>[PSX](https://5e.tools/book.html#PS-X,page:40 "Plane Shift: Ixalan")[p40](https://5e.tools/book.html#PS-X,page:40 "Page 40")|   |   |   |   |   |
-||   |   |   |   |   |
-|_Tiny Beast, Unaligned_|   |   |   |   |   |
-|**AC** 13<br><br>**Initiative** +3 (13)|   |   |   |   |   |
-|**HP** 1 (1d4 - 1)|   |   |   |   |   |
-|**Speed** 0 ft., Swim 40 ft.|   |   |   |   |   |
-|\|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|<br>\|mod\|save\|mod\|save\|mod\|save\|<br>\|Str\|2\|-4\|-4\|Dex\|16\|+3\|+3\|Con\|9\|-1\|-1\|<br>\|Int\|1\|-5\|-5\|Wis\|7\|-2\|-2\|Cha\|2\|-4\|-4\||   |   |   |   |   |
-|**Senses** Darkvision 60 ft., Passive Perception 8|   |   |   |   |   |
-|**Languages** —|   |   |   |   |   |
-|**CR** 0 (XP 10; PB +2)|   |   |   |   |   |
-|### Traits|   |   |   |   |   |
-|Blood Frenzy. The piranha has advantage on melee attack rolls against any creature that doesn't have all its hit points.<br><br>Water Breathing. The piranha can breathe only underwater.|   |   |   |   |   |
-|### Actions|   |   |   |   |   |
-|Bite. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.|   |   |   |   |   |
-||   |   |   |   |   |
-|**Source:** _PSX_, page 40|   |   |   |   |   |
+The waters of the Great River and all its tributaries are home to fish that serve as one of the most important food sources for other animals in the forest. These include large predatory fish, as well as churning swarms of small biting fish such as piranhas.
+
+```statblock
+"name": "Piranha (PSX)"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "1"
+"hit_dice": "1d4 - 1"
+"modifier": !!int "3"
+"stats":
+  - !!int "2"
+  - !!int "16"
+  - !!int "9"
+  - !!int "1"
+  - !!int "7"
+  - !!int "2"
+"speed": "0 ft., swim 40 ft."
+"senses": "[Darkvision](senses.md#Darkvision) 60 ft., passive Perception 8"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The piranha has advantage on melee attack rolls against any\
+      \ creature that doesn't have all its hit points."
+    "name": "Blood Frenzy"
+  - "desc": "The piranha can breathe only underwater."
+    "name": "Water Breathing"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:*\
+      \ 1 piercing damage."
+    "name": "Bite"
+"source":
+  - "PSX"
+"image": "bestiary/tokens/PSX/Piranha.webp"
+```
+^statblock
+
+## Environment
+
+underwater

@@ -18,7 +18,7 @@ aliases:
 | 01–02 | [Bead of Nourishment](bead-of-Nourishment.md) |
 | 03–04 | [Bead of Refreshment](bead-of-Refreshment.md) |
 | 05–07 | [Candle of the Deep](candle-of-the-deep.md) |
-| 08–10 | [Cloak of Billowing](cloak-of-Billowing.md) |
+| 08–10 | [Cloak of Billowing](Cloak-of-Billowing.md) |
 | 11–13 | [Cloak of Many Fashions](cloak-of-many-fashions.md) |
 | 14–15 | [Clothes of Mending](clothes-of-mending.md) |
 | 16–17 | [Dark Shard Amulet](Dark-Shard-Amulet.md) |

@@ -1,24 +1,55 @@
 ---
+cssclasses:
+  - json5e-monster
 tags:
+  - src/5e/skt
   - monster/cr/0
-  - monster/type/Beasts
+  - monster/environment/mountain
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Sheep
 ---
+# [Sheep](Sheep.md)
+*Source: Storm King's Thunder p. 142*  
 
-[![Token Image: Sheep](https://5e.tools/img/bestiary/tokens/SKT/Sheep.webp)](https://5e.tools/img/bestiary/tokens/SKT/Sheep.webp)
+![](https://5e.tools/img/bestiary/tokens/SKT/Sheep.webp)
 
-||   |   |   |   |   |
-|---|---|---|---|---|---|
-|# Sheep<br><br>[SKT](https://5e.tools/adventure.html#SKT,page:142 "Storm King’s Thunder")[p142](https://5e.tools/adventure.html#SKT,page:142 "Page 142")|   |   |   |   |   |
-||   |   |   |   |   |
-|_Small Beast, Unaligned_|   |   |   |   |   |
-|**AC** 10<br><br>**Initiative** +0 (10)|   |   |   |   |   |
-|**HP** 3 (1d6)|   |   |   |   |   |
-|**Speed** 30 ft.|   |   |   |   |   |
-|\|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|<br>\|mod\|save\|mod\|save\|mod\|save\|<br>\|Str\|12\|+1\|+1\|Dex\|10\|+0\|+0\|Con\|11\|+0\|+0\|<br>\|Int\|2\|-4\|-4\|Wis\|10\|+0\|+0\|Cha\|5\|-3\|-3\||   |   |   |   |   |
-|**Senses** Passive Perception 10|   |   |   |   |   |
-|**Languages** —|   |   |   |   |   |
-|**CR** 0 (PB +2)|   |   |   |   |   |
-|### Traits|   |   |   |   |   |
-|Sure-Footed. The sheep has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](https://5e.tools/conditionsdiseases.html#prone_phb).|   |   |   |   |   |
-||   |   |   |   |   |
-|**Source:** _SKT_, page 142. Also found in _IDRotF_, page 76. Referenced in _IDRotF_.|   |   |   |   |   |
+```statblock
+"name": "Sheep (SKT)"
+"size": "Small"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "10"
+"hp": !!int "3"
+"hit_dice": "1d6"
+"modifier": !!int "0"
+"stats":
+  - !!int "12"
+  - !!int "10"
+  - !!int "11"
+  - !!int "2"
+  - !!int "10"
+  - !!int "5"
+"speed": "30 ft."
+"senses": "passive Perception 10"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The sheep has advantage on Strength and Dexterity saving throws\
+      \ made against effects that would knock it [prone](conditions.md#Prone)."
+    "name": "Sure-Footed"
+"source":
+  - "SKT"
+"image": "bestiary/tokens/SKT/Sheep.webp"
+```
+^statblock
+
+## Environment
+
+mountain, grassland, hill, urban

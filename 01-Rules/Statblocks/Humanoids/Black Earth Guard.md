@@ -1,32 +1,65 @@
+---
+cssclasses:
+  - json5e-monster
+tags:
+  - src/5e/pota
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid/human
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Black Earth Guard
+---
+# [Black Earth Guard](Black%20Earth%20Guard.md)
+*Source: Princes of the Apocalypse p. 195*  
 
-# Black Earth Guard
-_Medium Humanoid (Human), Neutral Evil_
+![](https://5e.tools/img/bestiary/PotA/Black%20Earth%20Guard.webp)
 
-**AC** 18 ([plate armor](https://5e.tools/items.html#plate%20armor_phb))
-**Initiative** +0 (10)
-**HP** 39 (6d8 + 12)
-**Speed** 30 ft.
+Black Earth guards are the warriors of the earth cult. They are brutal, heavily armored thugs devoted to Ogrémoch. That devotion has granted them an uncanny ability to hold their ground against the buffeting assaults. It has also earned them the right to wear special plate armor of elemental stone, which breaks down when the guard is slain.
 
-|     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Str | 17  | +3  | +3  | Dex | 11  | +0  | +0  | Con | 14  | +2  | +2  |
-| Int | 10  | +0  | +0  | Wis | 10  | +0  | +0  | Cha | 9   | -1  | -1  |
+These guards are fanatically loyal to the Black Earth priests and the leaders of the cult. They fight to the death if commanded to do so by their superiors. Those with more potential become burrowsharks.
 
-**Skills** Intimidation +1, Perception +2
-**Gear** [Morningstar](https://5e.tools/items.html#morningstar_phb)
-**Senses** Passive Perception 12
-**Languages** Common
-**CR** 2 (XP 450; PB +2)
-
-### Actions
-
-***Multiattack***. The guard makes two melee attacks.
-
-***Morningstar***. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.
-
-### Reactions
-
-***Unyielding***. When the guard is subjected to an effect that would move it, knock it [prone](https://5e.tools/conditionsdiseases.html#prone_phb), or both, it can use its reaction to be neither moved nor knocked [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
-
-**Source:** _PotA_, page 195
-[PotA](https://5e.tools/adventure.html#PotA,page:195 "Princes of the Apocalypse")[p195](https://5e.tools/adventure.html#PotA,page:195 "Page 195")
+```statblock
+"name": "Black Earth Guard (PotA)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human"
+"alignment": "Neutral Evil"
+"ac": !!int "18"
+"ac_class": "[plate armor](Plate-Armor.md)"
+"hp": !!int "39"
+"hit_dice": "6d8 + 12"
+"modifier": !!int "0"
+"stats":
+  - !!int "17"
+  - !!int "11"
+  - !!int "14"
+  - !!int "10"
+  - !!int "10"
+  - !!int "9"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Intimidation](skills.md#Intimidation)"
+    "desc": "+1"
+  - "name": "[Perception](skills.md#Perception)"
+    "desc": "+2"
+"senses": "passive Perception 12"
+"languages": "Common"
+"cr": "2"
+"actions":
+  - "desc": "The guard makes two melee attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:*\
+      \ 7 (1d8 + 3) piercing damage."
+    "name": "Morningstar"
+"reactions":
+  - "desc": "When the guard is subjected to an effect that would move it, knock\
+      \ it [prone](conditions.md#Prone), or both, it can use its reaction to be\
+      \ neither moved nor knocked [prone](conditions.md#Prone)."
+    "name": "Unyielding"
+"source":
+  - "PotA"
+"image": "bestiary/tokens/PotA/Black Earth Guard.webp"
+```
+^statblock

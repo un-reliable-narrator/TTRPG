@@ -1,24 +1,74 @@
-[![Token Image: Art Elemental Mascot](https://5e.tools/img/bestiary/tokens/SCC/Art%20Elemental%20Mascot.webp)](https://5e.tools/img/bestiary/tokens/SCC/Art%20Elemental%20Mascot.webp)
+---
+cssclasses:
+  - json5e-monster
+tags:
+  - src/5e/scc
+  - monster/cr/1/4
+  - monster/size/small
+  - monster/type/elemental
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Art Elemental Mascot
+---
+# [Art Elemental Mascot](Art%20Elemental%20Mascot.md)
+*Source: Strixhaven: A Curriculum of Chaos p. 185*  
 
- 
+![](https://5e.tools/img/bestiary/SCC/Art%20Elemental%20Mascot.webp)
 
-# Art Elemental Mascot
-[SCC](https://5e.tools/book.html#SCC,page:185 "Strixhaven: A Curriculum of Chaos")[p185](https://5e.tools/book.html#SCC,page:185 "Page 185") 
- 
-_Small Elemental, typically Neutral_ 
-**AC** 11<br><br>**Initiative** +1 (11) 
-**HP** 18 (4d6 + 4) 
-**Speed** 30 ft. 
-\   \   \   \   \   \   \   \   \   \   \   \   \   \   \<br>\-\-\-\-\-\-\-\-\-\-\-\-\-\-\<br>\mod\save\mod\save\mod\save\<br>\Str\6\-2\-2\Dex\13\+1\+1\Con\12\+1\+1\<br>\Int\8\-1\-1\Wis\11\+0\+0\Cha\15\+2\+2\ 
-**Skills** Performance +4 
-**Resistances** Cold, Fire 
-**Immunities** Poison; [Poisoned](https://5e.tools/conditionsdiseases.html#poisoned_phb) 
-**Senses** Passive Perception 10 
-**Languages** Understands the languages of its creator but can't speak 
-**CR** 1/4 (XP 50; PB +2) 
-### Traits 
-Death Burst. When the elemental dies, it explodes in a burst of colored light. Each creature within 5 feet of the elemental must succeed on a DC 11 Constitution saving throw or be [blinded](https://5e.tools/conditionsdiseases.html#blinded_phb) for 1 minute. A [blinded](https://5e.tools/conditionsdiseases.html#blinded_phb) creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. 
-### Actions 
-Joyful Flare. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) fire damage.<br><br>Melancholic Bolt. _Ranged Weapon Attack:_ +3 to hit, range 30 ft., one target. _Hit:_ 6 (2d4 + 1) cold damage.<br><br>Captivating Artistry (1/Day). The elemental targets one creature it can see within 30 feet of itself. The target must succeed on a DC 12 Charisma saving throw or be [charmed](https://5e.tools/conditionsdiseases.html#charmed_phb) for 1 minute. The [charmed](https://5e.tools/conditionsdiseases.html#charmed_phb) target can repeat the save at the end of each of its turns, ending the effect on itself on a success. 
- 
-**Source:** _SCC_, page 185. Referenced in _SCC-HfMT_. 
+Often referred to as a "living expression," an art elemental is an aspect of creativity and emotion given physical form—making it the perfect mascot for Prismari College.
+
+To create an art elemental mascot, a mage draws power from a blend of all the natural elements, extracting their vibrant colors to craft a swirling outer shell before imbuing its core with a planar spirit. As creatures of both precise elemental study and rebellious expression, art elementals can both wreak elemental destruction and emotionally captivate the creatures around them.
+
+```statblock
+"name": "Art Elemental Mascot (SCC)"
+"size": "Small"
+"type": "elemental"
+"alignment": "typically Neutral"
+"ac": !!int "11"
+"hp": !!int "18"
+"hit_dice": "4d6 + 4"
+"modifier": !!int "1"
+"stats":
+  - !!int "6"
+  - !!int "13"
+  - !!int "12"
+  - !!int "8"
+  - !!int "11"
+  - !!int "15"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Performance](skills.md#Performance)"
+    "desc": "+4"
+"damage_resistances": "cold, fire"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](conditions.md#Poisoned)"
+"senses": "passive Perception 10"
+"languages": "understands the languages of its creator but can't speak"
+"cr": "1/4"
+"traits":
+  - "desc": "When the elemental dies, it explodes in a burst of colored light.\
+      \ Each creature within 5 feet of the elemental must succeed on a DC 11\
+      \ Constitution saving throw or be [blinded](conditions.md#Blinded) for 1\
+      \ minute. A [blinded](conditions.md#Blinded) creature can repeat the save\
+      \ at the end of each of its turns, ending the effect on itself on a\
+      \ success."
+    "name": "Death Burst"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:*\
+      \ 6 (2d4 + 1) fire damage."
+    "name": "Joyful Flare"
+  - "desc": "*Ranged Weapon Attack:* +3 to hit, range 30 ft., one target.\
+      \ *Hit:* 6 (2d4 + 1) cold damage."
+    "name": "Melancholic Bolt"
+  - "desc": "The elemental targets one creature it can see within 30 feet of\
+      \ itself. The target must succeed on a DC 12 Charisma saving throw or be\
+      \ [charmed](conditions.md#Charmed) for 1 minute. The\
+      \ [charmed](conditions.md#Charmed) target can repeat the save at the end\
+      \ of each of its turns, ending the effect on itself on a success."
+    "name": "Captivating Artistry (1/Day)"
+"source":
+  - "SCC"
+"image": "bestiary/tokens/SCC/Art Elemental Mascot.webp"
+```
+^statblock

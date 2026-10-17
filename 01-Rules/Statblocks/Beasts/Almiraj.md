@@ -1,25 +1,63 @@
 ---
+cssclasses:
+  - json5e-monster
 tags:
+  - src/5e/toa
   - monster/cr/0
-  - monster/type/Beasts
+  - monster/size/small
+  - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Almiraj
 ---
+# [Almiraj](Almiraj.md)
+*Source: Tomb of Annihilation p. 211*  
 
+![](https://5e.tools/img/bestiary/ToA/Almiraj.webp)
 
-| # Almiraj<br><br>[ToA](https://5e.tools/adventure.html#ToA,page:211 "Tomb of Annihilation")[p211](https://5e.tools/adventure.html#ToA,page:211 "Page 211")                                                                                                                                                  |     |     |     |     |     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
-|                                                                                                                                                                                                                                                                                                             |     |     |     |     |     |
-| _Small Beast, Unaligned_                                                                                                                                                                                                                                                                                    |     |     |     |     |     |
-| **AC** 13<br><br>**Initiative** +3 (13)                                                                                                                                                                                                                                                                     |     |     |     |     |     |
-| **HP** 3 (1d6)                                                                                                                                                                                                                                                                                              |     |     |     |     |     |
-| **Speed** 50 ft.                                                                                                                                                                                                                                                                                            |     |     |     |     |     |
-| \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|<br>\|mod\|save\|mod\|save\|mod\|save\|<br>\|Str\|2\|-4\|-4\|Dex\|16\|+3\|+3\|Con\|10\|+0\|+0\|<br>\|Int\|2\|-4\|-4\|Wis\|14\|+2\|+2\|Cha\|10\|+0\|+0\| |     |     |     |     |     |
-| **Skills** Perception +4, Stealth +5                                                                                                                                                                                                                                                                        |     |     |     |     |     |
-| **Senses** Darkvision 30 ft., Passive Perception 14                                                                                                                                                                                                                                                         |     |     |     |     |     |
-| **Languages** —                                                                                                                                                                                                                                                                                             |     |     |     |     |     |
-| **CR** 0 (XP 10; PB +2)                                                                                                                                                                                                                                                                                     |     |     |     |     |     |
-| ### Traits                                                                                                                                                                                                                                                                                                  |     |     |     |     |     |
-| Familiar. With the DM's permission, the [find familiar](https://5e.tools/spells.html#find%20familiar_phb) spell can summon an almiraj.<br><br>Keen Senses. The almiraj has advantage on Wisdom (Perception) checks that rely on hearing or sight.                                                           |     |     |     |     |     |
-| ### Actions                                                                                                                                                                                                                                                                                                 |     |     |     |     |     |
-| Horn. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.                                                                                                                                                                                                        |     |     |     |     |     |
-|                                                                                                                                                                                                                                                                                                             |     |     |     |     |     |
-| **Source:** _ToA_, page 211. Referenced in _TTP_.                                                                                                                                                                                                                                                           |     |     |     |     |     |
+An almiraj (pronounced AWL-meer-ahj) is a large, timid rabbit with a 1-foot-long spiral horn emerging from its forehead, not unlike the horn of a unicorn. If driven to attack, it tries to spear enemies with its horn.
+
+Almiraj were brought to Chult long ago by merchants of the distant land of Zakhara. Skilled at evading predators, these creatures have flourished throughout the tropical peninsula. They live in earthen burrows and can be captured and domesticated. With the DM's permission, the [find familiar](Find-Familiar.md) spell can summon an almiraj.
+
+```statblock
+"name": "Almiraj (ToA)"
+"size": "Small"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "3"
+"hit_dice": "1d6"
+"modifier": !!int "3"
+"stats":
+  - !!int "2"
+  - !!int "16"
+  - !!int "10"
+  - !!int "2"
+  - !!int "14"
+  - !!int "10"
+"speed": "50 ft."
+"skillsaves":
+  - "name": "[Perception](skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](skills.md#Stealth)"
+    "desc": "+5"
+"senses": "[Darkvision](senses.md#Darkvision) 30 ft., passive Perception 14"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The almiraj has advantage on Wisdom (Perception) checks that rely\
+      \ on hearing or sight."
+    "name": "Keen Senses"
+  - "desc": "With the DM's permission, the [find familiar](Find-Familiar.md)\
+      \ spell can summon an almiraj."
+    "name": "Familiar"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:*\
+      \ 5 (1d4 + 3) piercing damage."
+    "name": "Horn"
+"source":
+  - "ToA"
+"image": "bestiary/tokens/ToA/Almiraj.webp"
+```
+^statblock

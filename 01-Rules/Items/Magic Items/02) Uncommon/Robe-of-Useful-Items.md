@@ -19,7 +19,7 @@ The robe has two of each of the following patches:
 - [Dagger](dagger.md)  
 - [Mirror](Mirror.md)  
 - [Pole](Pole.md)  
-- [Rope](rope.md) (coiled)  
+- [Rope](Rope.md) (coiled)  
 - [Sack](sack.md)  
 
 In addition, the robe has `4d4` other patches. The DM chooses the patches or determines them randomly by rolling on the following table.

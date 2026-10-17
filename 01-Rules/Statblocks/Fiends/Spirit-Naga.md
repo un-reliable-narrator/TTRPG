@@ -88,7 +88,7 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
       \ components and using Intelligence as the spellcasting ability (spell save\
       \ DC 14):\n\n**At will:** [[Detect Magic]],\
       \ [Mage Hand](Mage-Hand), [[Minor Illusion]],\
-      \ [[Water Breathing]]]\n\n**2/day\
+      \ [[Water Breathing]]\n\n**2/day\
       \ each:** [[Detect Thoughts]],\
       \ [[Dimension Door]], [[Hold Person]]\
       \ (level 3 version), [[Lightning Bolt]]\

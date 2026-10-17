@@ -189,7 +189,7 @@ aliases:
 - [Griffon](Griffon.md)  
 - [Grimlock](Grimlock.md)  
 - [Guardian Naga](Guardian-Naga.md)  
-- [Guard](01-Rules/Statblocks/Humanoids/Guard.md)  
+- [Guard-mm25](Guard-mm25.md)  
 - [Guard Captain](Guard-Captain.md)  
 - [Half-Dragon](Half-Dragon.md)  
 - [Harpy](Harpy.md)  
@@ -282,7 +282,7 @@ aliases:
 - [Pegasus](Pegasus.md)  
 - [Performer](Performer.md)  
 - [Performer Legend](Performer-Legend.md)  
-- [Performer Maestro](Performer-maestro.md)  
+- [Performer Maestro](Performer-Maestro.md)  
 - [Peryton](Peryton.md)  
 - [Phase Spider](Phase-Spider.md)  
 - [Piercer](01-Rules/Statblocks/Aberrations/Piercer.md)  
@@ -3398,7 +3398,7 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 
 
 > [!embed-monster]- Guard
-> ![Guard](01-Rules/Statblocks/Humanoids/Guard.md#^statblock)
+> ![Guard-mm25](Guard-mm25.md#^statblock)
 
 > [!embed-monster]- Guard Captain
 > ![Guard Captain](Guard-Captain.md#^statblock)
@@ -5064,7 +5064,7 @@ Wrestler
 > ![Performer](Performer.md#^statblock)
 
 > [!embed-monster]- Performer Maestro
-> ![Performer Maestro](Performer-maestro.md#^statblock)
+> ![Performer Maestro](Performer-Maestro.md#^statblock)
 
 > [!embed-monster]- Performer Legend
 > ![Performer Legend](Performer-Legend.md#^statblock)

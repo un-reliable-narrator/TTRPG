@@ -24,7 +24,7 @@ aliases:
 | [Ball Bearings](Ball-Bearings.md)            | 2 lb.        | 1 GP     |
 | [Barrel](Barrel.md)                          | 70 lb.       | 2 GP     |
 | [Basket](Basket.md)                          | 2 lb.        | 4 SP     |
-| [Bedroll](bedroll.md)                        | 7 lb.        | 1 GP     |
+| [Bedroll](Bedroll.md)                        | 7 lb.        | 1 GP     |
 | [Bell](Bell.md)                              | —            | 1 GP     |
 | [Blanket](Blanket.md)                        | 3 lb.        | 5 SP     |
 | [Block and Tackle](block-And-tackle.md)      | 5 lb.        | 1 GP     |
@@ -35,7 +35,7 @@ aliases:
 | [Caltrops](Caltrops.md)                      | 2 lb.        | 1 GP     |
 | [Candle](candle.md)                          | —            | 1 CP     |
 | [Case, Crossbow Bolt](crossbow-Bolt-Case.md) | 1 lb.        | 1 GP     |
-| [Case, Map or Scroll](map-or-Scroll-Case.md) | 1 lb.        | 1 GP     |
+| [Case, Map or Scroll](Map-or-Scroll-Case.md) | 1 lb.        | 1 GP     |
 | [Chain](Chain.md)                            | 10 lb.       | 5 GP     |
 | [Chest](Chest.md)                            | 25 lb.       | 5 GP     |
 | [Climber's Kit](climbers-kit.md)             | 12 lb.       | 25 GP    |
@@ -56,7 +56,7 @@ aliases:
 | [Holy Water](holy-Water.md)                  | 1 lb.        | 25 GP    |
 | [Hunting Trap](hunting-trap.md)              | 25 lb.       | 5 GP     |
 | [Ink](Ink.md)                                | —            | 10 GP    |
-| [Ink Pen](ink-Pen.md)                        | —            | 2 CP     |
+| [Ink Pen](Ink-Pen.md)                        | —            | 2 CP     |
 | [Jug](Jug.md)                                | 4 lb.        | 2 CP     |
 | [Ladder](Ladder.md)                          | 25 lb.       | 1 SP     |
 | [Lamp](Lamp.md)                              | 1 lb.        | 5 SP     |
@@ -69,9 +69,9 @@ aliases:
 | [Mirror](Mirror.md)                          | 1/2 lb.      | 5 GP     |
 | [Net](Net.md)                                | 3 lb.        | 1 GP     |
 | [Oil](Oil.md)                                | 1 lb.        | 1 SP     |
-| [Paper](paper.md)                            | —            | 2 SP     |
-| [Parchment](parchment.md)                    | —            | 1 SP     |
-| [Perfume](perfume.md)                        | —            | 5 GP     |
+| [Paper](Paper.md)                            | —            | 2 SP     |
+| [Parchment](Parchment.md)                    | —            | 1 SP     |
+| [Perfume](Perfume.md)                        | —            | 5 GP     |
 | [Poison, Basic](Basic-Poison.md)             | —            | 100 GP   |
 | [Pole](Pole.md)                              | 7 lb.        | 5 CP     |
 | [Pot, Iron](iron-Pot.md)                     | 10 lb.       | 2 GP     |
@@ -82,7 +82,7 @@ aliases:
 | [Ram, Portable](portable-Ram.md)             | 35 lb.       | 4 GP     |
 | [Rations](Rations.md)                        | 2 lb.        | 5 SP     |
 | [Robe](robe.md)                              | 4 lb.        | 1 GP     |
-| [Rope](rope.md)                              | 5 lb.        | 1 GP     |
+| [Rope](Rope.md)                              | 5 lb.        | 1 GP     |
 | [Sack](sack.md)                              | 1/2 lb.      | 1 CP     |
 | [Scholar's Pack](scholars-Pack.md)           | 22 lb.       | 40 GP    |
 | [Shovel](Shovel.md)                          | 5 lb.        | 2 GP     |
@@ -90,8 +90,8 @@ aliases:
 | Spell Scroll (Cantrip)                       | —            | 30 GP    |
 | Spell Scroll (Level 1)                       | —            | 50 GP    |
 | [Spikes, Iron](iron-Spikes.md)               | 5 lb.        | 1 GP     |
-| [Spyglass](spyglass.md)                      | 1 lb.        | 1,000 GP |
-| [string](string.md)                          | —            | 1 SP     |
+| [Spyglass](Spyglass.md)                      | 1 lb.        | 1,000 GP |
+| [String](String.md)                          | —            | 1 SP     |
 | [Tent](Tent.md)                              | 20 lb.       | 2 GP     |
 | [Tinderbox](Tinderbox.md)                    | 1 lb.        | 5 SP     |
 | [Torch](Torch.md)                            | 1 lb.        | 1 CP     |

@@ -1,25 +1,51 @@
 ---
+cssclasses:
+  - json5e-monster
 tags:
+  - src/5e/wdh
   - monster/cr/0
-  - monster/type/Beasts
---- 
-![Token Image: Awakened Rat](https://5e.tools/img/bestiary/tokens/WDH/Awakened%20Rat.webp)](https://5e.tools/img/bestiary/tokens/WDH/Awakened%20Rat.webp)
+  - monster/size/tiny
+  - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Awakened Rat
+---
+# [Awakened Rat](Awakened%20Rat.md)
+*Source: Waterdeep: Dragon Heist p. 102*  
 
-||   |   |   |   |   |
-|---|---|---|---|---|---|
-|# Awakened Rat<br><br>[WDH](https://5e.tools/adventure.html#WDH,page:102 "Waterdeep: Dragon Heist")[p102](https://5e.tools/adventure.html#WDH,page:102 "Page 102")|   |   |   |   |   |
-||   |   |   |   |   |
-|_Tiny Beast, Unaligned_|   |   |   |   |   |
-|**AC** 10<br><br>**Initiative** +0 (10)|   |   |   |   |   |
-|**HP** 1 (1d4 - 1)|   |   |   |   |   |
-|**Speed** 20 ft.|   |   |   |   |   |
-|\|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|<br>\|mod\|save\|mod\|save\|mod\|save\|<br>\|Str\|2\|-4\|-4\|Dex\|11\|+0\|+0\|Con\|9\|-1\|-1\|<br>\|Int\|10\|+0\|+0\|Wis\|10\|+0\|+0\|Cha\|4\|-3\|-3\||   |   |   |   |   |
-|**Senses** Darkvision 30 ft., Passive Perception 10|   |   |   |   |   |
-|**Languages** Common|   |   |   |   |   |
-|**CR** 0 (XP 10; PB +2)|   |   |   |   |   |
-|### Traits|   |   |   |   |   |
-|Keen Smell. The rat has advantage on Wisdom (Perception) checks that rely on smell.|   |   |   |   |   |
-|### Actions|   |   |   |   |   |
-|Bite. _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.|   |   |   |   |   |
-||   |   |   |   |   |
-|**Source:** _WDH_, page 102|   |   |   |   |   |
+![](https://5e.tools/img/bestiary/tokens/WDH/Awakened%20Rat.webp)
+
+```statblock
+"name": "Awakened Rat (WDH)"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "10"
+"hp": !!int "1"
+"hit_dice": "1d4 - 1"
+"modifier": !!int "0"
+"stats":
+  - !!int "2"
+  - !!int "11"
+  - !!int "9"
+  - !!int "10"
+  - !!int "10"
+  - !!int "4"
+"speed": "20 ft."
+"senses": "[Darkvision](senses.md#Darkvision) 30 ft., passive Perception 10"
+"languages": "Common"
+"cr": "0"
+"traits":
+  - "desc": "The rat has advantage on Wisdom (Perception) checks that rely on\
+      \ smell."
+    "name": "Keen Smell"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:*\
+      \ 1 piercing damage."
+    "name": "Bite"
+"source":
+  - "WDH"
+"image": "bestiary/tokens/WDH/Awakened Rat.webp"
+```
+^statblock

@@ -14,7 +14,7 @@ aliases:
 # [Astral Blight](Astral-Blight-Lox.md)
 *Source: Light of Xaryxis p. 10*  
 
-![](https://www.dndbeyond.com/avatars/thumbnails/28079/787/1000/1000/637961800675042590.jpeg)
+![314](https://www.dndbeyond.com/avatars/thumbnails/28079/787/1000/1000/637961800675042590.jpeg)
 
 ```statblock
 "name": "Astral Blight (LoX)"

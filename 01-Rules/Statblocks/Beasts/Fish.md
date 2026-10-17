@@ -1,24 +1,51 @@
 ---
+cssclasses:
+  - json5e-monster
 tags:
+  - src/5e/gos
   - monster/cr/0
-  - monster/type/Beasts
---- 
+  - monster/environment/underwater
+  - monster/size/tiny
+  - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Fish
+---
+# [Fish](Fish.md)
+*Source: Ghosts of Saltmarsh p. 224*  
 
-![Token Image: Fish](https://5e.tools/img/bestiary/tokens/GoS/Fish.webp)](https://5e.tools/img/bestiary/tokens/GoS/Fish.webp)
+![](https://5e.tools/img/bestiary/tokens/GoS/Fish.webp)
 
-||   |   |   |   |   |
-|---|---|---|---|---|---|
-|# Fish<br><br>[GoS](https://5e.tools/adventure.html#GoS,page:224 "Ghosts of Saltmarsh")[p224](https://5e.tools/adventure.html#GoS,page:224 "Page 224")|   |   |   |   |   |
-||   |   |   |   |   |
-|_Tiny Beast, Unaligned_|   |   |   |   |   |
-|**AC** 13<br><br>**Initiative** +3 (13)|   |   |   |   |   |
-|**HP** 1 (1d4 - 1)|   |   |   |   |   |
-|**Speed** 0 ft., Swim 40 ft.|   |   |   |   |   |
-|\|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|<br>\|mod\|save\|mod\|save\|mod\|save\|<br>\|Str\|2\|-4\|-4\|Dex\|16\|+3\|+3\|Con\|9\|-1\|-1\|<br>\|Int\|1\|-5\|-5\|Wis\|7\|-2\|-2\|Cha\|2\|-4\|-4\||   |   |   |   |   |
-|**Senses** Darkvision 60 ft., Passive Perception 8|   |   |   |   |   |
-|**Languages** —|   |   |   |   |   |
-|**CR** 0 (XP 10; PB +2)|   |   |   |   |   |
-|### Traits|   |   |   |   |   |
-|Water Breathing. The fish can breathe only underwater.|   |   |   |   |   |
-||   |   |   |   |   |
-|**Source:** _GoS_, page 224|   |   |   |   |   |
+```statblock
+"name": "Fish (GoS)"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "1"
+"hit_dice": "1d4 - 1"
+"modifier": !!int "3"
+"stats":
+  - !!int "2"
+  - !!int "16"
+  - !!int "9"
+  - !!int "1"
+  - !!int "7"
+  - !!int "2"
+"speed": "0 ft., swim 40 ft."
+"senses": "[Darkvision](senses.md#Darkvision) 60 ft., passive Perception 8"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The fish can breathe only underwater."
+    "name": "Water Breathing"
+"source":
+  - "GoS"
+"image": "bestiary/tokens/GoS/Fish.webp"
+```
+^statblock
+
+## Environment
+
+underwater

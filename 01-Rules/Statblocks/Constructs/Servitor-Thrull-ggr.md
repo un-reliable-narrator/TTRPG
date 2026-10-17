@@ -1,0 +1,62 @@
+---
+cssclasses:
+  - json5e-monster
+tags:
+  - src/5e/ggr
+  - monster/cr/1/4
+  - monster/size/small
+  - monster/type/construct
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Servitor Thrull
+---
+# [Servitor Thrull](Servitor-Thrull-ggr.md)
+*Source: Guildmasters' Guide to Ravnica p. 221*  
+
+![](https://5e.tools/img/bestiary/tokens/GGR/Servitor%20Thrull.webp)
+
+## Thrulls
+
+When the Orzhov Syndicate rips a soul from its body to create a spirit, the cast-off remains go to the fleshmages, who use their necromantic magic to liquefy the corpse and transform it into something useful. These creations become thrulls, obedient slaves that serve in a variety of menial roles: laborers, messengers, beasts of burden, and even fashion accessories for the elite. Whatever tasks they perform, they wear faceplates forged from devalued coinage to conceal their ghastly features.
+
+### Construct Nature
+
+A thrull doesn't require air, food, drink, or sleep.
+
+```statblock
+"name": "Servitor Thrull (GGR)"
+"size": "Small"
+"type": "construct"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "22"
+"hit_dice": "4d6 + 8"
+"modifier": !!int "1"
+"stats":
+  - !!int "11"
+  - !!int "13"
+  - !!int "14"
+  - !!int "6"
+  - !!int "6"
+  - !!int "3"
+"speed": "30 ft."
+"damage_immunities": "poison"
+"condition_immunities": "[exhaustion](conditions.md#Exhaustion),\
+  \ [poisoned](conditions.md#Poisoned)"
+"senses": "[Darkvision](senses.md#Darkvision) 60 ft., passive Perception 8"
+"languages": "understands Common but can't speak"
+"cr": "1/4"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:*\
+      \ 5 (1d8 + 1) slashing damage."
+    "name": "Claws"
+"reactions":
+  - "desc": "When a creature within 5 feet of the thrull is hit by an attack,\
+      \ the thrull swaps places with that creature and is hit instead."
+    "name": "Self-Sacrifice"
+"source":
+  - "GGR"
+"image": "bestiary/tokens/GGR/Servitor Thrull.webp"
+```
+^statblock

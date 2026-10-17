@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
-- **Craft.** [Glass Bottle](glass-Bottle.md), [Magnifying Glass](magnifying-Glass.md), [spyglass](spyglass.md), [Vial](Vial.md)  
+- **Craft.** [Glass Bottle](glass-Bottle.md), [Magnifying Glass](magnifying-Glass.md), [Spyglass](Spyglass.md), [Vial](Vial.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,24 +1,54 @@
 ---
+cssclasses:
+  - json5e-monster
 tags:
+  - src/5e/idrotf
   - monster/cr/0
-  - monster/type/Beasts
---- 
+  - monster/size/tiny
+  - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Hare
+---
+# [Hare](Hare.md)
+*Source: Icewind Dale: Rime of the Frostmaiden p. 294*  
 
+![](https://5e.tools/img/bestiary/IDRotF/Hare.webp)
 
-||   |   |   |   |   |![Token Image: Hare](https://5e.tools/img/bestiary/tokens/IDRotF/Hare.webp)
-|---|---|---|---|---|---|
-|# Hare<br><br>[IDRotF](https://5e.tools/adventure.html#IDRotF,page:294 "Icewind Dale: Rime of the Frostmaiden")[p294](https://5e.tools/adventure.html#IDRotF,page:294 "Page 294")|   |   |   |   |   |
-||   |   |   |   |   |
-|_Tiny Beast, Unaligned_|   |   |   |   |   |
-|**AC** 13<br><br>**Initiative** +3 (13)|   |   |   |   |   |
-|**HP** 1 (1d4 - 1)|   |   |   |   |   |
-|**Speed** 20 ft., Burrow 5 ft.|   |   |   |   |   |
-|\|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|<br>\|mod\|save\|mod\|save\|mod\|save\|<br>\|Str\|1\|-5\|-5\|Dex\|17\|+3\|+3\|Con\|9\|-1\|-1\|<br>\|Int\|2\|-4\|-4\|Wis\|11\|+0\|+0\|Cha\|4\|-3\|-3\||   |   |   |   |   |
-|**Skills** Perception +2, Stealth +5|   |   |   |   |   |
-|**Senses** Passive Perception 12|   |   |   |   |   |
-|**Languages** —|   |   |   |   |   |
-|**CR** 0 (XP 10; PB +2)|   |   |   |   |   |
-|### Traits|   |   |   |   |   |
-|Escape. The hare can take the [Dash](https://5e.tools/actions.html#dash_phb), [Disengage](https://5e.tools/actions.html#disengage_phb), or [Hide](https://5e.tools/actions.html#hide_phb) action as a bonus action on each of its turns.|   |   |   |   |   |
-||   |   |   |   |   |
-|**Source:** _IDRotF_, page 294|   |   |   |   |   |
+Snowshoe hares are gentle herbivores that live in burrows throughout Icewind Dale. They have shorter ears than other hares and are acclimated to cold weather.
+
+```statblock
+"name": "Hare (IDRotF)"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "1"
+"hit_dice": "1d4 - 1"
+"modifier": !!int "3"
+"stats":
+  - !!int "1"
+  - !!int "17"
+  - !!int "9"
+  - !!int "2"
+  - !!int "11"
+  - !!int "4"
+"speed": "20 ft., burrow 5 ft."
+"skillsaves":
+  - "name": "[Perception](skills.md#Perception)"
+    "desc": "+2"
+  - "name": "[Stealth](skills.md#Stealth)"
+    "desc": "+5"
+"senses": "passive Perception 12"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The hare can take the Dash, Disengage, or Hide action as a bonus\
+      \ action on each of its turns."
+    "name": "Escape"
+"source":
+  - "IDRotF"
+"image": "bestiary/tokens/IDRotF/Hare.webp"
+```
+^statblock

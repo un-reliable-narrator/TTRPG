@@ -1,38 +1,77 @@
-# Warforged Soldier
+---
+cssclasses:
+  - json5e-monster
+tags:
+  - src/5e/erlw
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/humanoid/warforged
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Warforged Soldier
+---
+# [Warforged Soldier](Warforged%20Soldier.md)
+*Source: Eberron: Rising from the Last War p. 320*  
 
-[ERLW](https://5e.tools/book.html#ERLW,page:320 "Eberron: Rising from the Last War")[p320](https://5e.tools/book.html#ERLW,page:320 "Page 320") 
- 
-_Medium Construct (Warforged), Any Alignment_ 
- 
-**AC** 16 (natural armor, [shield](https://5e.tools/items.html#shield_phb))
-**Initiative** +1 (11)
-**HP** 30 (4d8 + 12) 
-**Speed** 30 ft.
- 
-\Str\16\+3\+3\Dex\12\+1\+1\Con\16\+3\+3\\Int\10\+0\+0\Wis\14\+2\+2\Cha\11\+0\+0\  
+![](https://5e.tools/img/bestiary/ERLW/Warforged%20Soldier.webp)
 
-**Skills** Athletics +5, Perception +4, Survival +4   **Resistances** Poison     
-**Immunities** [Disease](https://5e.tools/conditionsdiseases.html#disease_phb)   
-**Gear** [Javelin](https://5e.tools/items.html#javelin_phb)    
-**Senses** Passive Perception 14 
-**Languages** Common 
-**CR** 1 (XP 200; PB +2)   
+Warforged soldiers are humanoids formed from wood and steel, then magically imbued with life and sentience. The warforged were created to fight in the Last War, and in the aftermath of that conflict, they struggle to understand their place in the world.
 
-### Traits     
- 
-**Warforged Resilience.** The warforged has advantage on saving throws against being [poisoned](https://5e.tools/conditionsdiseases.html#poisoned_phb) and is immune to disease. Magic can't put it to sleep.
+Most warforged soldiers still serve their former masters, often guarding dragonmarked houses or merchant caravans. Many warforged find it difficult to separate themselves from the soldiers they were made to be, seeking work as bouncers, bailiffs, and bodyguards. Others put their tireless strength to work as laborers, committed to the reconstruction of the towns and cities they defended or destroyed in the war.
 
-### Actions    
-
-***Multiattack***. The warforged makes two armblade attacks.
- 
-***Armblade***. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage. 
- 
-***Javelin***. _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.  
- 
-### Reactions  
- 
- ***Protection***. When an attacker the warforged can see makes an attack roll against a creature within 5 feet of the warforged, the warforged can impose disadvantage on the attack roll.   
-
-
-<p style="text-align: right;">Source: ERLW, page 320. Referenced in EFR. </p>
+```statblock
+"name": "Warforged Soldier (ERLW)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "warforged"
+"alignment": "Any alignment"
+"ac": !!int "16"
+"ac_class": "natural armor, [shield](Shield.md)"
+"hp": !!int "30"
+"hit_dice": "4d8 + 12"
+"modifier": !!int "1"
+"stats":
+  - !!int "16"
+  - !!int "12"
+  - !!int "16"
+  - !!int "10"
+  - !!int "14"
+  - !!int "11"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Athletics](skills.md#Athletics)"
+    "desc": "+5"
+  - "name": "[Perception](skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Survival](skills.md#Survival)"
+    "desc": "+4"
+"damage_resistances": "poison"
+"condition_immunities": "[disease](conditions.md#Disease)"
+"senses": "passive Perception 14"
+"languages": "Common"
+"cr": "1"
+"traits":
+  - "desc": "The warforged has advantage on saving throws against being\
+      \ [poisoned](conditions.md#Poisoned) and is immune to disease. Magic\
+      \ can't put it to sleep."
+    "name": "Warforged Resilience"
+"actions":
+  - "desc": "The warforged makes two armblade attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:*\
+      \ 6 (1d6 + 3) slashing damage."
+    "name": "Armblade"
+  - "desc": "*Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range\
+      \ 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage."
+    "name": "Javelin"
+"reactions":
+  - "desc": "When an attacker the warforged can see makes an attack roll\
+      \ against a creature within 5 feet of the warforged, the warforged can\
+      \ impose disadvantage on the attack roll."
+    "name": "Protection"
+"source":
+  - "ERLW"
+"image": "bestiary/tokens/ERLW/Warforged Soldier.webp"
+```
+^statblock

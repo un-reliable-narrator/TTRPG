@@ -16,6 +16,6 @@ aliases:
 - **Cost**: 40 gp
 - **Weight**: 22.0 lbs.
 
-A Scholar's Pack contains the following items: [Backpack](Resources/Backlinks/Items/Adventuring%20Gear/Backpack.m[Book](Book.md).md), [Ink](Ink.md), [Ink Pen](ink-Pen.md), [Lamp](Lamp.md), 10 flasks of [Oil](Oil.md), 10 sheets of [Parchment](parchment.md), and [Tinderbox](Tinderbox.md).
+A Scholar's Pack contains the following items: [Backpack](Resources/Backlinks/Items/Adventuring%20Gear/Backpack.m[Book](Book.md).md), [Ink](Ink.md), [Ink Pen](Ink-Pen.md), [Lamp](Lamp.md), 10 flasks of [Oil](Oil.md), 10 sheets of [Parchment](Parchment.md), and [Tinderbox](Tinderbox.md).
 
 *Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,37 +1,66 @@
-[![Token Image: Frontline Medic|right|inline|128](https://5e.tools/img/bestiary/tokens/GGR/Frontline%20Medic.webp)](https://5e.tools/img/bestiary/tokens/GGR/Frontline%20Medic.webp)
+---
+cssclasses:
+  - json5e-monster
+tags:
+  - src/5e/ggr
+  - monster/cr/1/4
+  - monster/size/medium
+  - monster/type/humanoid/any-race
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Frontline Medic
+---
+# [Frontline Medic](Frontline%20Medic.md)
+*Source: Guildmasters' Guide to Ravnica p. 231*  
 
-# Frontline Medic
-_Medium Humanoid (Any Race), Lawful Good_
-[GGR](https://5e.tools/book.html#GGR,page:231 "Guildmasters’ Guide to Ravnica")[p231](https://5e.tools/book.html#GGR,page:231 "Page 231")
+![](https://5e.tools/img/bestiary/tokens/GGR/Frontline%20Medic.webp)
 
-**AC** 20 ([plate armor](https://5e.tools/items.html#plate%20armor_phb), [shield](https://5e.tools/items.html#shield_phb))
-**Initiative** +0 (10)
-**HP** 19 (3d8 + 6)
-**Speed** 30 ft.
+The soldiers of the Boros Legion depend on skilled healers to keep them on their feet. Frontline medics use a mix of magical healing and mundane medicine to keep their compatriots alive.
 
-\|mod\|save\|mod\|save\|mod\|save\|
-\|Str\|15\|+2\|+2\|Dex\|10\|+0\|+0\|Con\|14\|+2\|+2\|
-\|Int\|10\|+0\|+0\|Wis\|13\|+1\|+1\|Cha\|12\|+1\|+1\|
-
-**Skills** Medicine +5, Perception +3
-**Gear** [Spear](https://5e.tools/items.html#spear_phb)
-**Senses** Passive Perception 13
-**Languages** Any one language (usually Common)
-**CR** 1/4 (XP 50; PB +2)
-
-### Traits
-
-***Spellcasting***. The medic is a 3rd-level Boros spellcaster. Its spellcasting ability is Wisdom (spell save DC 11). The medic has the following cleric spells prepared:
-
-- Cantrips (at will): [mending](https://5e.tools/spells.html#mending_phb), [resistance](https://5e.tools/spells.html#resistance_phb), [spare the dying](https://5e.tools/spells.html#spare%20the%20dying_phb)
-- 1st level (4 slots): [cure wounds](https://5e.tools/spells.html#cure%20wounds_phb), [sanctuary](https://5e.tools/spells.html#sanctuary_phb)
-- 2nd level (2 slots): [aid](https://5e.tools/spells.html#aid_phb), [lesser restoration](https://5e.tools/spells.html#lesser%20restoration_phb)
-
-### Actions
-
-**Spear**. _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
-
-
-
-
-**Source:** _GGR_, page 231
+```statblock
+"name": "Frontline Medic (GGR)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "any race"
+"alignment": "Lawful Good"
+"ac": !!int "20"
+"ac_class": "[plate armor](Plate-Armor.md), [shield](Shield.md)"
+"hp": !!int "19"
+"hit_dice": "3d8 + 6"
+"modifier": !!int "0"
+"stats":
+  - !!int "15"
+  - !!int "10"
+  - !!int "14"
+  - !!int "10"
+  - !!int "13"
+  - !!int "12"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Medicine](skills.md#Medicine)"
+    "desc": "+5"
+  - "name": "[Perception](skills.md#Perception)"
+    "desc": "+3"
+"senses": "passive Perception 13"
+"languages": "any one language (usually Common)"
+"cr": "1/4"
+"traits":
+  - "desc": "The medic is a 3rd-level Boros spellcaster. Its spellcasting\
+      \ ability is Wisdom (spell save DC 11). The medic has the following\
+      \ cleric spells prepared:\n\n**Cantrips (at will):**\
+      \ [mending](Mending.md), [resistance](Resistance.md), [spare the\
+      \ dying](Spare-the-Dying.md)\n\n**1st level (4 slots):** [cure\
+      \ wounds](Cure-Wounds.md), [sanctuary](Sanctuary.md)\n\n**2nd level (2\
+      \ slots):** [aid](Aid.md), [lesser restoration](Lesser-Restoration.md)"
+    "name": "Spellcasting"
+"actions":
+  - "desc": "*Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range\
+      \ 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 +\
+      \ 2) piercing damage if used with two hands to make a melee attack."
+    "name": "Spear"
+"source":
+  - "GGR"
+"image": "bestiary/tokens/GGR/Frontline Medic.webp"
+```
+^statblock

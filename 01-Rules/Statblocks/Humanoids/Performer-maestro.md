@@ -12,12 +12,13 @@ statblock-link: "#^statblock"
 aliases:
   - Performer Maestro
 ---
-# [Performer Maestro](Performer-maestro.md)
+# [Performer Maestro](Performer-Maestro.md)
 *Source: Monster Manual (2024) p. 237*  
 
-![](https://www.dndbeyond.com/avatars/thumbnails/47139/144/1000/1000/638741964502968946.png)
-
-Maestros are headlining performers who enjoy considerable renown. They might be theaters' marquee actors, astonishing daredevils, or jesters experienced at entertaining fickle royals. Some share their techniques with apprentices, while others jealously guard their secrets.
+> [!multi-column]
+>> ![|200](https://www.dndbeyond.com/avatars/thumbnails/47139/144/1000/1000/638741964502968946.png)
+>
+>> Maestros are headlining performers who enjoy considerable renown. They might be theaters' marquee actors, astonishing daredevils, or jesters experienced at entertaining fickle royals. Some share their techniques with apprentices, while others jealously guard their secrets.
 
 ## Performers
 
@@ -29,70 +30,44 @@ Maestros are headlining performers who enjoy considerable renown. They might be 
 From royal courts to village squares, skilled entertainers hone their talents and delight audiences. Some travel far, sharing tales and demonstrating mysterious arts. Others serve in the courts and theaters of great nations, cultivating celebrity and navigating the whims of patrons. Many hone professional secrets and magical flourishes, striving to make their performances truly unforgettable.
 
 Use the following list of entertainers and roles to inspire the performers in your adventures:
+> [!multi-column]
+>
+>> 1. Acrobat
+>> 2. Actor
+>> 3. Aerialist
+>> 4. Animal trainer
+>> 5. Athlete
+>> 6. Burlesque artist
+>> 7. Busker
+>> 8. Circus performer
+>> 9. Comedian
+>> 10. Contortionist
+>> 11. Dancer
+>> 12. Daredevil
+>> 13. Jester
+>> 14. Juggler
+>> 15. Magician
+>
+>> 16. Mentalist
+>> 17. Mime
+>> 18. Minstrel
+>> 19. Mourner
+>> 20. Oral Historian
+>> 21. Poet
+>> 22. Puppeteer
+>> 23. Ritualist
+>> 24. Stage Fighter
+>> 25. Storyteller
+>> 26. Throat Singer
+>> 27. Town Crier
+>> 28. Trick Rider
+>> 29. Vocalist
+>> 30. Wrestler
 
-Acrobat
-
-Actor
-
-Aerialist
-
-Animal trainer
-
-Athlete
-
-Burlesque artist
-
-Busker
-
-Circus performer
-
-Comedian
-
-Contortionist
-
-Dancer
-
-Daredevil
-
-Jester
-
-Juggler
-
-Magician
-
-Mentalist
-
-Mime
-
-Minstrel
-
-Mourner
-
-Oral historian
-
-Poet
-
-Puppeteer
-
-Ritualist
-
-Stage fighter
-
-Storyteller
-
-Throat singer
-
-Town crier
-
-Trick rider
-
-Vocalist
-
-Wrestler
 
 > [!quote] A quote from Tindal, Carnival Barker  
 > 
-> Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!
+> *Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!*
 
 
 ```statblock

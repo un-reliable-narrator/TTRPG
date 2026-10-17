@@ -4,7 +4,7 @@ tags:
 school: Necromancy
 spell_level: "9"
 ---
-#### Astral Projection
+# Astral Projection
 
 *Level 9 Necromancy (Cleric, Warlock, Wizard)*
 

@@ -1058,16 +1058,16 @@ Example poisons are detailed here in alphabetical order. Each poison's descripti
 - [Burnt Othur Fumes](burnt-othur-fumes.md)  
 - [Carrion Crawler Mucus](Carrion-Crawler-Mucus.md)  
 - [Essence of Ether](essence-of-ether.md)  
-- [Lolth's Sting](lolths-Sting.md)  
+- [Lolth's Sting](Lolths-Sting.md)  
 - [Malice](malice.md)  
 - [Midnight Tears](midnight-tears.md)  
 - [Oil of Taggit](oil-of-taggit.md)  
 - [Pale Tincture](pale-tincture.md)  
-- [Purple Worm Poison](purple-Worm-Poison.md)  
-- [Serpent Venom](serpent-Venom.md)  
+- [Purple Worm Poison](Purple-Worm-Poison.md)  
+- [Serpent Venom](Serpent-Venom.md)  
 - [Torpor](torpor.md)  
 - [Truth Serum](truth-Serum.md)  
-- [Wyvern Poison](wyvern-Poison.md)  
+- [Wyvern Poison](Wyvern-Poison.md)  
 
 ## Renown
 

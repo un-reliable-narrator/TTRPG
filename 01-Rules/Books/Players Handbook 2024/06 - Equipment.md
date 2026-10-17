@@ -190,7 +190,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 - **Ability.** Intelligence  
 - **Weight.** 8 lb.  
 - **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)  
-- **Craft.** [[Acid|Acid]], [Alchemist's Fire](Alchemists-Fire.md), [Component Pouch](Component-Pouch.md), [Oil](Oil.md), [[paper|Paper]], [[perfume|Perfume]]
+- **Craft.** [[Acid|Acid]], [Alchemist's Fire](Alchemists-Fire.md), [Component Pouch](Component-Pouch.md), [Oil](Oil.md), [[Paper|Paper]], [[Perfume|Perfume]]
 
 #### Brewer's Supplies (20 GP)
 
@@ -239,7 +239,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 - **Ability.** Intelligence  
 - **Weight.** 5 lb.  
 - **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
-- **Craft.** [Glass Bottle](glass-Bottle.md), [Magnifying Glass](magnifying-Glass.md), [spyglass](spyglass.md), [Vial](Vial.md)  
+- **Craft.** [Glass Bottle](glass-Bottle.md), [Magnifying Glass](magnifying-Glass.md), [Spyglass](Spyglass.md), [Vial](Vial.md)  
 
 #### Jeweler's Tools (25 GP)
 
@@ -253,7 +253,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 - **Ability.** Dexterity  
 - **Weight.** 5 lb.  
 - **Utilize.** Add a design to a leather item (DC 10)  
-- **Craft.** [Sling](Sling.md), [Whip](Whip.md), [Hide Armor](hide-Armor.md), [Leather Armor](Leather-Armor.md), [Studded Leather Armor](Studded-Leather-Armor.md), [Backpack](Backpack.md), [Crossbow Bolt Case](crossbow-Bolt-Case.md), [Map or Scroll Case](map-or-Scroll-Case.md), [Parchment](parchment.md), [Pouch](Pouch.md), [Quiver](Quiver.md), [Waterskin](Waterskin.md)  
+- **Craft.** [Sling](Sling.md), [Whip](Whip.md), [Hide Armor](hide-Armor.md), [Leather Armor](Leather-Armor.md), [Studded Leather Armor](Studded-Leather-Armor.md), [Backpack](Backpack.md), [Crossbow Bolt Case](crossbow-Bolt-Case.md), [Map or Scroll Case](Map-or-Scroll-Case.md), [Parchment](Parchment.md), [Pouch](Pouch.md), [Quiver](Quiver.md), [Waterskin](Waterskin.md)  
 
 #### Mason's Tools (10 GP)
 
@@ -295,14 +295,14 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 - **Ability.** Dexterity  
 - **Weight.** 5 lb.  
 - **Utilize.** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)  
-- **Craft.** [Padded Armor](padded-Armor.md), [Basket](Basket.md), [Bedroll](bedroll.md), [Blanket](Blanket.md), [Fine Clothes](fine-Clothes.md), [Net](Net.md), [Robe](robe.md), [Rope](rope.md), [Sack](sack.md), [string](string.md), [Tent](Tent.md), [Traveler's Clothes](Travelers-Clothes.md)  
+- **Craft.** [Padded Armor](padded-Armor.md), [Basket](Basket.md), [Bedroll](Bedroll.md), [Blanket](Blanket.md), [Fine Clothes](fine-Clothes.md), [Net](Net.md), [Robe](robe.md), [Rope](Rope.md), [Sack](sack.md), [String](String.md), [Tent](Tent.md), [Traveler's Clothes](Travelers-Clothes.md)  
 
 #### Woodcarver's Tools (1 GP)
 
 - **Ability.** Dexterity  
 - **Weight.** 5 lb.  
 - **Utilize.** Carve a pattern in wood (DC 10)  
-- **Craft.** [Club](Club.md), [Greatclub](Greatclub.md), [Quarterstaff](Quarterstaff.md), Ranged weapons (except Pistol, Musket, and Sling), [Arcane Focus](Arcane-Focus.md), [Arrows](Arrows-20.md), [Bolts](Bolts-20.md), [Druidic Focus](Druidic-Focus.md), [Ink Pen](ink-Pen.md), [Needles](needles-50.md)  
+- **Craft.** [Club](Club.md), [Greatclub](Greatclub.md), [Quarterstaff](Quarterstaff.md), Ranged weapons (except Pistol, Musket, and Sling), [Arcane Focus](Arcane-Focus.md), [Arrows](Arrows-20.md), [Bolts](Bolts-20.md), [Druidic Focus](Druidic-Focus.md), [Ink Pen](Ink-Pen.md), [Needles](needles-50.md)  
 
 ### Other Tools
 
@@ -439,7 +439,7 @@ A Bucket holds up to half a cubic foot of contents.
 
 ### Burglar's Pack (16 GP)
 
-A Burglar's Pack contains the following items: [Backpack](Backpack.md), [Ball Bearings](Ball-Bearings.md), [Bell](Bell.md), 10 [Candle](candle.md), [Crowbar](Crowbar.md), [Hooded Lantern](Hooded-Lantern.md), 7 flasks of [Oil](Oil.md), 5 days of [Rations](Rations.md), [Rope](rope.md), [Tinderbox](Tinderbox.md), and [Waterskin](Waterskin.md).
+A Burglar's Pack contains the following items: [Backpack](Backpack.md), [Ball Bearings](Ball-Bearings.md), [Bell](Bell.md), 10 [Candle](candle.md), [Crowbar](Crowbar.md), [Hooded Lantern](Hooded-Lantern.md), 7 flasks of [Oil](Oil.md), 5 days of [Rations](Rations.md), [Rope](Rope.md), [Tinderbox](Tinderbox.md), and [Waterskin](Waterskin.md).
 
 ### Caltrops (1 GP)
 
@@ -455,7 +455,7 @@ A Crossbow Bolt Case holds up to 20 [Bolts](Bolts-20.md).
 
 ### Case, Map or Scroll (1 GP)
 
-A Map or Scroll Case holds up to 10 sheets of [paper](paper.md) or 5 sheets of [Parchment](parchment.md).
+A Map or Scroll Case holds up to 10 sheets of [Paper](Paper.md) or 5 sheets of [Parchment](Parchment.md).
 
 ### Chain (5 GP)
 
@@ -491,7 +491,7 @@ Using a Crowbar gives you [[Advantage|Advantage]] on Strength checks where the C
 
 ### Diplomat's Pack (39 GP)
 
-A Diplomat's Pack contains the following items: [Chest](Chest.md), [Fine Clothes](fine-Clothes.md), [Ink](Ink.md), 5 [Ink Pens](ink-Pen.md), [Lamp](Lamp.md), 2 [Map or Scroll Cases](map-or-Scroll-Case.md), 4 flasks of [Oil](Oil.md), 5 sheets of [paper](paper.md), 5 sheets of [Parchment](parchment.md), [perfume](perfume.md), and [Tinderbox](Tinderbox.md).
+A Diplomat's Pack contains the following items: [Chest](Chest.md), [Fine Clothes](fine-Clothes.md), [Ink](Ink.md), 5 [Ink Pens](Ink-Pen.md), [Lamp](Lamp.md), 2 [Map or Scroll Cases](Map-or-Scroll-Case.md), 4 flasks of [Oil](Oil.md), 5 sheets of [Paper](Paper.md), 5 sheets of [Parchment](Parchment.md), [Perfume](Perfume.md), and [Tinderbox](Tinderbox.md).
 
 ### Druidic Focus (Varies)
 
@@ -501,15 +501,15 @@ A Druidic Focus takes one of the forms in the Druidic Focuses table and is carve
 
 ### Dungeoneer's Pack (12 GP)
 
-A Dungeoneer's Pack contains the following items: [Backpack](Backpack.md), [Caltrops](Caltrops.md), [Crowbar](Crowbar.md), 2 flasks of [Oil](Oil.md), 10 days of [Rations](Rations.md), [Rope](rope.md), [Tinderbox](Tinderbox.md), 10 [Torch](Torch.md), and [Waterskin](Waterskin.md).
+A Dungeoneer's Pack contains the following items: [Backpack](Backpack.md), [Caltrops](Caltrops.md), [Crowbar](Crowbar.md), 2 flasks of [Oil](Oil.md), 10 days of [Rations](Rations.md), [Rope](Rope.md), [Tinderbox](Tinderbox.md), 10 [Torch](Torch.md), and [Waterskin](Waterskin.md).
 
 ### Entertainer's Pack (40 GP)
 
-An Entertainer's Pack contains the following items: [Backpack](Backpack.md), [Bedroll](bedroll.md), [Bell](Bell.md), [Bullseye Lantern](bullseye-Lantern.md), 3 [Costume](Costume.md), [Mirror](Mirror.md), 8 flasks of [Oil](Oil.md), 9 days of [Rations](Rations.md), [Tinderbox](Tinderbox.md), and [Waterskin](Waterskin.md).
+An Entertainer's Pack contains the following items: [Backpack](Backpack.md), [Bedroll](Bedroll.md), [Bell](Bell.md), [Bullseye Lantern](bullseye-Lantern.md), 3 [Costume](Costume.md), [Mirror](Mirror.md), 8 flasks of [Oil](Oil.md), 9 days of [Rations](Rations.md), [Tinderbox](Tinderbox.md), and [Waterskin](Waterskin.md).
 
 ### Explorer's Pack (10 GP)
 
-An Explorer's Pack contains the following items: [Backpack](Backpack.md), [Bedroll](bedroll.md), 2 flasks of [Oil](Oil.md), 10 days of [Rations](Rations.md), [Rope](rope.md), [Tinderbox](Tinderbox.md), 10 [Torch](Torch.md), and [Waterskin](Waterskin.md).
+An Explorer's Pack contains the following items: [Backpack](Backpack.md), [Bedroll](Bedroll.md), 2 flasks of [Oil](Oil.md), 10 days of [Rations](Rations.md), [Rope](Rope.md), [Tinderbox](Tinderbox.md), 10 [Torch](Torch.md), and [Waterskin](Waterskin.md).
 
 ### Flask (2 CP)
 
@@ -517,7 +517,7 @@ A Flask holds up to 1 pint.
 
 ### Grappling Hook (2 GP)
 
-As a [Utilize](Utilize.md) action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity ([Acrobatics](Acrobatics.md)) check. If you tied a [Rope](rope.md) to the hook, you can then climb it.
+As a [Utilize](Utilize.md) action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity ([Acrobatics](Acrobatics.md)) check. If you tied a [Rope](Rope.md) to the hook, you can then climb it.
 
 ### Healer's Kit (5 GP)
 
@@ -677,7 +677,7 @@ A Sack holds up to 30 pounds within 1 cubic foot.
 
 ### Scholar's Pack (40 GP)
 
-A Scholar's Pack contains the following items: [Backpack](Backpack.md), [Book](Book.md), [Ink](Ink.md), [Ink Pen](ink-Pen.md), [Lamp](Lamp.md), 10 flasks of [Oil](Oil.md), 10 sheets of [Parchment](parchment.md), and [Tinderbox](Tinderbox.md).
+A Scholar's Pack contains the following items: [Backpack](Backpack.md), [Book](Book.md), [Ink](Ink.md), [Ink Pen](Ink-Pen.md), [Lamp](Lamp.md), 10 flasks of [Oil](Oil.md), 10 sheets of [Parchment](Parchment.md), and [Tinderbox](Tinderbox.md).
 
 ### Shovel (2 GP)
 
@@ -695,7 +695,7 @@ If the spell requires a saving throw or an attack roll, the spell save DC is 13,
 
 ### Spikes, Iron (1 GP)
 
-Iron Spikes come in bundles of ten. As a [Utilize](Utilize.md) action, you can use a blunt object, such as a [Light Hammer](light-hammer.md), to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [Rope](rope.md) or [Chain](Chain.md) to the Spike.
+Iron Spikes come in bundles of ten. As a [Utilize](Utilize.md) action, you can use a blunt object, such as a [Light Hammer](light-hammer.md), to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [Rope](Rope.md) or [Chain](Chain.md) to the Spike.
 
 ### Spyglass (1,000 GP)
 

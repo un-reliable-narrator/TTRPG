@@ -13,5 +13,8 @@ cssclasses:
 - [Gray Ooze](Gray-Ooze.md)
 - [Oblex Spawn](oblex-Spawn-mpmm.md)
 - [Ochre Jelly](Ochre-Jelly.md)
+- [Plasmoid Boss](Plasmoid-Boss-bam.md)
+- [Plasmoid Explorer](Plasmoid-Explorer-bam.md)
+- [Plasmoid Warrior](Plasmoid-Warrior-bam.md)
 - [Psychic Gray Ooze](Psychic-Gray-Ooze.md)
 - [Slithering Tracker](slithering-Tracker-mpmm.md)

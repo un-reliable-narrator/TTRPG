@@ -1,26 +1,55 @@
 ---
+cssclasses:
+  - json5e-monster
 tags:
+  - src/5e/idrotf
   - monster/cr/0
-  - monster/type/Beasts
+  - monster/size/medium
+  - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Seal
 ---
+# [Seal](Seal.md)
+*Source: Icewind Dale: Rime of the Frostmaiden p. 308*  
 
-[![Token Image: Seal](https://5e.tools/img/bestiary/tokens/IDRotF/Seal.webp)](https://5e.tools/img/bestiary/tokens/IDRotF/Seal.webp)
+![](https://5e.tools/img/bestiary/IDRotF/Seal.webp)
 
-||   |   |   |   |   |
-|---|---|---|---|---|---|
-|# Seal<br><br>[IDRotF](https://5e.tools/adventure.html#IDRotF,page:308 "Icewind Dale: Rime of the Frostmaiden")[p308](https://5e.tools/adventure.html#IDRotF,page:308 "Page 308")|   |   |   |   |   |
-||   |   |   |   |   |
-|_Medium Beast, Unaligned_|   |   |   |   |   |
-|**AC** 11<br><br>**Initiative** +1 (11)|   |   |   |   |   |
-|**HP** 9 (2d8)|   |   |   |   |   |
-|**Speed** 20 ft., Swim 40 ft.|   |   |   |   |   |
-|\|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|<br>\|mod\|save\|mod\|save\|mod\|save\|<br>\|Str\|10\|+0\|+0\|Dex\|12\|+1\|+1\|Con\|11\|+0\|+0\|<br>\|Int\|3\|-4\|-4\|Wis\|12\|+1\|+1\|Cha\|5\|-3\|-3\||   |   |   |   |   |
-|**Senses** Darkvision 60 ft., Passive Perception 11|   |   |   |   |   |
-|**Languages** —|   |   |   |   |   |
-|**CR** 0 (XP 10; PB +2)|   |   |   |   |   |
-|### Traits|   |   |   |   |   |
-|Hold Breath. The seal can hold its breath for 15 minutes.<br><br>Keen Smell. The seal has advantage on Wisdom (Perception) checks that rely on smell.|   |   |   |   |   |
-|### Actions|   |   |   |   |   |
-|Bite. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.|   |   |   |   |   |
-||   |   |   |   |   |
-|**Source:** _IDRotF_, page 308|   |   |   |   |   |
+The seals native to the Sea of Moving Ice often beach themselves on ice floes and rocky shores. They are acclimated to the cold weather and feed primarily on small fish, squid, and clams. Seal pups have yellowish-white fur, which turns silvery gray as they enter adulthood.
+
+```statblock
+"name": "Seal (IDRotF)"
+"size": "Medium"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "9"
+"hit_dice": "2d8"
+"modifier": !!int "1"
+"stats":
+  - !!int "10"
+  - !!int "12"
+  - !!int "11"
+  - !!int "3"
+  - !!int "12"
+  - !!int "5"
+"speed": "20 ft., swim 40 ft."
+"senses": "[Darkvision](senses.md#Darkvision) 60 ft., passive Perception 11"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The seal can hold its breath for 15 minutes."
+    "name": "Hold Breath"
+  - "desc": "The seal has advantage on Wisdom (Perception) checks that rely on\
+      \ smell."
+    "name": "Keen Smell"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:*\
+      \ 1 piercing damage."
+    "name": "Bite"
+"source":
+  - "IDRotF"
+"image": "bestiary/tokens/IDRotF/Seal.webp"
+```
+^statblock

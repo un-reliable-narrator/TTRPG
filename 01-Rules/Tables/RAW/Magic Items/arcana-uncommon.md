@@ -55,7 +55,7 @@ aliases:
 | 48–49 | [Potion of Animal Friendship](potion-of-Animal-friendship.md) |
 | 50–51 | [Potion of Fire Breath](potion-of-fire-Breath.md) |
 | 52–53 | [Potion of Giant Strength (hill)](potion-of-hill-giant Strength.md) |
-| 54–55 | [Potion of Growth](potion-of-Growth.md) |
+| 54–55 | [Potion of Growth](Potion-of-Growth.md) |
 | 56–57 | [Potion of Poison](potion-of-Poison.md) |
 | 58–59 | [Potion of Resistance](potion-of-Resistance.md) |
 | 60–61 | [Potion of Water Breathing](potion-of-Water-Breathing.md) |

@@ -51,10 +51,10 @@ tags:
 - **Saving Throw Proficiencies**: Intelligence, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [Animal Handling](Animal%20Handling.md), [[Arcana]], [[Insight]], [Medicine](Medicine.md), [[Nature]], [[Perception]], [Religion](Religion.md), or [Survival](Survival.md)
 - **Weapon Proficiencies**: Simple weapons
-- **Tool Proficiencies**: [Herbalism Kit](herbalism-kit.md)
+- **Tool Proficiencies**: [Herbalism Kit](Herbalism-Kit.md)
 - **Armor Training**: [Light armor](item-types.md#Light%20Armor) and [Shields](01-Rules/Spells/Core/Level%201/Shield.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Leather-Armor.md), [Shield](01-Rules/Spells/Core/Level%201/Shield.md), [Sickle](Sickle.md), [Druidic Focus (Quarterstaff)](Druidic-Focus.md), [Explorer's Pack](explorers-Pack.md), [Herbalism kit](herbalism-kit.md), 9 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Leather-Armor.md), [Shield](01-Rules/Spells/Core/Level%201/Shield.md), [Sickle](Sickle.md), [Druidic Focus (Quarterstaff)](Druidic-Focus.md), [Explorer's Pack](explorers-Pack.md), [Herbalism kit](Herbalism-Kit.md), 9 GP; or (B) 50 GP
 
 ## Multiclassing Druid
 

@@ -54,7 +54,7 @@ cssclasses:
 - [[Ranger|Ranger]]
 - [Rogue: Arcane Trickster](rogue-arcane-trickster.md)
 - [Rogue: Assassin](Rogue-Assassin.md)
-- [Rogue: Soulknife](rogue-soulknife.md)
+- [Rogue: Soulknife](Rogue-Soulknife.md)
 - [Rogue: Thief](rogue-thief.md)
 - [[Rogue|Rogue]]
 - [Sorcerer: Aberrant Sorcery](sorcerer-aberrant-sorcery.md)

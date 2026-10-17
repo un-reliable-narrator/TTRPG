@@ -18,7 +18,7 @@ aliases:
 | 01–02 | [Bead of Nourishment](bead-of-Nourishment.md) |
 | 03–04 | [Bead of Refreshment](bead-of-Refreshment.md) |
 | 05–07 | [Candle of the Deep](candle-of-the-deep.md) |
-| 08–10 | [Cloak of Billowing](cloak-of-Billowing.md) |
+| 08–10 | [Cloak of Billowing](Cloak-of-Billowing.md) |
 | 11–13 | [Cloak of Many Fashions](cloak-of-many-fashions.md) |
 | 14–15 | [Clothes of Mending](clothes-of-mending.md) |
 | 16–17 | [Dark Shard Amulet](Dark-Shard-Amulet.md) |
@@ -97,7 +97,7 @@ aliases:
 | 48–49 | [Potion of Animal Friendship](potion-of-Animal-friendship.md) |
 | 50–51 | [Potion of Fire Breath](potion-of-fire-Breath.md) |
 | 52–53 | [Potion of Giant Strength (hill)](potion-of-hill-giant Strength.md) |
-| 54–55 | [Potion of Growth](potion-of-Growth.md) |
+| 54–55 | [Potion of Growth](Potion-of-Growth.md) |
 | 56–57 | [Potion of Poison](potion-of-Poison.md) |
 | 58–59 | [Potion of Resistance](potion-of-Resistance.md) |
 | 60–61 | [Potion of Water Breathing](potion-of-Water-Breathing.md) |

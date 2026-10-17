@@ -1,22 +1,58 @@
 ---
+cssclasses:
+  - json5e-monster
 tags:
+  - src/5e/toa
   - monster/cr/0
-  - monster/type/Beasts
---- 
-|---|---|---|---|---|---|
-|# Flying Monkey<br><br>[ToA](https://5e.tools/adventure.html#ToA,page:220 "Tomb of Annihilation")[p220](https://5e.tools/adventure.html#ToA,page:220 "Page 220")|   |   |   |   |   |
-||   |   |   |   |   |
-|_Small Beast, Unaligned_|   |   |   |   |   |
-|**AC** 12<br><br>**Initiative** +2 (12)|   |   |   |   |   |
-|**HP** 3 (1d6)|   |   |   |   |   |
-|**Speed** 30 ft., Climb 20 ft., Fly 30 ft.|   |   |   |   |   |
-|\|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|<br>\|mod\|save\|mod\|save\|mod\|save\|<br>\|Str\|8\|-1\|-1\|Dex\|14\|+2\|+2\|Con\|11\|+0\|+0\|<br>\|Int\|5\|-3\|-3\|Wis\|12\|+1\|+1\|Cha\|6\|-2\|-2\||   |   |   |   |   |
-|**Senses** Passive Perception 11|   |   |   |   |   |
-|**Languages** —|   |   |   |   |   |
-|**CR** 0 (XP 10; PB +2)|   |   |   |   |   |
-|### Traits|   |   |   |   |   |
-|Familiar. With the DM's permission, the [find familiar](https://5e.tools/spells.html#find%20familiar_phb) spell can summon a flying monkey.<br><br>Pack Tactics. The flying monkey has advantage on an attack roll against a creature if at least one of the monkey's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).|   |   |   |   |   |
-|### Actions|   |   |   |   |   |
-|Bite. _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target _Hit:_ 1 (1d4 - 1) piercing damage.|   |   |   |   |   |
-||   |   |   |   |   |
-|**Source:** _ToA_, page 220|   |   |   |   |   |
+  - monster/size/small
+  - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Flying Monkey
+---
+# [Flying Monkey](Flying%20Monkey.md)
+*Source: Tomb of Annihilation p. 220*  
+
+![](https://5e.tools/img/bestiary/ToA/Flying%20Monkey.webp)
+
+Flying monkeys are slightly more clever and curious than common monkeys, and they can be domesticated and taught to obey simple commands. They come in many colors and varieties, with feathered wings that have a span of about 5 feet. With the DM's permission, the [find familiar](Find-Familiar.md) spell can summon a flying monkey.
+
+```statblock
+"name": "Flying Monkey (ToA)"
+"size": "Small"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "3"
+"hit_dice": "1d6"
+"modifier": !!int "2"
+"stats":
+  - !!int "8"
+  - !!int "14"
+  - !!int "11"
+  - !!int "5"
+  - !!int "12"
+  - !!int "6"
+"speed": "30 ft., climb 20 ft., fly 30 ft."
+"senses": "passive Perception 11"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The flying monkey has advantage on an attack roll against a\
+      \ creature if at least one of the monkey's allies is within 5 feet of the\
+      \ creature and the ally isn't\
+      \ [incapacitated](conditions.md#Incapacitated)."
+    "name": "Pack Tactics"
+  - "desc": "With the DM's permission, the [find familiar](Find-Familiar.md)\
+      \ spell can summon a flying monkey."
+    "name": "Familiar"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target *Hit:* 1\
+      \ (1d4 - 1) piercing damage."
+    "name": "Bite"
+"source":
+  - "ToA"
+"image": "bestiary/tokens/ToA/Flying Monkey.webp"
+```
+^statblock

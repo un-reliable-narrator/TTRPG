@@ -47,7 +47,7 @@ aliases:
 | 62–63 | [Oil of Slipperiness](oil-of-Slipperiness.md) |
 | 64–65 | [Pipes of Haunting](Pipes-of-Haunting.md) |
 | 66–67 | [Pipes of the Sewers](pipes-of-the-Sewers.md) |
-| 68–71 | [Potion of Growth](potion-of-Growth.md) |
+| 68–71 | [Potion of Growth](Potion-of-Growth.md) |
 | 72–80 | [Potion of Healing (greater)](potion-of-Greater-healing.md) |
 | 81–84 | [Potion of Water Breathing](potion-of-Water-Breathing.md) |
 | 85–86 | [Quaal's Feather Token](quaals-feather-token.md) ([anchor](quaals-feather-token-Anchor.md), [fan](quaals-feather-token-fan.md), or [tree](quaals-feather-token-tree.md)) |

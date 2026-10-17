@@ -783,7 +783,7 @@ The Free City of Greyhawk is ruled by a council called the Directing Oligarchy, 
 
 ##### City Watch
 
-The City Watch is a standing garrison of some eight hundred [Guards](01-Rules/Statblocks/Humanoids/Guard.md) and [Veteran Warriors](Warrior-Veteran.md). Bolstering these defenders are [Mages](Mage.md) from the city's Guild of Wizardry, as well as [Priests](Priest.md) from local temples.
+The City Watch is a standing garrison of some eight hundred [Guards](Guard-mm25.md) and [Veteran Warriors](Warrior-Veteran.md). Bolstering these defenders are [Mages](Mage.md) from the city's Guild of Wizardry, as well as [Priests](Priest.md) from local temples.
 
 The captain-general and constable of the City Watch are stationed at the Grand Citadel (see ""City Locations"").
 
@@ -791,7 +791,7 @@ The captain-general and constable of the City Watch are stationed at the Grand C
 
 A 30-foot High stone wall winds like a snake around the city. Two other walls, identical in height to the outer wall, separate the city into its three great sections. Access to the wall tops can be gained via lifts in each gatehouse. In addition, along the inside base of the outer wall are secret compartments at 300-foot intervals, each one containing a 30-foot-tall wooden ladder. All members of the City Watch know the locations of these secret ladders, which, in an emergency, can be pulled out and used by city defenders to quickly reach the parapets.
 
-The walls are patrolled regularly. During daytime, the typical patrol is one sentry (a [Guard](01-Rules/Statblocks/Humanoids/Guard.md)) placed every 300 feet along the top of the wall. At night, the guard patrol is quadrupled, with two sentries posted together every 150 feet along the wall. Also at night, torches light the wall top at 150-foot intervals between the guards so each sentry station is 75 feet from a torch in each direction.
+The walls are patrolled regularly. During daytime, the typical patrol is one sentry (a [Guard-mm25](Guard-mm25.md)) placed every 300 feet along the top of the wall. At night, the guard patrol is quadrupled, with two sentries posted together every 150 feet along the wall. Also at night, torches light the wall top at 150-foot intervals between the guards so each sentry station is 75 feet from a torch in each direction.
 
 ##### City Gates
 
@@ -882,7 +882,7 @@ The city's constable—who serves as second-in-command to the captain-general, m
 
 ###### Character Backgrounds
 
-Adventurers with the [Criminal](Criminal.md) or [Guard](01-Rules/Statblocks/Humanoids/Guard.md) background might have a connection to the Grand Citadel involving a past run-in with the law or past service on the watch.
+Adventurers with the [Criminal](Criminal.md) or [Guard-mm25](Guard-mm25.md) background might have a connection to the Grand Citadel involving a past run-in with the law or past service on the watch.
 
 ###### Reasons to Visit
 

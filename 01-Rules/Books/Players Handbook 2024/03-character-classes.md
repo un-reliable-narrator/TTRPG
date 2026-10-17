@@ -99,7 +99,7 @@ Launch deadly Sneak Attacks while avoiding harm through stealth. Then embody the
 
 - [Arcane Trickster](rogue-arcane-trickster.md) to enhance stealth with spells.  
 - [Assassin](Rogue-Assassin.md) to deliver ambushes and poison.  
-- [Soulknife](rogue-soulknife.md) to strike foes with psi blades.  
+- [Soulknife](Rogue-Soulknife.md) to strike foes with psi blades.  
 - [Thief](rogue-thief.md) to master infiltration and treasure hunting.  
 
 

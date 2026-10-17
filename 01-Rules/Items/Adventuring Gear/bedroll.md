@@ -6,8 +6,6 @@ tags:
   - src/5e/xphb
   - item/gear/
   - item/rarity/none
-aliases:
-  - Bedroll
 ---
 # Bedroll
 *Adventuring gear*  

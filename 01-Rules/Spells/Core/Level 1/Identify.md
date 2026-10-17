@@ -6,7 +6,7 @@ spell_level: "1"
 ---
 #### Identify
 
-*Level 1 Divination (Bard, Wizard)*
+*Level 1 Divination (Artificer, Bard, Wizard)*
 
 **Casting Time:** 1 minute or Ritual
 **Range:** Touch

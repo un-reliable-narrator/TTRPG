@@ -28,7 +28,7 @@ When you issue the "Harvest" order to this facility, you commission the facility
 
 | Garden Type | Description | Harvest |
 |-------------|-------------|---------|
-| Decorative | Aesthetically pleasing garden full of flowers and topiaries. | Ten exquisite floral bouquets (worth 5 GP each), ten vials of [perfume](perfume.md), or ten [Candle](candle.md) |
+| Decorative | Aesthetically pleasing garden full of flowers and topiaries. | Ten exquisite floral bouquets (worth 5 GP each), ten vials of [Perfume](Perfume.md), or ten [Candle](candle.md) |
 | Food | Garden of delicious mushrooms or vegetables | 100 days worth of [Rations](Rations.md) |
 | Herb | Garden of rare herbs, some of which have medicinal uses | Herbs that are used to create either ten [Healer's Kits](Healers-Kit.md) or one [Potion of Healing](potion-of-healing.md) |
 | Poison | Garden stocked with plants and fungi from which poisons and antitoxin can be extracted | Plants that are used to create either two vials of [Antitoxin](Antitoxin.md) or one vial of [Basic Poison](Basic-Poison.md) |

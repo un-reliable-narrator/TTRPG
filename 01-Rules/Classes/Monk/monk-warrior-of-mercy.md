@@ -62,7 +62,7 @@ As a [Magic](Magic.md) action, you can expend 1 Focus Point to touch a creature 
 
 ### Implements of Mercy (Level 3)
 
-You gain proficiency in the [Insight](Insight.md)and [Medicine](Medicine.md) skills and proficiency with the [Herbalism Kit](herbalism-kit.md).
+You gain proficiency in the [Insight](Insight.md)and [Medicine](Medicine.md) skills and proficiency with the [Herbalism Kit](Herbalism-Kit.md).
 
 ### Physician's Touch (Level 6)
 

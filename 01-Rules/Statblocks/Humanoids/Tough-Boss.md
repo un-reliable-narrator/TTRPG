@@ -14,8 +14,8 @@ aliases:
 ---
 # [Tough Boss](Tough-Boss.md)
 *Source: Monster Manual (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-
-![](https://www.dndbeyond.com/avatars/thumbnails/47158/735/1000/1000/638742827271571791.jpeg)
+> [!blank-container|float-left]
+> > ![|100](https://www.dndbeyond.com/avatars/thumbnails/47158/735/1000/1000/638742827271571791.jpeg)
 
 Tough bosses leverage their street smarts, brawling prowess, and reputation to compel others to follow their demands.
 

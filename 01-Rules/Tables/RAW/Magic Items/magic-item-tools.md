@@ -16,7 +16,7 @@ aliases:
 | Item Category | Required Tool |
 |---------------|---------------|
 | Armor | [Leatherworker's Tools](leatherworkers-tools.md), [Smith's Tools](Smiths-Tools.md), or [Weaver's Tools](weavers-tools.md) depending on the kind of armor as noted in the tools' descriptions |
-| Potion | [Alchemist's Supplies](Alchemists-Supplies.md) or [Herbalism Kit](herbalism-kit.md) |
+| Potion | [Alchemist's Supplies](Alchemists-Supplies.md) or [Herbalism Kit](Herbalism-Kit.md) |
 | Ring | [Jeweler's Tools](jewelers-tools.md) |
 | Rod | [Woodcarver's Tools](woodcarvers-tools.md) |
 | Scroll | [Calligrapher's Supplies](Calligrapher's%20Supplies.md) |

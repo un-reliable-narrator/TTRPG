@@ -22,11 +22,11 @@ You gain the following benefits.
 | Artisan's Tools                                  | Crafted Gear                                                                                                                                                        |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Carpenter's Tools](carpenters-tools.md)         | [Ladder](Ladder.md), [Torch](Torch.md)                                                                                                                                    |
-| [Leatherworker's Tools](leatherworkers-tools.md) | [Crossbow Bolt Case](crossbow-Bolt-Case.md), [Map or Scroll Case](map-or-Scroll-Case.md), [Pouch](Pouch.md)                                                            |
+| [Leatherworker's Tools](leatherworkers-tools.md) | [Crossbow Bolt Case](crossbow-Bolt-Case.md), [Map or Scroll Case](Map-or-Scroll-Case.md), [Pouch](Pouch.md)                                                            |
 | [Mason's Tools](masons-tools.md)                 | [Block and Tackle](block-And-tackle.md)                                                                                                                             |
 | [Potter's Tools](potters-tools.md)               | [Jug](Jug.md), [Lamp](Lamp.md)                                                                                                                                            |
 | [Smith's Tools](Smiths-Tools.md)                 | [Ball Bearings](Ball-Bearings.md), [Bucket](Bucket.md), [Caltrops](Caltrops.md), [Grappling Hook](grappling-hook.md), [Iron Pot](iron-Pot.md)                             |
 | [Tinker's Tools](Tinkers-Tools.md)               | [Bell](Bell.md), [Shovel](Shovel.md), [Tinderbox](Tinderbox.md)                                    |
-| [Weaver's Tools](weavers-tools.md)               | [Basket](Basket.md), [Rope](rope.md), [Net](Net.md), [Tent](Tent.md) |
+| [Weaver's Tools](weavers-tools.md)               | [Basket](Basket.md), [Rope](Rope.md), [Net](Net.md), [Tent](Tent.md) |
 | [Woodcarver's Tools](woodcarvers-tools.md)       | [Club](Club.md), [Greatclub](Greatclub.md), [Quarterstaff](Quarterstaff.md)                              |
 ^fast-crafting

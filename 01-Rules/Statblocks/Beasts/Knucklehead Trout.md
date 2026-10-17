@@ -1,26 +1,57 @@
 ---
+cssclasses:
+  - json5e-monster
 tags:
+  - src/5e/idrotf
   - monster/cr/0
-  - monster/type/Beasts
---- 
+  - monster/size/small
+  - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Knucklehead Trout
+---
+# [Knucklehead Trout](Knucklehead%20Trout.md)
+*Source: Icewind Dale: Rime of the Frostmaiden p. 295*  
 
-[![Token Image: Knucklehead Trout](https://5e.tools/img/bestiary/tokens/IDRotF/Knucklehead%20Trout.webp)](https://5e.tools/img/bestiary/tokens/IDRotF/Knucklehead%20Trout.webp)
+![](https://5e.tools/img/bestiary/IDRotF/Knucklehead%20Trout.webp)
 
-||   |   |   |   |   |
-|---|---|---|---|---|---|
-|# Knucklehead Trout<br><br>[IDRotF](https://5e.tools/adventure.html#IDRotF,page:295 "Icewind Dale: Rime of the Frostmaiden")[p295](https://5e.tools/adventure.html#IDRotF,page:295 "Page 295")|   |   |   |   |   |
-||   |   |   |   |   |
-|_Small Beast, Unaligned_|   |   |   |   |   |
-|**AC** 12<br><br>**Initiative** +2 (12)|   |   |   |   |   |
-|**HP** 7 (2d6)|   |   |   |   |   |
-|**Speed** 0 ft., Swim 30 ft.|   |   |   |   |   |
-|\|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\|<br>\|mod\|save\|mod\|save\|mod\|save\|<br>\|Str\|14\|+2\|+2\|Dex\|14\|+2\|+2\|Con\|11\|+0\|+0\|<br>\|Int\|1\|-5\|-5\|Wis\|6\|-2\|-2\|Cha\|1\|-5\|-5\||   |   |   |   |   |
-|**Senses** Darkvision 60 ft., Passive Perception 8|   |   |   |   |   |
-|**Languages** —|   |   |   |   |   |
-|**CR** 0 (XP 10; PB +2)|   |   |   |   |   |
-|### Traits|   |   |   |   |   |
-|Water Breathing. The trout can breathe only underwater.|   |   |   |   |   |
-|### Actions|   |   |   |   |   |
-|Bite. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.<br><br>Tail. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.|   |   |   |   |   |
-||   |   |   |   |   |
-|**Source:** _IDRotF_, page 295|   |   |   |   |   |
+The tasty and tenacious knucklehead trout can't easily be caught in nets. Moreover, using a line to reel in such a strong fish is a significant undertaking. Incautious fishers who get pulled into freezing water can quickly die, particularly if they're weighed down by heavy furs and cloaks.
+
+A male knucklehead trout can weigh 70 pounds or more. The females tend to be smaller, weighing about 50 pounds. Both are prized for their ivory-like bones.
+
+```statblock
+"name": "Knucklehead Trout (IDRotF)"
+"size": "Small"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "7"
+"hit_dice": "2d6"
+"modifier": !!int "2"
+"stats":
+  - !!int "14"
+  - !!int "14"
+  - !!int "11"
+  - !!int "1"
+  - !!int "6"
+  - !!int "1"
+"speed": "0 ft., swim 30 ft."
+"senses": "[Darkvision](senses.md#Darkvision) 60 ft., passive Perception 8"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The trout can breathe only underwater."
+    "name": "Water Breathing"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:*\
+      \ 4 (1d4 + 2) piercing damage."
+    "name": "Bite"
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:*\
+      \ 4 (1d4 + 2) bludgeoning damage."
+    "name": "Tail"
+"source":
+  - "IDRotF"
+"image": "bestiary/tokens/IDRotF/Knucklehead Trout.webp"
+```
+^statblock

@@ -1,27 +1,92 @@
-# Eldritch Eddy
-_Large Construct, Chaotic Neutral_
+---
+cssclasses:
+  - json5e-monster
+tags:
+  - src/5e/nf
+  - monster/cr/6
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/construct
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+  - Eldritch Eddy
+---
+# [Eldritch Eddy](Eldritch%20Eddy.md)
+*Source: Netheril's Fall p. ?*  
 
- **AC** 11
-**Initiative** +1 (11)
- **HP** 144 (17d10 + 51) 
- **Speed** 10 ft., Fly 40 ft. (hover)
- 
-\mod\save\mod\save\mod\save\<br>\Str\10\+0\+0\Dex\12\+1\+4\Con\16\+3\+3\<br>\Int\12\+1\+4\Wis\9\-1\-1\Cha\17\+3\+6\
- 
- **Resistances** Force
- **Immunities** Fire, Lightning; [Charmed](https://5e.tools/conditionsdiseases.html#charmed_phb), [Exhaustion](https://5e.tools/conditionsdiseases.html#exhaustion_phb), [Frightened](https://5e.tools/conditionsdiseases.html#frightened_phb), [Paralyzed](https://5e.tools/conditionsdiseases.html#paralyzed_phb), [Petrified](https://5e.tools/conditionsdiseases.html#petrified_phb), [Poisoned](https://5e.tools/conditionsdiseases.html#poisoned_phb)  
- **Senses** Blindsight 60 ft., Passive Perception 9 
- **Languages** Understands Common plus one other language but can't speak
- **CR** 6 (XP 2,300; PB +3) 
- 
-### Traits  
-Magic Resistance. The eddy has [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on saving throws against spells and other magical effects. 
+![](https://5e.tools/img/bestiary/NF/Eldritch%20Eddy.webp)
 
-### Actions 
- ***Multiattack***. The eddy makes two attacks, using Searing Swipe or Arcane Bolt in any combination.<br><br>Searing Swipe. _Melee Attack Roll:_ +6, reach 10 ft. _Hit:_ 13 (3d6 + 3) Fire or Lightning damage (eddy's choice).<br><br>Arcane Bolt. _Ranged Attack Roll:_ +6, range 120 ft. _Hit:_ 14 (2d10 + 3) Force damage.
+When magical energy becomes dangerously unstable, it sometimes animates into an eldritch eddy: an uncontrolled whirlwind of Evocation magic that crackles with fire and lightning. Eldritch eddies typically arise where magic use is heavy and irresponsible, such as near a fanatical mage's sanctum, a workshop that churns out magic items, or a library where undertrained scribes work with Spell Scrolls. Eldritch eddies are common in ancient Netheril near the homes and workplaces of famous mages.
 
-### Reactions  
- Eldritch Overload. _Trigger:_ The eddy takes damage. _Response—_Strength Saving Throw:_ DC 14, each creature of the eddy's choice in a 5-foot [Emanation](https://5e.tools/variantrules.html#emanation%20%5barea%20of%20effect%5d_xphb) originating from the eddy. _Failure:_ 7 (2d6) Force damage, and the target has the [Prone](https://5e.tools/conditionsdiseases.html#prone_xphb) condition.
- 
- **Habitat:** [Urban](https://5e.tools/bestiary.html#blankhash,flstenvironment:urban=1,fbpe:true)
- **Source:** _NF_  
+Eldritch eddies rampage with one purpose: destroy as much in their paths as possible. Before eldritch eddies manifest, telltale signs signal their arrival. Roll on or choose a result from the Eldritch Eddy Manifestations table to inspire what happens right before an eldritch eddy arises.
+
+| 1d6 | Right Before an Eddy Manifests... |
+|---|---|
+| 1 | Brightly colored sparks fly through the air like fireworks. |
+| 2 | Spectral images of screaming mages or terrible beasts swirl in a whirlwind. |
+| 3 | Electricity flashes, flames ignite, and the air smells acrid. |
+| 4 | Purple smoke billows into a vortex. |
+| 5 | A geyser of multicolored light shoots from the ground toward the sky. |
+| 6 | The air shimmers, and unsettling laughter booms from all directions. |
+
+```statblock
+"name": "Eldritch Eddy (NF)"
+"size": "Large"
+"type": "construct"
+"alignment": "Chaotic Neutral"
+"ac": !!int "11"
+"hp": !!int "144"
+"hit_dice": "17d10 + 51"
+"modifier": !!int "1"
+"stats":
+  - !!int "10"
+  - !!int "12"
+  - !!int "16"
+  - !!int "12"
+  - !!int "9"
+  - !!int "17"
+"speed": "10 ft., fly 40 ft. (hover)"
+"saves":
+  - "dexterity": !!int "4"
+  - "intelligence": !!int "4"
+  - "charisma": !!int "6"
+"damage_resistances": "force"
+"damage_immunities": "fire, lightning"
+"condition_immunities": "[charmed](conditions.md#Charmed),\
+  \ [exhaustion](conditions.md#Exhaustion),\
+  \ [frightened](conditions.md#Frightened),\
+  \ [paralyzed](conditions.md#Paralyzed), [petrified](conditions.md#Petrified),\
+  \ [poisoned](conditions.md#Poisoned)"
+"senses": "[Blindsight](senses.md#Blindsight) 60 ft., passive Perception 9"
+"languages": "understands Common plus one other language but can't speak"
+"cr": "6"
+"traits":
+  - "desc": "The eddy has Advantage on saving throws against spells and other\
+      \ magical effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The eddy makes two attacks, using Searing Swipe or Arcane Bolt in\
+      \ any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 13 (3d6 + 3) Fire or\
+      \ Lightning damage (eddy's choice)."
+    "name": "Searing Swipe"
+  - "desc": "*Ranged Attack Roll:* +6, range 120 ft. *Hit:* 14 (2d10 + 3) Force\
+      \ damage."
+    "name": "Arcane Bolt"
+"reactions":
+  - "desc": "*Trigger:* The eddy takes damage. *Response:**Strength Saving\
+      \ Throw:* DC 14, each creature of the eddy's choice in a 5-foot Emanation\
+      \ originating from the eddy. *Failure:* 7 (2d6) Force damage, and the\
+      \ target has the [Prone](conditions.md#Prone) condition."
+    "name": "Eldritch Overload"
+"source":
+  - "NF"
+"image": "bestiary/tokens/NF/Eldritch Eddy.webp"
+```
+^statblock
+
+## Environment
+
+urban
